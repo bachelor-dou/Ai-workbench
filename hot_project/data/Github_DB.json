@@ -32091,21 +32091,6 @@
       "gh_desc": "Official code for \"Style Aligned Image Generation via Shared Attention\"",
       "id": 721171102
     },
-    "insistence/RuoYi-Vue3-FastAPI": {
-      "star": 1463,
-      "created_at": "2024-01-29T08:06:18Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "admin",
-        "element-plus",
-        "fastapi",
-        "ruoyi",
-        "vue3"
-      ],
-      "gh_desc": "基于Vue3+Element Plus+FastAPI开发的一个通用中后台管理框架（若依的FastAPI版本），支持代码生成。A general middle and backend management framework developed with Vue3 + Element Plus + FastAPI (FastAPI Edition of RuoYi), supporting code generation.",
-      "id": 749697840
-    },
     "hooklift/gowsdl": {
       "star": 1220,
       "created_at": "2013-12-21T03:39:31Z",
@@ -827106,11 +827091,6 @@
       "created_at": "2017-07-18T17:28:53Z",
       "id": 97625830
     },
-    "passwall/passwall-server": {
-      "star": 767,
-      "created_at": "2020-04-04T20:41:50Z",
-      "id": 253094830
-    },
     "angt/glorytun": {
       "star": 764,
       "created_at": "2015-10-20T14:51:54Z",
@@ -833108,11 +833088,6 @@
       "star": 693,
       "created_at": "2023-08-04T19:06:38Z",
       "id": 674782109
-    },
-    "JailbrokenAI/wallbreaker": {
-      "star": 695,
-      "created_at": "2026-06-26T16:20:47Z",
-      "id": 1281511009
     },
     "uqfoundation/multiprocess": {
       "star": 701,
@@ -858632,11 +858607,6 @@
       "created_at": "2025-02-26T20:23:56Z",
       "id": 939611454
     },
-    "Jman-Github/ReVanced-Patch-Bundles": {
-      "star": 610,
-      "created_at": "2024-04-26T20:10:12Z",
-      "id": 792505279
-    },
     "SmallChi/JT808": {
       "star": 611,
       "created_at": "2018-10-13T12:59:31Z",
@@ -863893,11 +863863,6 @@
       "star": 618,
       "created_at": "2025-09-03T00:07:43Z",
       "id": 1049409985
-    },
-    "lingbol088-spec/reverse-flow-skill": {
-      "star": 628,
-      "created_at": "2026-06-30T22:08:31Z",
-      "id": 1285512939
     },
     "Nomadcxx/opencode-cursor": {
       "star": 636,
@@ -869895,11 +869860,6 @@
       "star": 1141,
       "created_at": "2017-10-18T18:13:16Z",
       "id": 107445680
-    },
-    "nexus-xyz/nexus-cli": {
-      "star": 1138,
-      "created_at": "2024-08-08T23:42:12Z",
-      "id": 840078948
     },
     "seddonym/import-linter": {
       "star": 1114,
@@ -891418,11 +891378,6 @@
       "created_at": "2025-01-23T22:22:03Z",
       "id": 921407046
     },
-    "ybdt/post-hub": {
-      "star": 939,
-      "created_at": "2020-10-19T00:52:30Z",
-      "id": 305226673
-    },
     "windmaple/awesome-AutoML": {
       "star": 941,
       "created_at": "2018-11-05T06:04:40Z",
@@ -896258,11 +896213,6 @@
       "created_at": "2020-06-02T09:40:10Z",
       "id": 268760374
     },
-    "leibnizli/hummingbird": {
-      "star": 875,
-      "created_at": "2015-09-20T11:37:06Z",
-      "id": 42810792
-    },
     "puzige/CloudflareWarpSpeedTest": {
       "star": 857,
       "created_at": "2023-08-15T03:48:32Z",
@@ -900677,11 +900627,6 @@
       "star": 1196,
       "created_at": "2021-12-24T03:24:01Z",
       "id": 441354843
-    },
-    "awesome-reveal/react-awesome-reveal": {
-      "star": 1190,
-      "created_at": "2019-11-24T10:39:59Z",
-      "id": 223727851
     },
     "niudaii/zpscan": {
       "star": 1196,
@@ -1002560,11 +1002505,6 @@
       "created_at": "2013-04-19T17:08:14Z",
       "id": 9550346
     },
-    "emilycodestar/cmd-chat": {
-      "star": 554,
-      "created_at": "2022-07-02T02:12:11Z",
-      "id": 509635451
-    },
     "rubo77/rsync-homedir-excludes": {
       "star": 554,
       "created_at": "2015-08-30T08:38:08Z",
@@ -1050279,11 +1050219,6 @@
       "star": 745,
       "created_at": "2018-12-06T08:42:17Z",
       "id": 160645033
-    },
-    "4ier/neo": {
-      "star": 745,
-      "created_at": "2025-11-03T13:53:10Z",
-      "id": 1088816938
     },
     "bjarneo/Pytify": {
       "star": 745,
@@ -1142555,11 +1142490,6 @@
       "created_at": "2026-01-31T20:40:38Z",
       "id": 1146880583
     },
-    "aboul3ata/lazyweb-skill": {
-      "star": 430,
-      "created_at": "2026-03-26T16:58:36Z",
-      "id": 1192889632
-    },
     "Jaganpro/sf-skills": {
       "star": 423,
       "created_at": "2025-11-30T18:43:04Z",
@@ -1179257,11 +1179187,6 @@
       "created_at": "2022-10-18T11:15:17Z",
       "id": 553535906
     },
-    "shing-yu/7mao-novel-downloader": {
-      "star": 401,
-      "created_at": "2023-11-04T11:35:44Z",
-      "id": 714257871
-    },
     "CreativeTools/3DBenchy": {
       "star": 401,
       "created_at": "2015-05-04T09:47:09Z",
@@ -1179296,11 +1179221,6 @@
       "star": 401,
       "created_at": "2018-11-15T13:30:07Z",
       "id": 157716193
-    },
-    "olayemii/uberr-ui": {
-      "star": 401,
-      "created_at": "2020-02-07T07:24:40Z",
-      "id": 238865968
     },
     "sr2echa/Monotone-HWID-Spoofer": {
       "star": 401,
@@ -1212521,11 +1212441,6 @@
       "star": 401,
       "created_at": "2012-01-04T17:10:19Z",
       "id": 3103675
-    },
-    "sciter-sdk/pysciter": {
-      "star": 401,
-      "created_at": "2016-02-17T19:57:51Z",
-      "id": 51951031
     },
     "saifaustcse/nodejs-developer-roadmap": {
       "star": 401,
@@ -1247667,11 +1247582,6 @@
       "created_at": "2013-01-04T18:52:58Z",
       "id": 7445448
     },
-    "logangoins/Cable": {
-      "star": 402,
-      "created_at": "2024-08-10T19:47:08Z",
-      "id": 840823908
-    },
     "indrajithi/mgc-ai": {
       "star": 402,
       "created_at": "2017-05-04T06:38:07Z",
@@ -1252567,11 +1252477,6 @@
       "star": 405,
       "created_at": "2026-06-20T10:54:14Z",
       "id": 1275175186
-    },
-    "lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6": {
-      "star": 409,
-      "created_at": "2026-07-25T16:38:04Z",
-      "id": 1312142639
     },
     "Prism-Shadow/penguin-harness": {
       "star": 498,
@@ -1268176,11 +1268081,6 @@
       "desc": "项目定位与用途: SoL-Pi 是 NVlabs 发布的、面向 Pi 的独立开源扩展，用于在不修改原版 Pi 的前提下，为 agent harness 叠加效率机制。它源自自动研究循环的探索，核心定位是让长流程代理任务更省成本，同时尽量保留必要工作、验证过程和证据。\n\n解决的问题: README 指出，长时间运行的编码 agent 常出现重复模型轮次、上下文反复回放、工具结果过大、以及为少量关键信息阅读整段日志等问题，造成 token 和推理开销上升。SoL-Pi 试图在不提前结束任务、不跳过验证的情况下，减少这些冗余消耗。\n\n使用场景: 适合长流程编码、调试与自动验证场景，例如文件编辑后自动执行检查命令、处理大段工具输出、读取诊断日志、以及对已完成步骤做上下文压缩。主要面向使用 Pi 搭建 agent harness 的开发者或研究者；README 未提供更细分行业场景。\n\n技术架构与特性: SoL-Pi 通过 Pi 的公开扩展 API 组合四个可选机制：Action Fusion 将编辑/写入与后续验证合并；ObservationPack 为重复大文本结果提供稳定句柄和分页回取；Evidence-Preserving Reducer 将长日志压缩为可核验收据；Online Context Compact 让已完成步骤参与 Pi 原生压缩。所有机制默认关闭，且不打补丁。",
       "desc_updated_at": "2026-09-16"
     },
-    "fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide": {
-      "star": 408,
-      "created_at": "2026-07-21T02:16:49Z",
-      "id": 1307179412
-    },
     "mister-grimm96/swaystation": {
       "star": 785,
       "created_at": "2023-05-30T15:59:42Z",
@@ -1272430,11 +1272330,6 @@
       "created_at": "2020-09-06T09:16:02Z",
       "id": 293241878
     },
-    "yynxxxxx/gpt_sub_analysis": {
-      "star": 555,
-      "created_at": "2026-09-17T13:43:00Z",
-      "id": 1374503618
-    },
     "thruwire/foreman": {
       "star": 406,
       "created_at": "2026-09-17T11:46:13Z",
@@ -1275607,11 +1275502,6 @@
       "gh_desc": "Adaptive Test-time Learning and Autonomous Specialization",
       "id": 1147019563
     },
-    "momochoog/chatgpt-plus-daichong": {
-      "star": 402,
-      "created_at": "2026-06-16T04:32:04Z",
-      "id": 1270812624
-    },
     "supermemoryai/company-brain": {
       "star": 565,
       "created_at": "2026-09-25T22:48:14Z",
@@ -1276458,11 +1276348,6 @@
       "created_at": "2026-07-17T05:50:30Z",
       "id": 1303617434
     },
-    "TokenPLS/Hako": {
-      "star": 559,
-      "created_at": "2026-07-29T09:02:39Z",
-      "id": 1315918490
-    },
     "foursquare/twofishes": {
       "star": 434,
       "created_at": "2012-02-17T23:58:31Z",
@@ -1276605,11 +1276490,6 @@
       "star": 531,
       "created_at": "2015-05-06T17:55:33Z",
       "id": 35174286
-    },
-    "TokenPLS/Hako-Client": {
-      "star": 585,
-      "created_at": "2026-07-16T11:31:11Z",
-      "id": 1302702957
     },
     "Moonlight-Panel/Moonlight": {
       "star": 400,
@@ -1276856,11 +1276736,6 @@
       "star": 401,
       "created_at": "2025-04-28T09:57:24Z",
       "id": 974133612
-    },
-    "hokindeng/object-permanence": {
-      "star": 416,
-      "created_at": "2026-09-16T06:31:56Z",
-      "id": 1372622037
     },
     "andymai/gridfinity-layout-tool": {
       "star": 400,
@@ -1278603,11 +1278478,6 @@
       "gh_desc": "C++ open source 3D game engine",
       "id": 228222817
     },
-    "DSH-EAC/EAC-Desktop": {
-      "star": 559,
-      "created_at": "2026-08-14T16:29:54Z",
-      "id": 1334373503
-    },
     "rivet-dev/agents": {
       "star": 1506,
       "created_at": "2026-01-25T10:03:02Z",
@@ -1280028,11 +1279898,6 @@
       "gh_desc": "The \"nearly invisible\" way to server-render React applications",
       "id": 138501426
     },
-    "HytidelLegend/htd-ai-augmented-education": {
-      "star": 411,
-      "created_at": "2026-09-23T04:07:09Z",
-      "id": 1382720165
-    },
     "vxunderground/VXUG-Papers": {
       "star": 1412,
       "created_at": "2020-10-11T05:30:35Z",
@@ -1280761,11 +1280626,6 @@
       "star": 400,
       "created_at": "2018-04-02T15:53:55Z",
       "id": 127778084
-    },
-    "XIaodou0416/Beans-Music": {
-      "star": 400,
-      "created_at": "2026-08-24T12:54:01Z",
-      "id": 1344955800
     },
     "CalvinXu17/PUBG-Logitech": {
       "star": 400,
@@ -1281742,11 +1281602,6 @@
       "created_at": "2026-10-09T13:46:19Z",
       "id": 1411918293
     },
-    "frevib/io_uring-echo-server": {
-      "star": 400,
-      "created_at": "2020-01-10T18:26:57Z",
-      "id": 233107092
-    },
     "ekstranix/home-manager-option-search": {
       "star": 400,
       "created_at": "2022-01-04T22:27:08Z",
@@ -1281907,6 +1281762,431 @@
       ],
       "gh_desc": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
       "id": 7769432
+    },
+    "ForgetMeAI/FreeDeepseekAPI": {
+      "star": 402,
+      "created_at": "2026-06-06T15:13:57Z",
+      "id": 1261351600
+    },
+    "insistence/RuoYi-FastAPI": {
+      "star": 1463,
+      "created_at": "2024-01-29T08:06:18Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "admin",
+        "element-plus",
+        "fastapi",
+        "ruoyi",
+        "vue3"
+      ],
+      "gh_desc": "基于Vue3+Element Plus+FastAPI开发的一个通用中后台管理框架（若依的FastAPI版本），支持代码生成。A general middle and backend management framework developed with Vue3 + Element Plus + FastAPI (FastAPI Edition of RuoYi), supporting code generation.",
+      "id": 749697840
+    },
+    "howseen-ai/claude-motion-design": {
+      "star": 415,
+      "created_at": "2026-09-27T19:59:11Z",
+      "id": 1391356062
+    },
+    "haolpku/K12-KGraph": {
+      "star": 401,
+      "created_at": "2026-03-31T15:31:05Z",
+      "id": 1197445562
+    },
+    "SvenGDK/PS-Multi-Tools": {
+      "star": 400,
+      "created_at": "2023-05-08T15:38:00Z",
+      "id": 637874485
+    },
+    "sirioberati/Genjustsu-Open-Source-Workflow": {
+      "star": 511,
+      "created_at": "2026-10-06T23:18:18Z",
+      "id": 1408011967
+    },
+    "Ebony-Vinyl/EAC-Desktop": {
+      "star": 559,
+      "created_at": "2026-08-14T16:29:54Z",
+      "id": 1334373503
+    },
+    "leonyangdev/lc-studylab": {
+      "star": 400,
+      "created_at": "2025-11-05T10:01:46Z",
+      "id": 1090165309
+    },
+    "RongleCat/awesome-grok-bot": {
+      "star": 400,
+      "created_at": "2026-08-19T16:46:48Z",
+      "id": 1339813167
+    },
+    "Thinklab-SJTU/Bench2DriveZoo": {
+      "star": 400,
+      "created_at": "2024-06-05T10:29:12Z",
+      "id": 810773541
+    },
+    "YichengYang-Ethan/oracle3-prediction-market-agent": {
+      "star": 409,
+      "created_at": "2026-02-28T20:20:18Z",
+      "id": 1169524736
+    },
+    "EpicGames/unreal-engine-skills-for-claude-code-plugin": {
+      "star": 410,
+      "created_at": "2026-06-08T19:59:22Z",
+      "id": 1263282895
+    },
+    "rociiu/talorys": {
+      "star": 479,
+      "created_at": "2026-10-10T09:46:56Z",
+      "id": 1413021530
+    },
+    "shadcn-labs/mdxcn": {
+      "star": 411,
+      "created_at": "2026-08-27T15:01:28Z",
+      "id": 1348619663
+    },
+    "Jman-Github/Patch-Bundle-Registry": {
+      "star": 610,
+      "created_at": "2024-04-26T20:10:12Z",
+      "id": 792505279
+    },
+    "tizuio/TizuMark-Markdown-Editor": {
+      "star": 400,
+      "created_at": "2026-07-02T16:45:45Z",
+      "id": 1287399923
+    },
+    "akuehlewind/ESPHome-touch-display-mount": {
+      "star": 400,
+      "created_at": "2024-11-13T11:00:00Z",
+      "id": 887827205
+    },
+    "Euterpe-org/App": {
+      "star": 404,
+      "created_at": "2023-01-28T13:35:24Z",
+      "id": 594413851
+    },
+    "NucleusFramework/Nucleus": {
+      "star": 401,
+      "created_at": "2026-02-08T19:19:39Z",
+      "id": 1153016582
+    },
+    "The412Banner/Bannerlator": {
+      "star": 401,
+      "created_at": "2026-06-18T23:19:14Z",
+      "id": 1273832382
+    },
+    "gadingnst/hadith-api": {
+      "star": 400,
+      "created_at": "2020-09-02T02:46:58Z",
+      "id": 292161864
+    },
+    "fanyuantaier/wechatauto-replica": {
+      "star": 407,
+      "created_at": "2026-08-07T09:42:11Z",
+      "id": 1326485400
+    },
+    "wheresryan22/anatomy": {
+      "star": 401,
+      "created_at": "2026-10-08T10:12:49Z",
+      "id": 1410124849
+    },
+    "LazywebHQ/lazyweb-skill": {
+      "star": 430,
+      "created_at": "2026-03-26T16:58:36Z",
+      "id": 1192889632
+    },
+    "Jaxton07/percho": {
+      "star": 400,
+      "created_at": "2026-08-08T04:37:46Z",
+      "id": 1327414207
+    },
+    "FeiZhuLulu/DeepSeek-Bot": {
+      "star": 428,
+      "created_at": "2026-10-07T15:37:36Z",
+      "id": 1409013846
+    },
+    "duoduoler-ops/Table-skills": {
+      "star": 401,
+      "created_at": "2026-09-05T19:00:35Z",
+      "id": 1358481007
+    },
+    "boraoztunc/skills": {
+      "star": 404,
+      "created_at": "2026-03-30T13:30:27Z",
+      "id": 1196209592
+    },
+    "wesbos/photo-frame-dashboard": {
+      "star": 567,
+      "created_at": "2026-10-08T18:22:19Z",
+      "id": 1410787228
+    },
+    "mohitvirli/mohitvirli.github.io": {
+      "star": 400,
+      "created_at": "2016-04-01T22:00:36Z",
+      "id": 55264894
+    },
+    "awesome-reveal/awesome-reveal": {
+      "star": 1190,
+      "created_at": "2019-11-24T10:39:59Z",
+      "id": 223727851
+    },
+    "storytold/craft-launcher": {
+      "star": 604,
+      "created_at": "2026-10-09T23:21:59Z",
+      "id": 1412548284
+    },
+    "zeusinsight/FinderSearch": {
+      "star": 580,
+      "created_at": "2026-10-09T08:01:38Z",
+      "id": 1411491009
+    },
+    "marclou/mailcheap": {
+      "star": 565,
+      "created_at": "2026-10-10T12:55:36Z",
+      "id": 1413187188
+    },
+    "SamidyFR/Game-Decompilations": {
+      "star": 414,
+      "created_at": "2025-07-10T10:52:58Z",
+      "id": 1017317154
+    },
+    "HytidelLegend/ai-aug-edu": {
+      "star": 411,
+      "created_at": "2026-09-23T04:07:09Z",
+      "id": 1382720165
+    },
+    "ybdt/RuiningLoader": {
+      "star": 939,
+      "created_at": "2020-10-19T00:52:30Z",
+      "id": 305226673
+    },
+    "segfltt/cmd-chat": {
+      "star": 554,
+      "created_at": "2022-07-02T02:12:11Z",
+      "id": 509635451
+    },
+    "N3urda/hongguoTV": {
+      "star": 405,
+      "created_at": "2026-09-21T01:04:31Z",
+      "id": 1378921346
+    },
+    "akudamatata/iOS-Location-Spoofer-Web": {
+      "star": 405,
+      "created_at": "2026-07-01T03:55:00Z",
+      "id": 1285687355
+    },
+    "unclebob/uml-viewer": {
+      "star": 417,
+      "created_at": "2026-09-13T18:31:36Z",
+      "id": 1368737093
+    },
+    "joshhhhhan/VISTA": {
+      "star": 440,
+      "created_at": "2026-09-05T20:14:39Z",
+      "id": 1358528810
+    },
+    "cth9191/animate": {
+      "star": 440,
+      "created_at": "2026-10-04T00:05:25Z",
+      "id": 1403731980
+    },
+    "goodnight000/api-anything": {
+      "star": 471,
+      "created_at": "2026-09-27T11:44:26Z",
+      "id": 1390721556
+    },
+    "nanocle/Charakuru": {
+      "star": 454,
+      "created_at": "2026-10-06T08:27:57Z",
+      "id": 1406961551
+    },
+    "cskwork/scopeweaver": {
+      "star": 401,
+      "created_at": "2026-10-02T14:58:04Z",
+      "id": 1401942165
+    },
+    "NihilDigit/piko": {
+      "star": 405,
+      "created_at": "2026-09-18T17:14:07Z",
+      "id": 1376190948
+    },
+    "ZeldaWWHDRecomp/ZeldaWWHDRecomp": {
+      "star": 431,
+      "created_at": "2026-10-01T12:28:45Z",
+      "id": 1399935626
+    },
+    "jojodogm-ctrl/emufii": {
+      "star": 457,
+      "created_at": "2026-08-31T19:41:43Z",
+      "id": 1352797348
+    },
+    "iamlukethedev/Herald-OS": {
+      "star": 408,
+      "created_at": "2026-10-06T20:37:44Z",
+      "id": 1407893845
+    },
+    "vesaaa/vsterm": {
+      "star": 427,
+      "created_at": "2026-07-13T08:38:54Z",
+      "id": 1299058066
+    },
+    "Force67/prosperity": {
+      "star": 401,
+      "created_at": "2019-08-29T17:59:48Z",
+      "id": 205221469
+    },
+    "bruc3van/awesome-dsh-plugin": {
+      "star": 402,
+      "created_at": "2026-08-13T13:24:25Z",
+      "id": 1333144072
+    },
+    "openai/openai-security-bots": {
+      "star": 400,
+      "created_at": "2024-01-11T01:24:16Z",
+      "id": 741723887
+    },
+    "gdstudio-org/Embeat": {
+      "star": 400,
+      "created_at": "2026-06-26T10:30:15Z",
+      "id": 1281214461
+    },
+    "gaomingqi/sam-body4d": {
+      "star": 400,
+      "created_at": "2025-11-30T19:39:17Z",
+      "id": 1107212579
+    },
+    "vaamonde/ubuntu-2404": {
+      "star": 400,
+      "created_at": "2024-03-01T14:47:11Z",
+      "id": 765751302
+    },
+    "ProjectClash/Clash-Client-Legacy": {
+      "star": 585,
+      "created_at": "2026-07-16T11:31:11Z",
+      "id": 1302702957
+    },
+    "ProjectClash/Clash-Legacy": {
+      "star": 559,
+      "created_at": "2026-07-29T09:02:39Z",
+      "id": 1315918490
+    },
+    "Einsia/agent-git": {
+      "star": 404,
+      "created_at": "2026-09-01T17:00:33Z",
+      "id": 1353819774
+    },
+    "chaseleantj/deskworlds": {
+      "star": 404,
+      "created_at": "2026-09-18T08:31:55Z",
+      "id": 1375594818
+    },
+    "ITxiao6666/OhMyKeymint": {
+      "star": 403,
+      "created_at": "2026-08-17T08:21:52Z",
+      "id": 1336878089
+    },
+    "tidain/YunX-Desktop": {
+      "star": 426,
+      "created_at": "2026-09-05T13:47:32Z",
+      "id": 1358237117
+    },
+    "suversal/WrapPin": {
+      "star": 472,
+      "created_at": "2026-09-14T12:38:05Z",
+      "id": 1369895386
+    },
+    "facebookresearch/spdl": {
+      "star": 400,
+      "created_at": "2024-06-27T19:57:35Z",
+      "id": 821094683
+    },
+    "ergrelet/themida-unmutate": {
+      "star": 400,
+      "created_at": "2023-08-26T21:43:08Z",
+      "id": 683531581
+    },
+    "droogie/bbhost": {
+      "star": 449,
+      "created_at": "2026-10-07T14:22:17Z",
+      "id": 1408915941
+    },
+    "wanvfx/ProxyNodeHub": {
+      "star": 412,
+      "created_at": "2026-09-29T14:17:00Z",
+      "id": 1395546904
+    },
+    "maelgangloff/domain-watchdog": {
+      "star": 400,
+      "created_at": "2024-07-10T22:06:25Z",
+      "id": 827030699
+    },
+    "OpenBMB/MiniCPM-o-Demo": {
+      "star": 400,
+      "created_at": "2026-02-15T03:18:07Z",
+      "id": 1158250331
+    },
+    "viromedia/virocore": {
+      "star": 400,
+      "created_at": "2017-11-15T05:52:05Z",
+      "id": 110789560
+    },
+    "SeriousHornet/KOReader.patches": {
+      "star": 400,
+      "created_at": "2025-11-04T06:22:01Z",
+      "id": 1089289420
+    },
+    "chenx-dust/DeckyClash": {
+      "star": 400,
+      "created_at": "2025-06-01T10:21:55Z",
+      "id": 994150175
+    },
+    "mirbeta/OpenMir2": {
+      "star": 400,
+      "created_at": "2021-09-28T15:11:45Z",
+      "id": 411332255
+    },
+    "bitwuzla/bitwuzla": {
+      "star": 400,
+      "created_at": "2020-09-19T01:50:52Z",
+      "id": 296765908
+    },
+    "ciderapp/Cider-2": {
+      "star": 400,
+      "created_at": "2023-02-27T14:41:22Z",
+      "id": 607210415
+    },
+    "NVIDIA/cuda-q-academic": {
+      "star": 400,
+      "created_at": "2024-07-10T18:48:27Z",
+      "id": 826972051
+    },
+    "kishanrajput23/Love-Babbar-CPP-DSA-Course": {
+      "star": 400,
+      "created_at": "2023-03-15T04:24:35Z",
+      "id": 614188343
+    },
+    "laogou717/dogsc": {
+      "star": 421,
+      "created_at": "2026-08-23T13:00:39Z",
+      "id": 1343773318
+    },
+    "Pangu-Immortal/hunter-ai-content-factory": {
+      "star": 400,
+      "created_at": "2026-01-22T11:08:04Z",
+      "id": 1139746805
+    },
+    "EMERGE-Policy/EMERGE-Policy": {
+      "star": 400,
+      "created_at": "2026-08-28T14:11:31Z",
+      "id": 1349675679
+    },
+    "yasewang1337-svg/winutil-cn": {
+      "star": 435,
+      "created_at": "2026-06-15T05:29:26Z",
+      "id": 1269796135
+    },
+    "n1tr00-10/tiktok-web-signature": {
+      "star": 707,
+      "created_at": "2026-10-09T19:30:14Z",
+      "id": 1412360690
     }
   }
 }
