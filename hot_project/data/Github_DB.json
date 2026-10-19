@@ -19553,24 +19553,6 @@
       "gh_desc": "AI-ready reference architecture for Angular / ASP.NET Core projects. A hardened foundation with secure authentication, authorization, role and user management, and consistent patterns designed to be safely extended by AI tools. Stop letting AI hallucinate your auth and DB logic - give it a production-grade foundation to build on.",
       "id": 82981046
     },
-    "wannabespace/conar": {
-      "star": 1412,
-      "created_at": "2024-11-27T14:39:45Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "clickhouse",
-        "connection",
-        "database",
-        "management",
-        "mssql",
-        "mysql",
-        "postgresql"
-      ],
-      "gh_desc": "AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)",
-      "id": 895089213
-    },
     "cyberark/FuzzyAI": {
       "star": 1544,
       "created_at": "2024-12-03T11:27:53Z",
@@ -315085,15 +315067,6 @@
       "topics": [],
       "gh_desc": ":dizzy: vertico.el - VERTical Interactive COmpletion",
       "id": 353786121
-    },
-    "getml/reflect-cpp": {
-      "star": 1910,
-      "created_at": "2023-09-27T15:08:58Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, Avro, Boost Serialization, BSON, Cap'n Proto, CBOR, Cereal, CSV, flexbuffers, msgpack, parquet, TOML, UBJSON, XML, YAML, yas / msgpack.org[C++20]",
-      "id": 697358974
     },
     "openupm/openupm": {
       "star": 1887,
@@ -842177,11 +842150,6 @@
       "created_at": "2016-12-08T05:10:43Z",
       "id": 75905215
     },
-    "hannibal002/SkyHanni": {
-      "star": 528,
-      "created_at": "2022-07-06T22:33:22Z",
-      "id": 511310721
-    },
     "MicrosoftDocs/power-platform": {
       "star": 509,
       "created_at": "2019-11-05T15:43:39Z",
@@ -872103,11 +872071,6 @@
       "star": 1173,
       "created_at": "2026-06-21T01:25:20Z",
       "id": 1275653543
-    },
-    "ebrasha/free-v2ray-public-list": {
-      "star": 1149,
-      "created_at": "2025-06-26T23:18:19Z",
-      "id": 1009306148
     },
     "Aliothmoon/MAA-Meow": {
       "star": 1152,
@@ -958866,11 +958829,6 @@
       "created_at": "2022-08-26T12:22:21Z",
       "id": 529246972
     },
-    "angelbruni/Geckium": {
-      "star": 634,
-      "created_at": "2024-05-01T23:17:26Z",
-      "id": 794771817
-    },
     "Livox-SDK/livox_camera_lidar_calibration": {
       "star": 634,
       "created_at": "2020-05-15T13:12:12Z",
@@ -990390,11 +990348,6 @@
       "star": 960,
       "created_at": "2019-07-22T02:15:41Z",
       "id": 198130333
-    },
-    "Iamrushabhshahh/AWS-Certified-Solutions-Architect-Associate-SAA-C03-Exam-Dump-With-Solution": {
-      "star": 960,
-      "created_at": "2024-02-01T06:58:23Z",
-      "id": 751219060
     },
     "6tail/lunar-java": {
       "star": 960,
@@ -1026720,11 +1026673,6 @@
       "star": 535,
       "created_at": "2018-03-17T22:23:13Z",
       "id": 125673683
-    },
-    "buyi06/optimize_extreme": {
-      "star": 535,
-      "created_at": "2025-10-05T17:38:46Z",
-      "id": 1070319586
     },
     "sergiokas/Extensity": {
       "star": 535,
@@ -1168003,11 +1167951,6 @@
       "created_at": "2015-06-23T23:29:08Z",
       "id": 37950623
     },
-    "nexmoe/eve": {
-      "star": 414,
-      "created_at": "2026-02-01T02:10:43Z",
-      "id": 1146987905
-    },
     "eclipse-jgit/jgit": {
       "star": 414,
       "created_at": "2023-10-20T15:09:17Z",
@@ -1219718,11 +1219661,6 @@
       "created_at": "2014-05-07T19:07:08Z",
       "id": 19546694
     },
-    "3516634930/Payloader": {
-      "star": 485,
-      "created_at": "2026-02-14T05:45:59Z",
-      "id": 1157674408
-    },
     "n0-computer/awesome-iroh": {
       "star": 485,
       "created_at": "2024-10-18T15:49:59Z",
@@ -1254572,15 +1254510,6 @@
       "created_at": "2022-12-18T07:40:48Z",
       "id": 579590292
     },
-    "darwin-lau/langmanus": {
-      "star": 1317,
-      "created_at": "2025-03-18T01:17:34Z",
-      "desc": "",
-      "language": "",
-      "topics": [],
-      "gh_desc": "A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, crawling, and Python code execution, while giving back to the community that made this possible.",
-      "id": 950318523
-    },
     "solidjs/solid-vite-plugin": {
       "star": 510,
       "created_at": "2020-07-12T11:26:32Z",
@@ -1275059,11 +1274988,6 @@
       "created_at": "2026-04-10T02:26:57Z",
       "id": 1206534761
     },
-    "Liuziyu77/Valen": {
-      "star": 461,
-      "created_at": "2026-09-23T02:48:02Z",
-      "id": 1382625851
-    },
     "KhronosGroupArchives/Vulkan-LoaderAndValidationLayers": {
       "star": 412,
       "created_at": "2016-02-11T10:16:16Z",
@@ -1278256,11 +1278180,6 @@
       "gh_desc": "A Dockerized version of the Satisfactory dedicated server",
       "id": 357713199
     },
-    "Laragear/WebAuthn": {
-      "star": 400,
-      "created_at": "2022-06-14T09:13:53Z",
-      "id": 503287394
-    },
     "CristianOlivera1/openhero": {
       "star": 400,
       "created_at": "2026-05-07T01:55:32Z",
@@ -1278290,11 +1278209,6 @@
       "star": 401,
       "created_at": "2023-09-29T16:37:53Z",
       "id": 698319158
-    },
-    "blackbearreloaded/ProsperoEden": {
-      "star": 460,
-      "created_at": "2026-09-30T02:15:33Z",
-      "id": 1396833161
     },
     "allenv0/SCM": {
       "star": 414,
@@ -1279641,11 +1279555,6 @@
       "created_at": "2026-06-15T10:35:03Z",
       "id": 1270048721
     },
-    "collin80/esp32_can": {
-      "star": 400,
-      "created_at": "2018-02-02T01:47:07Z",
-      "id": 119916710
-    },
     "QuipNetwork/quip-solver": {
       "star": 11612,
       "created_at": "2026-01-16T05:39:29Z",
@@ -1279814,11 +1279723,6 @@
       "star": 400,
       "created_at": "2022-01-04T22:27:08Z",
       "id": 444581688
-    },
-    "Zjackky/CodeScan": {
-      "star": 400,
-      "created_at": "2024-06-12T03:26:41Z",
-      "id": 813941514
     },
     "noellegazelle6/kail_location": {
       "star": 400,
@@ -1280508,11 +1280412,6 @@
       "created_at": "2026-09-05T18:29:18Z",
       "id": 1358459341
     },
-    "Explosion-Scratch/imtrashh906-is-cool": {
-      "star": 422,
-      "created_at": "2022-04-01T18:23:13Z",
-      "id": 476827678
-    },
     "npwitk/Macintosh-Skeletal-Filled": {
       "star": 431,
       "created_at": "2026-10-10T12:29:10Z",
@@ -1281011,26 +1280910,6 @@
       "created_at": "2026-10-12T08:41:19Z",
       "id": 1415313946
     },
-    "OSINTVerseHQ/Social-Media-OSINT-Tools-Collection": {
-      "star": 1904,
-      "created_at": "2023-05-20T10:30:30Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "humint",
-        "osint",
-        "osint-resources",
-        "osint-toolkit",
-        "osint-tools",
-        "osinttool",
-        "social",
-        "social-media",
-        "socint",
-        "socmint"
-      ],
-      "gh_desc": "A collection of most useful osint tools for SOCINT.",
-      "id": 643174512
-    },
     "khanhduytran0/coruna": {
       "star": 712,
       "created_at": "2026-03-07T06:06:02Z",
@@ -1281205,11 +1281084,6 @@
       "star": 400,
       "created_at": "2024-03-22T01:22:58Z",
       "id": 775754085
-    },
-    "Sefaria/Sefaria-Export": {
-      "star": 400,
-      "created_at": "2015-11-23T23:53:37Z",
-      "id": 46755449
     },
     "k8snetworkplumbingwg/whereabouts": {
       "star": 400,
@@ -1281466,11 +1281340,6 @@
       "star": 674,
       "created_at": "2026-06-26T18:55:41Z",
       "id": 1281633872
-    },
-    "mricon/rev-proxy-grapher": {
-      "star": 400,
-      "created_at": "2017-10-05T17:39:23Z",
-      "id": 105920504
     },
     "MaxMiksa/Autonomous-Company": {
       "star": 2205,
@@ -1281762,11 +1281631,6 @@
       "star": 400,
       "created_at": "2021-11-27T08:00:08Z",
       "id": 432402415
-    },
-    "koalaman/linuxatemyram.com": {
-      "star": 400,
-      "created_at": "2017-03-05T22:13:47Z",
-      "id": 84006155
     },
     "codemerx/CodemerxDecompile": {
       "star": 400,
@@ -1283493,11 +1283357,6 @@
       "created_at": "2025-09-25T05:44:36Z",
       "id": 1063782606
     },
-    "kk8bit/kaytool": {
-      "star": 400,
-      "created_at": "2024-10-19T16:33:58Z",
-      "id": 875310390
-    },
     "heimao-box/pwnpasi": {
       "star": 400,
       "created_at": "2025-02-25T01:48:42Z",
@@ -1283698,11 +1283557,6 @@
       "created_at": "2026-02-27T06:31:32Z",
       "id": 1168228320
     },
-    "anujasid/blender-ai-mcp-addon": {
-      "star": 649,
-      "created_at": "2026-10-15T22:30:47Z",
-      "id": 1421389432
-    },
     "eyfel/mcp-server-solidworks": {
       "star": 400,
       "created_at": "2025-04-11T10:46:46Z",
@@ -1283882,11 +1283736,6 @@
       "star": 403,
       "created_at": "2026-09-20T04:02:50Z",
       "id": 1377887555
-    },
-    "gxurav1710/YouPI-PG": {
-      "star": 1005,
-      "created_at": "2026-09-19T10:13:26Z",
-      "id": 1377011754
     },
     "thesimonho/kanagawa-paper": {
       "star": 400,
@@ -1284232,6 +1284081,503 @@
       "star": 442,
       "created_at": "2026-09-07T00:19:59Z",
       "id": 1359600707
+    },
+    "AhmadHassan-BTed/OpenOPC-Shadow-Adapter": {
+      "star": 1272,
+      "created_at": "2026-07-25T09:28:12Z",
+      "id": 1311850318
+    },
+    "breakstageaxe61/genspark-claw": {
+      "star": 422,
+      "created_at": "2026-09-26T02:18:05Z",
+      "id": 1388388953
+    },
+    "LiCinCan/blender-ai-mcp-addon": {
+      "star": 649,
+      "created_at": "2026-10-15T22:30:47Z",
+      "id": 1421389432
+    },
+    "PM-Shawn/Abu-Cowork": {
+      "star": 400,
+      "created_at": "2026-03-09T16:43:59Z",
+      "id": 1177055450
+    },
+    "wannabespace/tamery": {
+      "star": 1412,
+      "created_at": "2024-11-27T14:39:45Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "clickhouse",
+        "connection",
+        "database",
+        "management",
+        "mssql",
+        "mysql",
+        "postgresql"
+      ],
+      "gh_desc": "AI-powered tool for working with Postgres, MySQL, MSSQL and Clickhouse. (beta)",
+      "id": 895089213
+    },
+    "graygnatconsole/mcp-audit-tool": {
+      "star": 431,
+      "created_at": "2026-09-26T02:42:57Z",
+      "id": 1388409097
+    },
+    "alpcanaydin/tusk": {
+      "star": 400,
+      "created_at": "2026-09-28T18:47:06Z",
+      "id": 1393634228
+    },
+    "AhmadHassan-BTed/GardenPulse": {
+      "star": 636,
+      "created_at": "2026-06-05T15:07:27Z",
+      "id": 1260507360
+    },
+    "AhmadHassan-BTed/MotionShot": {
+      "star": 1271,
+      "created_at": "2026-08-04T19:58:07Z",
+      "id": 1323332140
+    },
+    "testdriverai/testdriverai": {
+      "star": 439,
+      "created_at": "2024-08-25T21:30:13Z",
+      "id": 847453935
+    },
+    "with-pebbly/aseprite-ai-artist": {
+      "star": 409,
+      "created_at": "2026-09-08T09:41:33Z",
+      "id": 1361189456
+    },
+    "juliobsz/skills": {
+      "star": 401,
+      "created_at": "2026-10-12T00:07:32Z",
+      "id": 1414876018
+    },
+    "quodsoler/unreal-engine-skills": {
+      "star": 400,
+      "created_at": "2026-03-01T17:26:38Z",
+      "id": 1170089650
+    },
+    "kuafuai/andee": {
+      "star": 645,
+      "created_at": "2026-09-17T13:20:59Z",
+      "id": 1374472673
+    },
+    "VITASID57/bluntcore-intimacy-lab": {
+      "star": 408,
+      "created_at": "2026-10-16T15:46:10Z",
+      "id": 1422357371
+    },
+    "410979729/scope-recall-hermes": {
+      "star": 406,
+      "created_at": "2026-05-15T10:56:00Z",
+      "id": 1239699520
+    },
+    "AhmadHassan-BTed/Ledgerify": {
+      "star": 1212,
+      "created_at": "2026-07-10T12:55:21Z",
+      "id": 1296501385
+    },
+    "AhmadHassan-BTed/EQAI": {
+      "star": 814,
+      "created_at": "2026-05-25T14:06:41Z",
+      "id": 1249255729
+    },
+    "AhmadHassan-BTed/ScrollToPrompt": {
+      "star": 637,
+      "created_at": "2026-05-14T14:27:28Z",
+      "id": 1238866442
+    },
+    "AhmadHassan-BTed/Jantt": {
+      "star": 1263,
+      "created_at": "2026-08-28T07:32:35Z",
+      "id": 1349328247
+    },
+    "xop01/ai_goodpractice": {
+      "star": 447,
+      "created_at": "2026-10-02T11:01:25Z",
+      "id": 1401538687
+    },
+    "PocketRisu/PocketRisu": {
+      "star": 403,
+      "created_at": "2026-03-17T02:40:46Z",
+      "id": 1183860600
+    },
+    "Yuelioi/bdl": {
+      "star": 402,
+      "created_at": "2026-07-11T12:31:35Z",
+      "id": 1297425669
+    },
+    "aixisstudio/Snitch": {
+      "star": 421,
+      "created_at": "2026-10-01T15:47:55Z",
+      "id": 1400284027
+    },
+    "youpi-pg/YouPI-PG": {
+      "star": 1005,
+      "created_at": "2026-09-19T10:13:26Z",
+      "id": 1377011754
+    },
+    "AhmadHassan-BTed/ShopifyAutoAuth": {
+      "star": 1256,
+      "created_at": "2026-08-20T19:47:14Z",
+      "id": 1341090959
+    },
+    "kurelas/text-humanizer": {
+      "star": 411,
+      "created_at": "2026-10-07T14:44:01Z",
+      "id": 1408948048
+    },
+    "AhmadHassan-BTed/AuraEconomy": {
+      "star": 642,
+      "created_at": "2026-05-15T06:30:18Z",
+      "id": 1239492286
+    },
+    "theBigGavin/marketingdashboard": {
+      "star": 402,
+      "created_at": "2026-07-17T10:05:38Z",
+      "id": 1303848201
+    },
+    "1architect/macspace-releases": {
+      "star": 407,
+      "created_at": "2026-04-13T18:55:55Z",
+      "id": 1209763132
+    },
+    "Fractal-Compute-Orchestrations/FractalAndroid": {
+      "star": 1250,
+      "created_at": "2025-11-21T09:02:45Z",
+      "id": 1101146119
+    },
+    "flipperc0d3r/Private-Unleashed-2.0-FlipperZero-Firmware": {
+      "star": 400,
+      "created_at": "2025-12-01T15:15:53Z",
+      "id": 1107757525
+    },
+    "AhmadHassan-BTed/Attendify": {
+      "star": 824,
+      "created_at": "2024-04-15T11:30:15Z",
+      "id": 786825516
+    },
+    "orailnoor/private-agent": {
+      "star": 400,
+      "created_at": "2026-06-26T07:25:53Z",
+      "id": 1281054646
+    },
+    "wheelry/deep-skill-finder": {
+      "star": 402,
+      "created_at": "2026-06-30T13:37:51Z",
+      "id": 1285104880
+    },
+    "hanzohanzhe/Grandet": {
+      "star": 400,
+      "created_at": "2026-10-05T06:50:33Z",
+      "id": 1405283311
+    },
+    "cranebeaker/coop-anything": {
+      "star": 436,
+      "created_at": "2026-10-16T11:12:03Z",
+      "id": 1422053844
+    },
+    "sakidekin/CVE-2026-41940-PoC": {
+      "star": 402,
+      "created_at": "2026-10-11T07:54:18Z",
+      "id": 1414088674
+    },
+    "alchaincyf/huashu-motion": {
+      "star": 518,
+      "created_at": "2026-10-18T12:19:27Z",
+      "id": 1424340323
+    },
+    "AhmadHassan-BTed/OpenHeart": {
+      "star": 1304,
+      "created_at": "2026-08-08T16:11:06Z",
+      "id": 1327932937
+    },
+    "Neo-Kitchenfox/Geckium": {
+      "star": 634,
+      "created_at": "2024-05-01T23:17:26Z",
+      "id": 794771817
+    },
+    "MaryCache/imozuru": {
+      "star": 420,
+      "created_at": "2026-10-13T05:56:21Z",
+      "id": 1416534312
+    },
+    "reason-machines/reason-network": {
+      "star": 440,
+      "created_at": "2026-10-16T15:34:34Z",
+      "id": 1422344223
+    },
+    "TG-Twilight/c001apk": {
+      "star": 411,
+      "created_at": "2026-10-14T07:11:28Z",
+      "id": 1418517344
+    },
+    "xiaoyang111222/cn-math-taxonomy": {
+      "star": 544,
+      "created_at": "2026-10-18T09:04:43Z",
+      "id": 1424183124
+    },
+    "chrissotraidis/bluewake": {
+      "star": 414,
+      "created_at": "2026-09-28T10:30:33Z",
+      "id": 1392424843
+    },
+    "nexmoe/DayBee": {
+      "star": 414,
+      "created_at": "2026-02-01T02:10:43Z",
+      "id": 1146987905
+    },
+    "chuiziyao/maimen-certification": {
+      "star": 437,
+      "created_at": "2026-10-10T17:08:35Z",
+      "id": 1413456258
+    },
+    "lib4u/amnezia-tunneling-ru": {
+      "star": 401,
+      "created_at": "2026-08-10T08:01:10Z",
+      "id": 1329574247
+    },
+    "BreezeSolicitorMap/undress.ai": {
+      "star": 463,
+      "created_at": "2026-10-17T13:39:11Z",
+      "id": 1423367363
+    },
+    "AhmadHassan-BTed/PortfolioWebsite": {
+      "star": 825,
+      "created_at": "2023-04-11T14:03:54Z",
+      "id": 626457746
+    },
+    "ly05010419/MacNativeGames": {
+      "star": 1054,
+      "created_at": "2026-10-17T19:52:00Z",
+      "id": 1423689866
+    },
+    "Iamrushabhshahh/aws-saa-c03-practice-questions": {
+      "star": 960,
+      "created_at": "2024-02-01T06:58:23Z",
+      "id": 751219060
+    },
+    "lixiaoxiao9888-create/short-drama-factory": {
+      "star": 402,
+      "created_at": "2026-08-09T14:33:55Z",
+      "id": 1328889281
+    },
+    "rrr333nnn333/BRENE": {
+      "star": 402,
+      "created_at": "2025-12-20T02:37:31Z",
+      "id": 1119873935
+    },
+    "Roboparty/RP1": {
+      "star": 477,
+      "created_at": "2026-10-01T14:26:11Z",
+      "id": 1400139068
+    },
+    "Fractal-Compute-Orchestrations/FractalCore": {
+      "star": 1273,
+      "created_at": "2026-05-12T06:19:35Z",
+      "id": 1236313235
+    },
+    "yeqv111/mccarbon": {
+      "star": 416,
+      "created_at": "2026-10-12T09:45:08Z",
+      "id": 1415387508
+    },
+    "yexi-by/dsh-unrestricted": {
+      "star": 424,
+      "created_at": "2026-08-22T07:39:48Z",
+      "id": 1342560370
+    },
+    "SkyHanniStudios/SkyHanni": {
+      "star": 528,
+      "created_at": "2022-07-06T22:33:22Z",
+      "id": 511310721
+    },
+    "guanyue91141/GhidraMCP-AI-rename": {
+      "star": 427,
+      "created_at": "2025-05-07T20:38:14Z",
+      "id": 979637166
+    },
+    "NVIDIA/NVSentinel": {
+      "star": 401,
+      "created_at": "2025-09-16T12:43:23Z",
+      "id": 1057960049
+    },
+    "10x-Engineers/Infinite-ISP": {
+      "star": 401,
+      "created_at": "2022-04-26T11:29:39Z",
+      "id": 485756860
+    },
+    "mistralai/timestral": {
+      "star": 401,
+      "created_at": "2026-10-15T10:20:18Z",
+      "id": 1420531062
+    },
+    "munich-data-engineering/reflect-cpp": {
+      "star": 1910,
+      "created_at": "2023-09-27T15:08:58Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "A C++20 library for fast serialization, deserialization and validation using reflection. Supports JSON, Avro, Boost Serialization, BSON, Cap'n Proto, CBOR, Cereal, CSV, flexbuffers, msgpack, parquet, TOML, UBJSON, XML, YAML, yas / msgpack.org[C++20]",
+      "id": 697358974
+    },
+    "kadidalax/cf-vps-monitor": {
+      "star": 919,
+      "created_at": "2025-04-25T08:03:55Z",
+      "id": 972521712
+    },
+    "Valen-Team/Valen": {
+      "star": 461,
+      "created_at": "2026-09-23T02:48:02Z",
+      "id": 1382625851
+    },
+    "Explosion-Scratch/jgx0-is-epic": {
+      "star": 422,
+      "created_at": "2022-04-01T18:23:13Z",
+      "id": 476827678
+    },
+    "Leonxlnx/cinetic": {
+      "star": 517,
+      "created_at": "2026-09-28T22:57:22Z",
+      "id": 1393935935
+    },
+    "chengmarc/minecraft-citygen": {
+      "star": 402,
+      "created_at": "2026-08-18T10:41:04Z",
+      "id": 1338283854
+    },
+    "GoogleChromeLabs/web-ai-demos": {
+      "star": 400,
+      "created_at": "2024-06-07T08:39:52Z",
+      "id": 811758403
+    },
+    "krmanik/HSK-3.0": {
+      "star": 400,
+      "created_at": "2021-04-12T23:45:39Z",
+      "id": 357369607
+    },
+    "1314521gjy/ninfer-fusion-kvmem": {
+      "star": 407,
+      "created_at": "2026-10-04T12:04:52Z",
+      "id": 1404347821
+    },
+    "javycoder/fnos_music_ext": {
+      "star": 407,
+      "created_at": "2026-09-04T11:39:49Z",
+      "id": 1357068974
+    },
+    "seedds/nxnative": {
+      "star": 481,
+      "created_at": "2026-10-13T05:20:14Z",
+      "id": 1416502082
+    },
+    "nelson-liu/lost-in-the-middle": {
+      "star": 400,
+      "created_at": "2023-07-06T17:59:15Z",
+      "id": 663171037
+    },
+    "xscreensaver-official/xscreensaver": {
+      "star": 870,
+      "created_at": "2026-10-16T16:24:44Z",
+      "id": 1422399929
+    },
+    "elder-plinius/V3R1T4S": {
+      "star": 404,
+      "created_at": "2025-07-01T09:35:20Z",
+      "id": 1011751194
+    },
+    "diabl0w/DFRoot": {
+      "star": 406,
+      "created_at": "2026-09-25T07:41:49Z",
+      "id": 1387029950
+    },
+    "Neo23x0/yarAnalyzer": {
+      "star": 400,
+      "created_at": "2015-06-16T20:36:06Z",
+      "id": 37554615
+    },
+    "NullTale/LutLight2D": {
+      "star": 400,
+      "created_at": "2023-04-02T18:49:55Z",
+      "id": 622658676
+    },
+    "cp6/my-idlers": {
+      "star": 400,
+      "created_at": "2021-01-20T03:35:04Z",
+      "id": 331182904
+    },
+    "joeseesun/opus-video-prompts": {
+      "star": 412,
+      "created_at": "2026-09-27T00:16:07Z",
+      "id": 1389900426
+    },
+    "dach6/ExaltHelper": {
+      "star": 415,
+      "created_at": "2026-10-10T06:14:15Z",
+      "id": 1412834960
+    },
+    "flybrainlabs/node": {
+      "star": 418,
+      "created_at": "2026-10-12T10:00:55Z",
+      "id": 1415404215
+    },
+    "shibhansh/loss-of-plasticity": {
+      "star": 400,
+      "created_at": "2022-10-13T18:36:40Z",
+      "id": 551039411
+    },
+    "kristianvast/hermes-claude-auth": {
+      "star": 400,
+      "created_at": "2026-04-12T13:28:25Z",
+      "id": 1208576919
+    },
+    "pmndrs/glyph": {
+      "star": 400,
+      "created_at": "2026-07-22T13:35:06Z",
+      "id": 1308863801
+    },
+    "ai-aimbot/AIMr": {
+      "star": 400,
+      "created_at": "2023-06-29T05:38:58Z",
+      "id": 660039058
+    },
+    "mtalcott/google-photos-deduper": {
+      "star": 400,
+      "created_at": "2021-04-05T04:48:03Z",
+      "id": 354720672
+    },
+    "R0rt1z2/lkpatcher": {
+      "star": 400,
+      "created_at": "2023-10-04T10:01:21Z",
+      "id": 700286946
+    },
+    "LluisV/Z-Anatomy": {
+      "star": 400,
+      "created_at": "2022-04-12T18:39:49Z",
+      "id": 480931753
+    },
+    "deepseek-ai/deepseek-recipe": {
+      "star": 426,
+      "created_at": "2026-09-10T05:36:48Z",
+      "id": 1363568952
+    },
+    "apple-aiml-research/ml-egodex": {
+      "star": 400,
+      "created_at": "2025-08-19T22:13:41Z",
+      "id": 1041036182
+    },
+    "ANYNC/TaskbarLyrics": {
+      "star": 415,
+      "created_at": "2026-02-13T16:08:20Z",
+      "id": 1157260749
+    },
+    "Swordpdf/ProsperoEden": {
+      "star": 460,
+      "created_at": "2026-09-30T02:15:33Z",
+      "id": 1396833161
     }
   }
 }
