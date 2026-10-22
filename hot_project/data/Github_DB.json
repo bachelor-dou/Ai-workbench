@@ -48181,22 +48181,6 @@
       "gh_desc": "Optimizing inference proxy for LLMs",
       "id": 846237240
     },
-    "diegosouzapw/OmniRoute": {
-      "star": 33384,
-      "created_at": "2026-02-13T12:38:31Z",
-      "desc": "项目定位与用途:OmniRoute 是一个面向多供应商大语言模型的 AI gateway，提供与 OpenAI 兼容的统一入口。它把多个模型提供方的请求接入到同一个端点下，并支持智能路由、负载均衡、重试和故障切换，同时还可叠加策略、限流、缓存与可观测性，目标是让推理调用更稳定、可控且更省成本。\n\n解决的问题:该项目主要解决“多家 LLM 服务分散接入、规则各异、配额难管、失败难恢复”的问题。README 提到手动叠加免费额度很痛苦，因为会面对大量 SDK、速率限制和额度不透明等问题；OmniRoute 通过聚合多个提供方与模型，把路由、降级和预算管理集中到一个网关中，减少运维复杂度。\n\n使用场景:适合需要同时使用多个 LLM 提供方的开发者、团队或 AI 工具集成场景，例如 Claude Code、Codex、Cursor、Cline、Copilot 等工具通过一个端点接入不同模型。也适合希望利用免费层、进行成本控制、需要自动故障切换或统一管理调用策略的用户。README 还显示它提供仪表盘页面，用于查看免费额度与使用情况。\n\n技术架构与特性:从已给信息看，它以 OpenAI-compatible endpoint 作为对外接口，后端围绕路由策略、负载均衡、重试、fallback、rate limit、缓存和 observability 构建。标签还显示其定位包含 gateway、proxy-server、mcp-gateway 和 token-optimization。README 提到支持多种路由策略、自动回退，以及在仪表盘中展示免费层预算与实时用量；近期提交也显示项目持续在做速率限制、SSE、认证与权限控制等改进。",
-      "language": "TypeScript",
-      "topics": [
-        "gateway",
-        "llm-tools",
-        "mcp-gateway",
-        "proxy-server",
-        "token-optimization"
-      ],
-      "desc_updated_at": "2026-08-12",
-      "gh_desc": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
-      "id": 1157102282
-    },
     "llm-d/llm-d": {
       "star": 3902,
       "created_at": "2025-04-29T18:28:17Z",
@@ -139863,32 +139847,6 @@
       ],
       "gh_desc": "Use Vim everywhere you've always wanted to",
       "id": 15505662
-    },
-    "wslutilities/wslu": {
-      "star": 3752,
-      "created_at": "2017-05-21T13:05:01Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "alpine-linux",
-        "arch-linux",
-        "bash",
-        "bashonwindows",
-        "centos",
-        "debian",
-        "fedora",
-        "kali-linux",
-        "linux",
-        "opensuse",
-        "pengwin",
-        "shell",
-        "sles",
-        "ubuntu",
-        "windows-subsystem-for-linux",
-        "wsl"
-      ],
-      "gh_desc": "A collection of utilities for Windows Subsystem for Linux",
-      "id": 91957658
     },
     "ab77/netflix-proxy": {
       "star": 3736,
@@ -250544,32 +250502,6 @@
       "gh_desc": "fuint门店会员营销系统是一款集店铺收银、线上积分商城、营销一体的系统。基于Java SpringBoot、Vue、Uniapp，含微信小程序、h5、后台管理。具有优惠券、预存卡、实体卡、次卡、储值卡、电子券，会员积分体系，会员等级等营销功能。适合实体店铺结合线上电商系统，如：生鲜、零售超市、汽车4S店、花店、甜品店、餐饮等。可当收银系统使用，打通线下收银系统和线上商城",
       "id": 276036095
     },
-    "maxritter/pilot-shell": {
-      "star": 1790,
-      "created_at": "2025-10-18T08:30:23Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "ai-agents",
-        "ai-assistant",
-        "ai-coding",
-        "ai-coding-tools",
-        "ai-engineering",
-        "ai-tools",
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-context",
-        "claude-skills",
-        "claudecode",
-        "model-context-protocol",
-        "spec-driven-development"
-      ],
-      "gh_desc": "Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge",
-      "id": 1078701786
-    },
     "404-novel-project/novel-downloader": {
       "star": 1821,
       "created_at": "2021-04-07T15:38:32Z",
@@ -316558,15 +316490,6 @@
       "gh_desc": "Debloat Windows in 2 clicks.",
       "id": 922752123
     },
-    "jazzband/django-constance": {
-      "star": 1853,
-      "created_at": "2010-09-20T12:42:29Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Dynamic Django settings.",
-      "id": 924812
-    },
     "jaypipes/ghw": {
       "star": 1875,
       "created_at": "2017-05-26T16:39:02Z",
@@ -345856,25 +345779,6 @@
       "gh_desc": "A library that ports Elm's effect system to Redux",
       "id": 49091766
     },
-    "onblog/BlogHelper": {
-      "star": 1968,
-      "created_at": "2020-01-03T04:09:14Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "blog",
-        "cnblogs",
-        "csdn",
-        "electron",
-        "jianshu",
-        "juejin",
-        "oschina",
-        "segmentfault",
-        "zhihu"
-      ],
-      "gh_desc": "帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）（欢迎Star，🚫禁止Fork）",
-      "id": 231509982
-    },
     "CiaraStrawberry/TemporalKit": {
       "star": 1960,
       "created_at": "2023-04-12T20:58:28Z",
@@ -349036,21 +348940,6 @@
       ],
       "gh_desc": "MicroZig is a toolbox for building embedded applications in Zig.",
       "id": 349134426
-    },
-    "home-assistant/addons": {
-      "star": 2196,
-      "created_at": "2017-03-18T22:23:14Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "automation",
-        "docker",
-        "hacktoberfest",
-        "home",
-        "iot"
-      ],
-      "gh_desc": ":heavy_plus_sign: Docker add-ons for Home Assistant",
-      "id": 85435841
     },
     "apache/libcloud": {
       "star": 2122,
@@ -369885,15 +369774,6 @@
       "gh_desc": "List of top 304 ReactJS Interview Questions & Answers",
       "id": 176940446
     },
-    "vzex/dog-tunnel": {
-      "star": 2171,
-      "created_at": "2014-01-03T10:09:14Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [],
-      "gh_desc": "p2p tunnel,(udp mode work with kcp,https://github.com/skywind3000/kcp)",
-      "id": 15606716
-    },
     "mozilla/MozDef": {
       "star": 2163,
       "created_at": "2014-02-18T07:43:31Z",
@@ -380197,15 +380077,6 @@
       "topics": [],
       "gh_desc": "Rust integration for Unreal Engine 5",
       "id": 442194005
-    },
-    "xiv3r/Burpsuite-Professional": {
-      "star": 2782,
-      "created_at": "2023-05-28T05:36:18Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [],
-      "gh_desc": "Burpsuite Professional Latest Version 2026",
-      "id": 646352520
     },
     "locationtech/jts": {
       "star": 2220,
@@ -414830,36 +414701,6 @@
       "language": "",
       "topics": [],
       "id": 194212672
-    },
-    "sahibzada-allahyar/YC-Killer": {
-      "star": 2780,
-      "created_at": "2025-02-22T19:00:23Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "agora",
-        "astrophysics",
-        "bayesian-inference",
-        "cosmology",
-        "fastapi",
-        "lean",
-        "lean4",
-        "mcp",
-        "openxr",
-        "photon",
-        "physics",
-        "proof-assistant",
-        "quantum",
-        "ready-player-me",
-        "reinforcement-learning",
-        "reproducibility",
-        "unity",
-        "vr-office",
-        "wolfram-alpha",
-        "xri"
-      ],
-      "gh_desc": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star ⭐️ this repository and use the link in the readme to join our open source AI research team.",
-      "id": 937280308
     },
     "PureDarwin/PureDarwin": {
       "star": 2643,
@@ -480941,25 +480782,6 @@
       "topics": [],
       "gh_desc": "Material Design 中文协同翻译 - design.1sters.com",
       "id": 21226841
-    },
-    "CodeRayZhang/Movie_Recommend": {
-      "star": 3005,
-      "created_at": "2018-04-18T15:42:28Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [
-        "hadoop",
-        "hive",
-        "mysql",
-        "nginx",
-        "scala",
-        "scrapy",
-        "spark-mllib",
-        "spark-streaming",
-        "ssm-maven"
-      ],
-      "gh_desc": "基于Spark的电影推荐系统，包含爬虫项目、web网站、后台管理系统以及spark推荐系统",
-      "id": 130085392
     },
     "haxiomic/GPU-Fluid-Experiments": {
       "star": 3063,
@@ -750328,29 +750150,6 @@
       "gh_desc": " Foundations of Medical Large Language Model Learning",
       "id": 1166412094
     },
-    "MadsLorentzen/ai-job-search": {
-      "star": 28263,
-      "created_at": "2026-03-18T14:33:04Z",
-      "desc": "项目定位与用途:\n本项目是一个基于 Claude Code 构建的 AI 驱动求职应用框架。其核心定位是将命令行工具转化为全栈求职助手，通过结构化的工作流帮助用户完成从个人档案建立、职位匹配评估到求职材料生成的全流程。用户只需 Fork 项目并填写个人档案，即可利用 AI 自动评估职位匹配度、定制简历、撰写求职信并模拟面试准备，旨在提供一套本地化、可自主控制的求职自动化方案。\n\n解决的问题:\n传统求职过程通常耗时耗力，需手动筛选海量职位、反复修改简历与求职信，且缺乏系统化的评估机制。本项目通过自动化与 AI 辅助，解决了求职者在材料定制、职位匹配度量化评估以及面试准备环节的效率瓶颈。它将原本分散且重复的求职动作整合为标准化流水线，显著降低时间成本，同时保障数据隐私与流程可控，避免依赖第三方付费平台或存在潜在风险的赞助项目。\n\n使用场景:\n主要面向正在积极求职或寻求职业转型的个人开发者、技术人员及应届毕业生。典型场景包括：利用本地化工作流批量抓取并筛选目标职位、针对特定岗位快速生成定制化简历与求职信、通过 AI 模拟面试进行针对性准备。虽然内置技能默认适配丹麦本地招聘网站，但其核心架构支持替换为其他地区的求职平台，适用于希望自主掌控求职节奏、注重隐私保护且偏好命令行操作的用户群体。\n\n技术架构与特性:\n项目以 Claude Code 为核心引擎，采用模块化命令行工作流架构，包含建档、抓取与申请三大核心指令。其底层采用起草者审查者应用流水线，支持职位匹配度加权评分与去重过滤。架构设计具备语言与国家无关性，搜索模块可灵活替换。近期更新持续优化性能与稳定性，涵盖 UTF-8 编码兼容、样式值解析、权重评分防漂移及异常裁决处理等底层特性。",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "career",
-        "claude-code",
-        "cover-letter",
-        "cv",
-        "interview-preparation",
-        "job-application",
-        "job-hunting",
-        "job-search",
-        "latex",
-        "resume"
-      ],
-      "desc_updated_at": "2026-10-21",
-      "gh_desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "id": 1185389803
-    },
     "fim-ai/fim-one": {
       "star": 1372,
       "created_at": "2026-02-22T15:26:03Z",
@@ -763027,15 +762826,6 @@
       "topics": [],
       "gh_desc": "A privacy-focused iOS app that raises awareness about what native apps can see",
       "id": 1258828721
-    },
-    "LoseNine/ruyipage": {
-      "star": 1807,
-      "created_at": "2026-04-07T12:09:18Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "下一代Python的web自动化过检测框架，通过一切网站检测的Firefox内核浏览器。RuyiPage is a Python-based Firefox automation framework built on the next-generation WebDriver BiDi protocol.",
-      "id": 1203815539
     },
     "Linfeng-Tang/Image-Fusion": {
       "star": 1213,
@@ -793015,11 +792805,6 @@
       "star": 896,
       "created_at": "2017-07-30T13:01:46Z",
       "id": 98797746
-    },
-    "houko/SpringBootUnity": {
-      "star": 884,
-      "created_at": "2016-04-02T03:47:39Z",
-      "id": 55276445
     },
     "dearbinge/dubbo-spring-boot-mybatis-redis": {
       "star": 881,
@@ -828576,11 +828361,6 @@
       "created_at": "2021-08-26T15:52:48Z",
       "id": 400225327
     },
-    "AxioDL/metaforce": {
-      "star": 722,
-      "created_at": "2015-04-19T06:29:23Z",
-      "id": 34196081
-    },
     "Wargus/stratagus": {
       "star": 720,
       "created_at": "2015-11-19T15:19:57Z",
@@ -854378,11 +854158,6 @@
       "created_at": "2017-06-02T17:51:30Z",
       "id": 93190658
     },
-    "HITLittleZheng/HITCS": {
-      "star": 733,
-      "created_at": "2024-01-13T13:37:19Z",
-      "id": 742825291
-    },
     "RTEMS/rtems": {
       "star": 765,
       "created_at": "2012-05-05T07:37:18Z",
@@ -860714,11 +860489,6 @@
       "star": 617,
       "created_at": "2010-07-04T22:09:11Z",
       "id": 756856
-    },
-    "input-output-hk/haskell.nix": {
-      "star": 632,
-      "created_at": "2018-04-20T16:00:09Z",
-      "id": 130384443
     },
     "lindera/lindera": {
       "star": 645,
@@ -879660,11 +879430,6 @@
       "created_at": "2017-11-10T18:02:28Z",
       "id": 110277267
     },
-    "jazzband/django-hosts": {
-      "star": 1058,
-      "created_at": "2011-09-29T22:45:37Z",
-      "id": 2485503
-    },
     "ngs-doo/dsl-json": {
       "star": 1067,
       "created_at": "2015-11-02T09:17:39Z",
@@ -883163,11 +882928,6 @@
       "star": 1029,
       "created_at": "2020-08-30T17:58:48Z",
       "id": 291523587
-    },
-    "microsoft/HydraLab": {
-      "star": 1028,
-      "created_at": "2022-04-28T09:18:16Z",
-      "id": 486525050
     },
     "c-frame/aframe-extras": {
       "star": 1012,
@@ -930656,11 +930416,6 @@
       "created_at": "2023-07-10T17:47:04Z",
       "id": 664767555
     },
-    "houko/wechatgpt": {
-      "star": 854,
-      "created_at": "2022-12-07T03:37:33Z",
-      "id": 575234714
-    },
     "cjyaddone/ChatWaifu": {
       "star": 835,
       "created_at": "2022-12-18T00:57:03Z",
@@ -971501,11 +971256,6 @@
       "created_at": "2017-11-24T11:36:16Z",
       "id": 111911659
     },
-    "LoseNine/Crack-JS-Spider": {
-      "star": 1031,
-      "created_at": "2020-02-09T05:24:39Z",
-      "id": 239251796
-    },
     "toineheuvelmans/Metron": {
       "star": 1031,
       "created_at": "2017-06-16T10:09:00Z",
@@ -993016,11 +992766,6 @@
       "created_at": "2013-07-01T00:09:15Z",
       "id": 11080240
     },
-    "vialer/vialer-js": {
-      "star": 1007,
-      "created_at": "2017-04-03T12:08:42Z",
-      "id": 87069784
-    },
     "ffii/ffii-projects": {
       "star": 1007,
       "created_at": "2017-11-24T11:51:59Z",
@@ -999975,11 +999720,6 @@
       "star": 523,
       "created_at": "2017-12-23T19:41:24Z",
       "id": 115217826
-    },
-    "onblog/JavaMonitor": {
-      "star": 523,
-      "created_at": "2018-11-14T10:51:42Z",
-      "id": 157534574
     },
     "henriklovhaug/md-tui": {
       "star": 523,
@@ -1052501,11 +1052241,6 @@
       "created_at": "2016-09-23T07:23:25Z",
       "id": 69000214
     },
-    "LoseNine/Chromium_FingerPrint_Tutorial": {
-      "star": 529,
-      "created_at": "2025-06-04T03:46:59Z",
-      "id": 995816336
-    },
     "tc39/proposal-iterator.range": {
       "star": 529,
       "created_at": "2019-01-18T14:07:17Z",
@@ -1058075,11 +1057810,6 @@
       "star": 686,
       "created_at": "2020-12-07T16:26:13Z",
       "id": 319377892
-    },
-    "LoseNine/Restore-JS": {
-      "star": 686,
-      "created_at": "2020-06-20T01:49:28Z",
-      "id": 273619502
     },
     "aws/amazon-eks-pod-identity-webhook": {
       "star": 686,
@@ -1077465,11 +1077195,6 @@
       "star": 631,
       "created_at": "2019-12-30T05:56:59Z",
       "id": 230856742
-    },
-    "kemomi/daimai": {
-      "star": 631,
-      "created_at": "2023-03-01T05:06:48Z",
-      "id": 607995808
     },
     "caidaoli/kiro2api": {
       "star": 631,
@@ -1102785,11 +1102510,6 @@
       "star": 528,
       "created_at": "2015-07-21T13:48:57Z",
       "id": 39447920
-    },
-    "CodeRayZhang/News_Spark": {
-      "star": 528,
-      "created_at": "2018-05-03T11:47:33Z",
-      "id": 131987217
     },
     "PANmedia/raptor-editor": {
       "star": 528,
@@ -1128404,11 +1128124,6 @@
       "created_at": "2025-03-10T23:15:41Z",
       "id": 946294646
     },
-    "b3-fun/b3os": {
-      "star": 489,
-      "created_at": "2026-04-29T13:41:02Z",
-      "id": 1224647598
-    },
     "ksoichiro/awesome-gradle": {
       "star": 487,
       "created_at": "2015-12-21T10:59:00Z",
@@ -1133328,11 +1133043,6 @@
       "star": 464,
       "created_at": "2026-01-02T14:23:19Z",
       "id": 1126758231
-    },
-    "lingyuanli/MultiGen": {
-      "star": 464,
-      "created_at": "2026-01-10T09:09:35Z",
-      "id": 1131565769
     },
     "NPC-Worldwide/npcsh": {
       "star": 457,
@@ -1185793,11 +1185503,6 @@
       "created_at": "2014-03-25T11:34:42Z",
       "id": 18098041
     },
-    "yuziiiiiiiiii/SMS_Bomb_Fuzzer": {
-      "star": 421,
-      "created_at": "2025-03-06T16:38:23Z",
-      "id": 944016102
-    },
     "rewonc/pastalog": {
       "star": 421,
       "created_at": "2016-03-31T17:57:49Z",
@@ -1211128,11 +1210833,6 @@
       "created_at": "2025-06-19T09:25:50Z",
       "id": 1004852445
     },
-    "launchaco/logo_builder": {
-      "star": 401,
-      "created_at": "2018-05-23T05:29:36Z",
-      "id": 134517929
-    },
     "chunminglu/books": {
       "star": 401,
       "created_at": "2015-11-01T05:49:22Z",
@@ -1226392,11 +1226092,6 @@
       "star": 452,
       "created_at": "2023-03-29T07:58:23Z",
       "id": 620704312
-    },
-    "LoseNine/AutoWK": {
-      "star": 452,
-      "created_at": "2025-04-29T10:28:55Z",
-      "id": 974802805
     },
     "bmizerany/roundup": {
       "star": 436,
@@ -1243268,11 +1242963,6 @@
       "created_at": "2011-03-20T15:50:51Z",
       "id": 1503443
     },
-    "malmstein/fenster": {
-      "star": 400,
-      "created_at": "2014-07-28T21:46:42Z",
-      "id": 22359009
-    },
     "torchhound/warren": {
       "star": 400,
       "created_at": "2016-10-30T20:52:54Z",
@@ -1243352,11 +1243042,6 @@
       "star": 400,
       "created_at": "2024-10-04T14:56:05Z",
       "id": 867702182
-    },
-    "jewlofthelotus/SlickQuiz": {
-      "star": 400,
-      "created_at": "2012-04-23T17:23:23Z",
-      "id": 4115715
     },
     "jiejieTop/ButtonDrive": {
       "star": 400,
@@ -1249862,11 +1249547,6 @@
       "desc": "项目定位与用途:\n这是一个开源的、以 agent 为核心的 CRM。README 明确指出“agent 才是产品”，CRM 主要作为研究代理记录信息的地方。它不是传统的表单式数据库，也不是给聊天框加一层外壳，而是让代理在独立部署中按自己的节奏工作、写入记录、安排跟进并持续运行。\n\n解决的问题:\n项目试图解决传统 CRM 依赖人工录入、查询和判断事实的问题。README 认为这些系统把“找出真实情况并记录下来”的工作留给了人，而该项目希望由代理自动承担研究与归档。它还强调不允许对人的信息进行猜测，避免模型自证式的错误判断。\n\n使用场景:\n从 README 可见，它适合需要持续研究、跟进和沉淀客户信息的场景，例如管理线索、公司、参会者、待办和管道阶段。目标用户应是希望把部分客户研究、信息补全和证据整理交给代理处理的团队，而不是只做手工登记的普通 CRM 使用者。\n\n技术架构与特性:\n已知技术栈包括 NestJS、Bun、Postgres，以及名为 eve 的 agent 运行环境。架构上，API 只负责把“发生了什么”写入队列，不承载智能判断；代理通过独立部署和工作队列认领任务。其特性还包括按研究预算运行、可在关闭浏览器后继续执行，以及以证据账本区分强证据和弱建议。",
       "desc_updated_at": "2026-08-05",
       "id": 1318768894
-    },
-    "NoobyGains/claude-pulse": {
-      "star": 410,
-      "created_at": "2026-02-07T20:12:45Z",
-      "id": 1152395501
     },
     "actuallyaridan/linux-devmgmt": {
       "star": 415,
@@ -1259720,11 +1259400,6 @@
       "created_at": "2026-08-13T13:23:11Z",
       "id": 1333142935
     },
-    "fy-agent/fyagent": {
-      "star": 484,
-      "created_at": "2026-07-27T06:29:30Z",
-      "id": 1313497021
-    },
     "YGTQ3/disk-butler": {
       "star": 404,
       "created_at": "2026-07-26T11:13:48Z",
@@ -1262232,11 +1261907,6 @@
       "star": 556,
       "created_at": "2023-09-22T02:49:29Z",
       "id": 694945257
-    },
-    "hcliucs/APSD": {
-      "star": 1226,
-      "created_at": "2023-07-28T03:56:57Z",
-      "id": 671752031
     },
     "yourincomehome/awesome-passive-income": {
       "star": 401,
@@ -1265873,11 +1265543,6 @@
       "created_at": "2025-06-11T22:53:11Z",
       "id": 1000512568
     },
-    "MAX-API-Next/MAX-API": {
-      "star": 401,
-      "created_at": "2026-06-15T13:20:59Z",
-      "id": 1270187094
-    },
     "marzent/XIV-on-Mac": {
       "star": 401,
       "created_at": "2021-12-22T22:23:55Z",
@@ -1268869,11 +1268534,6 @@
       "created_at": "2026-06-29T21:47:40Z",
       "id": 1284445635
     },
-    "CosmosMind-ai/RSI-Harness": {
-      "star": 658,
-      "created_at": "2026-09-03T08:45:37Z",
-      "id": 1355730207
-    },
     "ViceVerse-cz/Serein": {
       "star": 414,
       "created_at": "2026-09-09T20:42:14Z",
@@ -1269166,11 +1268826,6 @@
       "created_at": "2026-06-04T03:45:01Z",
       "id": 1258932513
     },
-    "OpenSparX/MasterAgent": {
-      "star": 474,
-      "created_at": "2026-08-10T18:43:36Z",
-      "id": 1330144990
-    },
     "WeZZard/jlens-qwen36": {
       "star": 400,
       "created_at": "2026-07-07T18:33:14Z",
@@ -1269267,13 +1268922,6 @@
       "id": 1374005005,
       "desc": "项目定位与用途:\n本项目是一个面向Claude Code的插件及独立的npm库，核心功能是将传统的上下文压缩摘要机制替换为基于Jev决策的精准压缩方案。它通过快速请求对对话中的每一次工具调用及其返回结果进行独立评分，根据评分结果决定保留、截断或丢弃。被保留的内容保持原始文本不变，旨在为AI编程助手提供高效且无损的会话上下文管理工具。\n\n解决的问题:\n传统上下文压缩依赖大语言模型生成摘要，该过程具有信息丢失风险，关键细节如文件路径、精确报错、约束条件或执行命令可能在摘要中消失，影响后续任务执行。本项目彻底摒弃重写机制，仅依据Jev的决策移除不再需要的工具调用与结果，确保用户与助手的原始文本按序完整保留，从根本上解决了压缩过程中的关键信息丢失痛点。\n\n使用场景:\n主要面向使用Claude Code进行复杂代码开发、调试与重构的开发者及AI辅助编程工作流。适用于会话长度持续增长、需要频繁压缩历史上下文以控制Token消耗的场景。特别适合对历史工具调用结果有强依赖，且要求压缩后关键路径、错误堆栈或配置参数必须原样保留的长周期编程任务。\n\n技术架构与特性:\n项目采用分层状态压缩架构，将完整对话状态按阶段适配至最大状态Token限制，通过逐步截断输入、精简文本与折叠旧消息控制体积。采用并发请求机制，将评分问题拆分至单次请求限制内并行处理，并基于阈值策略执行保留、截断或移除决策。内置无分词器Token估算模型，支持插件与库双形态部署，失败时抛出异常交由调用方处理。",
       "desc_updated_at": "2026-09-23"
-    },
-    "filtalgo/Filtmall-Shopping-Skill": {
-      "star": 556,
-      "created_at": "2026-05-28T12:02:51Z",
-      "id": 1252321383,
-      "desc": "项目定位与用途:\n本项目是筛电官方推出的AI智能体购物技能插件。它旨在为AI智能体提供一站式购物流程支持，涵盖实时商品检索、同规格比价凭证展示、购物车管理、下单支付、订单物流追踪及售后服务。用户仅需输入自然语言需求，智能体即可快速匹配商品并引导完成交易，当前商品目录主要聚焦于美妆与个护领域，账户授权与支付环节仍由买家自主完成。\n\n解决的问题:\n传统电商购物流程繁琐，AI智能体在购物场景中常面临数据非结构化、比价缺乏凭证、交易链路断裂等痛点。本项目通过提供实时商品数据与明确的同平台同规格价格对比证据，解决了智能体推荐商品时价值不透明和决策依据不足的问题。同时，它将商品发现、比价决策、下单支付与售后跟进整合于单一对话上下文中，避免了多平台跳转与上下文丢失，大幅提升了AI辅助购物的连贯性与可信度。\n\n使用场景:\n适用于需要AI辅助进行消费决策的个人用户及集成购物功能的智能体应用。典型场景包括：用户通过自然语言描述需求，智能体实时检索并推荐匹配商品；用户要求对比多款产品的规格、价格与适用肤质，智能体提供结构化比价证据；交易完成后，用户通过同一对话查询订单状态、物流进度、管理收货地址或发起退换货售后。目标用户为追求极致性价比的美妆个护消费者及AI应用开发者。\n\n技术架构与特性:\n项目基于Node.js 18及以上环境运行，采用CLI运行时架构，支持通过npx命令一键安装或直接导入仓库文件。核心特性包括Agent原生设计，将实时价格、库存、规格等数据以结构化格式返回供智能体推理；全链路对话上下文管理，实现从发现到售后的无缝衔接；价格优势可视化机制，仅在匹配规格、来源平台与记录时间一致时展示比价凭证。当前版本为1.11.1，持续优化数据检索逻辑。",
-      "desc_updated_at": "2026-10-07"
     },
     "greptileai/skills": {
       "star": 400,
@@ -1272181,11 +1271829,6 @@
       "created_at": "2023-10-06T09:20:52Z",
       "id": 701263655
     },
-    "yoohoo360/open-pencil-cloud": {
-      "star": 425,
-      "created_at": "2026-03-31T03:18:56Z",
-      "id": 1196784223
-    },
     "skrstop/MCPHub-Desktop": {
       "star": 410,
       "created_at": "2026-04-21T04:53:14Z",
@@ -1272200,11 +1271843,6 @@
       "star": 444,
       "created_at": "2026-09-18T06:58:34Z",
       "id": 1375500090
-    },
-    "LearnTechWithUs/Stereo-Vision": {
-      "star": 400,
-      "created_at": "2018-01-29T16:03:40Z",
-      "id": 119405679
     },
     "freestylefly/WeChatBridge": {
       "star": 596,
@@ -1272664,11 +1272302,6 @@
       "star": 942,
       "created_at": "2019-06-30T14:09:08Z",
       "id": 194523292
-    },
-    "modelstudioai/cli": {
-      "star": 421,
-      "created_at": "2026-05-28T01:46:10Z",
-      "id": 1251875798
     },
     "Agent-Threat-Rule/agent-threat-rules": {
       "star": 400,
@@ -1273551,11 +1273184,6 @@
       "star": 400,
       "created_at": "2017-05-13T09:56:22Z",
       "id": 91164909
-    },
-    "crunz-ai/nativePDF-structurer": {
-      "star": 407,
-      "created_at": "2026-08-21T02:41:01Z",
-      "id": 1341330299
     },
     "thiagotigaz/ocr-it": {
       "star": 401,
@@ -1274678,36 +1274306,6 @@
       "created_at": "2026-04-04T15:20:01Z",
       "id": 1201361919
     },
-    "Anil-matcha/open-dots": {
-      "star": 3928,
-      "created_at": "2023-05-25T14:21:12Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "agent-tools",
-        "ai-agents",
-        "ai-art",
-        "ai-music",
-        "ai-video",
-        "claude-code",
-        "flux",
-        "generative-ai",
-        "image-generation",
-        "kling",
-        "mcp",
-        "midjourney",
-        "muapi",
-        "multimodal-ai",
-        "skills",
-        "suno",
-        "text-to-audio",
-        "text-to-image",
-        "text-to-video",
-        "video-generation"
-      ],
-      "gh_desc": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
-      "id": 645381450
-    },
     "AgentSystemLabs/agent-office": {
       "star": 403,
       "created_at": "2026-09-26T00:32:48Z",
@@ -1275118,13 +1274716,6 @@
       ],
       "gh_desc": "Financial data platform for analysts, quants and AI agents.",
       "id": 323048702
-    },
-    "edenfunf/reelmimic": {
-      "star": 467,
-      "created_at": "2026-09-28T19:14:59Z",
-      "id": 1393689296,
-      "desc": "项目定位与用途:\nReelMimic是一款本地运行的视频风格迁移与生成工具。用户只需提供一段参考视频（支持文件、手机录制或YouTube链接）及一句话创作需求，系统即可自动解析参考视频的剪辑节奏、镜头长度、转场、构图、色彩与运镜等核心视觉特征。随后生成包含分镜、角色、素材与风格帧的详细制作计划供用户确认。项目旨在通过AI辅助，帮助用户快速复刻并创新视频视觉风格，实现参考其风格并创作全新内容的目标。\n\n解决的问题:\n该项目主要解决视频创作者在模仿特定视觉风格时面临的高门槛与低效率问题。传统方式需手动拆解并复现复杂的镜头语言，而现有AI工具多为一次性生成且缺乏质量把控。ReelMimic通过前置计划确认与多智能体并行工作流，结合逐镜头审查与自动修正循环，有效避免了生成结果失控。同时工具严格隔离原始素材，确保输出内容完全原创，兼顾风格还原与版权安全。\n\n使用场景:\n适用于需要快速产出特定视觉风格视频的个人创作者、独立音乐人及短视频制作者。典型场景包括制作手绘风格音乐视频、叙事类漫画短片、个人Vlog风格复刻以及社交媒体创意内容生产。用户可通过本地对话界面随时调整参数、补充素材或修改分镜，无需依赖云端算力或复杂的专业剪辑软件。项目特别适合对视频视觉一致性有较高要求，且希望完全掌控生成过程与数据隐私的创作者。\n\n技术架构与特性:\n项目采用本地化部署架构，依赖Node 22.18与Python 3.10环境，并兼容Claude Code与Codex CLI等AI助手。核心架构基于多智能体协同机制，最多支持六个AI代理并行处理视频的不同模块。系统内置分析参考、生成计划、并行制作、逐镜头审查与自动修正的闭环工作流。特性包括非破坏性风格学习、交互式计划确认、多模态输入支持及严格的本地隐私保护，确保全流程可控。",
-      "desc_updated_at": "2026-10-07"
     },
     "SmythOS/smythos-studio": {
       "star": 451,
@@ -1275643,20 +1275234,10 @@
       "created_at": "2026-07-27T10:19:46Z",
       "id": 1313704396
     },
-    "ThinkWatchProject/ThinkWatch-Lite": {
-      "star": 439,
-      "created_at": "2026-09-12T13:48:15Z",
-      "id": 1367338986
-    },
     "useLexora/Lexora": {
       "star": 413,
       "created_at": "2026-03-30T16:50:22Z",
       "id": 1196391500
-    },
-    "shengshu-ai/Motus2": {
-      "star": 407,
-      "created_at": "2026-09-11T15:12:14Z",
-      "id": 1366345467
     },
     "Likely7/Veyra-NRVideo": {
       "star": 402,
@@ -1277508,11 +1277089,6 @@
       "created_at": "2021-09-20T00:26:44Z",
       "id": 408268292
     },
-    "Batlez/CloakBox": {
-      "star": 400,
-      "created_at": "2024-04-15T01:51:22Z",
-      "id": 786627499
-    },
     "Noumena-Network/nmoe": {
       "star": 400,
       "created_at": "2025-12-17T08:26:18Z",
@@ -1277910,11 +1277486,6 @@
       "created_at": "2026-09-30T05:43:35Z",
       "id": 1397088773
     },
-    "billion-token-one-task/Deepgraph": {
-      "star": 681,
-      "created_at": "2026-03-18T04:14:24Z",
-      "id": 1184928433
-    },
     "sudoprivacy/sudocode": {
       "star": 401,
       "created_at": "2026-04-22T18:35:30Z",
@@ -1278158,11 +1277729,6 @@
       "created_at": "2026-10-02T17:17:59Z",
       "id": 1402121018
     },
-    "feder-cr/invisible_puppeteer": {
-      "star": 532,
-      "created_at": "2024-09-01T19:21:06Z",
-      "id": 850787855
-    },
     "Leanmcp/gateway-skills": {
       "star": 2115,
       "created_at": "2026-03-31T09:17:51Z",
@@ -1278191,11 +1277757,6 @@
       "star": 400,
       "created_at": "2026-09-05T06:41:51Z",
       "id": 1357905477
-    },
-    "feder-cr/invisible_selenium": {
-      "star": 523,
-      "created_at": "2024-08-16T18:44:26Z",
-      "id": 843543347
     },
     "walidboulanouar/awesome-jev-use-cases": {
       "star": 400,
@@ -1278765,11 +1278326,6 @@
       "created_at": "2026-07-07T11:58:37Z",
       "id": 1292266680
     },
-    "LosaLosSantos/aurelio-finance": {
-      "star": 701,
-      "created_at": "2026-10-06T20:14:19Z",
-      "id": 1407873347
-    },
     "repetier/RepetierFirmware": {
       "star": 829,
       "created_at": "2011-09-04T16:20:49Z",
@@ -1278980,11 +1278536,6 @@
       "created_at": "2017-05-20T20:35:13Z",
       "id": 91914961
     },
-    "Snowstorm1492/SafeIMG": {
-      "star": 404,
-      "created_at": "2026-07-19T08:17:28Z",
-      "id": 1305538286
-    },
     "WirelessPresentation/WirelessDisplay": {
       "star": 400,
       "created_at": "2021-08-17T02:34:40Z",
@@ -1279144,11 +1278695,6 @@
       "created_at": "2026-08-16T09:08:07Z",
       "id": 1335771179
     },
-    "hackersandslackers/flask-sqlalchemy-tutorial": {
-      "star": 400,
-      "created_at": "2019-02-06T05:40:52Z",
-      "id": 169360484
-    },
     "busabase/busabase": {
       "star": 429,
       "created_at": "2026-06-23T03:35:31Z",
@@ -1279234,11 +1278780,6 @@
       "star": 1053,
       "created_at": "2026-10-07T08:31:31Z",
       "id": 1408486424
-    },
-    "t4t5/omdrop-owl": {
-      "star": 645,
-      "created_at": "2026-10-08T06:38:33Z",
-      "id": 1409860044
     },
     "ddeverill/SteamlessController": {
       "star": 401,
@@ -1279863,11 +1279404,6 @@
       "created_at": "2026-10-09T19:30:14Z",
       "id": 1412360690
     },
-    "natoshikamoto/a1lon9bot": {
-      "star": 474,
-      "created_at": "2026-07-01T18:15:44Z",
-      "id": 1286383656
-    },
     "tianlan-ltd/Magic-Insight": {
       "star": 545,
       "created_at": "2024-10-01T14:10:05Z",
@@ -1279979,11 +1279515,6 @@
       "star": 400,
       "created_at": "2023-03-06T11:03:26Z",
       "id": 610229529
-    },
-    "corrinehu/dsh-workbuddy-connect": {
-      "star": 471,
-      "created_at": "2026-08-17T19:02:44Z",
-      "id": 1337545070
     },
     "skyline69/balatro-mod-manager": {
       "star": 400,
@@ -1280427,11 +1279958,6 @@
       "id": 1401469171,
       "desc": "项目定位与用途:\n本项目是Folkbench生态的配套桌面客户端Folkbench Switch的源代码仓库。Folkbench平台持续对各类AI中转站进行实测评测，公开其可用率、响应耗时与价格数据。本客户端的核心用途是将用户在评测大盘中筛选出的优质中转站线路，自动写入Claude Code、Codex等AI开发工具的配置文件中，实现中转站切换与API调用的便捷管理。\n\n解决的问题:\n当前AI开发者与使用者常面临中转站质量参差不齐、手动筛选耗时且配置繁琐的痛点。各平台API的可用率、延迟与价格波动频繁，手动维护多套代理配置极易出错。本项目通过提供持续更新的实测评测数据与自动化配置工具，帮助用户快速定位高性价比、高可用的中转线路，免去手动测试与繁琐的环境变量配置过程，显著提升开发效率。\n\n使用场景:\n主要面向依赖AI编程助手与模型API的开发者、研究人员及高级用户。典型场景包括：在Claude Code、Codex等本地AI开发工具中快速切换不同中转站线路；根据实时评测数据动态调整API调用策略；在多模型兼容与费用优化需求下，批量管理并注入代理配置。适用于需要稳定访问主流大模型且追求成本控制的日常开发与测试环境。\n\n技术架构与特性:\n项目采用Tauri框架构建跨平台桌面客户端，结合Web端评测大盘实现数据联动。核心特性包括：自动解析并注入中转站配置至主流AI工具环境变量；支持多模型兼容与API Key有序回退策略；提供缓存命中率保障与费用追踪功能。客户端采用持续集成与自动化发布流程，支持macOS签名与多语言文档，以Beta版本迭代保持功能稳定。",
       "desc_updated_at": "2026-10-21"
-    },
-    "OpenMOSS/EasyWAM": {
-      "star": 405,
-      "created_at": "2026-08-26T15:08:36Z",
-      "id": 1347481129
     },
     "Gen-Verse/RSI-Anything": {
       "star": 491,
@@ -1281448,16 +1280974,6 @@
       "created_at": "2026-07-09T13:31:39Z",
       "id": 1295289708
     },
-    "missdeer/ace-tool-rs": {
-      "star": 400,
-      "created_at": "2025-12-27T08:53:03Z",
-      "id": 1123617901
-    },
-    "hitmux/hitmux-context-engine": {
-      "star": 400,
-      "created_at": "2026-06-10T10:07:38Z",
-      "id": 1264936952
-    },
     "pathwaycom/serviette": {
       "star": 58958,
       "created_at": "2023-07-19T08:43:37Z",
@@ -1281558,11 +1281074,6 @@
       "star": 404,
       "created_at": "2026-06-19T01:13:25Z",
       "id": 1273887301
-    },
-    "GanyuanRan/Autoloom": {
-      "star": 418,
-      "created_at": "2026-09-30T12:40:15Z",
-      "id": 1397906178
     },
     "Anil-matcha/awesome-agent-apis": {
       "star": 972,
@@ -1281668,15 +1281179,6 @@
       "created_at": "2026-04-18T17:30:25Z",
       "id": 1214519814
     },
-    "DAIR-AutoResearch/AutoSci": {
-      "star": 1591,
-      "created_at": "2026-04-09T14:10:46Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
-      "id": 1206036567
-    },
     "Dr-TSNG/Hide-My-Applist": {
       "star": 5586,
       "created_at": "2021-03-19T14:12:50Z",
@@ -1281687,11 +1281189,6 @@
       "created_at": "2026-09-05T14:58:45Z",
       "id": 1358297748
     },
-    "sercanarga/PCILeechGen": {
-      "star": 400,
-      "created_at": "2026-02-28T00:29:15Z",
-      "id": 1168925584
-    },
     "portbuster1337/lpe-toolkit": {
       "star": 412,
       "created_at": "2026-05-21T19:33:28Z",
@@ -1281701,11 +1281198,6 @@
       "star": 400,
       "created_at": "2022-08-27T19:15:37Z",
       "id": 529675941
-    },
-    "angel291592/Intent-Router": {
-      "star": 411,
-      "created_at": "2026-09-22T06:00:27Z",
-      "id": 1380950524
     },
     "Illyism/seo-skills": {
       "star": 461,
@@ -1282002,11 +1281494,6 @@
       "created_at": "2013-03-08T10:58:53Z",
       "id": 8649229
     },
-    "ZhendongWang6/DIRE": {
-      "star": 400,
-      "created_at": "2023-03-15T16:31:30Z",
-      "id": 614465969
-    },
     "akashblackhat/gmail-hack.py": {
       "star": 400,
       "created_at": "2022-09-18T06:34:25Z",
@@ -1282106,11 +1281593,6 @@
       "gh_desc": "The only AI app builder that knows backend",
       "id": 958172562
     },
-    "wangmiaozero/pi-harness": {
-      "star": 780,
-      "created_at": "2026-08-20T12:29:47Z",
-      "id": 1340676550
-    },
     "ant-design-blazor/ant-design-blazor": {
       "star": 6179,
       "created_at": "2019-11-26T05:25:02Z",
@@ -1282183,11 +1281665,6 @@
       "star": 400,
       "created_at": "2025-06-10T02:59:30Z",
       "id": 999283748
-    },
-    "Tencent/WeVisDoc": {
-      "star": 446,
-      "created_at": "2026-09-14T07:45:19Z",
-      "id": 1369493694
     },
     "Tencent-Hunyuan/Prism": {
       "star": 439,
@@ -1282319,21 +1281796,6 @@
       "created_at": "2026-10-01T18:43:46Z",
       "id": 1400568925
     },
-    "0814wdwd/solo_jev": {
-      "star": 496,
-      "created_at": "2026-09-29T13:47:45Z",
-      "id": 1395459827
-    },
-    "KristenPan/pickoo-your-favorites": {
-      "star": 757,
-      "created_at": "2026-08-25T14:43:33Z",
-      "id": 1346253341
-    },
-    "Spearmintai/mintocode": {
-      "star": 490,
-      "created_at": "2026-09-30T09:18:53Z",
-      "id": 1397483977
-    },
     "Vanilla-RTX/Vanilla-RTX": {
       "star": 506,
       "created_at": "2021-09-13T09:05:34Z",
@@ -1282383,11 +1281845,6 @@
       "star": 1187,
       "created_at": "2026-10-15T02:15:09Z",
       "id": 1420063501
-    },
-    "changshuangdaijing/integrity_baozi-": {
-      "star": 670,
-      "created_at": "2026-08-09T02:39:33Z",
-      "id": 1328361232
     },
     "ctrl-cheeb-del/pokeheartgold": {
       "star": 572,
@@ -1282538,11 +1281995,6 @@
       "star": 400,
       "created_at": "2026-07-29T15:06:20Z",
       "id": 1316265516
-    },
-    "tellahq/opensession": {
-      "star": 400,
-      "created_at": "2026-06-08T09:01:29Z",
-      "id": 1262723559
     },
     "trip-zip/somewm": {
       "star": 400,
@@ -1282828,11 +1282280,6 @@
       "created_at": "2026-10-13T08:19:01Z",
       "id": 1416692900
     },
-    "maga2010org/hackathon-run": {
-      "star": 411,
-      "created_at": "2026-08-19T01:13:51Z",
-      "id": 1338973163
-    },
     "trhhubsd/ARTEX": {
       "star": 697,
       "created_at": "2026-10-08T20:35:22Z",
@@ -1282877,16 +1282324,6 @@
       "star": 408,
       "created_at": "2015-01-09T05:32:42Z",
       "id": 29002406
-    },
-    "madong-code/madong-admin": {
-      "star": 417,
-      "created_at": "2025-07-23T06:27:43Z",
-      "id": 1024717607
-    },
-    "BQ-Wang0511/TalkLikeYou-Streaming-RealTime-Demo": {
-      "star": 444,
-      "created_at": "2026-10-04T05:57:06Z",
-      "id": 1403974550
     },
     "rerun-io/egui_crates": {
       "star": 561,
@@ -1282966,11 +1282403,6 @@
       "star": 423,
       "created_at": "2026-10-06T07:39:08Z",
       "id": 1406899769
-    },
-    "EMERGE-Policy/EMERGE-Policy": {
-      "star": 407,
-      "created_at": "2026-08-28T14:11:31Z",
-      "id": 1349675679
     },
     "TreapGoGo/deepseek-whale-girl": {
       "star": 407,
@@ -1283483,11 +1282915,6 @@
       "created_at": "2025-08-20T04:06:02Z",
       "id": 1041150013
     },
-    "OpenBMB/Meshy": {
-      "star": 407,
-      "created_at": "2026-09-04T02:45:08Z",
-      "id": 1356631397
-    },
     "AhmadHassan-BTed/SilentSniffer": {
       "star": 422,
       "created_at": "2026-04-26T12:54:53Z",
@@ -1283563,16 +1282990,6 @@
       "star": 414,
       "created_at": "2026-10-11T07:15:07Z",
       "id": 1414050342
-    },
-    "OnlistTeam/ai-manager": {
-      "star": 410,
-      "created_at": "2026-09-21T05:07:53Z",
-      "id": 1379117882
-    },
-    "wangmingxuan666/Tiersense": {
-      "star": 442,
-      "created_at": "2026-09-24T06:36:17Z",
-      "id": 1384858191
     },
     "hdavid/Launchpad95": {
       "star": 400,
@@ -1284158,11 +1283575,6 @@
       "created_at": "2022-10-13T18:36:40Z",
       "id": 551039411
     },
-    "kristianvast/hermes-claude-auth": {
-      "star": 400,
-      "created_at": "2026-04-12T13:28:25Z",
-      "id": 1208576919
-    },
     "pmndrs/glyph": {
       "star": 400,
       "created_at": "2026-07-22T13:35:06Z",
@@ -1284400,11 +1283812,6 @@
       "star": 402,
       "created_at": "2026-09-10T13:53:31Z",
       "id": 1364266923
-    },
-    "Prohao42/aimy-skill": {
-      "star": 450,
-      "created_at": "2026-06-02T13:46:57Z",
-      "id": 1257238395
     },
     "adunext/adu-motion-video": {
       "star": 409,
@@ -1285015,11 +1284422,6 @@
       "gh_desc": "Authentication Module for django rest auth",
       "id": 42185087
     },
-    "ZenAI-Vietnam/ComfyUI-Kontext-Inpainting": {
-      "star": 400,
-      "created_at": "2025-07-01T10:52:40Z",
-      "id": 1011794039
-    },
     "ELY-Open-Source/ElyOffice": {
       "star": 644,
       "created_at": "2026-10-19T23:04:42Z",
@@ -1285354,11 +1284756,6 @@
       "created_at": "2026-10-13T07:54:44Z",
       "id": 1416666644
     },
-    "nunomaduro/dev-null.sh": {
-      "star": 429,
-      "created_at": "2026-10-15T09:14:32Z",
-      "id": 1420454266
-    },
     "fumingyang2004/Tulpa": {
       "star": 407,
       "created_at": "2026-09-26T10:23:53Z",
@@ -1285543,6 +1284940,652 @@
       "star": 403,
       "created_at": "2026-10-10T22:14:38Z",
       "id": 1413712157
+    },
+    "maxritter/qualitylayer": {
+      "star": 1790,
+      "created_at": "2025-10-18T08:30:23Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-assistant",
+        "ai-coding",
+        "ai-coding-tools",
+        "ai-engineering",
+        "ai-tools",
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-context",
+        "claude-skills",
+        "claudecode",
+        "model-context-protocol",
+        "spec-driven-development"
+      ],
+      "gh_desc": "Make Claude Code production-ready — spec-driven plans, enforced quality gates, persistent knowledge",
+      "id": 1078701786
+    },
+    "kanaworksai-hue/audio-studio-mcp": {
+      "star": 431,
+      "created_at": "2026-10-18T11:13:56Z",
+      "id": 1424285974
+    },
+    "cheaper-inference/OmniRoute": {
+      "star": 33384,
+      "created_at": "2026-02-13T12:38:31Z",
+      "desc": "项目定位与用途:OmniRoute 是一个面向多供应商大语言模型的 AI gateway，提供与 OpenAI 兼容的统一入口。它把多个模型提供方的请求接入到同一个端点下，并支持智能路由、负载均衡、重试和故障切换，同时还可叠加策略、限流、缓存与可观测性，目标是让推理调用更稳定、可控且更省成本。\n\n解决的问题:该项目主要解决“多家 LLM 服务分散接入、规则各异、配额难管、失败难恢复”的问题。README 提到手动叠加免费额度很痛苦，因为会面对大量 SDK、速率限制和额度不透明等问题；OmniRoute 通过聚合多个提供方与模型，把路由、降级和预算管理集中到一个网关中，减少运维复杂度。\n\n使用场景:适合需要同时使用多个 LLM 提供方的开发者、团队或 AI 工具集成场景，例如 Claude Code、Codex、Cursor、Cline、Copilot 等工具通过一个端点接入不同模型。也适合希望利用免费层、进行成本控制、需要自动故障切换或统一管理调用策略的用户。README 还显示它提供仪表盘页面，用于查看免费额度与使用情况。\n\n技术架构与特性:从已给信息看，它以 OpenAI-compatible endpoint 作为对外接口，后端围绕路由策略、负载均衡、重试、fallback、rate limit、缓存和 observability 构建。标签还显示其定位包含 gateway、proxy-server、mcp-gateway 和 token-optimization。README 提到支持多种路由策略、自动回退，以及在仪表盘中展示免费层预算与实时用量；近期提交也显示项目持续在做速率限制、SSE、认证与权限控制等改进。",
+      "language": "TypeScript",
+      "topics": [
+        "gateway",
+        "llm-tools",
+        "mcp-gateway",
+        "proxy-server",
+        "token-optimization"
+      ],
+      "desc_updated_at": "2026-08-12",
+      "gh_desc": "OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference.",
+      "id": 1157102282
+    },
+    "ai-job-search-dev/ai-job-search": {
+      "star": 28263,
+      "created_at": "2026-03-18T14:33:04Z",
+      "desc": "项目定位与用途:\n本项目是一个基于 Claude Code 构建的 AI 驱动求职应用框架。其核心定位是将命令行工具转化为全栈求职助手，通过结构化的工作流帮助用户完成从个人档案建立、职位匹配评估到求职材料生成的全流程。用户只需 Fork 项目并填写个人档案，即可利用 AI 自动评估职位匹配度、定制简历、撰写求职信并模拟面试准备，旨在提供一套本地化、可自主控制的求职自动化方案。\n\n解决的问题:\n传统求职过程通常耗时耗力，需手动筛选海量职位、反复修改简历与求职信，且缺乏系统化的评估机制。本项目通过自动化与 AI 辅助，解决了求职者在材料定制、职位匹配度量化评估以及面试准备环节的效率瓶颈。它将原本分散且重复的求职动作整合为标准化流水线，显著降低时间成本，同时保障数据隐私与流程可控，避免依赖第三方付费平台或存在潜在风险的赞助项目。\n\n使用场景:\n主要面向正在积极求职或寻求职业转型的个人开发者、技术人员及应届毕业生。典型场景包括：利用本地化工作流批量抓取并筛选目标职位、针对特定岗位快速生成定制化简历与求职信、通过 AI 模拟面试进行针对性准备。虽然内置技能默认适配丹麦本地招聘网站，但其核心架构支持替换为其他地区的求职平台，适用于希望自主掌控求职节奏、注重隐私保护且偏好命令行操作的用户群体。\n\n技术架构与特性:\n项目以 Claude Code 为核心引擎，采用模块化命令行工作流架构，包含建档、抓取与申请三大核心指令。其底层采用起草者审查者应用流水线，支持职位匹配度加权评分与去重过滤。架构设计具备语言与国家无关性，搜索模块可灵活替换。近期更新持续优化性能与稳定性，涵盖 UTF-8 编码兼容、样式值解析、权重评分防漂移及异常裁决处理等底层特性。",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "career",
+        "claude-code",
+        "cover-letter",
+        "cv",
+        "interview-preparation",
+        "job-application",
+        "job-hunting",
+        "job-search",
+        "latex",
+        "resume"
+      ],
+      "desc_updated_at": "2026-10-21",
+      "gh_desc": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "id": 1185389803
+    },
+    "alexgaoth/awesome-reverse-engineered": {
+      "star": 521,
+      "created_at": "2026-10-11T17:30:10Z",
+      "id": 1414599291
+    },
+    "eagle-hq/EAGLE-4": {
+      "star": 750,
+      "created_at": "2026-10-20T14:03:04Z",
+      "id": 1427107663
+    },
+    "MelisaPeteRs2006/Silent-Crypto-Miner": {
+      "star": 400,
+      "created_at": "2026-09-18T11:55:33Z",
+      "id": 1375798631
+    },
+    "evilmartians/agent-prism": {
+      "star": 400,
+      "created_at": "2025-07-22T08:44:58Z",
+      "id": 1024141738
+    },
+    "izwi-ai/izwi": {
+      "star": 405,
+      "created_at": "2026-01-23T16:53:17Z",
+      "id": 1140713799
+    },
+    "Duelion/homebox-companion": {
+      "star": 403,
+      "created_at": "2025-11-28T23:51:15Z",
+      "id": 1106277470
+    },
+    "home-assistant/apps": {
+      "star": 2196,
+      "created_at": "2017-03-18T22:23:14Z",
+      "desc": "",
+      "language": "Shell",
+      "topics": [
+        "automation",
+        "docker",
+        "hacktoberfest",
+        "home",
+        "iot"
+      ],
+      "gh_desc": ":heavy_plus_sign: Docker add-ons for Home Assistant",
+      "id": 85435841
+    },
+    "RayXBuilds/Movie_Recommend": {
+      "star": 3005,
+      "created_at": "2018-04-18T15:42:28Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [
+        "hadoop",
+        "hive",
+        "mysql",
+        "nginx",
+        "scala",
+        "scrapy",
+        "spark-mllib",
+        "spark-streaming",
+        "ssm-maven"
+      ],
+      "gh_desc": "基于Spark的电影推荐系统，包含爬虫项目、web网站、后台管理系统以及spark推荐系统",
+      "id": 130085392
+    },
+    "Tongyi-MAI/OpenGCUA": {
+      "star": 403,
+      "created_at": "2026-10-15T09:03:56Z",
+      "id": 1420442370
+    },
+    "dragonked2/alphacode": {
+      "star": 401,
+      "created_at": "2026-09-01T09:57:03Z",
+      "id": 1353408336
+    },
+    "justrach/nanoui": {
+      "star": 412,
+      "created_at": "2026-10-18T09:27:46Z",
+      "id": 1424201691
+    },
+    "TiaraBasori/OpenCode2API": {
+      "star": 401,
+      "created_at": "2026-04-11T09:48:13Z",
+      "id": 1207712584
+    },
+    "sahibzada-allahyar/Formal-Verification-RSI": {
+      "star": 2780,
+      "created_at": "2025-02-22T19:00:23Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "agora",
+        "astrophysics",
+        "bayesian-inference",
+        "cosmology",
+        "fastapi",
+        "lean",
+        "lean4",
+        "mcp",
+        "openxr",
+        "photon",
+        "physics",
+        "proof-assistant",
+        "quantum",
+        "ready-player-me",
+        "reinforcement-learning",
+        "reproducibility",
+        "unity",
+        "vr-office",
+        "wolfram-alpha",
+        "xri"
+      ],
+      "gh_desc": "A library of enterprise-grade AI agents designed to democratize artificial intelligence and provide free, open-source alternatives to overvalued Y Combinator startups. If you are excited about democratizing AI access & AI agents, please star ⭐️ this repository and use the link in the readme to join our open source AI research team.",
+      "id": 937280308
+    },
+    "filippocalippo/StykAnimate-App": {
+      "star": 513,
+      "created_at": "2026-09-09T04:43:47Z",
+      "id": 1362208208
+    },
+    "django-commons/django-constance": {
+      "star": 1853,
+      "created_at": "2010-09-20T12:42:29Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Dynamic Django settings.",
+      "id": 924812
+    },
+    "tryliner/desktop": {
+      "star": 431,
+      "created_at": "2026-08-20T17:15:43Z",
+      "id": 1340959016
+    },
+    "SundayMoments/DS5_Bridge": {
+      "star": 401,
+      "created_at": "2026-05-12T21:10:41Z",
+      "id": 1237073296
+    },
+    "PentHertz/RF-Swift": {
+      "star": 401,
+      "created_at": "2024-05-18T13:38:03Z",
+      "id": 802505489
+    },
+    "Fangx-AI/geo-doctor": {
+      "star": 607,
+      "created_at": "2026-10-14T01:19:15Z",
+      "id": 1418204947
+    },
+    "PKU-DAIR/AutoSci": {
+      "star": 1591,
+      "created_at": "2026-04-09T14:10:46Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
+      "id": 1206036567
+    },
+    "django-commons/django-hosts": {
+      "star": 1058,
+      "created_at": "2011-09-29T22:45:37Z",
+      "id": 2485503
+    },
+    "blendi-remade/dioramas": {
+      "star": 423,
+      "created_at": "2026-09-30T00:07:56Z",
+      "id": 1396738941
+    },
+    "ikow/php2shell-poc": {
+      "star": 1134,
+      "created_at": "2026-10-21T07:55:16Z",
+      "id": 1428058681
+    },
+    "dfaker/VR-reversal": {
+      "star": 400,
+      "created_at": "2020-06-16T09:24:24Z",
+      "id": 272665142
+    },
+    "Hybirdss/Hycli": {
+      "star": 415,
+      "created_at": "2026-10-09T16:57:27Z",
+      "id": 1412178580
+    },
+    "88lin/computer-repair-skill": {
+      "star": 400,
+      "created_at": "2026-07-26T05:23:04Z",
+      "id": 1312519173
+    },
+    "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC": {
+      "star": 667,
+      "created_at": "2026-10-21T08:31:43Z",
+      "id": 1428098303
+    },
+    "9bie/php2shell-bypass-aslr-exp": {
+      "star": 639,
+      "created_at": "2026-10-21T11:11:57Z",
+      "id": 1428268121
+    },
+    "realskyrin/ns-game-apple-arm-port": {
+      "star": 432,
+      "created_at": "2026-10-18T04:22:18Z",
+      "id": 1423983390
+    },
+    "zhouwei713/luobo-ppt": {
+      "star": 402,
+      "created_at": "2026-10-08T11:50:44Z",
+      "id": 1410241465
+    },
+    "openai/php2shell-checker": {
+      "star": 522,
+      "created_at": "2026-10-21T00:29:12Z",
+      "id": 1427704805
+    },
+    "dominikmartn/harp": {
+      "star": 549,
+      "created_at": "2026-10-20T10:39:43Z",
+      "id": 1426877531
+    },
+    "onblog/miaomiao-bar": {
+      "star": 1968,
+      "created_at": "2020-01-03T04:09:14Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "blog",
+        "cnblogs",
+        "csdn",
+        "electron",
+        "jianshu",
+        "juejin",
+        "oschina",
+        "segmentfault",
+        "zhihu"
+      ],
+      "gh_desc": "帮助国内用户写作的托盘助手，一键发布本地文章到主流博客平台（知乎、简书、博客园、CSDN、SegmentFault、掘金、开源中国），剪贴板图片一键上传至图床（新浪、Github、图壳、腾讯云、阿里云、又拍云、七牛云）（欢迎Star，🚫禁止Fork）",
+      "id": 231509982
+    },
+    "mmparko/dsh-purge": {
+      "star": 1261,
+      "created_at": "2026-10-13T05:14:47Z",
+      "id": 1416497190
+    },
+    "Anil-matcha/open-duet": {
+      "star": 3928,
+      "created_at": "2023-05-25T14:21:12Z",
+      "desc": "",
+      "language": "Shell",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "ai-art",
+        "ai-music",
+        "ai-video",
+        "claude-code",
+        "flux",
+        "generative-ai",
+        "image-generation",
+        "kling",
+        "mcp",
+        "midjourney",
+        "muapi",
+        "multimodal-ai",
+        "skills",
+        "suno",
+        "text-to-audio",
+        "text-to-image",
+        "text-to-video",
+        "video-generation"
+      ],
+      "gh_desc": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+      "id": 645381450
+    },
+    "timhengc/mai-shen-zai-ci": {
+      "star": 496,
+      "created_at": "2026-10-19T06:49:32Z",
+      "id": 1425226445
+    },
+    "ican-group/haskell.nix": {
+      "star": 632,
+      "created_at": "2018-04-20T16:00:09Z",
+      "id": 130384443
+    },
+    "google-pytorch/torch_tpu": {
+      "star": 590,
+      "created_at": "2026-03-09T16:59:42Z",
+      "id": 1177068914
+    },
+    "nevertoday/xiaoxiaodong-vps": {
+      "star": 488,
+      "created_at": "2026-10-07T01:52:11Z",
+      "id": 1408115543
+    },
+    "Nikii-w/McLife-Desk": {
+      "star": 749,
+      "created_at": "2026-10-11T01:58:45Z",
+      "id": 1413837358
+    },
+    "DeanChensj/jiangshan-map": {
+      "star": 564,
+      "created_at": "2026-07-23T22:44:35Z",
+      "id": 1310427454
+    },
+    "GeminiLight/SocialCoach": {
+      "star": 405,
+      "created_at": "2026-09-03T08:27:41Z",
+      "id": 1355710693
+    },
+    "goodseafly/how-to-make-work-pay": {
+      "star": 405,
+      "created_at": "2026-10-06T15:26:43Z",
+      "id": 1407531822
+    },
+    "t4t5/owly": {
+      "star": 645,
+      "created_at": "2026-10-08T06:38:33Z",
+      "id": 1409860044
+    },
+    "voys/vialer-js": {
+      "star": 1007,
+      "created_at": "2017-04-03T12:08:42Z",
+      "id": 87069784
+    },
+    "laobamac/MirageWallpaper": {
+      "star": 401,
+      "created_at": "2026-07-01T15:41:56Z",
+      "id": 1286259422
+    },
+    "Gabriel2392/brokkr-flash": {
+      "star": 401,
+      "created_at": "2026-02-15T13:45:41Z",
+      "id": 1158506997
+    },
+    "guanmo-ai/awesome-ai-motion": {
+      "star": 402,
+      "created_at": "2026-09-27T08:53:43Z",
+      "id": 1390509008
+    },
+    "aicodeking/pandacode": {
+      "star": 420,
+      "created_at": "2026-10-18T02:21:29Z",
+      "id": 1423919056
+    },
+    "yldm-tech/taptapgo-app": {
+      "star": 884,
+      "created_at": "2016-04-02T03:47:39Z",
+      "id": 55276445
+    },
+    "microsoft/XStudio": {
+      "star": 1028,
+      "created_at": "2022-04-28T09:18:16Z",
+      "id": 486525050
+    },
+    "zcyoung2000/douban-backup": {
+      "star": 747,
+      "created_at": "2026-06-26T10:33:30Z",
+      "id": 1281217063
+    },
+    "hardwood-hq/hardwood": {
+      "star": 410,
+      "created_at": "2026-01-04T22:25:12Z",
+      "id": 1127944404
+    },
+    "timschneeb/ShizuStore": {
+      "star": 401,
+      "created_at": "2026-09-17T23:51:34Z",
+      "id": 1375180713
+    },
+    "flybrainlabs/miner": {
+      "star": 420,
+      "created_at": "2026-10-12T10:01:05Z",
+      "id": 1415404414
+    },
+    "onblog/font-squeeze": {
+      "star": 523,
+      "created_at": "2018-11-14T10:51:42Z",
+      "id": 157534574
+    },
+    "bc160201983/Uncharted-The-Nathan-Drake-Collection-PC-port": {
+      "star": 421,
+      "created_at": "2026-10-14T21:04:05Z",
+      "id": 1419850273
+    },
+    "karatektus/pl_mail": {
+      "star": 404,
+      "created_at": "2026-07-02T11:13:44Z",
+      "id": 1287084556
+    },
+    "RayXBuilds/News_Spark": {
+      "star": 528,
+      "created_at": "2018-05-03T11:47:33Z",
+      "id": 131987217
+    },
+    "NoobyGains/usage-pulse": {
+      "star": 410,
+      "created_at": "2026-02-07T20:12:45Z",
+      "id": 1152395501
+    },
+    "daimon-robotics/TacClaw-Infinity": {
+      "star": 1016,
+      "created_at": "2026-10-10T06:42:18Z",
+      "id": 1412860333
+    },
+    "radiant-abyss/HITCS": {
+      "star": 733,
+      "created_at": "2024-01-13T13:37:19Z",
+      "id": 742825291
+    },
+    "yldm-tech/forma": {
+      "star": 854,
+      "created_at": "2022-12-07T03:37:33Z",
+      "id": 575234714
+    },
+    "CloudWave818/ieee-skills": {
+      "star": 401,
+      "created_at": "2026-07-14T12:02:03Z",
+      "id": 1300438663
+    },
+    "microsoft/kubernetes-learning-path": {
+      "star": 400,
+      "created_at": "2019-09-10T17:48:44Z",
+      "id": 207625926
+    },
+    "robzilla10001/SwitchPorts": {
+      "star": 413,
+      "created_at": "2026-07-08T00:05:25Z",
+      "id": 1292890987
+    },
+    "Mr-Nlce/PCVR-Mods-Installer-Hub": {
+      "star": 404,
+      "created_at": "2026-04-11T19:14:04Z",
+      "id": 1208064948
+    },
+    "Ainanya21/AinanPlayer": {
+      "star": 407,
+      "created_at": "2026-08-17T08:30:49Z",
+      "id": 1336887409
+    },
+    "dev-null-sh/dev-null.sh": {
+      "star": 429,
+      "created_at": "2026-10-15T09:14:32Z",
+      "id": 1420454266
+    },
+    "TonF1917/claude-desktop-multiple-windows-different-api": {
+      "star": 462,
+      "created_at": "2026-10-14T11:42:15Z",
+      "id": 1418815593
+    },
+    "SimplexLab/TorchJD": {
+      "star": 400,
+      "created_at": "2024-06-01T15:07:10Z",
+      "id": 809057064
+    },
+    "senaite/senaite.core": {
+      "star": 400,
+      "created_at": "2016-02-16T13:57:26Z",
+      "id": 51839640
+    },
+    "blaiszik/awesome-matchem-datasets": {
+      "star": 400,
+      "created_at": "2025-04-02T03:47:04Z",
+      "id": 958966060
+    },
+    "ieax/renewhelper": {
+      "star": 400,
+      "created_at": "2025-12-07T07:53:52Z",
+      "id": 1111570597
+    },
+    "AprDeci/bili-music": {
+      "star": 400,
+      "created_at": "2026-03-24T09:22:17Z",
+      "id": 1190430349
+    },
+    "googleanalytics/google-analytics-plugin-for-unity": {
+      "star": 400,
+      "created_at": "2014-08-04T18:30:01Z",
+      "id": 22615249
+    },
+    "RxNaison/Epson-Waste-Reset": {
+      "star": 406,
+      "created_at": "2026-03-28T14:33:50Z",
+      "id": 1194568210
+    },
+    "Replica0110/Lyrico-Plugins": {
+      "star": 400,
+      "created_at": "2026-05-21T23:47:29Z",
+      "id": 1246158796
+    },
+    "DRMacIver/shrinkray": {
+      "star": 400,
+      "created_at": "2023-08-04T20:44:45Z",
+      "id": 674807417
+    },
+    "pulp-platform/bender": {
+      "star": 400,
+      "created_at": "2018-05-17T08:24:21Z",
+      "id": 133782498
+    },
+    "devopvoid/webrtc-java": {
+      "star": 400,
+      "created_at": "2019-11-29T16:41:25Z",
+      "id": 224890850
+    },
+    "zerodytrash/TikTok-Chat-Reader": {
+      "star": 400,
+      "created_at": "2022-02-05T17:47:17Z",
+      "id": 455941948
+    },
+    "Sw4mpf0x/PowerLurk": {
+      "star": 400,
+      "created_at": "2016-07-13T20:07:25Z",
+      "id": 63275961
+    },
+    "Nagi-ovo/CHSI-Converter": {
+      "star": 400,
+      "created_at": "2023-06-27T16:14:33Z",
+      "id": 659342621
+    },
+    "Keinta15/Magisk-iOS-Emoji": {
+      "star": 400,
+      "created_at": "2020-11-22T23:30:16Z",
+      "id": 315153508
+    },
+    "ciderapp/Cider-2": {
+      "star": 400,
+      "created_at": "2023-02-27T14:41:22Z",
+      "id": 607210415
+    },
+    "valkey-io/valkey-operator": {
+      "star": 400,
+      "created_at": "2025-09-26T15:54:14Z",
+      "id": 1064823651
+    },
+    "pig-mesh/easy-captcha": {
+      "star": 400,
+      "created_at": "2020-07-31T07:31:04Z",
+      "id": 283972300
+    },
+    "matheusfacure/causal-inference-in-python-code": {
+      "star": 400,
+      "created_at": "2022-11-16T17:21:21Z",
+      "id": 566915081
+    },
+    "smartbutnot/flightportal": {
+      "star": 400,
+      "created_at": "2022-12-11T11:26:53Z",
+      "id": 576905456
+    },
+    "samuelit0davila/fifa-street-pc-port": {
+      "star": 400,
+      "created_at": "2026-10-07T03:15:23Z",
+      "id": 1408180734
+    },
+    "Liafanx/MTProxyL": {
+      "star": 406,
+      "created_at": "2026-06-19T07:49:23Z",
+      "id": 1274127797
+    },
+    "KernelSU-Modules-Repo/meta-overlayfs": {
+      "star": 475,
+      "created_at": "2025-11-21T04:35:16Z",
+      "id": 1101017887
+    },
+    "BepInEx/Il2CppInterop": {
+      "star": 400,
+      "created_at": "2020-09-02T06:05:09Z",
+      "id": 292193838
+    },
+    "qianxuntudou-ops/MyTVB": {
+      "star": 403,
+      "created_at": "2026-03-17T03:38:17Z",
+      "id": 1183893543
+    },
+    "sprembo/OpenStandard": {
+      "star": 474,
+      "created_at": "2026-07-01T18:15:44Z",
+      "id": 1286383656
     }
   }
 }
