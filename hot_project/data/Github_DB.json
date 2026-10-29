@@ -62882,18 +62882,6 @@
       "gh_desc": "Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.",
       "id": 137724480
     },
-    "facebook/rocksdb": {
-      "star": 31909,
-      "created_at": "2012-11-30T06:16:18Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "database",
-        "storage-engine"
-      ],
-      "gh_desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
-      "id": 6934395
-    },
     "influxdata/influxdb": {
       "star": 31666,
       "created_at": "2013-09-26T14:31:10Z",
@@ -66797,15 +66785,6 @@
       ],
       "gh_desc": "Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.",
       "id": 83363132
-    },
-    "facebook/Haxl": {
-      "star": 4380,
-      "created_at": "2014-04-02T20:10:58Z",
-      "desc": "",
-      "language": "Haskell",
-      "topics": [],
-      "gh_desc": "A Haskell library that simplifies access to remote data, such as databases or web-based services. ",
-      "id": 18379853
     },
     "Qovery/Replibyte": {
       "star": 4404,
@@ -87842,22 +87821,6 @@
       "gh_desc": "📜 33 JavaScript concepts every developer should know.",
       "id": 147350463
     },
-    "facebook/docusaurus": {
-      "star": 65748,
-      "created_at": "2017-06-20T16:13:53Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "documentation",
-        "hacktoberfest",
-        "javascript",
-        "open-source",
-        "react",
-        "website"
-      ],
-      "gh_desc": "Easy to maintain open source documentation websites.",
-      "id": 94911145
-    },
     "pmndrs/zustand": {
       "star": 58491,
       "created_at": "2019-04-09T09:10:06Z",
@@ -89993,15 +89956,6 @@
       "gh_desc": "Roadmap to becoming a React developer",
       "id": 137583435
     },
-    "facebook/relay": {
-      "star": 18951,
-      "created_at": "2015-08-10T22:09:16Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [],
-      "gh_desc": "Relay is a JavaScript framework for building data-driven React applications.",
-      "id": 40508605
-    },
     "resend/react-email": {
       "star": 19508,
       "created_at": "2022-09-19T19:24:54Z",
@@ -92061,24 +92015,6 @@
       ],
       "gh_desc": "Transform SVGs into React components 🦁",
       "id": 102155012
-    },
-    "facebook/react-devtools": {
-      "star": 11016,
-      "created_at": "2013-09-04T20:28:43Z",
-      "desc": "",
-      "language": "",
-      "topics": [],
-      "gh_desc": "An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.",
-      "id": 12601374
-    },
-    "facebook/hermes": {
-      "star": 11222,
-      "created_at": "2018-10-22T19:13:00Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "A JavaScript engine optimized for running React Native.",
-      "id": 154201259
     },
     "react-dropzone/react-dropzone": {
       "star": 11005,
@@ -122263,15 +122199,6 @@
       "gh_desc": "Most usable tools for iOS penetration testing",
       "id": 112600629
     },
-    "facebook/mariana-trench": {
-      "star": 1242,
-      "created_at": "2020-12-02T01:04:23Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "A security focused static analysis tool for Android and Java applications.",
-      "id": 317710554
-    },
     "blst-security/cherrybomb": {
       "star": 1234,
       "created_at": "2021-11-17T07:02:22Z",
@@ -141937,31 +141864,6 @@
       "gh_desc": "Language-agnostic persistent background job server",
       "id": 94461013
     },
-    "facebook/pyrefly": {
-      "star": 6832,
-      "created_at": "2025-02-19T21:09:33Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [
-        "code-quality",
-        "contributions-welcome",
-        "good-first-issue",
-        "hacktoberfest",
-        "ide",
-        "language-server",
-        "lsp",
-        "python",
-        "rust",
-        "type-check",
-        "type-checker",
-        "typecheck",
-        "typechecker",
-        "types",
-        "typing"
-      ],
-      "gh_desc": "A fast type checker and language server for Python",
-      "id": 935685654
-    },
     "nginx/unit": {
       "star": 5553,
       "created_at": "2017-09-06T15:45:30Z",
@@ -153653,27 +153555,6 @@
       ],
       "gh_desc": "Docker Extension Pack for Visual Studio Code",
       "id": 44415469
-    },
-    "facebook/ThreatExchange": {
-      "star": 1362,
-      "created_at": "2015-02-12T22:53:08Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "hashing",
-        "image",
-        "image-hashing",
-        "image-similarity",
-        "ncmec",
-        "perceptual-hashing",
-        "stopncii",
-        "threatexchange",
-        "video",
-        "video-hashing",
-        "video-similarity"
-      ],
-      "gh_desc": "Trust & Safety tools for working together to fight digital harms. ",
-      "id": 30729678
     },
     "symfony/polyfill-util": {
       "star": 1316,
@@ -176115,15 +175996,6 @@
       "topics": [],
       "id": 766180570
     },
-    "nilstate/icey": {
-      "star": 1365,
-      "created_at": "2012-02-23T11:55:51Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Real-time media stack and lightweight libwebrtc alternative, built in C++20",
-      "id": 3524917
-    },
     "LTEnjoy/easyChat": {
       "star": 1449,
       "created_at": "2022-06-01T03:17:25Z",
@@ -188205,22 +188077,6 @@
       "gh_desc": "Essential tools and mods for Android nerds",
       "id": 1109834595
     },
-    "facebook/CacheLib": {
-      "star": 1572,
-      "created_at": "2019-11-22T21:39:48Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "cache",
-        "cache-engine",
-        "concurrency",
-        "cpp",
-        "performance",
-        "ssd"
-      ],
-      "gh_desc": "Pluggable in-process caching engine to build and scale high performance services",
-      "id": 223490876
-    },
     "vitorpamplona/amethyst": {
       "star": 1567,
       "created_at": "2023-01-11T18:28:30Z",
@@ -189525,25 +189381,6 @@
       "topics": [],
       "gh_desc": "SQL views for Dune",
       "id": 237392204
-    },
-    "pyrra-dev/pyrra": {
-      "star": 1534,
-      "created_at": "2021-04-30T16:52:40Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [
-        "docker",
-        "golang",
-        "kubernetes",
-        "metrics",
-        "monitoring",
-        "prometheus",
-        "slo",
-        "thanos",
-        "time-series"
-      ],
-      "gh_desc": "Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!",
-      "id": 363204786
     },
     "cypht-org/cypht": {
       "star": 1657,
@@ -192786,15 +192623,6 @@
       ],
       "gh_desc": "The Laravel Lumen Framework.",
       "id": 33903775
-    },
-    "facebook/TextLayoutBuilder": {
-      "star": 1473,
-      "created_at": "2016-11-01T22:04:45Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [],
-      "gh_desc": "An Android library that allows you to build text layouts more easily.",
-      "id": 72580689
     },
     "Yu-Core/SwashbucklerDiary": {
       "star": 1564,
@@ -202978,15 +202806,6 @@
       "topics": [],
       "gh_desc": "A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications",
       "id": 190664284
-    },
-    "facebook/SoLoader": {
-      "star": 1440,
-      "created_at": "2015-10-22T13:18:43Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "Native code loader for Android",
-      "id": 44746251
     },
     "fossasia/eventyay-checkin": {
       "star": 1462,
@@ -215087,15 +214906,6 @@
       ],
       "gh_desc": "Incomplete list of macOS `defaults` commands with demos ✨",
       "id": 232778478
-    },
-    "facebook/facebook-python-business-sdk": {
-      "star": 1570,
-      "created_at": "2014-08-29T09:15:47Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Python SDK for Meta Marketing APIs",
-      "id": 23458977
     },
     "CyberAgentGameEntertainment/NovaShader": {
       "star": 1583,
@@ -230131,29 +229941,6 @@
       ],
       "gh_desc": "PHP web browser emulator abstraction",
       "id": 1567795
-    },
-    "hwittenborn/celeste": {
-      "star": 1611,
-      "created_at": "2022-08-14T00:52:42Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [
-        "cloud-storage",
-        "dropbox",
-        "google-drive",
-        "gtk4",
-        "hacktoberfest",
-        "libadwaita",
-        "linux",
-        "nextcloud",
-        "owncloud",
-        "pcloud",
-        "protondrive",
-        "rclone",
-        "webdav"
-      ],
-      "gh_desc": "GUI file synchronization client that can sync with any cloud provider",
-      "id": 524541454
     },
     "ZhangGe6/onnx-modifier": {
       "star": 1624,
@@ -249528,15 +249315,6 @@
       "gh_desc": "Professional ACME Client for Windows (and now cross-platform via Certify Management Hub). Certificate Management UI, powered by Let's Encrypt and compatible with all ACME v2 CAs. Used by over 150,000 organisations. Download from certifytheweb.com",
       "id": 54816844
     },
-    "facebook/mvfst": {
-      "star": 1654,
-      "created_at": "2018-04-09T22:49:15Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "An implementation of the QUIC transport protocol.",
-      "id": 128842710
-    },
     "GTNewHorizons/GT-New-Horizons-Modpack": {
       "star": 1908,
       "created_at": "2014-12-08T19:51:40Z",
@@ -265624,15 +265402,6 @@
       "topics": [],
       "gh_desc": "毛泽东选集",
       "id": 216368779
-    },
-    "facebook/screenshot-tests-for-android": {
-      "star": 1739,
-      "created_at": "2015-08-31T18:36:02Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "Generate fast deterministic screenshots during Android instrumentation tests",
-      "id": 41693388
     },
     "pydantic/pydantic-core": {
       "star": 1768,
@@ -291694,15 +291463,6 @@
       ],
       "gh_desc": "Kubevious - Kubernetes without disasters",
       "id": 228757065
-    },
-    "facebook/idx": {
-      "star": 1687,
-      "created_at": "2017-02-28T21:01:36Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.",
-      "id": 83478722
     },
     "thunlp/OpenNE": {
       "star": 1705,
@@ -342930,15 +342690,6 @@
       ],
       "gh_desc": "A collapsible jQuery menu plugin",
       "id": 14819703
-    },
-    "facebook/fbjs": {
-      "star": 1963,
-      "created_at": "2015-05-28T22:16:50Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "A collection of utility libraries used by other Meta JS projects.",
-      "id": 36469177
     },
     "nbubna/store": {
       "star": 1945,
@@ -414981,15 +414732,6 @@
       "gh_desc": "A real world full-stack application using LlamaIndex",
       "id": 687282258
     },
-    "facebook/mysql-5.6": {
-      "star": 2577,
-      "created_at": "2013-04-15T17:54:43Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Facebook's branch of the Oracle MySQL database. This includes MyRocks.",
-      "id": 9454675
-    },
     "sjsdfg/CS-Notes-PDF": {
       "star": 2607,
       "created_at": "2018-06-27T14:25:11Z",
@@ -432055,15 +431797,6 @@
       "gh_desc": "Lightweight Native Local Dev Toolbox for Windows, macOS & Linux. Run OpenClaw/n8n/Apache/Nginx/Caddy/Tomcat/PHP/Node.js/Bun/Deno/Python/Java/Go/Ruby/Perl/Rust/Erlang/MySQL/PostgreSQL/MariaDB/MongoDB/Redis/RabbitMQ/Mailpit/Elasticsearch without Docker. The faster, modular alternative to XAMPP/MAMP/Laravel Herd/NVM/FNM/PHPStudy...",
       "id": 254879070
     },
-    "facebook/fbthrift": {
-      "star": 2698,
-      "created_at": "2013-07-02T18:15:51Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Facebook's branch of Apache Thrift, including a new C++ server.",
-      "id": 11131631
-    },
     "jhaals/yopass": {
       "star": 3023,
       "created_at": "2014-01-18T14:54:55Z",
@@ -432077,15 +431810,6 @@
       ],
       "gh_desc": "Secure sharing of secrets, passwords and files ",
       "id": 16027367
-    },
-    "facebook/Ax": {
-      "star": 2783,
-      "created_at": "2019-02-09T15:23:44Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Adaptive Experimentation Platform",
-      "id": 169880381
     },
     "wildfirechat/android-chat": {
       "star": 2728,
@@ -449948,34 +449672,6 @@
       "gh_desc": "Extracts Exif, IPTC, XMP, ICC and other metadata from image, video and audio files",
       "id": 26836459
     },
-    "Epodonios/v2ray-configs": {
-      "star": 3165,
-      "created_at": "2024-02-09T15:12:52Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "bulk-connection",
-        "bulk-operation",
-        "gfw",
-        "gfw-china",
-        "reality",
-        "shadowsocks",
-        "trojan-gfw",
-        "v2ray",
-        "v2ray-ws-tls",
-        "v2rayng",
-        "vless",
-        "vless-grpc",
-        "vless-ws-tls",
-        "vmess",
-        "vmess-over-tls",
-        "vpn",
-        "vpn-server",
-        "vpnservice"
-      ],
-      "gh_desc": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
-      "id": 755169378
-    },
     "kamailio/kamailio": {
       "star": 2887,
       "created_at": "2013-12-11T08:09:40Z",
@@ -458746,15 +458442,6 @@
       "gh_desc": "🏆 Self-hosted, open-source WebRTC video conferencing platform for real-time communication and collaboration. A modern alternative to Zoom, built on SFU architecture.",
       "id": 397189231
     },
-    "facebook/openzl": {
-      "star": 3149,
-      "created_at": "2025-09-30T18:30:07Z",
-      "desc": "",
-      "language": "C",
-      "topics": [],
-      "gh_desc": "A novel data compression framework",
-      "id": 1067353061
-    },
     "darkoperator/dnsrecon": {
       "star": 3051,
       "created_at": "2010-12-16T03:25:49Z",
@@ -461474,15 +461161,6 @@
       ],
       "gh_desc": "🔮  React hooks and components to create parallax scroll effects for banners, images or any other DOM elements.",
       "id": 84919676
-    },
-    "facebook/wdt": {
-      "star": 2958,
-      "created_at": "2014-07-24T21:23:34Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.",
-      "id": 22231878
     },
     "nicolasff/webdis": {
       "star": 2961,
@@ -473153,15 +472831,6 @@
       "gh_desc": "Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.",
       "id": 878733839
     },
-    "facebook/wangle": {
-      "star": 3097,
-      "created_at": "2014-12-11T20:12:30Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",
-      "id": 27889694
-    },
     "open-telemetry/opentelemetry-ebpf-profiler": {
       "star": 3161,
       "created_at": "2024-04-15T14:22:53Z",
@@ -480557,15 +480226,6 @@
       "gh_desc": "QuantumultX QX quantumult 圈X quanx 重写 脚本 rewrite 规则 分流 破解 解锁",
       "id": 537346076
     },
-    "facebook/igl": {
-      "star": 3225,
-      "created_at": "2023-07-07T15:57:14Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).",
-      "id": 663573391
-    },
     "openstack/nova": {
       "star": 3223,
       "created_at": "2010-07-22T02:04:27Z",
@@ -487212,15 +486872,6 @@
       ],
       "gh_desc": "Browse your memories without any interruptions with this photo and video gallery",
       "id": 502586319
-    },
-    "facebook/mcrouter": {
-      "star": 3334,
-      "created_at": "2014-01-24T17:42:42Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Mcrouter is a memcached protocol router for scaling memcached deployments.",
-      "id": 16211818
     },
     "awesome-scripts/awesome-userscripts": {
       "star": 3438,
@@ -523961,15 +523612,6 @@
       "gh_desc": "LaTeX Thesis Template for the University of Chinese Academy of Sciences ",
       "id": 19560648
     },
-    "facebook/regenerator": {
-      "star": 3826,
-      "created_at": "2013-10-05T14:37:03Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.",
-      "id": 13346571
-    },
     "mashirozx/sakura": {
       "star": 3823,
       "created_at": "2018-05-26T10:59:48Z",
@@ -531182,20 +530824,6 @@
       ],
       "gh_desc": "适用于Java和Android的快速、低内存占用的汉字转拼音库。",
       "id": 43409398
-    },
-    "facebook/fbt": {
-      "star": 3879,
-      "created_at": "2018-08-01T17:39:49Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "framework",
-        "i18n",
-        "internationalization",
-        "javascript"
-      ],
-      "gh_desc": "A JavaScript Internationalization Framework",
-      "id": 143188696
     },
     "laravel/homestead": {
       "star": 3884,
@@ -542479,15 +542107,6 @@
       "gh_desc": "Your Friendly Open-Source Gen-AI Platform",
       "id": 358226004
     },
-    "facebook/buck2": {
-      "star": 4376,
-      "created_at": "2022-01-21T20:04:00Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [],
-      "gh_desc": "Build system, successor to Buck",
-      "id": 450625045
-    },
     "UnityCommunity/UnityLibrary": {
       "star": 4367,
       "created_at": "2016-05-12T03:34:20Z",
@@ -544708,15 +544327,6 @@
       "gh_desc": "Detect the file type of a file, stream, or data",
       "id": 19105307
     },
-    "facebook/FBRetainCycleDetector": {
-      "star": 4233,
-      "created_at": "2016-04-07T18:17:16Z",
-      "desc": "",
-      "language": "Objective-C++",
-      "topics": [],
-      "gh_desc": "iOS library to help detecting retain cycles in runtime.",
-      "id": 55717457
-    },
     "openai/harmony": {
       "star": 4459,
       "created_at": "2025-07-31T16:10:01Z",
@@ -545395,15 +545005,6 @@
       ],
       "gh_desc": "One of the 'BEST' markdown preview extensions for Atom editor!",
       "id": 34369372
-    },
-    "facebook/duckling": {
-      "star": 4298,
-      "created_at": "2017-03-02T01:45:50Z",
-      "desc": "",
-      "language": "Haskell",
-      "topics": [],
-      "gh_desc": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
-      "id": 83621289
     },
     "opcodesio/log-viewer": {
       "star": 4385,
@@ -555073,15 +554674,6 @@
       ],
       "gh_desc": "a thread-safe concurrent map for go",
       "id": 24818657
-    },
-    "facebook/prop-types": {
-      "star": 4453,
-      "created_at": "2017-04-08T00:50:30Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "Runtime type checking for React props and similar objects",
-      "id": 87597642
     },
     "JakubVojvoda/design-patterns-cpp": {
       "star": 4542,
@@ -568848,15 +568440,6 @@
       "gh_desc": "🚀 Efficient implementations for emerging model architectures",
       "id": 733802106
     },
-    "facebook/idb": {
-      "star": 5238,
-      "created_at": "2015-09-03T16:25:17Z",
-      "desc": "",
-      "language": "Objective-C",
-      "topics": [],
-      "gh_desc": "idb is a flexible command line interface for automating iOS simulators and devices",
-      "id": 41870517
-    },
     "sbt/sbt": {
       "star": 4934,
       "created_at": "2009-08-17T00:31:14Z",
@@ -570013,29 +569596,6 @@
       "topics": [],
       "gh_desc": "Muzei Live Wallpaper for Android",
       "id": 16598287
-    },
-    "facebook/memlab": {
-      "star": 5009,
-      "created_at": "2022-05-26T20:53:35Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "detector",
-        "e2e",
-        "facebook",
-        "heap",
-        "hermes",
-        "javascript",
-        "leak",
-        "memory",
-        "nodejs",
-        "perf-tools",
-        "performance",
-        "snapshot",
-        "v8"
-      ],
-      "gh_desc": "A framework for finding JavaScript memory leaks and analyzing heap snapshots",
-      "id": 496768943
     },
     "shlinkio/shlink": {
       "star": 5182,
@@ -578853,15 +578413,6 @@
       "gh_desc": "Style your readme using CSS with this simple trick",
       "id": 281443363
     },
-    "facebook/PathPicker": {
-      "star": 5221,
-      "created_at": "2015-05-01T03:05:54Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",
-      "id": 34887588
-    },
     "FAQGURU/FAQGURU": {
       "star": 5063,
       "created_at": "2018-12-05T14:40:22Z",
@@ -585855,15 +585406,6 @@
       ],
       "gh_desc": "Statistical Machine Intelligence & Learning Engine",
       "id": 26921116
-    },
-    "facebook/redex": {
-      "star": 6296,
-      "created_at": "2016-03-24T18:26:35Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "A bytecode optimizer for Android apps",
-      "id": 54664770
     },
     "zotero-chinese/styles": {
       "star": 6295,
@@ -598056,15 +597598,6 @@
       "gh_desc": "Custom UITextFields effects inspired by Codrops, built using Swift",
       "id": 29703101
     },
-    "facebook/componentkit": {
-      "star": 5755,
-      "created_at": "2015-03-20T18:42:47Z",
-      "desc": "",
-      "language": "Objective-C++",
-      "topics": [],
-      "gh_desc": "A React-inspired view framework for iOS.",
-      "id": 32600951
-    },
     "xinliangnote/go-gin-api": {
       "star": 5971,
       "created_at": "2019-08-23T05:01:08Z",
@@ -605320,15 +604853,6 @@
       "gh_desc": "Algorithms & Data structures in C++.",
       "id": 9322866
     },
-    "facebook/fishhook": {
-      "star": 5422,
-      "created_at": "2013-07-11T20:12:26Z",
-      "desc": "",
-      "language": "C",
-      "topics": [],
-      "gh_desc": "A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.",
-      "id": 11351927
-    },
     "crazycodeboy/react-native-splash-screen": {
       "star": 5657,
       "created_at": "2016-09-14T10:43:55Z",
@@ -607710,15 +607234,6 @@
       ],
       "gh_desc": "Open Source Inventory Management System",
       "id": 85894461
-    },
-    "facebook/sapling": {
-      "star": 6949,
-      "created_at": "2016-05-05T16:53:47Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [],
-      "gh_desc": "A Scalable, User-Friendly Source Control System.",
-      "id": 58146669
     },
     "flwrlabs/flower": {
       "star": 7059,
@@ -613455,27 +612970,6 @@
       ],
       "gh_desc": "The patching of Android kernel and Android system",
       "id": 681215919
-    },
-    "facebook/pyre-check": {
-      "star": 7170,
-      "created_at": "2017-11-10T17:31:36Z",
-      "desc": "",
-      "language": "OCaml",
-      "topics": [
-        "abstract-interpretation",
-        "code-quality",
-        "control-flow-analysis",
-        "ocaml",
-        "program-analysis",
-        "python",
-        "security",
-        "static-analysis",
-        "taint-analysis",
-        "type-check",
-        "typechecker"
-      ],
-      "gh_desc": "Performant type-checking for python.",
-      "id": 110274488
     },
     "RicoSuter/NSwag": {
       "star": 7351,
@@ -619756,15 +619250,6 @@
       "gh_desc": "💬 Speech recognition for your site",
       "id": 12320895
     },
-    "facebook/facebook-android-sdk": {
-      "star": 6446,
-      "created_at": "2010-05-10T17:17:33Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [],
-      "gh_desc": "Used to integrate Android apps with Facebook Platform.",
-      "id": 659341
-    },
     "nteract/papermill": {
       "star": 6460,
       "created_at": "2017-07-06T17:17:53Z",
@@ -624973,15 +624458,6 @@
       "gh_desc": "Diablo build for modern operating systems",
       "id": 143324737
     },
-    "facebook/stylex": {
-      "star": 9675,
-      "created_at": "2022-12-08T06:38:09Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "StyleX is the styling system for ambitious user interfaces.",
-      "id": 575723287
-    },
     "beautifier/js-beautify": {
       "star": 8977,
       "created_at": "2008-12-04T06:35:54Z",
@@ -626791,15 +626267,6 @@
       "topics": [],
       "gh_desc": "Visualization of all roads within any city",
       "id": 234931559
-    },
-    "facebook/chisel": {
-      "star": 9176,
-      "created_at": "2014-02-21T18:24:17Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Chisel is a collection of LLDB commands to assist debugging iOS apps.",
-      "id": 17065530
     },
     "happyfish100/fastdfs": {
       "star": 9236,
@@ -630195,15 +629662,6 @@
       "topics": [],
       "gh_desc": "Containerization is a Swift package for running Linux containers on macOS.",
       "id": 992765044
-    },
-    "facebook/proxygen": {
-      "star": 8367,
-      "created_at": "2014-10-03T23:18:42Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "A collection of C++ HTTP libraries including an easy to use HTTP server.",
-      "id": 24776728
     },
     "microsoft/cpprestsdk": {
       "star": 8264,
@@ -635929,22 +635387,6 @@
       "gh_desc": "适用于新系统UI的哔哩",
       "id": 372096057
     },
-    "facebook/buck": {
-      "star": 8540,
-      "created_at": "2013-04-17T18:12:18Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [
-        "android",
-        "buck",
-        "build-tool",
-        "ios",
-        "java",
-        "python"
-      ],
-      "gh_desc": "A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",
-      "id": 9504214
-    },
     "shwenzhang/AndResGuard": {
       "star": 8650,
       "created_at": "2015-10-11T11:48:06Z",
@@ -637954,15 +637396,6 @@
       "gh_desc": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
       "id": 5663857
     },
-    "facebook/facebook-ios-sdk": {
-      "star": 8077,
-      "created_at": "2010-06-24T22:11:03Z",
-      "desc": "",
-      "language": "Swift",
-      "topics": [],
-      "gh_desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
-      "id": 738491
-    },
     "clappr/clappr": {
       "star": 7486,
       "created_at": "2014-02-14T17:36:40Z",
@@ -638302,15 +637735,6 @@
       "topics": [],
       "gh_desc": "本项目集成了全网优秀的攻防武器工具项目，包含自动化利用，子域名、目录扫描、端口扫描等信息收集工具，各大中间件、cms、OA漏洞利用工具，爆破工具、内网横向、免杀、社工钓鱼以及应急响应、甲方安全资料等其他安全攻防资料。",
       "id": 485348105
-    },
-    "facebook/litho": {
-      "star": 7770,
-      "created_at": "2017-01-27T03:59:11Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [],
-      "gh_desc": "A declarative framework for building efficient UIs on Android.",
-      "id": 80179724
     },
     "puma/puma": {
       "star": 7910,
@@ -651959,15 +651383,6 @@
       ],
       "gh_desc": "CoreNLP: A Java suite of core NLP tools for tokenization, sentence segmentation, NER, parsing, coreference, sentiment analysis, etc.",
       "id": 11008076
-    },
-    "facebook/jscodeshift": {
-      "star": 10026,
-      "created_at": "2015-03-07T00:32:16Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "A JavaScript codemod toolkit.",
-      "id": 31795422
     },
     "microsoft/inshellisense": {
       "star": 10563,
@@ -667905,15 +667320,6 @@
       "gh_desc": "No clever tagline needed.",
       "id": 83799439
     },
-    "facebook/watchman": {
-      "star": 13654,
-      "created_at": "2012-11-29T23:35:52Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Watches files and records, or triggers actions, when they change. ",
-      "id": 6930489
-    },
     "PrismJS/prism": {
       "star": 13024,
       "created_at": "2012-07-10T19:47:14Z",
@@ -671381,15 +670787,6 @@
       "gh_desc": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
       "id": 21402627
     },
-    "facebook/flipper": {
-      "star": 13469,
-      "created_at": "2018-04-12T16:47:36Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [],
-      "gh_desc": "A desktop debugging platform for mobile developers.",
-      "id": 129283183
-    },
     "awslabs/git-secrets": {
       "star": 13357,
       "created_at": "2015-07-15T20:41:19Z",
@@ -671890,15 +671287,6 @@
       ],
       "gh_desc": "Achieve a tiny STL in C++11",
       "id": 64987779
-    },
-    "facebook/stetho": {
-      "star": 12665,
-      "created_at": "2015-01-22T22:34:10Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.",
-      "id": 29703871
     },
     "gabrielecirulli/2048": {
       "star": 13341,
@@ -672945,15 +672333,6 @@
       "topics": [],
       "gh_desc": "学习笔记",
       "id": 17535332
-    },
-    "it-ebooks-0/geektime-books": {
-      "star": 13269,
-      "created_at": "2023-01-26T14:31:39Z",
-      "desc": "",
-      "language": "",
-      "topics": [],
-      "gh_desc": ":books: 极客时间电子书",
-      "id": 593649559
     },
     "Bigkoo/Android-PickerView": {
       "star": 13437,
@@ -674256,15 +673635,6 @@
       "gh_desc": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
       "id": 111241370
     },
-    "facebook/fresco": {
-      "star": 17156,
-      "created_at": "2015-03-02T09:58:04Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "An Android library for managing images and the memory they use.",
-      "id": 31533997
-    },
     "beetbox/beets": {
       "star": 15452,
       "created_at": "2010-08-09T23:17:20Z",
@@ -674605,23 +673975,6 @@
       ],
       "gh_desc": "Translate the video from one language to another and embed dubbing & subtitles.",
       "id": 699432836
-    },
-    "facebook/infer": {
-      "star": 15665,
-      "created_at": "2015-01-26T11:19:13Z",
-      "desc": "",
-      "language": "OCaml",
-      "topics": [
-        "c",
-        "code-quality",
-        "cpp",
-        "java",
-        "objective-c",
-        "static-analysis",
-        "static-code-analysis"
-      ],
-      "gh_desc": "A static analyzer for Java, C, C++, and Objective-C",
-      "id": 29857799
     },
     "wolfpld/tracy": {
       "star": 16468,
@@ -680963,15 +680316,6 @@
       "gh_desc": "Cloud-native high-performance edge/middle/service proxy",
       "id": 65214191
     },
-    "facebook/lexical": {
-      "star": 23715,
-      "created_at": "2020-12-03T22:53:26Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [],
-      "gh_desc": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
-      "id": 318341089
-    },
     "Yeachan-Heo/oh-my-codex": {
       "star": 32277,
       "created_at": "2026-02-02T14:21:18Z",
@@ -683677,16 +683021,6 @@
       ],
       "gh_desc": "Write scalable load tests in plain Python 🚗💨",
       "id": 1377867
-    },
-    "facebook/zstd": {
-      "star": 27479,
-      "created_at": "2015-01-24T00:22:38Z",
-      "desc": "项目定位与用途: Zstandard（zstd）是一个快速无损压缩算法，官方简介强调其面向实时压缩场景，目标是在接近 zlib 的使用场景中获得更好的压缩表现。仓库提供的是参考实现：一个开源的 C 库，并附带命令行工具，可用于压缩和解码 .zst、.gz、.xz、.lz4 文件。  \n解决的问题: 它主要解决通用压缩在速度与压缩率之间难以兼顾的问题。README 指出 zstd 追求实时压缩，同时保持较高压缩比；基准测试也展示了其较快的压缩和解压速度。由此可见，它适合对吞吐、延迟和存储效率都有要求的无损压缩需求。  \n使用场景: 典型场景包括需要快速压缩/解压数据的应用、命令行文件处理，以及希望以较低 CPU 成本完成传输或落盘压缩的系统。目标用户主要是开发者、基础设施工具和构建流程使用者。README 还提到它可处理多种常见压缩格式，但未给出更细分行业场景。  \n技术架构与特性: 项目是参考实现，采用 C 语言，双许可证为 BSD 或 GPLv2。其格式稳定且有 RFC8878 文档；压缩流程依赖很快的熵编码阶段，由 Huff0 和 FSE 提供。README 还显示持续集成与 fuzzing 状态，近期提交包含依赖升级和文档澄清，说明仓库持续维护。",
-      "language": "C",
-      "topics": [],
-      "gh_desc": "Zstandard - Fast real-time compression algorithm",
-      "id": 29759715,
-      "desc_updated_at": "2026-09-09"
     },
     "cookiecutter/cookiecutter": {
       "star": 25032,
@@ -687032,15 +686366,6 @@
       "gh_desc": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
       "id": 83050680
     },
-    "facebook/flow": {
-      "star": 22272,
-      "created_at": "2014-10-28T17:17:45Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [],
-      "gh_desc": "Adds static typing to JavaScript to improve developer productivity and code quality.",
-      "id": 25880891
-    },
     "samber/lo": {
       "star": 21404,
       "created_at": "2022-03-02T12:48:45Z",
@@ -689259,20 +688584,6 @@
       "gh_desc": "Video players (IJKplayer, ExoPlayer, MediaPlayer), HTTPS, 16k page size, danmaku (bullet chat) support, external subtitles, support for filters, watermarks, and GIF screenshots, pre-roll and mid-roll ads, multiple simultaneous playback, basic seeking/dragging, volume and brightness adjustment, play-while-cache support",
       "id": 73614722
     },
-    "facebook/hhvm": {
-      "star": 18653,
-      "created_at": "2010-01-02T01:17:06Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "hack",
-        "hacklang",
-        "hhvm",
-        "php"
-      ],
-      "gh_desc": "A virtual machine for executing programs written in Hack.",
-      "id": 455600
-    },
     "basecamp/trix": {
       "star": 19980,
       "created_at": "2013-08-01T22:21:30Z",
@@ -689761,19 +689072,6 @@
       ],
       "gh_desc": "Rembg is a tool to remove images background",
       "id": 286500101
-    },
-    "facebook/prophet": {
-      "star": 20327,
-      "created_at": "2016-11-16T01:50:08Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "forecasting",
-        "python",
-        "r"
-      ],
-      "gh_desc": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
-      "id": 73872834
     },
     "Atmosphere-NX/Atmosphere": {
       "star": 19371,
@@ -694091,15 +693389,6 @@
       ],
       "gh_desc": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++",
       "id": 556675672
-    },
-    "facebook/folly": {
-      "star": 30479,
-      "created_at": "2012-06-01T20:49:04Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "An open-source C++ library developed and used at Facebook.",
-      "id": 4524181
     },
     "frappe/erpnext": {
       "star": 37375,
@@ -765442,16 +764731,6 @@
       "gh_desc": "The best native proxy client for iOS, iPadOS, macOS, and tvOS.",
       "id": 905638090
     },
-    "facebook/astryx": {
-      "star": 11044,
-      "created_at": "2026-01-09T16:20:32Z",
-      "desc": "项目定位与用途：Astryx 是一个开源设计系统，当前处于 Beta，基于 React 和 StyleX 构建。它提供 150+ 可访问组件、品牌级主题、暗色模式、可直接使用的模板以及 CLI，面向需要统一界面规范与开发流程的团队。README 还强调它“fully customizable”并且“agent ready”，说明它同时服务于人工与 AI 助手协同构建。  \n\n解决的问题：它主要解决设计系统在可定制性、复用性和协作方式上的痛点。传统方案常把组件封装得过深，或要求额外引入特定样式体系；Astryx 则强调开放内部、无需样式锁定、可通过 CSS 变量主题覆盖来定制，减少 fork 或二次封装成本。它还试图让人和 agent 使用同一套 API、文档和 CLI，降低协作摩擦。  \n\n使用场景：适合需要搭建或统一产品界面的工程与设计团队，尤其是大型应用、多应用平台或需要快速交付的项目。README 提到它在 Meta 内部演化多年，支撑 13,000+ 应用，因此也适合追求一致体验、可访问组件和品牌定制的场景。典型用户包括前端开发者、设计师、产品团队，以及需要借助 AI 辅助搭建界面的使用者。  \n\n技术架构与特性：项目基于 React 与 StyleX，消费方式是引入预构建 CSS 和类型化 React 组件，不需要额外的构建插件或必须迁移到新的样式库。其特性包括开放式组件内部结构、可直接导出的基础构件、支持 swizzle 导出组件源码到项目中自主管理，以及通过 CSS 自定义属性实现主题覆盖。README 还提到配套文档、Storybook、Sandbox 和 CLI，形成一套完整工具链。",
-      "language": "TypeScript",
-      "topics": [],
-      "desc_updated_at": "2026-07-15",
-      "gh_desc": "An open source design system that's fully customizable and agent ready",
-      "id": 1131202426
-    },
     "ActivityLauncher/ActivityLauncher": {
       "star": 1858,
       "created_at": "2014-02-17T19:00:28Z",
@@ -766989,25 +766268,6 @@
       ],
       "gh_desc": "🍅 番茄小说下载器 | 免费番茄小说转TXT/EPUB绿色GUI工具，支持Windows/macOS/Linux，持续活跃更新 | Fanqie Novel Downloader",
       "id": 952836028
-    },
-    "Jman-Github/Universal-ReVanced-Manager": {
-      "star": 1219,
-      "created_at": "2025-10-13T08:31:07Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [
-        "android",
-        "apk",
-        "app",
-        "kotlin",
-        "morphe",
-        "patcher",
-        "revanced",
-        "revanced-extended",
-        "revanced-manager"
-      ],
-      "gh_desc": "💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have",
-      "id": 1075242574
     },
     "mendersoftware/mender": {
       "star": 1210,
@@ -769081,15 +768341,6 @@
       "desc_updated_at": "2026-07-15",
       "gh_desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
       "id": 1215569807
-    },
-    "guchengwuyue/yshop-crm": {
-      "star": 1813,
-      "created_at": "2019-11-07T13:53:52Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，技术： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
-      "id": 220248572
     },
     "flyfish-dev/file-viewer": {
       "star": 1773,
@@ -786405,11 +785656,6 @@
       "created_at": "2025-02-21T01:05:45Z",
       "id": 936371491
     },
-    "friuns2/codex-mobile": {
-      "star": 818,
-      "created_at": "2026-02-21T04:57:22Z",
-      "id": 1163098162
-    },
     "kessler/gemma-gem": {
       "star": 957,
       "created_at": "2026-04-05T20:07:56Z",
@@ -791789,11 +791035,6 @@
       "star": 667,
       "created_at": "2011-12-16T19:04:58Z",
       "id": 2996995
-    },
-    "facebook/lexical-ios": {
-      "star": 658,
-      "created_at": "2023-03-20T15:44:31Z",
-      "id": 616546648
     },
     "sugarme/gotch": {
       "star": 652,
@@ -813095,11 +812336,6 @@
       "created_at": "2016-09-22T10:43:37Z",
       "id": 68911733
     },
-    "canpool/qtcanpool": {
-      "star": 509,
-      "created_at": "2018-08-02T01:14:24Z",
-      "id": 143224978
-    },
     "pyedifice/pyedifice": {
       "star": 507,
       "created_at": "2021-01-21T22:26:21Z",
@@ -824063,11 +823299,6 @@
       "created_at": "2022-05-12T09:08:00Z",
       "id": 491440930
     },
-    "v4lkyr0/Buildware-Tools": {
-      "star": 766,
-      "created_at": "2025-11-14T12:27:45Z",
-      "id": 1096436780
-    },
     "securityjoes/MasterParser": {
       "star": 761,
       "created_at": "2023-12-19T19:22:00Z",
@@ -827371,11 +826602,6 @@
       "star": 712,
       "created_at": "2023-04-24T06:33:44Z",
       "id": 631828000
-    },
-    "huey1in/KiroX": {
-      "star": 687,
-      "created_at": "2026-04-01T03:03:53Z",
-      "id": 1197982168
     },
     "arnoldhao/xiadown": {
       "star": 606,
@@ -833206,11 +832432,6 @@
       "created_at": "2025-05-05T03:08:36Z",
       "id": 977827510
     },
-    "facebook/dotslash": {
-      "star": 879,
-      "created_at": "2024-02-06T05:21:56Z",
-      "id": 753431230
-    },
     "Buoy-gg/Buoy-Desktop": {
       "star": 878,
       "created_at": "2025-03-29T15:13:38Z",
@@ -834915,11 +834136,6 @@
       "star": 926,
       "created_at": "2026-07-02T09:47:11Z",
       "id": 1287012056
-    },
-    "facebook/openr": {
-      "star": 936,
-      "created_at": "2017-10-25T17:59:53Z",
-      "id": 108306129
     },
     "wger-project/flutter": {
       "star": 951,
@@ -845787,11 +845003,6 @@
       "created_at": "2014-11-11T02:22:00Z",
       "id": 26465689
     },
-    "facebook/facebook-php-business-sdk": {
-      "star": 915,
-      "created_at": "2014-06-16T08:48:26Z",
-      "id": 20878334
-    },
     "churichard/notabase": {
       "star": 907,
       "created_at": "2021-02-10T19:16:38Z",
@@ -850119,11 +849330,6 @@
       "desc": "项目定位与用途:\nMacro 是一个面向个人和团队的“一体化工作空间”，把邮件、消息、文档、任务、agents 和 CRM 整合到单一界面中。它强调团队级共享记忆、内容互相关联和可搜索性，目标是让团队在同一套系统里完成日常协作，而不必频繁切换不同工具。README 还提到它被设计成 startup 的“operating system”。\n\n解决的问题:\n项目主要解决团队工具割裂、信息分散和协作流程难以统一的问题。README 举例说明，Slack、Linear、Notion、HubSpot、Superhuman 等各自优秀，但难以作为一个整体协同工作，团队扩张后还会出现依赖 MCP、Zapier 等方式拼接系统的情况，导致工作流混乱、上下文丢失，甚至“公司不可计算”。Macro 试图把这些能力统一成一个系统。\n\n使用场景:\nMacro 适合小型公司、成长中的创业团队，以及大公司内部希望拥有统一工作平台的团队。它可用于统一收件箱处理、多渠道消息沟通、任务跟踪、协作文档编辑、团队知识沉淀，以及与 agents、CRM 的联动。README 还提到其功能对技术讨论场景进行了优化，说明研发或产品协作团队也是典型目标用户。\n\n技术架构与特性:\n从 README 可知，Macro 由多个模块化“blocks”组成，强调可扩展并像积木一样协同工作。各功能表面各自为不同任务设计，但共享同一后端；文档、任务、邮件和消息之间的交叉引用以双向图的方式存储。项目使用 SolidJS 和 Rust 构建，强调速度与可靠性。已明确的特性包括多账号统一收件箱、快捷键、共享收件箱、实时协作文档、基于 CRDT 的文档能力，以及与 channels、email、agents 的紧密集成。",
       "desc_updated_at": "2026-08-19"
     },
-    "facebook/openbmc": {
-      "star": 682,
-      "created_at": "2015-03-09T19:18:35Z",
-      "id": 31917712
-    },
     "kubernetes-sigs/dra-driver-nvidia-gpu": {
       "star": 680,
       "created_at": "2023-04-17T19:12:49Z",
@@ -852298,11 +851504,6 @@
       "star": 662,
       "created_at": "2023-11-26T04:49:55Z",
       "id": 723572322
-    },
-    "facebook/SPARTA": {
-      "star": 671,
-      "created_at": "2018-05-03T19:31:42Z",
-      "id": 132040907
     },
     "Microck/opencode-studio": {
       "star": 689,
@@ -856419,11 +855620,6 @@
       "created_at": "2010-11-05T11:52:19Z",
       "id": 1053964
     },
-    "smolnp/IPTVru": {
-      "star": 742,
-      "created_at": "2021-09-16T21:38:22Z",
-      "id": 407321908
-    },
     "oficcejo/tdx-api": {
       "star": 765,
       "created_at": "2025-11-03T09:39:02Z",
@@ -857908,11 +857104,6 @@
       "star": 586,
       "created_at": "2020-09-16T18:54:53Z",
       "id": 296121516
-    },
-    "facebook/chef-cookbooks": {
-      "star": 589,
-      "created_at": "2015-12-18T23:14:27Z",
-      "id": 48260686
     },
     "sallowayma-git/IELTS-practice": {
       "star": 589,
@@ -860060,11 +859251,6 @@
       "star": 615,
       "created_at": "2025-05-10T16:06:38Z",
       "id": 981223380
-    },
-    "facebook/time": {
-      "star": 649,
-      "created_at": "2020-04-20T11:29:32Z",
-      "id": 257259929
     },
     "amElnagdy/delegate-skills": {
       "star": 634,
@@ -879276,11 +878462,6 @@
       "created_at": "2016-04-08T04:54:47Z",
       "id": 55751232
     },
-    "facebook/transform360": {
-      "star": 1035,
-      "created_at": "2016-01-06T01:03:25Z",
-      "id": 49102698
-    },
     "PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python": {
       "star": 1049,
       "created_at": "2022-05-20T12:42:39Z",
@@ -880553,11 +879734,6 @@
       "created_at": "2021-08-17T11:36:34Z",
       "id": 397230660
     },
-    "facebook/starlark-rust": {
-      "star": 1002,
-      "created_at": "2020-12-07T16:47:27Z",
-      "id": 319383495
-    },
     "Off-World-Live/obs-spout2-plugin": {
       "star": 1014,
       "created_at": "2019-09-18T09:30:00Z",
@@ -881397,11 +880573,6 @@
       "star": 1032,
       "created_at": "2022-08-03T21:55:58Z",
       "id": 521043428
-    },
-    "facebook/fatal": {
-      "star": 1018,
-      "created_at": "2014-09-09T06:04:59Z",
-      "id": 23821422
     },
     "nashaofu/xcap": {
       "star": 1001,
@@ -883449,11 +882620,6 @@
       "star": 991,
       "created_at": "2022-12-01T16:34:50Z",
       "id": 573074151
-    },
-    "facebook/fboss": {
-      "star": 982,
-      "created_at": "2015-03-09T23:04:15Z",
-      "id": 31927407
     },
     "Teyliu/PVZF-Translation": {
       "star": 990,
@@ -895814,11 +894980,6 @@
       "star": 593,
       "created_at": "2011-07-11T16:58:15Z",
       "id": 2031428
-    },
-    "facebook/facebook-nodejs-business-sdk": {
-      "star": 609,
-      "created_at": "2017-08-29T17:30:44Z",
-      "id": 101788376
     },
     "PRoX2011/x16-PRos": {
       "star": 589,
@@ -909487,11 +908648,6 @@
       "created_at": "2019-05-09T01:08:20Z",
       "id": 185701924
     },
-    "Widle-Studio/Grocery-App": {
-      "star": 1139,
-      "created_at": "2019-01-01T12:10:11Z",
-      "id": 163733979
-    },
     "Norbert515/flutter_ide": {
       "star": 1136,
       "created_at": "2018-12-27T14:34:16Z",
@@ -918881,11 +918037,6 @@
       "star": 737,
       "created_at": "2017-11-04T15:37:41Z",
       "id": 109507216
-    },
-    "graemedouglas/LittleD": {
-      "star": 735,
-      "created_at": "2013-11-27T17:28:00Z",
-      "id": 14753974
     },
     "daisyUniverse/TwitFix": {
       "star": 733,
@@ -929264,11 +928415,6 @@
       "star": 504,
       "created_at": "2021-10-30T17:41:10Z",
       "id": 422950454
-    },
-    "facebook/facebook-sdk-for-unity": {
-      "star": 503,
-      "created_at": "2015-09-01T22:11:09Z",
-      "id": 41766017
     },
     "huailiang/face-nn": {
       "star": 503,
@@ -957200,11 +956346,6 @@
       "created_at": "2022-02-25T02:34:02Z",
       "id": 463371423
     },
-    "ihmily/proxy-guide": {
-      "star": 755,
-      "created_at": "2025-12-17T08:25:17Z",
-      "id": 1118077409
-    },
     "dashpradeep99/https-github.com-miguellgt-books": {
       "star": 755,
       "created_at": "2017-08-15T17:19:47Z",
@@ -982170,11 +981311,6 @@
       "created_at": "2016-07-20T07:35:28Z",
       "id": 63760705
     },
-    "facebook/Rapid": {
-      "star": 633,
-      "created_at": "2018-12-10T05:13:23Z",
-      "id": 161120445
-    },
     "Chion82/hello-old-driver": {
       "star": 633,
       "created_at": "2016-02-18T18:15:58Z",
@@ -984055,11 +983191,6 @@
       "created_at": "2016-04-08T23:45:34Z",
       "id": 55816251
     },
-    "moonshawdo/checkgoogleip": {
-      "star": 573,
-      "created_at": "2014-06-04T15:11:09Z",
-      "id": 20488437
-    },
     "DamianEdwards/RazorSlices": {
       "star": 573,
       "created_at": "2023-03-07T02:20:48Z",
@@ -984179,11 +983310,6 @@
       "star": 573,
       "created_at": "2022-04-15T14:34:35Z",
       "id": 481986361
-    },
-    "facebook/IT-CPE": {
-      "star": 573,
-      "created_at": "2014-03-17T22:35:48Z",
-      "id": 17845857
     },
     "lprhodes/homebridge-broadlink-rm": {
       "star": 573,
@@ -985094,11 +984220,6 @@
       "star": 765,
       "created_at": "2016-01-03T12:17:46Z",
       "id": 48944536
-    },
-    "eondrcode/obsidian-i18n": {
-      "star": 765,
-      "created_at": "2024-02-14T08:58:47Z",
-      "id": 757321220
     },
     "pig-dot-dev/muscle-mem": {
       "star": 765,
@@ -992339,11 +991460,6 @@
       "star": 901,
       "created_at": "2016-04-01T14:01:25Z",
       "id": 55236570
-    },
-    "it-ebooks-0/gpt-translated-pdf-zh": {
-      "star": 900,
-      "created_at": "2024-02-01T05:43:57Z",
-      "id": 751194803
     },
     "alex-sherman/unsync": {
       "star": 900,
@@ -1016429,11 +1015545,6 @@
       "star": 900,
       "created_at": "2015-09-12T19:14:35Z",
       "id": 42369667
-    },
-    "facebook/winterfell": {
-      "star": 900,
-      "created_at": "2021-04-23T19:20:43Z",
-      "id": 360984428
     },
     "QtDocumentCN/QtDocumentCN": {
       "star": 899,
@@ -1064435,11 +1063546,6 @@
       "created_at": "2014-09-06T04:36:09Z",
       "id": 23726777
     },
-    "L-noodle/vue-big-screen": {
-      "star": 812,
-      "created_at": "2020-03-18T14:24:36Z",
-      "id": 248253171
-    },
     "MatthewPierson/Vieux": {
       "star": 812,
       "created_at": "2019-11-25T04:57:44Z",
@@ -1084344,11 +1083450,6 @@
       "star": 908,
       "created_at": "2014-11-15T09:53:38Z",
       "id": 26675859
-    },
-    "ixinzhi/tianya": {
-      "star": 908,
-      "created_at": "2023-04-30T16:53:35Z",
-      "id": 634601436
     },
     "sAjibuu/Upload_Bypass": {
       "star": 908,
@@ -1110759,11 +1109860,6 @@
       "star": 647,
       "created_at": "2015-09-12T06:52:25Z",
       "id": 42347883
-    },
-    "facebook/pyre2": {
-      "star": 647,
-      "created_at": "2010-03-16T18:45:15Z",
-      "id": 565426
     },
     "seifrajhi/awesome-platform-engineering-tools": {
       "star": 647,
@@ -1144405,11 +1143501,6 @@
       "created_at": "2020-01-24T22:21:04Z",
       "id": 236093411
     },
-    "facebook/opaque-ke": {
-      "star": 409,
-      "created_at": "2020-06-04T04:00:12Z",
-      "id": 269256421
-    },
     "CryptoGnome/Limit-Sniper": {
       "star": 496,
       "created_at": "2021-07-01T11:04:10Z",
@@ -1155331,11 +1154422,6 @@
       "created_at": "2019-11-22T15:38:01Z",
       "id": 223433778
     },
-    "facebook/meta-wearables-dat-ios": {
-      "star": 498,
-      "created_at": "2025-11-21T14:11:05Z",
-      "id": 1101323759
-    },
     "GUI/covid-vaccine-spotter": {
       "star": 498,
       "created_at": "2021-02-10T05:08:10Z",
@@ -1158582,11 +1157668,6 @@
       "star": 477,
       "created_at": "2015-09-06T12:05:21Z",
       "id": 42001175
-    },
-    "nix-community/rnix-parser": {
-      "star": 477,
-      "created_at": "2018-08-11T12:29:05Z",
-      "id": 144383474
     },
     "murrty/youtube-dl-gui": {
       "star": 477,
@@ -1166222,11 +1165303,6 @@
       "created_at": "2015-08-30T15:53:03Z",
       "id": 41634148
     },
-    "facebook/facebook-java-business-sdk": {
-      "star": 462,
-      "created_at": "2015-12-01T18:48:36Z",
-      "id": 47210240
-    },
     "warmsound/crystal-face": {
       "star": 462,
       "created_at": "2018-02-06T09:02:33Z",
@@ -1173132,11 +1172208,6 @@
       "created_at": "2024-08-24T08:39:59Z",
       "id": 846891425
     },
-    "Mikachu2333/rimage_gui": {
-      "star": 490,
-      "created_at": "2023-06-24T12:42:57Z",
-      "id": 657993991
-    },
     "sysprog21/simplefs": {
       "star": 490,
       "created_at": "2020-01-29T19:03:19Z",
@@ -1174131,11 +1173202,6 @@
       "star": 494,
       "created_at": "2010-04-14T08:06:50Z",
       "id": 609739
-    },
-    "franckferman/MetaDetective": {
-      "star": 497,
-      "created_at": "2023-08-27T19:45:34Z",
-      "id": 683818400
     },
     "project-blinc/Blinc": {
       "star": 497,
@@ -1176637,11 +1175703,6 @@
       "created_at": "2020-04-07T15:42:27Z",
       "id": 253839144
     },
-    "Hankkin/Reading": {
-      "star": 401,
-      "created_at": "2018-08-04T03:35:22Z",
-      "id": 143494873
-    },
     "liuziangexit/HEIF-Utility": {
       "star": 401,
       "created_at": "2017-08-27T11:10:21Z",
@@ -1176651,11 +1175712,6 @@
       "star": 401,
       "created_at": "2019-09-28T00:59:16Z",
       "id": 211423942
-    },
-    "techlore/go-incognito": {
-      "star": 401,
-      "created_at": "2020-04-29T04:22:51Z",
-      "id": 259823137
     },
     "1812z/HyperIsland": {
       "star": 401,
@@ -1222417,11 +1221473,6 @@
       "created_at": "2012-03-20T08:59:38Z",
       "id": 3773360
     },
-    "Mountain-Buzhou/Interview-Book": {
-      "star": 438,
-      "created_at": "2018-02-28T06:30:09Z",
-      "id": 123240455
-    },
     "BrentAureli/SuperMario": {
       "star": 438,
       "created_at": "2015-08-25T00:47:28Z",
@@ -1222776,11 +1221827,6 @@
       "star": 461,
       "created_at": "2019-11-08T13:32:50Z",
       "id": 220473205
-    },
-    "facebook/open-graph-protocol": {
-      "star": 461,
-      "created_at": "2010-04-20T08:52:25Z",
-      "id": 619240
     },
     "hiddenzzh/awesome-tech-papers": {
       "star": 461,
@@ -1254896,11 +1253942,6 @@
       "created_at": "2026-05-27T03:44:30Z",
       "id": 1250880290
     },
-    "facebook/dhcplb": {
-      "star": 1059,
-      "created_at": "2016-07-15T16:48:22Z",
-      "id": 63437106
-    },
     "agentrhq/webcmd": {
       "star": 412,
       "created_at": "2026-07-02T11:49:31Z",
@@ -1259949,11 +1258990,6 @@
       "created_at": "2022-05-25T12:09:30Z",
       "id": 496214935
     },
-    "xevrion/breakscale": {
-      "star": 664,
-      "created_at": "2026-08-23T06:21:21Z",
-      "id": 1343441436
-    },
     "zackb/tether": {
       "star": 960,
       "created_at": "2026-04-12T04:31:45Z",
@@ -1262141,11 +1261177,6 @@
       "created_at": "2026-02-02T12:02:55Z",
       "id": 1147953501
     },
-    "splendo/kaluga": {
-      "star": 400,
-      "created_at": "2019-06-11T12:57:34Z",
-      "id": 191371940
-    },
     "mem-eval-suite/LoCoMo_refined": {
       "star": 407,
       "created_at": "2026-04-11T07:11:52Z",
@@ -1263485,11 +1262516,6 @@
       "star": 400,
       "created_at": "2025-04-17T22:03:11Z",
       "id": 968321118
-    },
-    "ViewTurbo/ViewTurbo": {
-      "star": 400,
-      "created_at": "2024-10-12T01:47:54Z",
-      "id": 871443514
     },
     "adtexterry-lgtm/unigit-ecosystem": {
       "star": 413,
@@ -1269023,11 +1268049,6 @@
       "created_at": "2026-08-15T21:42:56Z",
       "id": 1335438980
     },
-    "serialport/electron-serialport": {
-      "star": 400,
-      "created_at": "2016-12-27T01:46:18Z",
-      "id": 77417241
-    },
     "mangxieke/linbing": {
       "star": 712,
       "created_at": "2020-02-26T02:32:06Z",
@@ -1271296,11 +1270317,6 @@
       "created_at": "2023-11-24T11:11:33Z",
       "id": 722965390
     },
-    "macoj/phd": {
-      "star": 400,
-      "created_at": "2017-03-17T11:16:05Z",
-      "id": 85303573
-    },
     "Unity-Technologies/UIToolkitUnityRoyaleRuntimeDemo": {
       "star": 400,
       "created_at": "2020-07-24T15:17:42Z",
@@ -1271315,11 +1270331,6 @@
       "star": 406,
       "created_at": "2024-05-23T04:38:17Z",
       "id": 804689973
-    },
-    "eliasstravik/herdr-projects": {
-      "star": 432,
-      "created_at": "2026-09-18T07:28:36Z",
-      "id": 1375530874
     },
     "LiteLDev/LeviLauncher": {
       "star": 400,
@@ -1271824,11 +1270835,6 @@
       "star": 402,
       "created_at": "2026-08-28T06:42:21Z",
       "id": 1349285058
-    },
-    "KMnO4-zx/agentic-rl-lab": {
-      "star": 401,
-      "created_at": "2026-07-06T08:14:15Z",
-      "id": 1290768088
     },
     "ollaya-dev/ollaya": {
       "star": 475,
@@ -1274449,11 +1273455,6 @@
       "star": 825,
       "created_at": "2026-09-22T18:10:56Z",
       "id": 1382111737
-    },
-    "terrafying/ai-torture-chamber": {
-      "star": 499,
-      "created_at": "2026-09-24T15:10:21Z",
-      "id": 1385768572
     },
     "perarnia/fSpy-Blender": {
       "star": 1434,
@@ -1278352,11 +1277353,6 @@
       "created_at": "2026-08-29T07:40:47Z",
       "id": 1350379882
     },
-    "facebook/rebalancer": {
-      "star": 408,
-      "created_at": "2026-06-10T23:14:07Z",
-      "id": 1265594250
-    },
     "Sadsnake1/word-smith": {
       "star": 404,
       "created_at": "2026-07-18T19:37:24Z",
@@ -1279814,11 +1278810,6 @@
       "created_at": "2026-03-11T04:41:33Z",
       "id": 1178500367
     },
-    "davidondrej/cloudroom-core": {
-      "star": 596,
-      "created_at": "2026-09-17T18:56:56Z",
-      "id": 1374933474
-    },
     "coorasse/cancancan": {
       "star": 5688,
       "created_at": "2014-02-19T18:26:23Z",
@@ -1281230,11 +1280221,6 @@
       "desc": "项目定位与用途:\nNoria是一款解耦的六边形管道编排器，专注于机会提取与生成式评估。该项目通过爬取原始网页数据，结合用户个人档案执行严格的AI评估，并将匹配结果转化为结构化机会，最终通过实时警报推送给用户。其核心定位是作为自动化机会发现与分发的中枢系统，旨在将杂乱的网络信息转化为可操作的精准匹配结果。\n\n解决的问题:\n当前机会发现过程高度依赖人工且流程混乱，导致大量优质资源被淹没在海量网络信息中。Noria旨在解决这一痛点，通过自动化管道替代繁琐的手动筛选，消除信息不对称。项目将非结构化的网页数据转化为标准化评估输入，利用生成式AI进行精准匹配，大幅降低用户寻找奖学金、职位等关键机会的时间成本与遗漏风险。\n\n使用场景:\n典型应用场景包括学术奖学金自动检索与匹配、远程工作职位精准推送，以及各类个人发展机会的自动化发现。目标用户主要为面临信息筛选压力的学生群体、求职者及开发者。系统支持配置多平台扫描任务，用户可通过界面管理个人档案、关联设备与通知渠道，实现全天候自动化监控与实时提醒，适用于需要持续追踪外部机会的个人用户。\n\n技术架构与特性:\n项目采用严格的六边形架构，核心业务逻辑与可插拔技术基础设施完全分离，依赖关系严格向内收敛，通过中央注册引导器管理模块边界。技术特性支持多语言模型提供商链路与降级回退机制，允许用户自定义API密钥与评估提示词。系统内置232项通过测试，提供Windows自启、本地数据保留及完整重置功能，并集成WhatsApp通知与Streamlit相关配置，保障高可用性与可扩展性。",
       "desc_updated_at": "2026-10-21"
     },
-    "rohit267/net-merge": {
-      "star": 824,
-      "created_at": "2026-10-12T19:28:45Z",
-      "id": 1416044960
-    },
     "AhmadHassan-BTed/JinaClip": {
       "star": 413,
       "created_at": "2026-05-16T10:33:42Z",
@@ -1281378,11 +1280364,6 @@
       "star": 625,
       "created_at": "2026-03-02T01:29:06Z",
       "id": 1170311800
-    },
-    "prettyboyats/ixrail": {
-      "star": 1052,
-      "created_at": "2024-05-09T13:58:52Z",
-      "id": 798300247
     },
     "Ojhaharsh/30u30": {
       "star": 933,
@@ -1283263,11 +1282244,6 @@
       "created_at": "2026-08-13T08:09:10Z",
       "id": 1332866061
     },
-    "google-deepmind/videoprism": {
-      "star": 400,
-      "created_at": "2025-05-29T19:25:15Z",
-      "id": 992829306
-    },
     "hugeBlack/GetMoreRam": {
       "star": 400,
       "created_at": "2025-03-15T09:58:02Z",
@@ -1284377,11 +1283353,6 @@
       "created_at": "2026-05-28T09:04:44Z",
       "id": 1252175595
     },
-    "oosexgang/hackios-xnu-kernel": {
-      "star": 648,
-      "created_at": "2026-10-22T06:20:11Z",
-      "id": 1429328794
-    },
     "WoYun520/dsh-purge": {
       "star": 410,
       "created_at": "2026-10-21T01:35:52Z",
@@ -1285207,11 +1284178,6 @@
       "desc": "项目定位与用途:\n该项目是一个开源插件工具，旨在辅助开发者在编码前进行系统化的架构设计与规格说明撰写。项目以“大象设计，金鱼评审”为核心理念，通过模拟两种不同上下文状态的智能体协作，帮助工程师在实现功能前完成严谨的技术方案构思。它主要作为编码助手的配套插件运行，引导用户从需求探讨、草案生成到交叉评审，最终输出可落地的设计文档。\n\n解决的问题:\n传统开发流程中，开发者往往在缺乏充分设计验证的情况下直接编码，容易遗漏隐性假设、忽略边界条件或陷入思维盲区。该项目通过引入零上下文评审机制，强制审查者在不了解前期对话历史的情况下独立检验设计草案与源码，有效暴露逻辑漏洞。同时，它将设计决策与代码实现解耦，避免过早陷入实现细节，显著降低后期返工成本。\n\n使用场景:\n适用于需要明确架构决策与复杂逻辑规划的功能开发阶段，例如新增外部接口对接、核心业务流重构或涉及多模块交互的新特性设计。目标用户主要为使用主流代码智能体的工程师与研发团队。对于简单的缺陷修复或明确的小改动，建议沿用常规编码工作流，不推荐在此类轻量任务中引入该设计流程。\n\n技术架构与特性:\n项目以插件形式集成于多种代码智能体生态，提供标准化技能指令。架构上采用双阶段智能体协作模式：主智能体保留完整项目上下文生成设计草案，子智能体以零上下文状态执行独立审查。核心特性包括动态会话管理、草案与需求简报的自动比对、评审收敛机制以及防幻觉修复。输出文件默认保存为Markdown格式，支持人工介入审批。",
       "desc_updated_at": "2026-10-28"
     },
-    "smartdoca/doca": {
-      "star": 406,
-      "created_at": "2026-09-27T15:55:56Z",
-      "id": 1391081062
-    },
     "samuelfaj/MacCode": {
       "star": 409,
       "created_at": "2025-10-06T02:57:14Z",
@@ -1285812,11 +1284778,6 @@
       "star": 400,
       "created_at": "2023-12-11T11:40:00Z",
       "id": 730185589
-    },
-    "bnb-chain/example-hub": {
-      "star": 400,
-      "created_at": "2025-03-12T04:13:06Z",
-      "id": 947044013
     },
     "JsonAsAsset/Reflection": {
       "star": 400,
@@ -1286950,11 +1285911,6 @@
       "created_at": "2010-08-28T14:39:31Z",
       "id": 868469
     },
-    "maximilionus/lucidglyph": {
-      "star": 400,
-      "created_at": "2023-11-26T18:42:36Z",
-      "id": 723782860
-    },
     "ecere/ecere-sdk": {
       "star": 400,
       "created_at": "2011-05-18T17:26:42Z",
@@ -1287102,11 +1286058,6 @@
       "star": 400,
       "created_at": "2026-10-10T18:01:10Z",
       "id": 1413505972
-    },
-    "martinkeith700/ruyiJS": {
-      "star": 465,
-      "created_at": "2026-10-26T13:08:12Z",
-      "id": 1434396340
     },
     "jonaslsaa/pi-optchat": {
       "star": 415,
@@ -1287295,13 +1286246,6 @@
       "created_at": "2026-06-26T10:33:30Z",
       "id": 1281217063
     },
-    "DLSS-5-Swaper-New/.github": {
-      "star": 1543,
-      "created_at": "2026-10-27T19:27:47Z",
-      "id": 1436185485,
-      "desc": "项目定位与用途:\n该项目是一款专为Windows平台PC游戏玩家设计的图形组件管理工具。其核心定位在于提供便捷的图形渲染配置管理方案，帮助用户在支持的游戏环境中处理与DLSS相关的组件文件。通过提供独立的工作空间，该工具使用户能够更方便地进行图形设置调整、组件版本切换以及渲染参数的组织与审查，从而超越传统游戏内菜单的限制，实现更灵活的图形自定义体验。\n\n解决的问题:\n传统游戏内置的图形设置往往功能有限，难以满足玩家对特定渲染组件或DLSS版本进行深度对比与兼容性测试的需求。该项目旨在解决图形文件管理繁琐、配置切换缺乏统一入口的痛点。通过提供集中化的组件管理与备份机制，它降低了手动替换文件的风险，帮助用户在尝试不同渲染配置时能够更安全、高效地评估其对游戏画面与性能的实际影响，避免因配置不当导致的启动失败或画面异常。\n\n使用场景:\n主要面向追求画面优化与硬件性能挖掘的PC游戏玩家及图形技术爱好者。典型场景包括：在支持DLSS技术的新老游戏中尝试不同渲染组件版本以寻找最佳画质与帧数平衡；在更新显卡驱动或游戏补丁后，快速回滚或切换图形配置文件以排查兼容性问题；以及进行图形渲染参数的对比测试。用户需具备基础的Windows操作能力，并在修改前养成备份原文件的习惯，适用于单机或支持自定义渲染模块的游戏环境。\n\n技术架构与特性:\n该项目采用轻量级Windows桌面应用架构，核心特性围绕图形组件的集中化管理与切换展开。内置专属工作区支持DLSS相关组件的版本替换、渲染配置的组织审查以及兼容性测试流程。系统要求较低，兼容Windows 10/11，仅需双核处理器、4GB内存与200MB存储空间。工具提供灵活的手动配置工作流，并内置文件管理功能以维持组件文件的可访问性。具体底层依赖与渲染引擎对接细节未在公开信息中明确，实际效果受游戏版本、GPU型号及驱动影响较大。",
-      "desc_updated_at": "2026-10-28"
-    },
     "yoloytang/Awesome-LLMs-for-Video-Understanding": {
       "star": 3252,
       "created_at": "2023-07-16T07:00:11Z",
@@ -1287445,11 +1286389,6 @@
       "star": 549,
       "created_at": "2021-12-26T14:32:11Z",
       "id": 441911152
-    },
-    "NVIDIA/local-inference": {
-      "star": 613,
-      "created_at": "2026-10-20T17:09:40Z",
-      "id": 1427329124
     },
     "Cracked5pider/KaynStrike": {
       "star": 435,
@@ -1287636,11 +1286575,6 @@
       "created_at": "2026-10-20T09:16:37Z",
       "id": 1426784358
     },
-    "scrt/PowerChell": {
-      "star": 400,
-      "created_at": "2025-02-12T09:21:04Z",
-      "id": 931435721
-    },
     "bagrat/vim-buffet": {
       "star": 400,
       "created_at": "2017-05-12T05:41:48Z",
@@ -1287670,6 +1286604,1402 @@
       "star": 418,
       "created_at": "2026-02-18T14:03:31Z",
       "id": 1160901819
+    },
+    "Graphicle-AI/graphicle": {
+      "star": 422,
+      "created_at": "2026-10-14T12:25:36Z",
+      "id": 1418870464
+    },
+    "KnifeLemon/Droidline": {
+      "star": 413,
+      "created_at": "2026-10-07T04:54:21Z",
+      "id": 1408262325
+    },
+    "workhold/doca": {
+      "star": 406,
+      "created_at": "2026-09-27T15:55:56Z",
+      "id": 1391081062
+    },
+    "haiou-666/haiou-codex": {
+      "star": 400,
+      "created_at": "2026-07-10T16:07:19Z",
+      "id": 1296678306
+    },
+    "sqfcyily/deva": {
+      "star": 451,
+      "created_at": "2026-09-21T02:22:52Z",
+      "id": 1378978937
+    },
+    "datawhalechina/agentic-rl-lab": {
+      "star": 401,
+      "created_at": "2026-07-06T08:14:15Z",
+      "id": 1290768088
+    },
+    "sunchaokun/PPT-Design-Skill": {
+      "star": 402,
+      "created_at": "2026-07-09T04:03:02Z",
+      "id": 1294612352
+    },
+    "xlang-ai/OSWorld-V2": {
+      "star": 401,
+      "created_at": "2025-10-09T06:49:22Z",
+      "id": 1072748300
+    },
+    "eliasbiondo/antirion": {
+      "star": 421,
+      "created_at": "2026-10-17T21:43:39Z",
+      "id": 1423770820
+    },
+    "meta/rocksdb": {
+      "star": 31909,
+      "created_at": "2012-11-30T06:16:18Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [
+        "database",
+        "storage-engine"
+      ],
+      "gh_desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "id": 6934395
+    },
+    "meta/docusaurus": {
+      "star": 65748,
+      "created_at": "2017-06-20T16:13:53Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "documentation",
+        "hacktoberfest",
+        "javascript",
+        "open-source",
+        "react",
+        "website"
+      ],
+      "gh_desc": "Easy to maintain open source documentation websites.",
+      "id": 94911145
+    },
+    "meta/hermes": {
+      "star": 11222,
+      "created_at": "2018-10-22T19:13:00Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "A JavaScript engine optimized for running React Native.",
+      "id": 154201259
+    },
+    "meta/memlab": {
+      "star": 5009,
+      "created_at": "2022-05-26T20:53:35Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "detector",
+        "e2e",
+        "facebook",
+        "heap",
+        "hermes",
+        "javascript",
+        "leak",
+        "memory",
+        "nodejs",
+        "perf-tools",
+        "performance",
+        "snapshot",
+        "v8"
+      ],
+      "gh_desc": "A framework for finding JavaScript memory leaks and analyzing heap snapshots",
+      "id": 496768943
+    },
+    "meta/duckling": {
+      "star": 4298,
+      "created_at": "2017-03-02T01:45:50Z",
+      "desc": "",
+      "language": "Haskell",
+      "topics": [],
+      "gh_desc": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+      "id": 83621289
+    },
+    "anmolksachan/AI-ML-Free-Resources-for-Security-and-Prompt-Injection": {
+      "star": 816,
+      "created_at": "2024-09-02T06:48:58Z",
+      "id": 850956931
+    },
+    "BaaRai/ARTEX": {
+      "star": 739,
+      "created_at": "2026-10-08T21:14:39Z",
+      "id": 1410961834
+    },
+    "l0ng-ai/openidea": {
+      "star": 793,
+      "created_at": "2026-10-21T12:23:14Z",
+      "id": 1428347546
+    },
+    "meta/lexical": {
+      "star": 23715,
+      "created_at": "2020-12-03T22:53:26Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [],
+      "gh_desc": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+      "id": 318341089
+    },
+    "meta/pyrefly": {
+      "star": 6832,
+      "created_at": "2025-02-19T21:09:33Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [
+        "code-quality",
+        "contributions-welcome",
+        "good-first-issue",
+        "hacktoberfest",
+        "ide",
+        "language-server",
+        "lsp",
+        "python",
+        "rust",
+        "type-check",
+        "type-checker",
+        "typecheck",
+        "typechecker",
+        "types",
+        "typing"
+      ],
+      "gh_desc": "A fast type checker and language server for Python",
+      "id": 935685654
+    },
+    "meta/prophet": {
+      "star": 20327,
+      "created_at": "2016-11-16T01:50:08Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "forecasting",
+        "python",
+        "r"
+      ],
+      "gh_desc": "Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.",
+      "id": 73872834
+    },
+    "Scottcjn/Rustchain": {
+      "star": 683,
+      "created_at": "2025-04-21T15:12:18Z",
+      "id": 970157421
+    },
+    "YeJe-cpu/SeeCut": {
+      "star": 406,
+      "created_at": "2026-09-25T11:48:27Z",
+      "id": 1387387974
+    },
+    "JPeetz/Hermes-Studio": {
+      "star": 400,
+      "created_at": "2026-04-10T08:08:08Z",
+      "id": 1206748589
+    },
+    "arnonym/ha-plugins": {
+      "star": 400,
+      "created_at": "2021-08-23T13:48:29Z",
+      "id": 399120753
+    },
+    "net-merge/net-merge": {
+      "star": 824,
+      "created_at": "2026-10-12T19:28:45Z",
+      "id": 1416044960
+    },
+    "meta/dhcplb": {
+      "star": 1059,
+      "created_at": "2016-07-15T16:48:22Z",
+      "id": 63437106
+    },
+    "pullboard-dev/pullboard": {
+      "star": 430,
+      "created_at": "2026-10-07T04:14:39Z",
+      "id": 1408228998
+    },
+    "daveebbelaar/bama": {
+      "star": 630,
+      "created_at": "2026-10-24T08:44:36Z",
+      "id": 1431986839
+    },
+    "microsoft/iq-series": {
+      "star": 400,
+      "created_at": "2026-01-26T06:50:19Z",
+      "id": 1142253993
+    },
+    "agent-tower/core": {
+      "star": 400,
+      "created_at": "2026-02-04T03:29:48Z",
+      "id": 1149377357
+    },
+    "C4rohan/Lampline": {
+      "star": 547,
+      "created_at": "2026-10-19T06:50:54Z",
+      "id": 1425227613
+    },
+    "haoruilee/awesome-agent-native-services": {
+      "star": 416,
+      "created_at": "2026-03-15T04:02:04Z",
+      "id": 1182117531
+    },
+    "prometheus-community/pyrra": {
+      "star": 1534,
+      "created_at": "2021-04-30T16:52:40Z",
+      "desc": "",
+      "language": "Go",
+      "topics": [
+        "docker",
+        "golang",
+        "kubernetes",
+        "metrics",
+        "monitoring",
+        "prometheus",
+        "slo",
+        "thanos",
+        "time-series"
+      ],
+      "gh_desc": "Making SLOs with Prometheus manageable, accessible, and easy to use for everyone!",
+      "id": 363204786
+    },
+    "meta/relay": {
+      "star": 18951,
+      "created_at": "2015-08-10T22:09:16Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [],
+      "gh_desc": "Relay is a JavaScript framework for building data-driven React applications.",
+      "id": 40508605
+    },
+    "qdleader/qdleader": {
+      "star": 1506,
+      "created_at": "2020-05-06T02:10:44Z",
+      "id": 261629463
+    },
+    "meta/lexical-ios": {
+      "star": 658,
+      "created_at": "2023-03-20T15:44:31Z",
+      "id": 616546648
+    },
+    "Far-Beyond-Pulsar/Pulsar-Native": {
+      "star": 400,
+      "created_at": "2025-09-15T16:53:02Z",
+      "id": 1057387662
+    },
+    "meta/chisel": {
+      "star": 9176,
+      "created_at": "2014-02-21T18:24:17Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Chisel is a collection of LLDB commands to assist debugging iOS apps.",
+      "id": 17065530
+    },
+    "meta/buck": {
+      "star": 8540,
+      "created_at": "2013-04-17T18:12:18Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [
+        "android",
+        "buck",
+        "build-tool",
+        "ios",
+        "java",
+        "python"
+      ],
+      "gh_desc": "A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",
+      "id": 9504214
+    },
+    "meta/fresco": {
+      "star": 17156,
+      "created_at": "2015-03-02T09:58:04Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "An Android library for managing images and the memory they use.",
+      "id": 31533997
+    },
+    "meta/stetho": {
+      "star": 12665,
+      "created_at": "2015-01-22T22:34:10Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.",
+      "id": 29703871
+    },
+    "anonnerdfrenzy/survival-llm": {
+      "star": 629,
+      "created_at": "2026-10-24T19:12:41Z",
+      "id": 1432512301
+    },
+    "shx2005/codex-account-switcher": {
+      "star": 433,
+      "created_at": "2026-10-03T14:38:55Z",
+      "id": 1403295626
+    },
+    "meta/mysql-5.6": {
+      "star": 2577,
+      "created_at": "2013-04-15T17:54:43Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Facebook's branch of the Oracle MySQL database. This includes MyRocks.",
+      "id": 9454675
+    },
+    "duggytuxy/syswarden": {
+      "star": 400,
+      "created_at": "2026-02-09T15:37:52Z",
+      "id": 1153695079
+    },
+    "dl-solarity/solidity-lib": {
+      "star": 402,
+      "created_at": "2022-05-03T11:49:01Z",
+      "id": 488189062
+    },
+    "meta/facebook-ios-sdk": {
+      "star": 8077,
+      "created_at": "2010-06-24T22:11:03Z",
+      "desc": "",
+      "language": "Swift",
+      "topics": [],
+      "gh_desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+      "id": 738491
+    },
+    "win4r/MuseAI-Skills": {
+      "star": 400,
+      "created_at": "2026-09-25T07:45:43Z",
+      "id": 1387036429
+    },
+    "meta/Haxl": {
+      "star": 4380,
+      "created_at": "2014-04-02T20:10:58Z",
+      "desc": "",
+      "language": "Haskell",
+      "topics": [],
+      "gh_desc": "A Haskell library that simplifies access to remote data, such as databases or web-based services. ",
+      "id": 18379853
+    },
+    "mulgadc/spinifex": {
+      "star": 401,
+      "created_at": "2025-01-27T08:12:48Z",
+      "id": 922863322
+    },
+    "openITCOCKPIT/openITCOCKPIT": {
+      "star": 402,
+      "created_at": "2015-08-19T12:16:06Z",
+      "id": 41031994
+    },
+    "meta/react-devtools": {
+      "star": 11016,
+      "created_at": "2013-09-04T20:28:43Z",
+      "desc": "",
+      "language": "",
+      "topics": [],
+      "gh_desc": "An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.",
+      "id": 12601374
+    },
+    "meta/mariana-trench": {
+      "star": 1242,
+      "created_at": "2020-12-02T01:04:23Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "A security focused static analysis tool for Android and Java applications.",
+      "id": 317710554
+    },
+    "smithjohn78390/tongjiang-lab": {
+      "star": 649,
+      "created_at": "2026-10-28T04:29:29Z",
+      "id": 1436598075
+    },
+    "millida/launcher": {
+      "star": 401,
+      "created_at": "2026-08-01T12:57:16Z",
+      "id": 1319295444
+    },
+    "meta/componentkit": {
+      "star": 5755,
+      "created_at": "2015-03-20T18:42:47Z",
+      "desc": "",
+      "language": "Objective-C++",
+      "topics": [],
+      "gh_desc": "A React-inspired view framework for iOS.",
+      "id": 32600951
+    },
+    "meta/fishhook": {
+      "star": 5422,
+      "created_at": "2013-07-11T20:12:26Z",
+      "desc": "",
+      "language": "C",
+      "topics": [],
+      "gh_desc": "A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.",
+      "id": 11351927
+    },
+    "meta/idb": {
+      "star": 5238,
+      "created_at": "2015-09-03T16:25:17Z",
+      "desc": "",
+      "language": "Objective-C",
+      "topics": [],
+      "gh_desc": "idb is a flexible command line interface for automating iOS simulators and devices",
+      "id": 41870517
+    },
+    "meta/litho": {
+      "star": 7770,
+      "created_at": "2017-01-27T03:59:11Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [],
+      "gh_desc": "A declarative framework for building efficient UIs on Android.",
+      "id": 80179724
+    },
+    "qdleader/Awesome-AI-Pedia": {
+      "star": 565,
+      "created_at": "2026-01-26T03:47:06Z",
+      "id": 1142179366
+    },
+    "Jman-Github/Universal-Patch-Manager": {
+      "star": 1219,
+      "created_at": "2025-10-13T08:31:07Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [
+        "android",
+        "apk",
+        "app",
+        "kotlin",
+        "morphe",
+        "patcher",
+        "revanced",
+        "revanced-extended",
+        "revanced-manager"
+      ],
+      "gh_desc": "💊 An Android application to use ReVanced, Morphe and AmpleReVanced on that has extra features the official manager doesn't have",
+      "id": 1075242574
+    },
+    "meta/facebook-android-sdk": {
+      "star": 6446,
+      "created_at": "2010-05-10T17:17:33Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [],
+      "gh_desc": "Used to integrate Android apps with Facebook Platform.",
+      "id": 659341
+    },
+    "meta/redex": {
+      "star": 6296,
+      "created_at": "2016-03-24T18:26:35Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "A bytecode optimizer for Android apps",
+      "id": 54664770
+    },
+    "meta/FBRetainCycleDetector": {
+      "star": 4233,
+      "created_at": "2016-04-07T18:17:16Z",
+      "desc": "",
+      "language": "Objective-C++",
+      "topics": [],
+      "gh_desc": "iOS library to help detecting retain cycles in runtime.",
+      "id": 55717457
+    },
+    "dualface/ste-zh": {
+      "star": 648,
+      "created_at": "2026-10-05T16:45:04Z",
+      "id": 1406092850
+    },
+    "VoltAgent/official-mcp-servers": {
+      "star": 401,
+      "created_at": "2026-10-01T07:30:34Z",
+      "id": 1399413068
+    },
+    "meta/stylex": {
+      "star": 9675,
+      "created_at": "2022-12-08T06:38:09Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "StyleX is the styling system for ambitious user interfaces.",
+      "id": 575723287
+    },
+    "widle-ai/Grocery-App": {
+      "star": 1139,
+      "created_at": "2019-01-01T12:10:11Z",
+      "id": 163733979
+    },
+    "eliasstravik/shepherdr": {
+      "star": 432,
+      "created_at": "2026-09-18T07:28:36Z",
+      "id": 1375530874
+    },
+    "RuiSantosdotme/ESP32-CAM-Arduino-IDE": {
+      "star": 400,
+      "created_at": "2019-03-27T14:12:32Z",
+      "id": 178008344
+    },
+    "RaoFoundation/subtensor": {
+      "star": 401,
+      "created_at": "2023-03-02T14:27:24Z",
+      "id": 608683796
+    },
+    "meta/opaque-ke": {
+      "star": 409,
+      "created_at": "2020-06-04T04:00:12Z",
+      "id": 269256421
+    },
+    "muneebwanee/InstaReporter": {
+      "star": 400,
+      "created_at": "2020-12-08T12:53:47Z",
+      "id": 319638075
+    },
+    "mileson/chaojifeng-video-design": {
+      "star": 447,
+      "created_at": "2026-10-20T03:36:03Z",
+      "id": 1426458283
+    },
+    "konlu/story-studio": {
+      "star": 422,
+      "created_at": "2026-10-26T09:20:06Z",
+      "id": 1434156379
+    },
+    "Liyuk/Interview-Book": {
+      "star": 438,
+      "created_at": "2018-02-28T06:30:09Z",
+      "id": 123240455
+    },
+    "meta/facebook-sdk-for-unity": {
+      "star": 503,
+      "created_at": "2015-09-01T22:11:09Z",
+      "id": 41766017
+    },
+    "zgx949/ai-pojia": {
+      "star": 425,
+      "created_at": "2026-10-24T03:17:43Z",
+      "id": 1431769161
+    },
+    "meta/wangle": {
+      "star": 3097,
+      "created_at": "2014-12-11T20:12:30Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.",
+      "id": 27889694
+    },
+    "meta/prop-types": {
+      "star": 4453,
+      "created_at": "2017-04-08T00:50:30Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "Runtime type checking for React props and similar objects",
+      "id": 87597642
+    },
+    "meta/openzl": {
+      "star": 3149,
+      "created_at": "2025-09-30T18:30:07Z",
+      "desc": "",
+      "language": "C",
+      "topics": [],
+      "gh_desc": "A novel data compression framework",
+      "id": 1067353061
+    },
+    "meta/jscodeshift": {
+      "star": 10026,
+      "created_at": "2015-03-07T00:32:16Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "A JavaScript codemod toolkit.",
+      "id": 31795422
+    },
+    "meta/regenerator": {
+      "star": 3826,
+      "created_at": "2013-10-05T14:37:03Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.",
+      "id": 13346571
+    },
+    "meta/buck2": {
+      "star": 4376,
+      "created_at": "2022-01-21T20:04:00Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [],
+      "gh_desc": "Build system, successor to Buck",
+      "id": 450625045
+    },
+    "meta/Ax": {
+      "star": 2783,
+      "created_at": "2019-02-09T15:23:44Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Adaptive Experimentation Platform",
+      "id": 169880381
+    },
+    "meta/mvfst": {
+      "star": 1654,
+      "created_at": "2018-04-09T22:49:15Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "An implementation of the QUIC transport protocol.",
+      "id": 128842710
+    },
+    "davidondrej/cloudroom": {
+      "star": 596,
+      "created_at": "2026-09-17T18:56:56Z",
+      "id": 1374933474
+    },
+    "meta/transform360": {
+      "star": 1035,
+      "created_at": "2016-01-06T01:03:25Z",
+      "id": 49102698
+    },
+    "meta/dotslash": {
+      "star": 879,
+      "created_at": "2024-02-06T05:21:56Z",
+      "id": 753431230
+    },
+    "meta/facebook-python-business-sdk": {
+      "star": 1570,
+      "created_at": "2014-08-29T09:15:47Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Python SDK for Meta Marketing APIs",
+      "id": 23458977
+    },
+    "meta/igl": {
+      "star": 3225,
+      "created_at": "2023-07-07T15:57:14Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Intermediate Graphics Library (IGL) is a cross-platform library that commands the GPU. It provides a single low-level cross-platform interface on top of various graphics APIs (e.g. OpenGL, Metal and Vulkan).",
+      "id": 663573391
+    },
+    "meta/idx": {
+      "star": 1687,
+      "created_at": "2017-02-28T21:01:36Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.",
+      "id": 83478722
+    },
+    "meta/mcrouter": {
+      "star": 3334,
+      "created_at": "2014-01-24T17:42:42Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Mcrouter is a memcached protocol router for scaling memcached deployments.",
+      "id": 16211818
+    },
+    "meta/sapling": {
+      "star": 6949,
+      "created_at": "2016-05-05T16:53:47Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [],
+      "gh_desc": "A Scalable, User-Friendly Source Control System.",
+      "id": 58146669
+    },
+    "meta/fboss": {
+      "star": 982,
+      "created_at": "2015-03-09T23:04:15Z",
+      "id": 31927407
+    },
+    "meta/PathPicker": {
+      "star": 5221,
+      "created_at": "2015-05-01T03:05:54Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",
+      "id": 34887588
+    },
+    "hwittenborn/alto": {
+      "star": 1611,
+      "created_at": "2022-08-14T00:52:42Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [
+        "cloud-storage",
+        "dropbox",
+        "google-drive",
+        "gtk4",
+        "hacktoberfest",
+        "libadwaita",
+        "linux",
+        "nextcloud",
+        "owncloud",
+        "pcloud",
+        "protondrive",
+        "rclone",
+        "webdav"
+      ],
+      "gh_desc": "GUI file synchronization client that can sync with any cloud provider",
+      "id": 524541454
+    },
+    "meta/pyre-check": {
+      "star": 7170,
+      "created_at": "2017-11-10T17:31:36Z",
+      "desc": "",
+      "language": "OCaml",
+      "topics": [
+        "abstract-interpretation",
+        "code-quality",
+        "control-flow-analysis",
+        "ocaml",
+        "program-analysis",
+        "python",
+        "security",
+        "static-analysis",
+        "taint-analysis",
+        "type-check",
+        "typechecker"
+      ],
+      "gh_desc": "Performant type-checking for python.",
+      "id": 110274488
+    },
+    "NVIDIA/spark-local-inference": {
+      "star": 613,
+      "created_at": "2026-10-20T17:09:40Z",
+      "id": 1427329124
+    },
+    "meta/facebook-php-business-sdk": {
+      "star": 915,
+      "created_at": "2014-06-16T08:48:26Z",
+      "id": 20878334
+    },
+    "meta/openbmc": {
+      "star": 682,
+      "created_at": "2015-03-09T19:18:35Z",
+      "id": 31917712
+    },
+    "meta/Rapid": {
+      "star": 633,
+      "created_at": "2018-12-10T05:13:23Z",
+      "id": 161120445
+    },
+    "meta/pyre2": {
+      "star": 647,
+      "created_at": "2010-03-16T18:45:15Z",
+      "id": 565426
+    },
+    "oosexgang/hakios-xnu-kernel": {
+      "star": 648,
+      "created_at": "2026-10-22T06:20:11Z",
+      "id": 1429328794
+    },
+    "auscaster/icey": {
+      "star": 1365,
+      "created_at": "2012-02-23T11:55:51Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Real-time media stack and lightweight libwebrtc alternative, built in C++20",
+      "id": 3524917
+    },
+    "CyberCommy/tianya": {
+      "star": 908,
+      "created_at": "2023-04-30T16:53:35Z",
+      "id": 634601436
+    },
+    "meta/proxygen": {
+      "star": 8367,
+      "created_at": "2014-10-03T23:18:42Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "A collection of C++ HTTP libraries including an easy to use HTTP server.",
+      "id": 24776728
+    },
+    "ihmily/network-proxy-guide": {
+      "star": 755,
+      "created_at": "2025-12-17T08:25:17Z",
+      "id": 1118077409
+    },
+    "meta/starlark-rust": {
+      "star": 1002,
+      "created_at": "2020-12-07T16:47:27Z",
+      "id": 319383495
+    },
+    "meta/wdt": {
+      "star": 2958,
+      "created_at": "2014-07-24T21:23:34Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.",
+      "id": 22231878
+    },
+    "meta/winterfell": {
+      "star": 900,
+      "created_at": "2021-04-23T19:20:43Z",
+      "id": 360984428
+    },
+    "workersio/breakscale": {
+      "star": 664,
+      "created_at": "2026-08-23T06:21:21Z",
+      "id": 1343441436
+    },
+    "meta/fatal": {
+      "star": 1018,
+      "created_at": "2014-09-09T06:04:59Z",
+      "id": 23821422
+    },
+    "meta/CacheLib": {
+      "star": 1572,
+      "created_at": "2019-11-22T21:39:48Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [
+        "cache",
+        "cache-engine",
+        "concurrency",
+        "cpp",
+        "performance",
+        "ssd"
+      ],
+      "gh_desc": "Pluggable in-process caching engine to build and scale high performance services",
+      "id": 223490876
+    },
+    "meta/screenshot-tests-for-android": {
+      "star": 1739,
+      "created_at": "2015-08-31T18:36:02Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "Generate fast deterministic screenshots during Android instrumentation tests",
+      "id": 41693388
+    },
+    "meta/fbt": {
+      "star": 3879,
+      "created_at": "2018-08-01T17:39:49Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "framework",
+        "i18n",
+        "internationalization",
+        "javascript"
+      ],
+      "gh_desc": "A JavaScript Internationalization Framework",
+      "id": 143188696
+    },
+    "meta/fbthrift": {
+      "star": 2698,
+      "created_at": "2013-07-02T18:15:51Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Facebook's branch of Apache Thrift, including a new C++ server.",
+      "id": 11131631
+    },
+    "guchengwuyue/yshop-oa-crm": {
+      "star": 1813,
+      "created_at": "2019-11-07T13:53:52Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "yshop-crm意象CRM系统(支持企业微信)，专门为企业销售团队量身定制的工具(且支持多租户与SCRM企业微信)，全面解决企业销售团队的全流程客户服务难题旨在助力企业销售全流程精细化、数字化管理，全面解决企业销售团绩，技术： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
+      "id": 220248572
+    },
+    "meta/SoLoader": {
+      "star": 1440,
+      "created_at": "2015-10-22T13:18:43Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "Native code loader for Android",
+      "id": 44746251
+    },
+    "meta/ThreatExchange": {
+      "star": 1362,
+      "created_at": "2015-02-12T22:53:08Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [
+        "hashing",
+        "image",
+        "image-hashing",
+        "image-similarity",
+        "ncmec",
+        "perceptual-hashing",
+        "stopncii",
+        "threatexchange",
+        "video",
+        "video-hashing",
+        "video-similarity"
+      ],
+      "gh_desc": "Trust & Safety tools for working together to fight digital harms. ",
+      "id": 30729678
+    },
+    "meta/open-graph-protocol": {
+      "star": 461,
+      "created_at": "2010-04-20T08:52:25Z",
+      "id": 619240
+    },
+    "man15h/tellyscope": {
+      "star": 587,
+      "created_at": "2026-10-22T19:51:46Z",
+      "id": 1430208916
+    },
+    "jswysnemc/mark-shot": {
+      "star": 401,
+      "created_at": "2026-05-02T02:55:35Z",
+      "id": 1226957387
+    },
+    "typora-community-plugin/typora-community-plugin": {
+      "star": 402,
+      "created_at": "2023-07-19T13:12:26Z",
+      "id": 668291280
+    },
+    "buhanzhe/NativeWasmTv": {
+      "star": 402,
+      "created_at": "2026-06-12T08:41:47Z",
+      "id": 1267125286
+    },
+    "HRuiCcc/RuiC-oc-ferry": {
+      "star": 404,
+      "created_at": "2026-10-10T08:59:18Z",
+      "id": 1412981259
+    },
+    "meta/fbjs": {
+      "star": 1963,
+      "created_at": "2015-05-28T22:16:50Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [],
+      "gh_desc": "A collection of utility libraries used by other Meta JS projects.",
+      "id": 36469177
+    },
+    "Centralforhose/AI-FPS-BOOSTER-MAIN": {
+      "star": 413,
+      "created_at": "2026-09-21T16:49:15Z",
+      "id": 1380160091
+    },
+    "phongdaot/MocapAnything": {
+      "star": 431,
+      "created_at": "2026-04-11T12:48:24Z",
+      "id": 1207815199
+    },
+    "MAX-API-Next/MAX-API": {
+      "star": 401,
+      "created_at": "2026-06-15T13:20:59Z",
+      "id": 1270187094
+    },
+    "kenowong/math-mastery": {
+      "star": 401,
+      "created_at": "2026-08-27T06:31:39Z",
+      "id": 1348150941
+    },
+    "meta/openr": {
+      "star": 936,
+      "created_at": "2017-10-25T17:59:53Z",
+      "id": 108306129
+    },
+    "obsidian-forged/i18n": {
+      "star": 765,
+      "created_at": "2024-02-14T08:58:47Z",
+      "id": 757321220
+    },
+    "meta/TextLayoutBuilder": {
+      "star": 1473,
+      "created_at": "2016-11-01T22:04:45Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [],
+      "gh_desc": "An Android library that allows you to build text layouts more easily.",
+      "id": 72580689
+    },
+    "philips71017/Hiddify-Manager": {
+      "star": 453,
+      "created_at": "2026-10-19T09:01:13Z",
+      "id": 1425358398
+    },
+    "salemalem/npmscan-mcp-plugin": {
+      "star": 479,
+      "created_at": "2026-08-01T15:57:27Z",
+      "id": 1319424632
+    },
+    "every-app/every-app": {
+      "star": 440,
+      "created_at": "2025-11-13T16:39:38Z",
+      "id": 1095885370
+    },
+    "MusicTribeOpenSource/0700-AAM": {
+      "star": 411,
+      "created_at": "2026-10-14T12:42:03Z",
+      "id": 1418892638
+    },
+    "meta/facebook-java-business-sdk": {
+      "star": 462,
+      "created_at": "2015-12-01T18:48:36Z",
+      "id": 47210240
+    },
+    "NVlabs/motionbricks": {
+      "star": 489,
+      "created_at": "2026-04-21T18:37:23Z",
+      "id": 1217294667
+    },
+    "ChathurangaVKD/AWS-Certified-Solutions-Architect-Associate-SAA-C03": {
+      "star": 402,
+      "created_at": "2026-01-02T17:12:59Z",
+      "id": 1126841377
+    },
+    "warpdotdev-demos/cloud-factory-demo": {
+      "star": 402,
+      "created_at": "2026-06-22T23:51:29Z",
+      "id": 1277478939
+    },
+    "meta/facebook-nodejs-business-sdk": {
+      "star": 609,
+      "created_at": "2017-08-29T17:30:44Z",
+      "id": 101788376
+    },
+    "meta/SPARTA": {
+      "star": 671,
+      "created_at": "2018-05-03T19:31:42Z",
+      "id": 132040907
+    },
+    "meta/time": {
+      "star": 649,
+      "created_at": "2020-04-20T11:29:32Z",
+      "id": 257259929
+    },
+    "sunnyheap/ixrail": {
+      "star": 1052,
+      "created_at": "2024-05-09T13:58:52Z",
+      "id": 798300247
+    },
+    "solidsf-inc/solidcv": {
+      "star": 413,
+      "created_at": "2026-10-18T20:51:04Z",
+      "id": 1424811212
+    },
+    "meta/IT-CPE": {
+      "star": 573,
+      "created_at": "2014-03-17T22:35:48Z",
+      "id": 17845857
+    },
+    "meta/rebalancer": {
+      "star": 408,
+      "created_at": "2026-06-10T23:14:07Z",
+      "id": 1265594250
+    },
+    "microsoft/TokenEconomizer": {
+      "star": 437,
+      "created_at": "2026-10-13T04:16:50Z",
+      "id": 1416442720
+    },
+    "tencent-connect/dsh-qqbot": {
+      "star": 427,
+      "created_at": "2026-08-14T13:57:23Z",
+      "id": 1334237364
+    },
+    "yash-srivastava/Overdrive-release": {
+      "star": 401,
+      "created_at": "2026-01-28T16:44:10Z",
+      "id": 1144397045
+    },
+    "Accio-Lab/occamy": {
+      "star": 401,
+      "created_at": "2026-09-01T19:16:17Z",
+      "id": 1353942052
+    },
+    "microsoft/msccl": {
+      "star": 401,
+      "created_at": "2021-07-30T00:30:34Z",
+      "id": 390883966
+    },
+    "yeyushengfan258/Win11OS-kde": {
+      "star": 400,
+      "created_at": "2021-06-21T17:07:46Z",
+      "id": 379006023
+    },
+    "humanplane/homunculus": {
+      "star": 400,
+      "created_at": "2026-01-18T12:00:45Z",
+      "id": 1136810635
+    },
+    "Uzaaft/libghostty-rs": {
+      "star": 400,
+      "created_at": "2026-03-21T21:25:55Z",
+      "id": 1188279209
+    },
+    "latex-g7-32/latex-g7-32": {
+      "star": 400,
+      "created_at": "2014-04-19T16:58:29Z",
+      "id": 18945977
+    },
+    "th0mk/nfsu2-web": {
+      "star": 436,
+      "created_at": "2026-10-19T08:47:39Z",
+      "id": 1425343979
+    },
+    "huamurui/zhihu-minus-minus": {
+      "star": 403,
+      "created_at": "2026-03-05T05:06:30Z",
+      "id": 1173187102
+    },
+    "AIMS-RAIL/RAIL": {
+      "star": 417,
+      "created_at": "2026-09-25T02:48:12Z",
+      "id": 1386624491
+    },
+    "Generated-Computers/Locals": {
+      "star": 430,
+      "created_at": "2026-10-12T17:40:28Z",
+      "id": 1415935623
+    },
+    "picrust/picrust2": {
+      "star": 400,
+      "created_at": "2018-02-27T15:06:46Z",
+      "id": 123145877
+    },
+    "Abonia1/YOLOv8-Fire-and-Smoke-Detection": {
+      "star": 400,
+      "created_at": "2023-02-02T16:46:41Z",
+      "id": 596653238
+    },
+    "acrlabs/simkube": {
+      "star": 400,
+      "created_at": "2023-06-13T17:27:11Z",
+      "id": 653250101
+    },
+    "Acode-Foundation/acode-plugin": {
+      "star": 400,
+      "created_at": "2022-07-10T11:11:29Z",
+      "id": 512413873
+    },
+    "andrei1058/BedWars1058": {
+      "star": 400,
+      "created_at": "2021-10-24T16:55:40Z",
+      "id": 420742424
+    },
+    "xoxor4d/p2-rtx": {
+      "star": 400,
+      "created_at": "2024-11-15T18:09:33Z",
+      "id": 889156754
+    },
+    "ShusenTang/LeetCode": {
+      "star": 400,
+      "created_at": "2018-07-13T03:42:52Z",
+      "id": 140793585
+    },
+    "NixOS/rnix-parser": {
+      "star": 477,
+      "created_at": "2018-08-11T12:29:05Z",
+      "id": 144383474
+    },
+    "Naturetengrade/AnyUnlock": {
+      "star": 449,
+      "created_at": "2026-10-18T09:59:45Z",
+      "id": 1424228505
+    },
+    "NPMscan/npmscan-action": {
+      "star": 480,
+      "created_at": "2026-10-02T11:15:15Z",
+      "id": 1401556740
+    },
+    "anmolksachan/TheTimeMachine": {
+      "star": 552,
+      "created_at": "2022-01-23T17:34:25Z",
+      "id": 451180204
+    },
+    "meta/meta-wearables-dat-ios": {
+      "star": 498,
+      "created_at": "2025-11-21T14:11:05Z",
+      "id": 1101323759
+    },
+    "Marooniogrip/Discord-Quest-Completer": {
+      "star": 449,
+      "created_at": "2026-10-22T12:07:11Z",
+      "id": 1429692874
+    },
+    "yonggekkk/yonggekkk": {
+      "star": 400,
+      "created_at": "2024-05-11T00:38:13Z",
+      "id": 799013475
+    },
+    "deepseek-php/deepseek-laravel": {
+      "star": 400,
+      "created_at": "2025-01-02T15:48:15Z",
+      "id": 911258781
+    },
+    "Nagi-ovo/CHSI-Converter": {
+      "star": 400,
+      "created_at": "2023-06-27T16:14:33Z",
+      "id": 659342621
+    },
+    "MicrosoftDocs/dynamics-365-unified-operations-public": {
+      "star": 400,
+      "created_at": "2017-10-25T22:56:30Z",
+      "id": 108335100
+    },
+    "xizaoqu/WorldMem": {
+      "star": 400,
+      "created_at": "2025-04-12T07:26:04Z",
+      "id": 964998598
+    },
+    "Anil-matcha/Open-AI-UGC": {
+      "star": 400,
+      "created_at": "2023-05-22T13:03:06Z",
+      "id": 643931576
+    },
+    "meta/chef-cookbooks": {
+      "star": 589,
+      "created_at": "2015-12-18T23:14:27Z",
+      "id": 48260686
+    },
+    "kishanrajput23/Love-Babbar-CPP-DSA-Course": {
+      "star": 400,
+      "created_at": "2023-03-15T04:24:35Z",
+      "id": 614188343
+    },
+    "rrthomas/enchant": {
+      "star": 400,
+      "created_at": "2013-07-23T02:51:01Z",
+      "id": 11597971
+    },
+    "IoTSharp/SilkierQuartz": {
+      "star": 400,
+      "created_at": "2020-06-06T00:44:36Z",
+      "id": 269821980
+    },
+    "chaitanyya/sales": {
+      "star": 400,
+      "created_at": "2026-01-20T00:35:09Z",
+      "id": 1137874211
+    },
+    "Tencent/WeVisOne-VL": {
+      "star": 400,
+      "created_at": "2026-10-22T08:58:16Z",
+      "id": 1429489373
+    },
+    "justkawal/UI": {
+      "star": 400,
+      "created_at": "2023-12-29T00:24:03Z",
+      "id": 736811934
+    },
+    "SonarSource/sonarqube-scan-action": {
+      "star": 400,
+      "created_at": "2021-05-11T14:22:12Z",
+      "id": 366408409
+    },
+    "ItsAlphaNeon/Lemon-Studio": {
+      "star": 438,
+      "created_at": "2026-10-10T18:20:54Z",
+      "id": 1413525193
+    },
+    "EricYufengWu/q8bot": {
+      "star": 400,
+      "created_at": "2024-03-25T22:36:21Z",
+      "id": 777463813
+    },
+    "meta/astryx": {
+      "star": 11044,
+      "created_at": "2026-01-09T16:20:32Z",
+      "desc": "项目定位与用途：Astryx 是一个开源设计系统，当前处于 Beta，基于 React 和 StyleX 构建。它提供 150+ 可访问组件、品牌级主题、暗色模式、可直接使用的模板以及 CLI，面向需要统一界面规范与开发流程的团队。README 还强调它“fully customizable”并且“agent ready”，说明它同时服务于人工与 AI 助手协同构建。  \n\n解决的问题：它主要解决设计系统在可定制性、复用性和协作方式上的痛点。传统方案常把组件封装得过深，或要求额外引入特定样式体系；Astryx 则强调开放内部、无需样式锁定、可通过 CSS 变量主题覆盖来定制，减少 fork 或二次封装成本。它还试图让人和 agent 使用同一套 API、文档和 CLI，降低协作摩擦。  \n\n使用场景：适合需要搭建或统一产品界面的工程与设计团队，尤其是大型应用、多应用平台或需要快速交付的项目。README 提到它在 Meta 内部演化多年，支撑 13,000+ 应用，因此也适合追求一致体验、可访问组件和品牌定制的场景。典型用户包括前端开发者、设计师、产品团队，以及需要借助 AI 辅助搭建界面的使用者。  \n\n技术架构与特性：项目基于 React 与 StyleX，消费方式是引入预构建 CSS 和类型化 React 组件，不需要额外的构建插件或必须迁移到新的样式库。其特性包括开放式组件内部结构、可直接导出的基础构件、支持 swizzle 导出组件源码到项目中自主管理，以及通过 CSS 自定义属性实现主题覆盖。README 还提到配套文档、Storybook、Sandbox 和 CLI，形成一套完整工具链。",
+      "language": "TypeScript",
+      "topics": [],
+      "desc_updated_at": "2026-07-15",
+      "gh_desc": "An open source design system that's fully customizable and agent ready",
+      "id": 1131202426
+    },
+    "meta/flipper": {
+      "star": 13469,
+      "created_at": "2018-04-12T16:47:36Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [],
+      "gh_desc": "A desktop debugging platform for mobile developers.",
+      "id": 129283183
+    },
+    "meta/flow": {
+      "star": 22272,
+      "created_at": "2014-10-28T17:17:45Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [],
+      "gh_desc": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+      "id": 25880891
+    },
+    "meta/folly": {
+      "star": 30479,
+      "created_at": "2012-06-01T20:49:04Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "An open-source C++ library developed and used at Facebook.",
+      "id": 4524181
+    },
+    "meta/hhvm": {
+      "star": 18653,
+      "created_at": "2010-01-02T01:17:06Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [
+        "hack",
+        "hacklang",
+        "hhvm",
+        "php"
+      ],
+      "gh_desc": "A virtual machine for executing programs written in Hack.",
+      "id": 455600
+    },
+    "meta/infer": {
+      "star": 15665,
+      "created_at": "2015-01-26T11:19:13Z",
+      "desc": "",
+      "language": "OCaml",
+      "topics": [
+        "c",
+        "code-quality",
+        "cpp",
+        "java",
+        "objective-c",
+        "static-analysis",
+        "static-code-analysis"
+      ],
+      "gh_desc": "A static analyzer for Java, C, C++, and Objective-C",
+      "id": 29857799
+    },
+    "meta/watchman": {
+      "star": 13654,
+      "created_at": "2012-11-29T23:35:52Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "Watches files and records, or triggers actions, when they change. ",
+      "id": 6930489
+    },
+    "meta/zstd": {
+      "star": 27479,
+      "created_at": "2015-01-24T00:22:38Z",
+      "desc": "项目定位与用途: Zstandard（zstd）是一个快速无损压缩算法，官方简介强调其面向实时压缩场景，目标是在接近 zlib 的使用场景中获得更好的压缩表现。仓库提供的是参考实现：一个开源的 C 库，并附带命令行工具，可用于压缩和解码 .zst、.gz、.xz、.lz4 文件。  \n解决的问题: 它主要解决通用压缩在速度与压缩率之间难以兼顾的问题。README 指出 zstd 追求实时压缩，同时保持较高压缩比；基准测试也展示了其较快的压缩和解压速度。由此可见，它适合对吞吐、延迟和存储效率都有要求的无损压缩需求。  \n使用场景: 典型场景包括需要快速压缩/解压数据的应用、命令行文件处理，以及希望以较低 CPU 成本完成传输或落盘压缩的系统。目标用户主要是开发者、基础设施工具和构建流程使用者。README 还提到它可处理多种常见压缩格式，但未给出更细分行业场景。  \n技术架构与特性: 项目是参考实现，采用 C 语言，双许可证为 BSD 或 GPLv2。其格式稳定且有 RFC8878 文档；压缩流程依赖很快的熵编码阶段，由 Huff0 和 FSE 提供。README 还显示持续集成与 fuzzing 状态，近期提交包含依赖升级和文档澄清，说明仓库持续维护。",
+      "language": "C",
+      "topics": [],
+      "gh_desc": "Zstandard - Fast real-time compression algorithm",
+      "id": 29759715,
+      "desc_updated_at": "2026-09-09"
+    },
+    "CyberCommy/geektime-books": {
+      "star": 13269,
+      "created_at": "2023-01-26T14:31:39Z",
+      "desc": "",
+      "language": "",
+      "topics": [],
+      "gh_desc": ":books: 极客时间电子书",
+      "id": 593649559
     }
   }
 }
