@@ -92363,30 +92363,6 @@
       "gh_desc": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
       "id": 174200859
     },
-    "jsplumb/jsplumb": {
-      "star": 7766,
-      "created_at": "2011-12-15T21:47:50Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "diagram",
-        "flowchart",
-        "gojs",
-        "html5",
-        "jointjs",
-        "nextjs",
-        "react",
-        "reactflow",
-        "reactjs",
-        "svelte",
-        "svelteflow",
-        "sveltekit",
-        "svg",
-        "vuejs"
-      ],
-      "gh_desc": "Visual connectivity for webapps",
-      "id": 2990812
-    },
     "simeydotme/pokemon-cards-css": {
       "star": 7831,
       "created_at": "2022-06-20T17:34:46Z",
@@ -359071,15 +359047,6 @@
       "gh_desc": "Visual Effect Graph - Samples Project",
       "id": 157840155
     },
-    "etched-ai/open-oasis": {
-      "star": 2107,
-      "created_at": "2024-10-31T09:10:45Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Inference script for Oasis 500M",
-      "id": 881285345
-    },
     "phoboslab/Impact": {
       "star": 2120,
       "created_at": "2018-05-03T09:30:19Z",
@@ -432465,27 +432432,6 @@
       ],
       "gh_desc": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.",
       "id": 235377467
-    },
-    "homebridge/HAP-NodeJS": {
-      "star": 2724,
-      "created_at": "2014-10-08T15:42:23Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "hap",
-        "hap-nodejs",
-        "hap-server",
-        "homekit",
-        "homekit-accessory",
-        "homekit-accessory-protocol",
-        "homekit-device",
-        "homekit-protocol",
-        "homekit-server",
-        "homekit-support",
-        "siri"
-      ],
-      "gh_desc": "Node.js implementation of the HomeKit Accessory Protocol (HAP)",
-      "id": 24947768
     },
     "openstreetmap/openstreetmap-website": {
       "star": 2786,
@@ -529230,19 +529176,6 @@
       "gh_desc": "有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file",
       "id": 236114565
     },
-    "CharonChui/AndroidNote": {
-      "star": 3925,
-      "created_at": "2013-12-10T01:58:04Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "android",
-        "source-code",
-        "study-notes"
-      ],
-      "gh_desc": "Android study notes.",
-      "id": 15064456
-    },
     "nkaz001/hftbacktest": {
       "star": 4318,
       "created_at": "2022-08-25T14:56:36Z",
@@ -600707,15 +600640,6 @@
       "topics": [],
       "gh_desc": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.",
       "id": 294858647
-    },
-    "HKUDS/OpenSpace": {
-      "star": 7154,
-      "created_at": "2026-03-24T08:01:49Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
-      "id": 1190363679
     },
     "andmarti1424/sc-im": {
       "star": 5659,
@@ -980919,11 +980843,6 @@
       "created_at": "2021-12-27T15:31:16Z",
       "id": 442197495
     },
-    "ahaduoduoduo/bilibili-youtube-danmaku": {
-      "star": 633,
-      "created_at": "2025-08-03T11:28:07Z",
-      "id": 1031264991
-    },
     "PaulTR/AndroidDemoProjects": {
       "star": 633,
       "created_at": "2014-01-20T23:24:21Z",
@@ -1024399,11 +1024318,6 @@
       "created_at": "2017-06-16T08:46:16Z",
       "id": 94524551
     },
-    "selfshore/YSbrowser": {
-      "star": 529,
-      "created_at": "2025-06-16T11:51:49Z",
-      "id": 1002951696
-    },
     "thqby/ahk2_lib": {
       "star": 529,
       "created_at": "2021-09-25T14:18:12Z",
@@ -1057614,11 +1057528,6 @@
       "created_at": "2019-04-15T15:19:12Z",
       "id": 181513803
     },
-    "possibilities/claude-composer": {
-      "star": 674,
-      "created_at": "2025-05-28T13:05:16Z",
-      "id": 991993003
-    },
     "tobihagemann/THLabel": {
       "star": 674,
       "created_at": "2012-12-22T10:58:50Z",
@@ -1088613,11 +1088522,6 @@
       "star": 714,
       "created_at": "2021-04-07T07:04:41Z",
       "id": 355445496
-    },
-    "adamsky/globe": {
-      "star": 714,
-      "created_at": "2020-08-12T17:30:29Z",
-      "id": 287075113
     },
     "alphapapa/org-web-tools": {
       "star": 714,
@@ -1175291,11 +1175195,6 @@
       "created_at": "2021-11-30T11:19:19Z",
       "id": 433402163
     },
-    "microlinkhq/cards": {
-      "star": 401,
-      "created_at": "2020-04-07T15:42:27Z",
-      "id": 253839144
-    },
     "liuziangexit/HEIF-Utility": {
       "star": 401,
       "created_at": "2017-08-27T11:10:21Z",
@@ -1233806,11 +1233705,6 @@
       "created_at": "2024-01-04T09:23:56Z",
       "id": 738887505
     },
-    "team-soteria/rback": {
-      "star": 400,
-      "created_at": "2019-05-25T11:57:52Z",
-      "id": 188560726
-    },
     "FrediBach/jQuery-jKit": {
       "star": 402,
       "created_at": "2012-12-06T15:23:38Z",
@@ -1244488,11 +1244382,6 @@
       "created_at": "2026-06-23T14:19:39Z",
       "id": 1278163240
     },
-    "viperML/wrapper-manager": {
-      "star": 402,
-      "created_at": "2023-07-20T16:30:39Z",
-      "id": 668809360
-    },
     "MUlt1mate/cron-manager": {
       "star": 402,
       "created_at": "2015-12-20T09:29:04Z",
@@ -1244587,11 +1244476,6 @@
       "star": 402,
       "created_at": "2018-10-29T05:32:45Z",
       "id": 155156974
-    },
-    "micromatch/anymatch": {
-      "star": 402,
-      "created_at": "2013-07-16T19:33:13Z",
-      "id": 11458302
     },
     "iheartradio/play-swagger": {
       "star": 402,
@@ -1245992,11 +1245876,6 @@
       "star": 412,
       "created_at": "2024-08-20T03:54:32Z",
       "id": 844831051
-    },
-    "selfshore/spiders": {
-      "star": 412,
-      "created_at": "2020-05-01T04:51:09Z",
-      "id": 260382020
     },
     "liujiao111/poi": {
       "star": 412,
@@ -1250283,11 +1250162,6 @@
       "star": 402,
       "created_at": "2017-12-14T00:16:25Z",
       "id": 114182243
-    },
-    "ShawnPana/phone-harness": {
-      "star": 928,
-      "created_at": "2026-08-07T22:28:53Z",
-      "id": 1327214801
     },
     "OpenMouse-Project/openmouse": {
       "star": 412,
@@ -1256421,11 +1256295,6 @@
       "created_at": "2026-03-17T02:52:32Z",
       "id": 1183867489
     },
-    "HSSkyBoy/BBZQ": {
-      "star": 400,
-      "created_at": "2026-06-09T15:57:20Z",
-      "id": 1264152901
-    },
     "dcowden/featurescript": {
       "star": 400,
       "created_at": "2016-08-11T16:40:23Z",
@@ -1260167,11 +1260036,6 @@
       "star": 401,
       "created_at": "2026-01-31T03:46:28Z",
       "id": 1146410319
-    },
-    "FuDie0915/Super-Instruct-Codex-5.6": {
-      "star": 407,
-      "created_at": "2026-07-29T16:56:10Z",
-      "id": 1316371799
     },
     "kikkupico/ambientcss": {
       "star": 419,
@@ -1269800,11 +1269664,6 @@
       "created_at": "2026-01-26T00:14:06Z",
       "id": 1142100486
     },
-    "Valour-Software/Valour": {
-      "star": 400,
-      "created_at": "2020-10-16T18:56:46Z",
-      "id": 304714369
-    },
     "datawhalechina/math-for-ai": {
       "star": 400,
       "created_at": "2024-08-08T08:18:15Z",
@@ -1274802,11 +1274661,6 @@
       "star": 435,
       "created_at": "2022-08-16T15:00:27Z",
       "id": 525428379
-    },
-    "rubys/roundhouse": {
-      "star": 403,
-      "created_at": "2026-04-17T14:59:50Z",
-      "id": 1213602287
     },
     "ahmedeltaher/Agnentic-Voice-AI-SDK": {
       "star": 2572,
@@ -1283933,11 +1283787,6 @@
       "created_at": "2018-07-01T10:21:56Z",
       "id": 139319424
     },
-    "ea/lytro_unlock": {
-      "star": 400,
-      "created_at": "2023-01-21T22:11:48Z",
-      "id": 591794542
-    },
     "scottaohara/accessibility_interview_questions": {
       "star": 400,
       "created_at": "2018-01-17T02:12:51Z",
@@ -1284957,11 +1284806,6 @@
       "star": 402,
       "created_at": "2025-10-27T16:37:37Z",
       "id": 1084411694
-    },
-    "AnderGoig/github-contributions-ios": {
-      "star": 400,
-      "created_at": "2020-10-24T17:40:02Z",
-      "id": 306938009
     },
     "smart-mcp-proxy/mcpproxy-go": {
       "star": 400,
@@ -1287083,11 +1286927,6 @@
       "created_at": "2021-07-30T00:30:34Z",
       "id": 390883966
     },
-    "yeyushengfan258/Win11OS-kde": {
-      "star": 400,
-      "created_at": "2021-06-21T17:07:46Z",
-      "id": 379006023
-    },
     "humanplane/homunculus": {
       "star": 400,
       "created_at": "2026-01-18T12:00:45Z",
@@ -1288458,11 +1288297,6 @@
       "created_at": "2026-03-17T06:33:38Z",
       "id": 1183997726
     },
-    "Zjackky/CodeScan": {
-      "star": 400,
-      "created_at": "2024-06-12T03:26:41Z",
-      "id": 813941514
-    },
     "eden-emulator/mirror": {
       "star": 407,
       "created_at": "2025-10-25T20:34:38Z",
@@ -1288605,11 +1288439,6 @@
       "star": 400,
       "created_at": "2026-08-16T19:17:19Z",
       "id": 1336280167
-    },
-    "boardshogunfluctuate/Capri-AI": {
-      "star": 518,
-      "created_at": "2026-10-30T22:03:48Z",
-      "id": 1440272373
     },
     "BoPeng/ai-marketplace-monitor": {
       "star": 401,
@@ -1288907,11 +1288736,6 @@
       "created_at": "2024-02-10T01:58:33Z",
       "id": 755371399
     },
-    "ShineStormEnhance/Capri-AI": {
-      "star": 414,
-      "created_at": "2026-08-21T15:01:28Z",
-      "id": 1341931908
-    },
     "alchaincyf/huashu-bird-sticker": {
       "star": 425,
       "created_at": "2026-10-30T05:19:33Z",
@@ -1289081,6 +1288905,588 @@
       "star": 406,
       "created_at": "2026-06-15T12:13:15Z",
       "id": 1270126592
+    },
+    "modelflare-ai/AnyModelBot": {
+      "star": 787,
+      "created_at": "2026-10-27T08:51:18Z",
+      "id": 1435475558
+    },
+    "JiangNanGenius/floe-agent": {
+      "star": 414,
+      "created_at": "2026-08-12T19:57:04Z",
+      "id": 1332399543
+    },
+    "sahenjp/RustXNG": {
+      "star": 515,
+      "created_at": "2026-10-18T03:06:52Z",
+      "id": 1423942292
+    },
+    "Chozzc/Lujie-Careerkit": {
+      "star": 404,
+      "created_at": "2026-06-30T06:37:23Z",
+      "id": 1284736292
+    },
+    "yjid/kensaku": {
+      "star": 497,
+      "created_at": "2026-10-24T21:00:26Z",
+      "id": 1432590994
+    },
+    "scaleapi/agentenv-framework": {
+      "star": 401,
+      "created_at": "2026-09-24T18:52:20Z",
+      "id": 1386191888
+    },
+    "wideeyededi/uncensored-nsfw-ai-video-api": {
+      "star": 412,
+      "created_at": "2026-11-02T02:15:29Z",
+      "id": 1442415001
+    },
+    "routerhubSI/glm-5.3-abliterated": {
+      "star": 541,
+      "created_at": "2026-10-24T13:51:36Z",
+      "id": 1432231624
+    },
+    "visuallyjs/visuallyjs": {
+      "star": 7766,
+      "created_at": "2011-12-15T21:47:50Z",
+      "desc": "",
+      "language": "",
+      "topics": [
+        "diagram",
+        "flowchart",
+        "gojs",
+        "html5",
+        "jointjs",
+        "nextjs",
+        "react",
+        "reactflow",
+        "reactjs",
+        "svelte",
+        "svelteflow",
+        "sveltekit",
+        "svg",
+        "vuejs"
+      ],
+      "gh_desc": "Visual connectivity for webapps",
+      "id": 2990812
+    },
+    "routerhubSI/uncensored-ai-api": {
+      "star": 503,
+      "created_at": "2026-10-24T16:55:17Z",
+      "id": 1432398049
+    },
+    "AFK-surf/Comma": {
+      "star": 425,
+      "created_at": "2026-09-30T08:39:30Z",
+      "id": 1397409589
+    },
+    "lhh737/LangChain-ReAct-Agent": {
+      "star": 400,
+      "created_at": "2026-03-11T06:54:17Z",
+      "id": 1178584802
+    },
+    "t8y2/motty": {
+      "star": 423,
+      "created_at": "2026-10-22T09:56:24Z",
+      "id": 1429553852
+    },
+    "WrongStack/WrongStack": {
+      "star": 402,
+      "created_at": "2026-05-12T23:57:23Z",
+      "id": 1237163046
+    },
+    "emanuele-em/kanzo": {
+      "star": 670,
+      "created_at": "2026-10-25T11:14:03Z",
+      "id": 1433111563
+    },
+    "abacusai/abacusai-bot": {
+      "star": 413,
+      "created_at": "2026-09-11T07:04:16Z",
+      "id": 1365523470
+    },
+    "liuhaisi2026212-maker/taishang-laojun": {
+      "star": 409,
+      "created_at": "2026-10-22T07:42:15Z",
+      "id": 1429409577
+    },
+    "jesdga95/basalt": {
+      "star": 435,
+      "created_at": "2026-10-06T22:17:02Z",
+      "id": 1407972121
+    },
+    "pytraveler/MiniMax-H3-Prompt-Rewriter-ComfyUI": {
+      "star": 401,
+      "created_at": "2026-08-07T09:54:27Z",
+      "id": 1326497156
+    },
+    "Pika-Labs/Pika-H3-Flex": {
+      "star": 459,
+      "created_at": "2026-10-29T17:08:59Z",
+      "id": 1438724252
+    },
+    "jryang1997/MenuBarMijia": {
+      "star": 647,
+      "created_at": "2026-10-15T12:45:38Z",
+      "id": 1420714186
+    },
+    "CharonChui/FullStack-Notes": {
+      "star": 3925,
+      "created_at": "2013-12-10T01:58:04Z",
+      "desc": "",
+      "language": "",
+      "topics": [
+        "android",
+        "source-code",
+        "study-notes"
+      ],
+      "gh_desc": "Android study notes.",
+      "id": 15064456
+    },
+    "dengmeiluan/ticket-monitoring": {
+      "star": 416,
+      "created_at": "2026-09-15T08:41:43Z",
+      "id": 1371152031
+    },
+    "vibe-motion/auto-motion": {
+      "star": 488,
+      "created_at": "2026-06-29T17:05:12Z",
+      "id": 1284246470
+    },
+    "wanghao-SunSky/cs329z-chinese": {
+      "star": 411,
+      "created_at": "2026-10-28T18:18:24Z",
+      "id": 1437467754
+    },
+    "Gamer92000/echo-dot-assist": {
+      "star": 471,
+      "created_at": "2026-09-21T22:04:22Z",
+      "id": 1380587120
+    },
+    "IAMLZY2018/XianYuAssistant": {
+      "star": 400,
+      "created_at": "2025-12-25T04:45:37Z",
+      "id": 1122590608
+    },
+    "TanStack/config": {
+      "star": 400,
+      "created_at": "2023-12-31T02:36:37Z",
+      "id": 737433842
+    },
+    "immortal71/openoncology": {
+      "star": 446,
+      "created_at": "2026-03-20T00:56:41Z",
+      "id": 1186763583
+    },
+    "khromov/gpuix-svelte": {
+      "star": 401,
+      "created_at": "2026-08-30T15:37:27Z",
+      "id": 1351518263
+    },
+    "ukanwat/overtime": {
+      "star": 400,
+      "created_at": "2026-07-31T23:54:28Z",
+      "id": 1318833449
+    },
+    "Ebony-Vinyl/EAC-design-world": {
+      "star": 403,
+      "created_at": "2026-10-17T06:46:19Z",
+      "id": 1423035785
+    },
+    "dwr-git/dewiar-app": {
+      "star": 400,
+      "created_at": "2026-10-10T03:13:35Z",
+      "id": 1412697132
+    },
+    "N1nEmAn/sapper-v2": {
+      "star": 532,
+      "created_at": "2026-10-30T15:12:35Z",
+      "id": 1439885901
+    },
+    "topjohnwu/samloader-rs": {
+      "star": 402,
+      "created_at": "2026-02-13T20:02:24Z",
+      "id": 1157426066
+    },
+    "benjitaylor/skills": {
+      "star": 567,
+      "created_at": "2026-10-26T06:08:56Z",
+      "id": 1433974029
+    },
+    "caru-ini/stack-diagram": {
+      "star": 669,
+      "created_at": "2026-11-01T05:35:12Z",
+      "id": 1441517767
+    },
+    "finereli/whatsapp-mcp": {
+      "star": 400,
+      "created_at": "2026-10-18T21:01:54Z",
+      "id": 1424819112
+    },
+    "phone-harness/phone-harness": {
+      "star": 928,
+      "created_at": "2026-08-07T22:28:53Z",
+      "id": 1327214801
+    },
+    "AlpacaLabsLLC/skills-for-architects": {
+      "star": 400,
+      "created_at": "2026-03-02T08:45:27Z",
+      "id": 1170546899
+    },
+    "mashanglinyu/luanyujia-workbench": {
+      "star": 416,
+      "created_at": "2026-09-30T03:07:21Z",
+      "id": 1396887487
+    },
+    "codybrom/Blankie": {
+      "star": 402,
+      "created_at": "2025-01-02T17:33:21Z",
+      "id": 911298852
+    },
+    "latelunchapps/github-contributions-ios": {
+      "star": 400,
+      "created_at": "2020-10-24T17:40:02Z",
+      "id": 306938009
+    },
+    "roundhouse-rb/roundhouse": {
+      "star": 403,
+      "created_at": "2026-04-17T14:59:50Z",
+      "id": 1213602287
+    },
+    "homebridge/hap-nodejs": {
+      "star": 2724,
+      "created_at": "2014-10-08T15:42:23Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "hap",
+        "hap-nodejs",
+        "hap-server",
+        "homekit",
+        "homekit-accessory",
+        "homekit-accessory-protocol",
+        "homekit-device",
+        "homekit-protocol",
+        "homekit-server",
+        "homekit-support",
+        "siri"
+      ],
+      "gh_desc": "Node.js implementation of the HomeKit Accessory Protocol (HAP)",
+      "id": 24947768
+    },
+    "Verlintas/NOIR": {
+      "star": 420,
+      "created_at": "2026-10-31T21:34:39Z",
+      "id": 1441272552
+    },
+    "MarkBlah/smsofdeath": {
+      "star": 428,
+      "created_at": "2026-10-29T05:20:26Z",
+      "id": 1437981635
+    },
+    "ivankovic/omnidiff": {
+      "star": 488,
+      "created_at": "2025-10-17T11:25:02Z",
+      "id": 1078209382
+    },
+    "gothamor/gta-vcs-recomp": {
+      "star": 408,
+      "created_at": "2026-10-30T03:46:44Z",
+      "id": 1439243838
+    },
+    "JQR-crbf/memory-system": {
+      "star": 420,
+      "created_at": "2026-03-09T04:09:34Z",
+      "id": 1176482449
+    },
+    "pro-tools-workspace/Canva-Pro": {
+      "star": 417,
+      "created_at": "2026-10-26T10:20:42Z",
+      "id": 1434220519
+    },
+    "speridlabs/idol-sdk": {
+      "star": 525,
+      "created_at": "2026-10-28T19:44:27Z",
+      "id": 1437555556
+    },
+    "QuantJourneyOrg/quantjourney-bt": {
+      "star": 519,
+      "created_at": "2026-06-25T11:28:39Z",
+      "id": 1280217976
+    },
+    "ekimiateam/libertix": {
+      "star": 434,
+      "created_at": "2025-01-22T16:02:16Z",
+      "id": 920694435
+    },
+    "cutetailbud/ff-ruyijs": {
+      "star": 511,
+      "created_at": "2026-10-28T11:31:41Z",
+      "id": 1436993930
+    },
+    "arpanjot-coding/AVault": {
+      "star": 511,
+      "created_at": "2026-10-31T19:21:27Z",
+      "id": 1441183469
+    },
+    "HKUDS/AgentPilot": {
+      "star": 7154,
+      "created_at": "2026-03-24T08:01:49Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+      "id": 1190363679
+    },
+    "Vauth/FoxyVPN": {
+      "star": 401,
+      "created_at": "2026-09-04T16:52:58Z",
+      "id": 1357388553
+    },
+    "AlfaazPlus/QuranApp": {
+      "star": 401,
+      "created_at": "2023-01-25T13:59:05Z",
+      "id": 593213160
+    },
+    "kevinrivm/vocero-crm": {
+      "star": 401,
+      "created_at": "2026-07-10T17:34:43Z",
+      "id": 1296751400
+    },
+    "ZluxYao/LinkStar": {
+      "star": 402,
+      "created_at": "2025-10-30T12:20:58Z",
+      "id": 1086437177
+    },
+    "aaronyi97/wedding-video-guided-wizard": {
+      "star": 402,
+      "created_at": "2026-09-10T11:10:41Z",
+      "id": 1363979998
+    },
+    "Nk-Be/BBZQ": {
+      "star": 400,
+      "created_at": "2026-06-09T15:57:20Z",
+      "id": 1264152901
+    },
+    "benderandrew069/deepseek-api-pricing-2026": {
+      "star": 699,
+      "created_at": "2026-10-27T06:22:04Z",
+      "id": 1435333593
+    },
+    "storytold/craft-anything": {
+      "star": 1725,
+      "created_at": "2026-10-31T14:50:00Z",
+      "id": 1440956372
+    },
+    "CheetahEstimate/KMS-Pico": {
+      "star": 401,
+      "created_at": "2026-11-01T19:52:38Z",
+      "id": 1442180508
+    },
+    "vijaymasand/PyChem-Pro": {
+      "star": 401,
+      "created_at": "2026-04-07T13:59:13Z",
+      "id": 1203909758
+    },
+    "osolmaz/switch": {
+      "star": 414,
+      "created_at": "2026-10-25T14:12:42Z",
+      "id": 1433269267
+    },
+    "JiaFeiMiao-K-Cat/DiscImageStudio": {
+      "star": 928,
+      "created_at": "2026-08-23T03:40:14Z",
+      "id": 1343344945
+    },
+    "TencentCloudADP/youtu-parsing": {
+      "star": 411,
+      "created_at": "2026-01-21T02:52:43Z",
+      "id": 1138713269
+    },
+    "Ka1-S/LYNX-SHARE": {
+      "star": 405,
+      "created_at": "2026-10-12T21:49:02Z",
+      "id": 1416164428
+    },
+    "lovisdotio/video-to-game": {
+      "star": 411,
+      "created_at": "2026-10-29T03:46:38Z",
+      "id": 1437914719
+    },
+    "IamRamgarhia/Free-GST-Billing-Software": {
+      "star": 410,
+      "created_at": "2026-03-15T08:37:48Z",
+      "id": 1182241746
+    },
+    "yalongwastaken/git-koi": {
+      "star": 419,
+      "created_at": "2026-10-26T00:08:44Z",
+      "id": 1433732249
+    },
+    "ashayas/icloud-s3": {
+      "star": 450,
+      "created_at": "2026-10-30T23:54:20Z",
+      "id": 1440340634
+    },
+    "joeaelkhoury/SwarmLab": {
+      "star": 495,
+      "created_at": "2026-10-16T05:20:45Z",
+      "id": 1421683219
+    },
+    "CelestialStarfish/Ads-Blocker": {
+      "star": 401,
+      "created_at": "2026-10-31T07:20:08Z",
+      "id": 1440612256
+    },
+    "CourtHunterKey/Discord-Quest-Completer": {
+      "star": 400,
+      "created_at": "2026-10-31T07:22:15Z",
+      "id": 1440613869
+    },
+    "vlln/whale-girl": {
+      "star": 400,
+      "created_at": "2026-08-10T15:03:03Z",
+      "id": 1329947687
+    },
+    "u1f383/fuzzing-learning-in-30-days": {
+      "star": 400,
+      "created_at": "2022-10-01T15:12:22Z",
+      "id": 544071985
+    },
+    "yrui-cmd/cell-lct": {
+      "star": 400,
+      "created_at": "2026-08-20T06:12:02Z",
+      "id": 1340350762
+    },
+    "wzhwzhwzh0921/S-D-Mamba": {
+      "star": 400,
+      "created_at": "2024-03-17T07:46:44Z",
+      "id": 773269973
+    },
+    "NadirCardinal/AnyUnlock": {
+      "star": 400,
+      "created_at": "2026-10-31T07:20:09Z",
+      "id": 1440612277
+    },
+    "h563k/chat-keeper": {
+      "star": 400,
+      "created_at": "2026-10-20T02:07:28Z",
+      "id": 1426393271
+    },
+    "TokenFlux/TokenRouter": {
+      "star": 400,
+      "created_at": "2026-04-15T18:14:36Z",
+      "id": 1211764819
+    },
+    "lfpoulain/Cornelius": {
+      "star": 410,
+      "created_at": "2026-10-05T12:25:33Z",
+      "id": 1405714696
+    },
+    "adam-wier/globe": {
+      "star": 714,
+      "created_at": "2020-08-12T17:30:29Z",
+      "id": 287075113
+    },
+    "hluaguo/learn-faster-kit": {
+      "star": 400,
+      "created_at": "2025-11-10T08:23:50Z",
+      "id": 1093331589
+    },
+    "Pauseoruncouple/Genesis-Miner": {
+      "star": 400,
+      "created_at": "2026-10-31T07:23:07Z",
+      "id": 1440614506
+    },
+    "WarrenWen666/AI-Software-Startups": {
+      "star": 400,
+      "created_at": "2021-03-05T08:18:01Z",
+      "id": 344741591
+    },
+    "gryphonautocratmatch/StartAll-Back": {
+      "star": 400,
+      "created_at": "2026-10-31T07:27:02Z",
+      "id": 1440617216
+    },
+    "capture0x/AdStrike": {
+      "star": 400,
+      "created_at": "2026-05-10T23:07:15Z",
+      "id": 1235003804
+    },
+    "CNCKitchen/ScanRuler": {
+      "star": 625,
+      "created_at": "2026-08-13T15:15:57Z",
+      "id": 1333252617
+    },
+    "miao-org/awesome-supermimic": {
+      "star": 427,
+      "created_at": "2026-10-26T02:49:01Z",
+      "id": 1433831382
+    },
+    "MrBIMC/SELinuxModeChanger": {
+      "star": 400,
+      "created_at": "2015-04-27T15:54:10Z",
+      "id": 34676105
+    },
+    "gfodor/legal-skills": {
+      "star": 400,
+      "created_at": "2026-08-12T21:14:16Z",
+      "id": 1332450492
+    },
+    "cybergalactic/FossenHandbook": {
+      "star": 400,
+      "created_at": "2023-08-31T05:10:31Z",
+      "id": 685378240
+    },
+    "Oak-and-Sprout/sprout-track": {
+      "star": 400,
+      "created_at": "2025-02-15T21:27:16Z",
+      "id": 933400284
+    },
+    "myfreeer/7z-build-nsis": {
+      "star": 400,
+      "created_at": "2018-04-02T09:06:45Z",
+      "id": 127732214
+    },
+    "SteersmanStronghold/Windows-Optimizer": {
+      "star": 400,
+      "created_at": "2026-10-31T07:27:54Z",
+      "id": 1440617822
+    },
+    "MarkCyber/BadUSB": {
+      "star": 400,
+      "created_at": "2024-05-13T15:28:27Z",
+      "id": 800039091
+    },
+    "kaspernordkvist/uncut_sans": {
+      "star": 400,
+      "created_at": "2022-04-22T16:02:28Z",
+      "id": 484493480
+    },
+    "torvalds/HunspellColorize": {
+      "star": 400,
+      "created_at": "2026-01-18T19:57:03Z",
+      "id": 1137038093
+    },
+    "MiaAI-Lab/DeepSeek-v4.1-Flash-1017-2x-DGX-Sparks": {
+      "star": 400,
+      "created_at": "2026-10-18T18:10:59Z",
+      "id": 1424672984
+    },
+    "azurerockcode/Roblox-Game-Copier": {
+      "star": 400,
+      "created_at": "2026-10-31T07:26:10Z",
+      "id": 1440616607
+    },
+    "Kentzo/git-archive-all": {
+      "star": 400,
+      "created_at": "2010-10-03T17:25:47Z",
+      "id": 958707
+    },
+    "spatie/laravel-typescript-transformer": {
+      "star": 400,
+      "created_at": "2020-06-29T11:19:36Z",
+      "id": 275791748
     }
   }
 }
