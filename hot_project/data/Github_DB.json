@@ -23185,36 +23185,6 @@
       "gh_desc": "全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration",
       "id": 1208430144
     },
-    "wesammustafa/Claude-Code-Everything-You-Need-to-Know": {
-      "star": 2395,
-      "created_at": "2025-08-17T14:45:39Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "agentic-coding",
-        "ai-agents",
-        "anthropic",
-        "anthropic-claude",
-        "best-practices",
-        "claude",
-        "claude-ai",
-        "claude-code",
-        "claude-code-guide",
-        "claude-code-hooks",
-        "claude-code-skills",
-        "claude-code-tutorial",
-        "claude-skills",
-        "guide",
-        "mcp",
-        "mcp-servers",
-        "prompt-engineering",
-        "subagents",
-        "tutorial"
-      ],
-      "gh_desc": "The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with step-by-step tutorials, real-world examples, and expert strategies to make this the global go-to repo for Claude mastery.",
-      "id": 1039579222
-    },
     "jgravelle/jcodemunch-mcp": {
       "star": 2370,
       "created_at": "2026-02-09T01:58:27Z",
@@ -30992,36 +30962,6 @@
       "gh_desc": "Word GPT Plus is a word add-in which integrates the AI&Agent into Microsoft Word. ",
       "id": 631752113
     },
-    "romgX/openrelay": {
-      "star": 2276,
-      "created_at": "2026-03-07T13:21:54Z",
-      "desc": "提供数百个免费 AI 模型配额，支持一键接入本地项目。",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-proxy",
-        "aider",
-        "cerebras",
-        "claude",
-        "claude-code",
-        "copilot",
-        "cursor",
-        "developer-tools",
-        "free-ai",
-        "free-api",
-        "groq",
-        "kiro",
-        "llm-proxy",
-        "model-router",
-        "openai",
-        "openclaw",
-        "proxy",
-        "windsurf"
-      ],
-      "desc_updated_at": "2026-06-30",
-      "gh_desc": "几百个免费 AI 模型配额，一键接入本地项目。| Hundreds of free AI model quotas, one-click access to local projects. ",
-      "id": 1175264331
-    },
     "instructa/ai-prompts": {
       "star": 1034,
       "created_at": "2025-02-12T13:26:00Z",
@@ -34859,36 +34799,6 @@
       ],
       "gh_desc": "AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation & Optimization with AutoML-Style Automation",
       "id": 741450201
-    },
-    "cactus-compute/cactus": {
-      "star": 5544,
-      "created_at": "2025-04-23T14:33:43Z",
-      "desc": "",
-      "language": "C",
-      "topics": [
-        "ai",
-        "android",
-        "arm",
-        "edge",
-        "edge-ai",
-        "framework",
-        "ios",
-        "llamacpp",
-        "llm",
-        "llm-inference",
-        "llms",
-        "mobile",
-        "mobile-inference",
-        "on-device-ai",
-        "quantiz",
-        "rag",
-        "smartphone",
-        "speech",
-        "transformer",
-        "whisper"
-      ],
-      "gh_desc": "Low-latency AI engine for mobile devices & wearables",
-      "id": 971447302
     },
     "PeterGriffinJin/Search-R1": {
       "star": 5171,
@@ -51242,15 +51152,6 @@
       ],
       "gh_desc": "The official repo for [NeurIPS'22] \"ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation\" and [TPAMI'23] \"ViTPose++: Vision Transformer for Generic Body Pose Estimation\"",
       "id": 485999907
-    },
-    "leilei926524-tech/anti-distill": {
-      "star": 2337,
-      "created_at": "2026-04-02T10:51:10Z",
-      "desc": "",
-      "language": "",
-      "topics": [],
-      "gh_desc": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
-      "id": 1199437437
     },
     "haitongli/knowledge-distillation-pytorch": {
       "star": 1998,
@@ -115367,31 +115268,6 @@
       ],
       "gh_desc": "Awesome list of status page open source software, services and public status pages of major internet companies",
       "id": 85031126
-    },
-    "odigos-io/odigos": {
-      "star": 3673,
-      "created_at": "2022-06-08T04:09:44Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [
-        "dotnet",
-        "ebpf",
-        "go",
-        "java",
-        "javascript",
-        "kubernetes",
-        "logs",
-        "metrics",
-        "monitoring",
-        "nodejs",
-        "observability",
-        "opentelemetry",
-        "otel",
-        "python",
-        "traces"
-      ],
-      "gh_desc": "Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF",
-      "id": 501095512
     },
     "arl/statsviz": {
       "star": 3643,
@@ -314506,18 +314382,6 @@
       ],
       "gh_desc": "TiDB/TiKV/PD 中文文档",
       "id": 64188788
-    },
-    "cisagov/cset": {
-      "star": 1865,
-      "created_at": "2019-05-15T17:09:53Z",
-      "desc": "",
-      "language": "TSQL",
-      "topics": [
-        "cset",
-        "security-audit"
-      ],
-      "gh_desc": "Cybersecurity Evaluation Tool",
-      "id": 186870941
     },
     "apptainer/apptainer": {
       "star": 1919,
@@ -539401,19 +539265,6 @@
       "gh_desc": "A curated list of automated machine learning papers, articles, tutorials, slides and projects",
       "id": 111381431
     },
-    "nefe/number-precision": {
-      "star": 4097,
-      "created_at": "2017-08-21T09:03:31Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "floating-point",
-        "number-converter",
-        "rounding-error"
-      ],
-      "gh_desc": "🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely",
-      "id": 100933681
-    },
     "anu0012/awesome-computer-science-opportunities": {
       "star": 4134,
       "created_at": "2018-01-18T16:36:55Z",
@@ -744902,15 +744753,6 @@
       "gh_desc": "Libraries for draw.io",
       "id": 54952161
     },
-    "DimensionDev/Flare": {
-      "star": 1420,
-      "created_at": "2023-07-19T10:11:19Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [],
-      "gh_desc": "Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app. One timeline, all your accounts, cross-post everywhere.",
-      "id": 668227173
-    },
     "OpenStarbound/OpenStarbound": {
       "star": 1275,
       "created_at": "2023-06-20T04:18:02Z",
@@ -746871,22 +746713,6 @@
       ],
       "gh_desc": "Remote Desktop entirely coded in PowerShell.",
       "id": 445545738
-    },
-    "cactus-compute/needle": {
-      "star": 3300,
-      "created_at": "2026-02-24T04:50:47Z",
-      "desc": "项目定位与用途: Needle 是 cactus-compute/needle 提供的一个面向工具调用、设备端使用和结构化抽取的开源模型与 Python 包。根据 README，它是一个 45M 参数的开放模型，整体打包成单个 14MB 二进制，可在约 28MB 内存中完成完整会话，并支持通过 `pip install cactus-needle` 直接在 Python 中进行推理、LoRA 微调和导出。\n\n解决的问题: 该项目主要解决小型设备上运行大模型困难、模型文件分散、工具调用输出不稳定以及内存占用过高的问题。README 明确提到它将权重内置到单一引擎中，推理不依赖网络，并用字节级语法把工具调用约束为结构化数据，从而减少部署、管理和执行时的复杂度。\n\n使用场景: 典型场景包括在手机、嵌入式或其他资源受限设备上进行本地工具调用、离线推理和结构化信息抽取。目标用户可理解为需要把工具描述给模型、再由模型返回 JSON 形式参数的开发者，以及希望在 air-gapped 环境中部署的用户。README 也提到可声明大量工具并自动检索每轮最相关的少量工具。\n\n技术架构与特性: Needle 2 基于 Simple Attention Network 设计，采用 Hadamard MLP、GQA 注意力、engram key-value memory 和多通道超连接等结构，并被压缩到 CQ2-bit。其核心特性包括单文件自包含、置信度门控、工具检索、256 token 滑动窗口和受 schema 约束的字节级语法解码；当前仓库提供的是 Python 包层，负责推理、LoRA 微调与导出，底层引擎会从 Hugging Face 获取并缓存。",
-      "language": "Python",
-      "topics": [
-        "cactus",
-        "gemini",
-        "gemma",
-        "llm",
-        "on-device-ai"
-      ],
-      "desc_updated_at": "2026-08-19",
-      "gh_desc": "26m function call model that runs on incredibly small devices",
-      "id": 1165361576
     },
     "wukongdaily/ImmortalWrt-ImageBuilder": {
       "star": 2551,
@@ -856242,11 +856068,6 @@
       "star": 577,
       "created_at": "2019-03-04T16:00:01Z",
       "id": 173776180
-    },
-    "shobcoder/shob": {
-      "star": 582,
-      "created_at": "2026-03-25T07:48:41Z",
-      "id": 1191398263
     },
     "Lovrom8/RSMods": {
       "star": 580,
@@ -994468,11 +994289,6 @@
       "star": 503,
       "created_at": "2026-01-06T07:57:43Z",
       "id": 1128828698
-    },
-    "gaganode/gaga_android_sdk": {
-      "star": 503,
-      "created_at": "2022-12-09T05:40:23Z",
-      "id": 576147464
     },
     "romannurik/AndroidDesignPreview": {
       "star": 503,
@@ -1217056,11 +1216872,6 @@
       "created_at": "2020-10-19T08:43:09Z",
       "id": 305318712
     },
-    "cargath/WWDC2016-Xcode-Color-Scheme": {
-      "star": 402,
-      "created_at": "2016-04-19T17:40:48Z",
-      "id": 56618220
-    },
     "nickbeth/wsl-usb-manager": {
       "star": 402,
       "created_at": "2024-04-20T12:42:06Z",
@@ -1248829,11 +1248640,6 @@
       "created_at": "2026-04-21T12:04:52Z",
       "id": 1216960751
     },
-    "ThinkfleetAI/memmesh": {
-      "star": 470,
-      "created_at": "2026-06-21T22:28:24Z",
-      "id": 1276368237
-    },
     "kunaltyagi9/MERN-Stack-Projects": {
       "star": 788,
       "created_at": "2021-05-11T16:34:09Z",
@@ -1251674,11 +1251480,6 @@
       "created_at": "2026-08-07T22:46:51Z",
       "id": 1327225282
     },
-    "misaka10032w/Han1meViewer": {
-      "star": 412,
-      "created_at": "2025-06-05T04:34:44Z",
-      "id": 996524615
-    },
     "fcakyon/autollm": {
       "star": 1007,
       "created_at": "2023-09-21T08:53:25Z",
@@ -1251988,11 +1251789,6 @@
       "star": 400,
       "created_at": "2021-01-13T19:27:24Z",
       "id": 329410588
-    },
-    "Edu4rdSHL/unimap": {
-      "star": 400,
-      "created_at": "2020-09-03T02:00:23Z",
-      "id": 292440224
     },
     "stanuwu/Sunrise": {
       "star": 404,
@@ -1253220,11 +1253016,6 @@
       "created_at": "2026-02-14T02:46:01Z",
       "id": 1157600927
     },
-    "EthanYoQ/AI-Novel-Writer": {
-      "star": 409,
-      "created_at": "2026-06-20T17:27:16Z",
-      "id": 1275436512
-    },
     "AaronGIG/pdf2zh-desktop": {
       "star": 401,
       "created_at": "2026-03-17T16:03:16Z",
@@ -1254067,11 +1253858,6 @@
       "star": 728,
       "created_at": "2018-05-12T21:59:16Z",
       "id": 133186405
-    },
-    "qntx/ovo": {
-      "star": 564,
-      "created_at": "2026-01-28T10:43:44Z",
-      "id": 1144141973
     },
     "KhronosGroup/Vulkan-Tutorial": {
       "star": 400,
@@ -1256607,11 +1256393,6 @@
       "star": 400,
       "created_at": "2026-01-22T14:12:32Z",
       "id": 1139861340
-    },
-    "NomaDamas/CozyClay": {
-      "star": 434,
-      "created_at": "2026-07-28T19:57:47Z",
-      "id": 1315384578
     },
     "beilusaiying/always-accompany": {
       "star": 408,
@@ -1260609,11 +1260390,6 @@
       "created_at": "2018-02-23T04:07:37Z",
       "id": 122572017
     },
-    "burakgon/stop-stutter": {
-      "star": 487,
-      "created_at": "2026-09-04T20:45:06Z",
-      "id": 1357580136
-    },
     "vriteio/andesine": {
       "star": 1990,
       "created_at": "2023-05-15T12:34:16Z",
@@ -1260856,11 +1260632,6 @@
       "star": 400,
       "created_at": "2020-04-11T02:12:59Z",
       "id": 254775472
-    },
-    "MahdiSafsafi/DDetours": {
-      "star": 400,
-      "created_at": "2015-06-11T18:59:30Z",
-      "id": 37280174
     },
     "alexbatalov/fallout2-re": {
       "star": 400,
@@ -1268050,11 +1267821,6 @@
       "created_at": "2025-03-08T08:47:10Z",
       "id": 944925493
     },
-    "mabdulre9/electrical-engineering": {
-      "star": 401,
-      "created_at": "2026-09-20T06:13:22Z",
-      "id": 1377997714
-    },
     "backnotprop/pstack": {
       "star": 401,
       "created_at": "2026-05-27T02:30:34Z",
@@ -1272282,11 +1272048,6 @@
       ],
       "gh_desc": "A cross platform app for quick and easy still image camera matching",
       "id": 137477588
-    },
-    "thiagodmont/greeg": {
-      "star": 443,
-      "created_at": "2026-09-02T00:06:26Z",
-      "id": 1354138401
     },
     "perarnia/blam": {
       "star": 645,
@@ -1278133,11 +1277894,6 @@
       "created_at": "2020-04-19T19:34:50Z",
       "id": 257085842
     },
-    "iBug/This-Repo-Has-626-Stars": {
-      "star": 628,
-      "created_at": "2021-02-19T16:02:18Z",
-      "id": 340419811
-    },
     "zodiaceco/zodiac": {
       "star": 480,
       "created_at": "2021-07-28T17:55:06Z",
@@ -1278691,11 +1278447,6 @@
       "created_at": "2025-05-13T07:15:31Z",
       "id": 982630026
     },
-    "qiskit-community/qiskit-nature": {
-      "star": 400,
-      "created_at": "2021-01-27T16:59:03Z",
-      "id": 333498711
-    },
     "labzero/bootleg": {
       "star": 400,
       "created_at": "2017-02-02T20:08:00Z",
@@ -1279146,13 +1278897,6 @@
       "created_at": "2026-10-12T15:24:23Z",
       "id": 1415782260
     },
-    "AhmadHassan-BTed/NaSuno": {
-      "star": 428,
-      "created_at": "2023-07-25T20:15:14Z",
-      "id": 670777098,
-      "desc": "项目定位与用途:\nNaSuno是一款防御性心理声学音频数字信号处理工具包与取证反归因引擎。该项目旨在通过数学信号处理框架，精准中和Suno、Udio等生成式AI模型注入的专有合成水印、高频超声载波及潜在来源标签。其核心用途是在不产生可感知音质劣化的前提下，将人类音乐创作与AI平台的追踪机制进行解耦，为音频创作者提供一套专业的音频净化与反追踪解决方案。\n\n解决的问题:\n当前生成式音频模型会在输出波形中强制植入高频超声载波、相位锁定扩频谱及隐性溯源标签。当音乐人或声音设计师在作品中混入AI生成的音轨、音效或背景纹理时，整首曲目会被平台算法自动标记并纳入版权归因与监控体系。该项目直接针对这一隐形标记痛点，解决人类创作成果被AI平台非法追踪、误判版权及强制归因的取证难题，保障创作者的独立性与版权自主权。\n\n使用场景:\n适用于独立音乐人、音频制作人及声音设计师在处理包含AI生成素材的混音工程时。典型场景包括：清理混音轨道中残留的AI合成水印以通过平台人工审核；在影视配乐或游戏音效制作中剥离第三方AI纹理的溯源标签；以及为需要严格版权隔离的商业音频项目提供底层信号净化服务。目标用户为对音频版权归属敏感、需规避平台自动化监控的创作者与音频工程师。\n\n技术架构与特性:\n项目采用六边形DSP架构设计，核心算法基于ISO 226等响度曲线与Bark尺度临界频带心理声学模型构建。技术实现包含零相位IIR陷波滤波器与数学信号处理框架，支持通过Web Audio Studio进行实时DSP机架操作。项目遵循MIT开源协议，提供完整的CI持续集成与Pages文档部署流水线，并公开了14向量反归因矩阵与取证规格说明。",
-      "desc_updated_at": "2026-10-21"
-    },
     "BaruqueRodrigues/llm-legislativo": {
       "star": 401,
       "created_at": "2026-10-13T23:46:21Z",
@@ -1279362,11 +1279106,6 @@
       "star": 1271,
       "created_at": "2026-08-04T19:58:07Z",
       "id": 1323332140
-    },
-    "testdriverai/testdriverai": {
-      "star": 439,
-      "created_at": "2024-08-25T21:30:13Z",
-      "id": 847453935
     },
     "with-pebbly/aseprite-ai-artist": {
       "star": 409,
@@ -1284124,11 +1283863,6 @@
       "created_at": "2025-09-28T17:20:30Z",
       "id": 1065913270
     },
-    "Syenzzz/mcd-coupon-strategist": {
-      "star": 458,
-      "created_at": "2026-10-10T12:59:19Z",
-      "id": 1413190537
-    },
     "LazyAGI/LazyMind": {
       "star": 414,
       "created_at": "2024-07-03T11:00:32Z",
@@ -1284264,11 +1283998,6 @@
       "star": 534,
       "created_at": "2026-10-18T16:11:03Z",
       "id": 1424563458
-    },
-    "VectorMethods/videovector-python": {
-      "star": 417,
-      "created_at": "2026-07-09T20:26:19Z",
-      "id": 1295750838
     },
     "Xanerix/guoapp": {
       "star": 410,
@@ -1286606,11 +1286335,6 @@
       "created_at": "2026-08-26T15:08:36Z",
       "id": 1347481129
     },
-    "guilyx/grip": {
-      "star": 438,
-      "created_at": "2026-09-20T22:49:36Z",
-      "id": 1378840624
-    },
     "Anil-matcha/open-genjutsu": {
       "star": 417,
       "created_at": "2023-05-17T18:38:27Z",
@@ -1287622,11 +1287346,6 @@
       "created_at": "2016-07-13T20:07:25Z",
       "id": 63275961
     },
-    "Funsiooo/chunsou": {
-      "star": 400,
-      "created_at": "2023-07-03T13:44:45Z",
-      "id": 661718519
-    },
     "yuliskov/LeanKeyboard": {
       "star": 400,
       "created_at": "2018-01-20T21:28:20Z",
@@ -1287731,11 +1287450,6 @@
       "star": 475,
       "created_at": "2026-10-04T17:40:44Z",
       "id": 1404683220
-    },
-    "imran31415/kube-coder": {
-      "star": 401,
-      "created_at": "2025-08-18T21:02:51Z",
-      "id": 1040352522
     },
     "FrigadeHQ/hob": {
       "star": 411,
@@ -1288319,11 +1288033,6 @@
       "created_at": "2026-10-29T17:08:59Z",
       "id": 1438724252
     },
-    "jryang1997/MenuBarMijia": {
-      "star": 647,
-      "created_at": "2026-10-15T12:45:38Z",
-      "id": 1420714186
-    },
     "CharonChui/FullStack-Notes": {
       "star": 3925,
       "created_at": "2013-12-10T01:58:04Z",
@@ -1288877,11 +1288586,6 @@
       "created_at": "2026-11-01T05:50:38Z",
       "id": 1441526188
     },
-    "Scrut1ny/AutoVirt": {
-      "star": 724,
-      "created_at": "2023-09-19T07:32:44Z",
-      "id": 693519510
-    },
     "bitcoin-core/guix.sigs": {
       "star": 400,
       "created_at": "2021-04-06T08:02:49Z",
@@ -1288952,11 +1288656,6 @@
       "star": 417,
       "created_at": "2026-10-13T13:04:16Z",
       "id": 1417071033
-    },
-    "Scrut1ny/MBPR": {
-      "star": 554,
-      "created_at": "2022-05-18T07:35:25Z",
-      "id": 493557630
     },
     "Lulu5239/view-loggers": {
       "star": 584,
@@ -1289147,11 +1288846,6 @@
       "created_at": "2021-09-25T21:55:37Z",
       "id": 410389912
     },
-    "sahlberg/pop-fe": {
-      "star": 400,
-      "created_at": "2021-04-11T06:26:31Z",
-      "id": 356785422
-    },
     "cshariq/Sapphire": {
       "star": 400,
       "created_at": "2025-11-17T04:35:35Z",
@@ -1289176,11 +1288870,6 @@
       "star": 400,
       "created_at": "2020-10-16T18:56:46Z",
       "id": 304714369
-    },
-    "Scrut1ny/OpSec-Guide": {
-      "star": 491,
-      "created_at": "2021-12-18T09:16:02Z",
-      "id": 439573163
     },
     "sarsonj/rodokmen-skill": {
       "star": 439,
@@ -1289774,11 +1289463,6 @@
       "created_at": "2025-05-06T21:49:57Z",
       "id": 979020187
     },
-    "LuQTest/Big-A-chovy": {
-      "star": 400,
-      "created_at": "2026-08-24T03:30:38Z",
-      "id": 1344486265
-    },
     "zhbhun/rmbg": {
       "star": 400,
       "created_at": "2023-12-03T15:53:52Z",
@@ -1289871,13 +1289555,6 @@
       "desc": "项目定位与用途:\n本项目是DeepSeek Harness生态下的开源插件，核心定位为模型提示词替换与红队测试框架。它支持按模型动态切换预设提示词，默认提供针对“小码酱”的配置。项目旨在为安全研究人员提供本地化部署的提示词管理方案，通过模型级隔离与替换机制，实现对目标大语言模型的定向测试与行为干预，满足特定场景下的提示词工程需求。\n\n解决的问题:\n该项目主要解决大语言模型在红队测试中提示词管理分散、难以按模型独立配置的问题。传统方式下，不同模型的测试提示词易相互干扰，缺乏细粒度隔离。本项目通过模型级提示词替换能力，使测试人员能在同一环境安全加载特定提示词，避免公共网络滥用风险。结合本地IP限制与反作弊机制，确保测试过程可控且符合合规要求。\n\n使用场景:\n主要面向网络安全红队测试人员、大模型安全研究员及提示词工程师。典型场景包括：在本地实验室环境中对多款大语言模型进行定向越狱测试与安全边界评估；针对特定模型进行提示词替换与对抗性输入验证；在受控网络下开展模型行为干预实验。项目明确禁止公共互联网部署与商业转售，适用于内部研发与安全审计等封闭环境。\n\n技术架构与特性:\n项目基于Node.js与JavaScript开发，采用DSH插件化架构，支持pnpm或npm安装。核心特性包括：强制本地实验室网络隔离，仅允许回环与RFC1918私有IP，内置域名解析校验阻断公网访问；集成会话管理与提示词自动替换逻辑，支持按模型独立加载；提供反作弊拦截功能，禁止游戏外挂类指令注入。近期版本持续优化稳定性，修复会话创建与插件卸载等底层问题。",
       "desc_updated_at": "2026-10-28"
     },
-    "feder-cr/Jobs_Applier_AI_Agent_AIHawk": {
-      "star": 30096,
-      "created_at": "2024-08-04T12:15:06Z",
-      "id": 837911756,
-      "desc": "项目定位与用途:AIHawk 是一个开源的反检测浏览器与网页浏览代理，README 表示它面向“用自然语言告诉它想要什么”的自动化任务，并提供给编码代理使用的 MCP 服务。它既可作为浏览器自动化底座，也可通过独立 Web 界面交互使用。\n\n解决的问题:它主要解决需要真实浏览器、且依赖页面判断与交互的网页自动化难题。README 强调其可“undetected、no captchas、no blocks”，说明目标是降低被识别、验证码和站点限制对自动化流程的影响，让代理更像真人操作网页。\n\n使用场景:适合查询和处理依赖网页界面的任务，例如按自然语言让代理打开指定网址、逐日检查信息、读取页面结果等。README 也给出两种用法：接入 Claude Code、Codex、Gemini CLI 等助手通过 MCP 调用，或直接用本地 Web UI 配合 OpenRouter key 操作。\n\n技术架构与特性:项目基于浏览器代理思路，结合 invisible-playwright、MCP server 和 Web UI；界面采用“左侧聊天、右侧实时浏览器”的方式。安装方式依赖 uv/uvx，支持 Windows 与 Linux。近期提交线索显示其在持续修复模型 key、工具结果、语言门控、测试和工作流等问题。",
-      "desc_updated_at": "2026-09-16"
-    },
     "andrew-babo/muse4ai": {
       "star": 583,
       "created_at": "2026-11-03T17:45:18Z",
@@ -1289928,11 +1289605,6 @@
       "created_at": "2026-11-02T09:22:02Z",
       "id": 1442753326
     },
-    "Tiberriver256/mcp-server-azure-devops": {
-      "star": 400,
-      "created_at": "2025-02-28T00:05:42Z",
-      "id": 940300511
-    },
     "ekzhang/resin": {
       "star": 405,
       "created_at": "2026-08-08T19:30:25Z",
@@ -1289942,11 +1289614,6 @@
       "star": 409,
       "created_at": "2026-09-04T21:11:02Z",
       "id": 1357596639
-    },
-    "alaika-cyber/hacknova": {
-      "star": 925,
-      "created_at": "2025-08-14T19:23:15Z",
-      "id": 1038196040
     },
     "PatchBuilderAmplify/stolen-crypto-tracer": {
       "star": 401,
@@ -1290216,11 +1289883,6 @@
       "created_at": "2026-10-27T09:52:28Z",
       "id": 1435539591
     },
-    "OpenHelix-Team/OpenHelix": {
-      "star": 400,
-      "created_at": "2025-04-13T08:20:16Z",
-      "id": 965466026
-    },
     "AneryCoft/course_helper": {
       "star": 407,
       "created_at": "2026-02-23T07:08:16Z",
@@ -1290395,6 +1290057,541 @@
       "star": 403,
       "created_at": "2026-01-27T13:52:00Z",
       "id": 1143367904
+    },
+    "feder-cr/Jobs_Applier_AI_Agent": {
+      "star": 30096,
+      "created_at": "2024-08-04T12:15:06Z",
+      "id": 837911756,
+      "desc": "项目定位与用途:AIHawk 是一个开源的反检测浏览器与网页浏览代理，README 表示它面向“用自然语言告诉它想要什么”的自动化任务，并提供给编码代理使用的 MCP 服务。它既可作为浏览器自动化底座，也可通过独立 Web 界面交互使用。\n\n解决的问题:它主要解决需要真实浏览器、且依赖页面判断与交互的网页自动化难题。README 强调其可“undetected、no captchas、no blocks”，说明目标是降低被识别、验证码和站点限制对自动化流程的影响，让代理更像真人操作网页。\n\n使用场景:适合查询和处理依赖网页界面的任务，例如按自然语言让代理打开指定网址、逐日检查信息、读取页面结果等。README 也给出两种用法：接入 Claude Code、Codex、Gemini CLI 等助手通过 MCP 调用，或直接用本地 Web UI 配合 OpenRouter key 操作。\n\n技术架构与特性:项目基于浏览器代理思路，结合 invisible-playwright、MCP server 和 Web UI；界面采用“左侧聊天、右侧实时浏览器”的方式。安装方式依赖 uv/uvx，支持 Windows 与 Linux。近期提交线索显示其在持续修复模型 key、工具结果、语言门控、测试和工作流等问题。",
+      "desc_updated_at": "2026-09-16"
+    },
+    "agentsdroid/agentsdroid": {
+      "star": 925,
+      "created_at": "2025-08-14T19:23:15Z",
+      "id": 1038196040
+    },
+    "HaD0Yun/CozyClay": {
+      "star": 434,
+      "created_at": "2026-07-28T19:57:47Z",
+      "id": 1315384578
+    },
+    "cactus-compute/engine": {
+      "star": 5544,
+      "created_at": "2025-04-23T14:33:43Z",
+      "desc": "",
+      "language": "C",
+      "topics": [
+        "ai",
+        "android",
+        "arm",
+        "edge",
+        "edge-ai",
+        "framework",
+        "ios",
+        "llamacpp",
+        "llm",
+        "llm-inference",
+        "llms",
+        "mobile",
+        "mobile-inference",
+        "on-device-ai",
+        "quantiz",
+        "rag",
+        "smartphone",
+        "speech",
+        "transformer",
+        "whisper"
+      ],
+      "gh_desc": "Low-latency AI engine for mobile devices & wearables",
+      "id": 971447302
+    },
+    "wesammustafa/Claude-Code-Quest": {
+      "star": 2395,
+      "created_at": "2025-08-17T14:45:39Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic-coding",
+        "ai-agents",
+        "anthropic",
+        "anthropic-claude",
+        "best-practices",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-guide",
+        "claude-code-hooks",
+        "claude-code-skills",
+        "claude-code-tutorial",
+        "claude-skills",
+        "guide",
+        "mcp",
+        "mcp-servers",
+        "prompt-engineering",
+        "subagents",
+        "tutorial"
+      ],
+      "gh_desc": "The ultimate all-in-one guide to mastering Claude Code. From setup, prompt engineering, commands, hooks, workflows, automation, and integrations, to MCP servers, tools, and the BMAD method—packed with step-by-step tutorials, real-world examples, and expert strategies to make this the global go-to repo for Claude mastery.",
+      "id": 1039579222
+    },
+    "amitshekhariitbhu/llm-inference-engineering": {
+      "star": 400,
+      "created_at": "2026-08-18T03:10:26Z",
+      "id": 1337918481
+    },
+    "undrgrnd-labs/hunch": {
+      "star": 464,
+      "created_at": "2026-10-21T16:50:24Z",
+      "id": 1428671030
+    },
+    "bisnuray/RestrictedContentDL": {
+      "star": 487,
+      "created_at": "2024-10-10T15:33:43Z",
+      "id": 870745054
+    },
+    "EthanYoQ/Pagekin": {
+      "star": 409,
+      "created_at": "2026-06-20T17:27:16Z",
+      "id": 1275436512
+    },
+    "TagPhaseArcade/tiktok-uploader": {
+      "star": 426,
+      "created_at": "2026-11-05T06:48:59Z",
+      "id": 1446642680
+    },
+    "Danielxu0208/rsi_eval": {
+      "star": 405,
+      "created_at": "2026-10-12T12:19:33Z",
+      "id": 1415560203
+    },
+    "HerdBuilderEstimate/roblox-studio-mcp": {
+      "star": 425,
+      "created_at": "2026-11-06T06:16:35Z",
+      "id": 1447903382
+    },
+    "kokiainet/anti-distill": {
+      "star": 2337,
+      "created_at": "2026-04-02T10:51:10Z",
+      "desc": "",
+      "language": "",
+      "topics": [],
+      "gh_desc": "反蒸馏 Skill：清洗你被迫写的 Skill 文件，看起来完整，核心知识留给自己。Anti-distillation for employee Skills.",
+      "id": 1199437437
+    },
+    "claws-lab/XLingEval": {
+      "star": 405,
+      "created_at": "2023-10-18T17:35:42Z",
+      "id": 706827113
+    },
+    "ifer47/markeron": {
+      "star": 1197,
+      "created_at": "2026-03-17T04:46:42Z",
+      "id": 1183931176
+    },
+    "vivo/BluePixel": {
+      "star": 405,
+      "created_at": "2026-05-22T09:48:15Z",
+      "id": 1246543972
+    },
+    "pingmike2/freebuff2api-wokers": {
+      "star": 400,
+      "created_at": "2026-08-06T14:25:37Z",
+      "id": 1325344471
+    },
+    "shinyobjectz/raea": {
+      "star": 429,
+      "created_at": "2026-10-18T18:08:48Z",
+      "id": 1424671157
+    },
+    "TuguiDragos/Peel": {
+      "star": 409,
+      "created_at": "2026-09-24T13:41:14Z",
+      "id": 1385588577
+    },
+    "AtomIllusionistDwell/watson-username-footprint-finder": {
+      "star": 432,
+      "created_at": "2026-11-05T05:20:24Z",
+      "id": 1446569267
+    },
+    "MythicHokageRepel/steam-inventory-value-desktop": {
+      "star": 419,
+      "created_at": "2026-11-05T05:32:56Z",
+      "id": 1446578592
+    },
+    "sqlpxc/airhand": {
+      "star": 506,
+      "created_at": "2026-10-31T13:33:04Z",
+      "id": 1440888502
+    },
+    "badchars/darknet-mcp-server": {
+      "star": 523,
+      "created_at": "2026-06-23T18:45:38Z",
+      "id": 1278394334
+    },
+    "Jeroen-G/Explorer": {
+      "star": 400,
+      "created_at": "2020-10-23T22:35:32Z",
+      "id": 306760996
+    },
+    "lordbasex/LordOS": {
+      "star": 413,
+      "created_at": "2026-10-18T03:31:03Z",
+      "id": 1423954956
+    },
+    "yeshenpy/Awesome-Evolutionary-Reinforcement-Learning": {
+      "star": 400,
+      "created_at": "2023-05-25T16:31:42Z",
+      "id": 645433065
+    },
+    "aureth-labs/dsh-aurabot-qq": {
+      "star": 429,
+      "created_at": "2026-10-24T06:43:38Z",
+      "id": 1431897471
+    },
+    "Wallbycontact/java-mod-rust-port-tool": {
+      "star": 414,
+      "created_at": "2026-11-05T06:15:39Z",
+      "id": 1446613379
+    },
+    "filtalgo/Filtmall-Shopping-Skill": {
+      "star": 493,
+      "created_at": "2026-05-28T12:02:51Z",
+      "id": 1252321383
+    },
+    "MagpieDirect/imei-repair": {
+      "star": 400,
+      "created_at": "2026-11-04T08:43:31Z",
+      "id": 1445375150
+    },
+    "ZenlixAI/skill-dock": {
+      "star": 423,
+      "created_at": "2026-07-28T08:27:51Z",
+      "id": 1314732478
+    },
+    "artemnovitckii/claude-animation-skills": {
+      "star": 414,
+      "created_at": "2026-11-01T02:53:31Z",
+      "id": 1441434221
+    },
+    "qntx/bot": {
+      "star": 564,
+      "created_at": "2026-01-28T10:43:44Z",
+      "id": 1144141973
+    },
+    "healkeiser/fxhoudinimcp": {
+      "star": 404,
+      "created_at": "2026-02-22T16:59:32Z",
+      "id": 1164114452
+    },
+    "flaresocialapp/Flare": {
+      "star": 1420,
+      "created_at": "2023-07-19T10:11:19Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [],
+      "gh_desc": "Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app. One timeline, all your accounts, cross-post everywhere.",
+      "id": 668227173
+    },
+    "AhmadHassan-BTed/NaSuno-SongHumanizer": {
+      "star": 428,
+      "created_at": "2023-07-25T20:15:14Z",
+      "id": 670777098,
+      "desc": "项目定位与用途:\nNaSuno是一款防御性心理声学音频数字信号处理工具包与取证反归因引擎。该项目旨在通过数学信号处理框架，精准中和Suno、Udio等生成式AI模型注入的专有合成水印、高频超声载波及潜在来源标签。其核心用途是在不产生可感知音质劣化的前提下，将人类音乐创作与AI平台的追踪机制进行解耦，为音频创作者提供一套专业的音频净化与反追踪解决方案。\n\n解决的问题:\n当前生成式音频模型会在输出波形中强制植入高频超声载波、相位锁定扩频谱及隐性溯源标签。当音乐人或声音设计师在作品中混入AI生成的音轨、音效或背景纹理时，整首曲目会被平台算法自动标记并纳入版权归因与监控体系。该项目直接针对这一隐形标记痛点，解决人类创作成果被AI平台非法追踪、误判版权及强制归因的取证难题，保障创作者的独立性与版权自主权。\n\n使用场景:\n适用于独立音乐人、音频制作人及声音设计师在处理包含AI生成素材的混音工程时。典型场景包括：清理混音轨道中残留的AI合成水印以通过平台人工审核；在影视配乐或游戏音效制作中剥离第三方AI纹理的溯源标签；以及为需要严格版权隔离的商业音频项目提供底层信号净化服务。目标用户为对音频版权归属敏感、需规避平台自动化监控的创作者与音频工程师。\n\n技术架构与特性:\n项目采用六边形DSP架构设计，核心算法基于ISO 226等响度曲线与Bark尺度临界频带心理声学模型构建。技术实现包含零相位IIR陷波滤波器与数学信号处理框架，支持通过Web Audio Studio进行实时DSP机架操作。项目遵循MIT开源协议，提供完整的CI持续集成与Pages文档部署流水线，并公开了14向量反归因矩阵与取证规格说明。",
+      "desc_updated_at": "2026-10-21"
+    },
+    "camsong/number-precision": {
+      "star": 4097,
+      "created_at": "2017-08-21T09:03:31Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "floating-point",
+        "number-converter",
+        "rounding-error"
+      ],
+      "gh_desc": "🚀1K tiny & fast lib for doing addition, subtraction, multiplication and division operations precisely",
+      "id": 100933681
+    },
+    "AhmadHassan-BTed/RainGeneratorPy": {
+      "star": 1598,
+      "created_at": "2026-10-27T07:07:03Z",
+      "id": 1435375337
+    },
+    "ServerTechnologies/proxy-via-russian-cdn": {
+      "star": 405,
+      "created_at": "2026-07-25T12:51:02Z",
+      "id": 1311979657
+    },
+    "iBug/This-Repo-Has-627-Stars": {
+      "star": 628,
+      "created_at": "2021-02-19T16:02:18Z",
+      "id": 340419811
+    },
+    "Mikachu2333/rimage_gui": {
+      "star": 513,
+      "created_at": "2023-06-24T12:42:57Z",
+      "id": 657993991
+    },
+    "wzc520pyfm/gen-ai-pose-image": {
+      "star": 586,
+      "created_at": "2026-10-29T08:20:20Z",
+      "id": 1438135351
+    },
+    "MichaelRColton/PSDR": {
+      "star": 401,
+      "created_at": "2014-06-22T23:34:48Z",
+      "id": 21108697
+    },
+    "waryas/WaryasSWHE": {
+      "star": 401,
+      "created_at": "2025-11-26T00:46:27Z",
+      "id": 1104249981
+    },
+    "chadyi/StudyOnTV": {
+      "star": 561,
+      "created_at": "2026-11-01T15:31:22Z",
+      "id": 1441959881
+    },
+    "komaruworld/mocktail": {
+      "star": 414,
+      "created_at": "2026-08-11T19:16:31Z",
+      "id": 1331275281
+    },
+    "whyever77/dafeiyu-astrbot": {
+      "star": 731,
+      "created_at": "2026-10-14T11:35:26Z",
+      "id": 1418806486
+    },
+    "coollabsio/orbit": {
+      "star": 487,
+      "created_at": "2026-08-31T19:05:19Z",
+      "id": 1352767712
+    },
+    "chunkithwang/design-playful-app-icons": {
+      "star": 586,
+      "created_at": "2026-08-06T06:17:03Z",
+      "id": 1324817742
+    },
+    "Obsidiandruoversee/discord-quest-completer": {
+      "star": 402,
+      "created_at": "2026-11-04T08:42:29Z",
+      "id": 1445374092
+    },
+    "WoYun520/pixel-gif-sticker-pack": {
+      "star": 495,
+      "created_at": "2026-11-05T04:08:24Z",
+      "id": 1446515117
+    },
+    "nfzerox/VirtualIntelMacOnAppleSilicon": {
+      "star": 447,
+      "created_at": "2026-10-19T12:34:17Z",
+      "id": 1425589479
+    },
+    "Timon2306/mimic-discord": {
+      "star": 512,
+      "created_at": "2026-10-23T01:34:30Z",
+      "id": 1430453562
+    },
+    "amirmushichge/pixel-plays": {
+      "star": 407,
+      "created_at": "2026-10-31T12:09:29Z",
+      "id": 1440821355
+    },
+    "FrankHUN88453/CoD3Recomp": {
+      "star": 401,
+      "created_at": "2026-09-17T06:04:09Z",
+      "id": 1374010413
+    },
+    "woshimaniubi8/CVE-2026-43499-root-KernelSU": {
+      "star": 459,
+      "created_at": "2026-07-26T12:39:00Z",
+      "id": 1312789713
+    },
+    "ddys9621/WenlanAI": {
+      "star": 442,
+      "created_at": "2026-02-03T08:43:30Z",
+      "id": 1148682170
+    },
+    "RaykieLee/Synapse": {
+      "star": 407,
+      "created_at": "2026-09-17T08:19:54Z",
+      "id": 1374140174
+    },
+    "splendo/kaluga": {
+      "star": 400,
+      "created_at": "2019-06-11T12:57:34Z",
+      "id": 191371940
+    },
+    "DawnShaperFrost90/slideshow-video-maker": {
+      "star": 400,
+      "created_at": "2026-11-04T08:45:28Z",
+      "id": 1445377128
+    },
+    "TheBeardofKnowledge/TBOK-Win11Optimizer": {
+      "star": 400,
+      "created_at": "2026-04-16T19:31:20Z",
+      "id": 1212838343
+    },
+    "arcships/dim": {
+      "star": 462,
+      "created_at": "2026-10-13T02:36:06Z",
+      "id": 1416356902
+    },
+    "sandoctopuspanel64/TikTok-Video-Boost-2026---Advanced-Content-Performance-Tool": {
+      "star": 427,
+      "created_at": "2026-07-13T06:50:17Z",
+      "id": 1298962679
+    },
+    "keijiro/KinoBokeh": {
+      "star": 400,
+      "created_at": "2015-08-06T11:54:34Z",
+      "id": 40302242
+    },
+    "facok/comfyui-SelfLift": {
+      "star": 400,
+      "created_at": "2026-09-07T18:13:57Z",
+      "id": 1360536951
+    },
+    "ZenithSeaman/discord-server-cloner": {
+      "star": 400,
+      "created_at": "2026-11-04T08:42:29Z",
+      "id": 1445374096
+    },
+    "frevib/io_uring-echo-server": {
+      "star": 400,
+      "created_at": "2020-01-10T18:26:57Z",
+      "id": 233107092
+    },
+    "getsentry/junior": {
+      "star": 400,
+      "created_at": "2026-02-24T20:57:25Z",
+      "id": 1166064941
+    },
+    "awarre/Optimize-WsusServer": {
+      "star": 400,
+      "created_at": "2020-07-31T19:07:14Z",
+      "id": 284110145
+    },
+    "bytecodealliance/ComponentizeJS": {
+      "star": 400,
+      "created_at": "2023-02-15T23:16:30Z",
+      "id": 602301938
+    },
+    "shishir0x/GoogleUnlimited": {
+      "star": 400,
+      "created_at": "2026-10-15T14:30:13Z",
+      "id": 1420866253
+    },
+    "raphaelsalaja/pond": {
+      "star": 400,
+      "created_at": "2026-04-22T11:47:08Z",
+      "id": 1217957852
+    },
+    "UX-Decoder/LLaVA-Grounding": {
+      "star": 400,
+      "created_at": "2023-12-04T10:59:21Z",
+      "id": 727183038
+    },
+    "lvgl/lv_drivers": {
+      "star": 400,
+      "created_at": "2017-11-26T11:19:49Z",
+      "id": 112076482
+    },
+    "ubuntu/yaru.dart": {
+      "star": 400,
+      "created_at": "2021-11-08T14:55:39Z",
+      "id": 425879796
+    },
+    "wrr/drop": {
+      "star": 400,
+      "created_at": "2025-07-25T11:16:43Z",
+      "id": 1026136236
+    },
+    "openlibrecommunity/olcng": {
+      "star": 400,
+      "created_at": "2026-04-03T17:43:38Z",
+      "id": 1200678407
+    },
+    "0vm/NetDeflect": {
+      "star": 406,
+      "created_at": "2025-03-23T14:56:57Z",
+      "id": 953518329
+    },
+    "sciter-sdk/pysciter": {
+      "star": 400,
+      "created_at": "2016-02-17T19:57:51Z",
+      "id": 51951031
+    },
+    "NoCheatPlus/NoCheatPlus": {
+      "star": 400,
+      "created_at": "2012-08-18T20:31:32Z",
+      "id": 5465889
+    },
+    "lacquerowldirect/ads-blocker": {
+      "star": 400,
+      "created_at": "2026-11-04T08:41:01Z",
+      "id": 1445372506
+    },
+    "SREGym/SREGym": {
+      "star": 400,
+      "created_at": "2025-05-19T18:38:08Z",
+      "id": 986527564
+    },
+    "yeates/Aurora": {
+      "star": 400,
+      "created_at": "2026-05-18T02:21:52Z",
+      "id": 1241963187
+    },
+    "Shagg88/COGBox": {
+      "star": 400,
+      "created_at": "2026-10-27T04:28:46Z",
+      "id": 1435244781
+    },
+    "facebookresearch/lagernvs": {
+      "star": 400,
+      "created_at": "2026-03-03T17:58:18Z",
+      "id": 1171881913
+    },
+    "livliv-dev/player": {
+      "star": 617,
+      "created_at": "2026-11-04T03:28:33Z",
+      "id": 1445112696
+    },
+    "melqtx/tork": {
+      "star": 461,
+      "created_at": "2026-07-07T06:56:57Z",
+      "id": 1291898919
+    },
+    "vhspace/sdl3-rs": {
+      "star": 400,
+      "created_at": "2023-04-16T17:28:47Z",
+      "id": 628677426
+    },
+    "SciML/SciMLSensitivity.jl": {
+      "star": 400,
+      "created_at": "2016-11-02T17:38:07Z",
+      "id": 72665210
+    },
+    "PursuerTermiteTouch/startall-back": {
+      "star": 400,
+      "created_at": "2026-11-04T08:45:34Z",
+      "id": 1445377243
+    },
+    "pyccel/pyccel": {
+      "star": 400,
+      "created_at": "2017-08-16T07:59:14Z",
+      "id": 100463736
+    },
+    "micromatch/anymatch": {
+      "star": 400,
+      "created_at": "2013-07-16T19:33:13Z",
+      "id": 11458302
+    },
+    "sarpstar/cinecode": {
+      "star": 423,
+      "created_at": "2026-11-03T10:08:16Z",
+      "id": 1444112593
     }
   }
 }
