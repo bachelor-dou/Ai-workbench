@@ -14075,36 +14075,6 @@
       "gh_desc": "The no-code platform for building custom LLM Agents",
       "id": 619814004
     },
-    "calesthio/OpenMontage": {
-      "star": 43486,
-      "created_at": "2026-03-29T15:23:22Z",
-      "desc": "项目定位与用途:\nOpenMontage 是全球首个开源的代理式视频制作系统。它将 AI 编程助手转化为完整的视频制作工作室，支持通过自然语言描述需求，由智能体自动完成研究、脚本撰写、素材生成、剪辑与最终合成。项目提供 12 条工作流管道、52 种工具及 500 多项智能体技能，旨在实现从创意构思到成片输出的全流程自动化视频生产，为创作者提供开箱即用的智能制作环境。\n\n解决的问题:\n传统视频制作流程繁琐，涉及脚本、素材搜集、剪辑与配音等多个环节，对非专业创作者门槛较高。现有 AI 视频工具多局限于将静态图片动画化，难以生成具备真实运动轨迹的完整视频。OpenMontage 通过整合免费素材库与开源档案，自动检索真实动态片段并编排至时间轴，解决了 AI 生成视频缺乏真实运动细节与完整叙事结构的问题，大幅降低专业视频制作的技术与时间成本。\n\n使用场景:\n该项目主要面向独立创作者、自媒体运营者、营销团队及 AI 开发者。典型应用场景包括：通过自然语言指令快速生成宣传短片、教育解说视频或社交媒体内容；利用开源素材库进行二次创作与混剪；结合 AI 编程助手实现定制化视频工作流搭建。用户无需掌握专业剪辑软件，即可通过智能体协作完成从创意到成片的完整制作。\n\n技术架构与特性:\n项目基于 Python 开发，采用多智能体协同架构，深度集成 Claude、OpenAI、Cursor 等 AI 编程与对话模型。核心特性涵盖 12 条标准化管道与 52 种工具，支持文本转语音、文本转视频、图像生成及 FFmpeg 底层渲染。系统可自动对接 ElevenLabs、Stable Diffusion、Flux 等第三方服务，并具备字幕排版、版权合规检查与 RTL 语言适配能力，实现开源可控的全链路视频生产。",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "agentic-ai",
-        "ai",
-        "claude",
-        "copilot",
-        "cursor",
-        "elevenlabs",
-        "ffmpeg",
-        "flux",
-        "image-generation",
-        "open-source",
-        "openai",
-        "python",
-        "remotion",
-        "stable-diffusion",
-        "text-to-speech",
-        "text-to-video",
-        "video-generation",
-        "video-production"
-      ],
-      "desc_updated_at": "2026-11-04",
-      "gh_desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "id": 1195360525
-    },
     "lintsinghua/claude-code-book": {
       "star": 4021,
       "created_at": "2026-03-31T18:00:16Z",
@@ -17455,35 +17425,6 @@
       ],
       "gh_desc": "Free RPA tool by AI Singapore",
       "id": 75694548
-    },
-    "ikaijua/Awesome-AITools": {
-      "star": 6112,
-      "created_at": "2023-04-02T04:06:56Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "artificial-intelligence",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "chatgpt",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "deepseek",
-        "gemini",
-        "gemini3-pro",
-        "gpt",
-        "gpt-5",
-        "llm",
-        "machinelearning",
-        "nanobanana",
-        "tools"
-      ],
-      "gh_desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "id": 622424201
     },
     "georgezouq/awesome-ai-in-finance": {
       "star": 6315,
@@ -26549,25 +26490,6 @@
       "gh_desc": "PipesHub is a fully extensible and explainable workplace AI platform for enterprise search and workflow automation",
       "id": 944080744
     },
-    "linsa-io/alfred-workflows": {
-      "star": 2770,
-      "created_at": "2017-06-10T19:09:21Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "alfred",
-        "alfred-workflow",
-        "alfred-workflows",
-        "automation",
-        "awesome",
-        "awesome-list",
-        "community",
-        "curated-list",
-        "macos"
-      ],
-      "gh_desc": "Amazing Alfred Workflows",
-      "id": 93960104
-    },
     "peter-evans/create-pull-request": {
       "star": 2822,
       "created_at": "2019-07-16T10:53:23Z",
@@ -30640,30 +30562,6 @@
       "desc_updated_at": "2026-09-16",
       "gh_desc": "💫 Toolkit to help you get started with Spec-Driven Development",
       "id": 1042367133
-    },
-    "zoicware/RemoveWindowsAI": {
-      "star": 12585,
-      "created_at": "2024-06-07T04:37:20Z",
-      "desc": "",
-      "language": "PowerShell",
-      "topics": [
-        "ai",
-        "bloatware",
-        "bloatware-removal",
-        "copilot",
-        "debloat",
-        "generative-ai",
-        "image-creator",
-        "optimizer",
-        "powershell",
-        "privacy",
-        "recall",
-        "rewrite",
-        "security",
-        "windows"
-      ],
-      "gh_desc": "Force Remove Copilot, Recall and More in Windows 11",
-      "id": 811675345
     },
     "dice2o/BingGPT": {
       "star": 8924,
@@ -356172,29 +356070,6 @@
       "gh_desc": "QR Code Generator for PHP",
       "id": 8974570
     },
-    "kaltura/nginx-vod-module": {
-      "star": 2114,
-      "created_at": "2014-07-13T15:31:08Z",
-      "desc": "",
-      "language": "C",
-      "topics": [
-        "dash",
-        "drm",
-        "hds",
-        "hls",
-        "livestream",
-        "mp4",
-        "mss",
-        "nginx",
-        "stream",
-        "streaming",
-        "video",
-        "video-streaming",
-        "vod"
-      ],
-      "gh_desc": "NGINX-based MP4 Repackager",
-      "id": 21793531
-    },
     "gl-transitions/gl-transitions": {
       "star": 2122,
       "created_at": "2017-05-20T17:25:00Z",
@@ -424316,14 +424191,6 @@
       ],
       "gh_desc": "customizable multi-action-button component for react-native",
       "id": 44631742
-    },
-    "runningcheese/Awesome-Zlibrary": {
-      "star": 2683,
-      "created_at": "2023-02-17T05:13:26Z",
-      "desc": "",
-      "language": "",
-      "topics": [],
-      "id": 602864776
     },
     "Exely/CSAPP-Labs": {
       "star": 2603,
@@ -535847,19 +535714,6 @@
       "gh_desc": "谷歌新书Agent设计模式(agentic design patterns)最佳中文版，持续优化。附：在线阅读、pdf和epub电子书下载。 ",
       "id": 1066856689
     },
-    "runhey/OnmyojiAutoScript": {
-      "star": 4573,
-      "created_at": "2023-04-28T02:07:21Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "oas",
-        "onmyoji",
-        "script"
-      ],
-      "gh_desc": "Onmyoji Auto Script | 阴阳师脚本",
-      "id": 633659622
-    },
     "stumpy-dev/stumpy": {
       "star": 4120,
       "created_at": "2019-05-03T19:23:44Z",
@@ -613490,26 +613344,6 @@
       "gh_desc": "An android image compression library.",
       "id": 61435800
     },
-    "linsa-io/books": {
-      "star": 7538,
-      "created_at": "2017-06-05T19:58:10Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "books",
-        "education",
-        "free",
-        "learn-anything",
-        "learning",
-        "list",
-        "pdf",
-        "resources"
-      ],
-      "gh_desc": "Awesome Books",
-      "id": 93441336
-    },
     "arslanbilal/git-cheat-sheet": {
       "star": 7409,
       "created_at": "2014-07-22T14:00:21Z",
@@ -644410,14 +644244,6 @@
       ],
       "gh_desc": "Protocol Buffers for JavaScript & TypeScript.",
       "id": 8507859
-    },
-    "BtbN/FFmpeg-Builds": {
-      "star": 11347,
-      "created_at": "2020-09-01T19:19:40Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [],
-      "id": 292087234
     },
     "Turfjs/turf": {
       "star": 10420,
@@ -760203,36 +760029,6 @@
       "gh_desc": "Stock Indicators for .NET is a C# NuGet package that transforms raw equity, commodity, forex, or cryptocurrency financial market price quotes into technical indicators and trading insights. You'll need this essential data in the investment tools that you're building for algorithmic trading, technical analysis, machine learning, or visual charting.",
       "id": 230706417
     },
-    "ShiftHackZ/Stable-Diffusion-KMP": {
-      "star": 1241,
-      "created_at": "2023-03-04T15:35:58Z",
-      "desc": "",
-      "language": "Kotlin",
-      "topics": [
-        "ai",
-        "android",
-        "automatic1111",
-        "clean-architecture",
-        "compose",
-        "compose-ui",
-        "coroutines",
-        "foss",
-        "ios",
-        "koin",
-        "kotlin",
-        "kotlin-multiplatform",
-        "material3",
-        "multimodule-android-app",
-        "mvi",
-        "room-database",
-        "stable-diffusion",
-        "stable-diffusion-mobile",
-        "stable-diffusion-webui",
-        "viewmodel"
-      ],
-      "gh_desc": "Stable Diffusion AI client app for Android and iOS",
-      "id": 609573797
-    },
     "jasonkneen/tiny-world-builder": {
       "star": 1486,
       "created_at": "2026-05-10T21:45:19Z",
@@ -846969,11 +846765,6 @@
       "created_at": "2020-12-03T11:07:49Z",
       "id": 318166068
     },
-    "linsa-io/macos-apps": {
-      "star": 828,
-      "created_at": "2017-06-10T22:44:36Z",
-      "id": 93969351
-    },
     "exercism/java": {
       "star": 833,
       "created_at": "2014-02-28T00:45:13Z",
@@ -851440,11 +851231,6 @@
       "star": 742,
       "created_at": "2024-09-24T17:49:00Z",
       "id": 862500480
-    },
-    "timothepoznanski/poznote": {
-      "star": 746,
-      "created_at": "2025-08-01T16:19:33Z",
-      "id": 1030432156
     },
     "ChrisDKN/Amethyst-Mod-Manager": {
       "star": 744,
@@ -947317,11 +947103,6 @@
       "created_at": "2016-09-07T12:05:39Z",
       "id": 67602977
     },
-    "marioparaschiv/nitro-sniper": {
-      "star": 798,
-      "created_at": "2020-10-21T22:40:41Z",
-      "id": 306164461
-    },
     "btsmart/splatt3r": {
       "star": 798,
       "created_at": "2024-08-24T22:08:16Z",
@@ -977017,11 +976798,6 @@
       "created_at": "2020-11-24T01:35:49Z",
       "id": 315486610
     },
-    "linsa-io/blogs": {
-      "star": 533,
-      "created_at": "2017-06-07T16:32:07Z",
-      "id": 93656741
-    },
     "liguigui/CyC2018-CS-Notes": {
       "star": 533,
       "created_at": "2018-09-30T08:27:41Z",
@@ -992886,11 +992662,6 @@
       "star": 838,
       "created_at": "2012-05-22T01:11:12Z",
       "id": 4400723
-    },
-    "iuricode/portfolio": {
-      "star": 838,
-      "created_at": "2020-08-23T15:40:11Z",
-      "id": 289715788
     },
     "elix/elix": {
       "star": 837,
@@ -1022877,11 +1022648,6 @@
       "created_at": "2020-02-08T02:41:26Z",
       "id": 239058473
     },
-    "kaltura/platform-install-packages": {
-      "star": 535,
-      "created_at": "2013-12-29T15:08:53Z",
-      "id": 15510138
-    },
     "Unity-Technologies/Megacity-2019": {
       "star": 535,
       "created_at": "2023-06-07T17:44:07Z",
@@ -1033567,11 +1033333,6 @@
       "created_at": "2012-08-26T19:31:04Z",
       "id": 5563017
     },
-    "xiaopujun/light-chaser": {
-      "star": 870,
-      "created_at": "2023-06-24T03:44:50Z",
-      "id": 657863028
-    },
     "MakeZL/ZLPhotoLib": {
       "star": 870,
       "created_at": "2014-11-11T14:39:17Z",
@@ -1036971,11 +1036732,6 @@
       "star": 944,
       "created_at": "2025-12-26T00:30:40Z",
       "id": 1122976969
-    },
-    "linsa-io/curated-lists": {
-      "star": 944,
-      "created_at": "2018-02-13T16:08:53Z",
-      "id": 121403985
     },
     "hellozimo/FlexibleButton": {
       "star": 944,
@@ -1052831,11 +1052587,6 @@
       "star": 1281,
       "created_at": "2017-07-23T11:55:35Z",
       "id": 98094626
-    },
-    "linsa-io/courses": {
-      "star": 1281,
-      "created_at": "2017-06-05T20:05:54Z",
-      "id": 93441989
     },
     "YanzheZhang/Cesium.HPUZYZ.Demo": {
       "star": 1281,
@@ -1070656,11 +1070407,6 @@
       "star": 516,
       "created_at": "2013-10-18T00:10:37Z",
       "id": 13664418
-    },
-    "yepher/CoreDataUtility": {
-      "star": 516,
-      "created_at": "2012-10-11T00:51:21Z",
-      "id": 6166749
     },
     "rover95/morse-encrypt": {
       "star": 516,
@@ -1090142,11 +1089888,6 @@
       "created_at": "2016-10-30T10:41:11Z",
       "id": 72343257
     },
-    "nextdns/metadata": {
-      "star": 672,
-      "created_at": "2019-03-14T17:43:08Z",
-      "id": 175671496
-    },
     "jaredrummler/APKParser": {
       "star": 672,
       "created_at": "2015-11-07T22:18:08Z",
@@ -1105881,11 +1105622,6 @@
       "star": 549,
       "created_at": "2015-10-25T08:58:57Z",
       "id": 44902921
-    },
-    "Paper-Dragon/mobaxterm-crack": {
-      "star": 549,
-      "created_at": "2023-04-14T02:07:13Z",
-      "id": 627692962
     },
     "p0p4k/vits2_pytorch": {
       "star": 549,
@@ -1145794,11 +1145530,6 @@
       "created_at": "2018-07-15T03:09:01Z",
       "id": 140994412
     },
-    "duanyingkui/DormitorySystem": {
-      "star": 404,
-      "created_at": "2017-07-20T08:56:39Z",
-      "id": 97813569
-    },
     "PyMySQL/Tornado-MySQL": {
       "star": 402,
       "created_at": "2014-08-24T17:56:03Z",
@@ -1164673,11 +1164404,6 @@
       "star": 437,
       "created_at": "2018-01-16T23:23:50Z",
       "id": 117755205
-    },
-    "linsa-io/react-mindmap": {
-      "star": 437,
-      "created_at": "2017-05-15T22:47:04Z",
-      "id": 91391408
     },
     "wxflogic/logic_vsi": {
       "star": 437,
@@ -1183613,11 +1183339,6 @@
       "star": 490,
       "created_at": "2015-08-12T14:13:35Z",
       "id": 40604460
-    },
-    "linsa-io/command-line-tools": {
-      "star": 490,
-      "created_at": "2017-06-10T19:04:06Z",
-      "id": 93959870
     },
     "Majdoddin/nlp": {
       "star": 490,
@@ -1212694,11 +1212415,6 @@
       "created_at": "2016-09-14T23:34:42Z",
       "id": 68251880
     },
-    "linsa-io/chrome-extensions": {
-      "star": 479,
-      "created_at": "2017-09-24T11:08:22Z",
-      "id": 104637842
-    },
     "zhaoweicai/Detectron-Cascade-RCNN": {
       "star": 479,
       "created_at": "2018-09-27T00:01:38Z",
@@ -1224313,11 +1224029,6 @@
       "star": 479,
       "created_at": "2012-11-29T13:13:24Z",
       "id": 6921409
-    },
-    "esrrhs/majiang_algorithm": {
-      "star": 479,
-      "created_at": "2017-11-17T03:42:39Z",
-      "id": 111054187
     },
     "gelldur/EventBus": {
       "star": 479,
@@ -1257679,15 +1257390,6 @@
       "created_at": "2026-08-19T20:47:43Z",
       "id": 1340012909
     },
-    "linsa-io/linsa": {
-      "star": 16869,
-      "created_at": "2016-08-08T16:09:17Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [],
-      "gh_desc": "Work. Save. Share. Privately.",
-      "id": 65219131
-    },
     "nevertoday/350-layout-compositions": {
       "star": 407,
       "created_at": "2026-05-25T11:37:45Z",
@@ -1263952,11 +1263654,6 @@
       "desc": "项目定位与用途:\n该项目是原 Cursor 插件 pstack 的跨平台移植版本，专为 Claude Code、Codex、Pi、GitHub Copilot 等 AI 编程代理工具设计。它提供了一套经过明确规范的技能栈，旨在通过预定义的工作流和指令优化 AI 代理的代码生成与任务执行结果。项目将上游 Cursor 的技能在本地安装前完成翻译与适配，避免代理在运行时消耗额外 Token 进行名称映射，并通过会话启动钩子自动路由任务，帮助开发者保持代码简洁、规范且经过验证。\n\n解决的问题:\n传统 AI 编程代理在复杂任务中常出现指令遵循不一致、代码结构松散或缺乏形式化验证的问题。该项目通过内置的标准化技能栈与路由机制，解决了代理在不同平台间配置繁琐、运行时映射消耗资源以及任务执行缺乏统一规范等痛点。特别是针对并发缺陷与测试难以覆盖的不变量问题，项目提供了形式化验证技能，引导代理自动选择高风险属性并使用专业工具进行验证，从而提升代码可靠性与开发效率。\n\n使用场景:\n适用于依赖 Claude Code、Codex、Pi 或 GitHub Copilot 进行日常开发的工程师与团队。典型场景包括：通过 poteto-mode 快速设定开发目标并自动匹配对应工作流；处理高并发或底层逻辑代码时，利用形式化验证技能检查不变量与潜在缺陷；在多代理或跨平台环境中统一技能调用规范。目标用户为追求代码质量、希望减少代理幻觉与重复配置、并需要标准化 AI 辅助编程流程的开发者。\n\n技术架构与特性:\n项目采用插件化架构，通过 tools/forks.json 管理上游同步与策略分支，支持在多个 AI 代理平台一键安装。核心特性包括：安装前预翻译 Cursor 技能以节省 Token；内置 SessionStart 钩子实现任务自动路由；提供 poteto-mode 目标驱动工作流；集成 create-formal-verification-skill 支持 TLA+、Lean 与 Kani 等形式化验证工具。近期更新持续优化凭证转发、清理冗余提示词并修复 CI 逻辑，保持与上游版本同步。",
       "desc_updated_at": "2026-11-04"
     },
-    "casys-kaist/LLMServingSim": {
-      "star": 400,
-      "created_at": "2024-07-23T13:44:30Z",
-      "id": 832672310
-    },
     "JoasASantos/NeuroSploit": {
       "star": 1363,
       "created_at": "2025-08-17T02:58:58Z",
@@ -1268076,11 +1267773,6 @@
       "created_at": "2026-09-19T00:25:59Z",
       "id": 1376562698
     },
-    "blixvip/NullMotion": {
-      "star": 438,
-      "created_at": "2026-09-18T18:09:18Z",
-      "id": 1376258916
-    },
     "jacobaraujo7/remote_pi": {
       "star": 400,
       "created_at": "2026-05-22T04:59:59Z",
@@ -1271658,11 +1271350,6 @@
       "star": 743,
       "created_at": "2026-07-02T17:07:29Z",
       "id": 1287419945
-    },
-    "Innei/lody-ios": {
-      "star": 460,
-      "created_at": "2026-09-05T18:37:43Z",
-      "id": 1358465489
     },
     "markriedl/transformer-walkthrough": {
       "star": 401,
@@ -1278629,11 +1278316,6 @@
       "created_at": "2025-04-22T11:48:45Z",
       "id": 970691159
     },
-    "blixvip/MotionClone": {
-      "star": 475,
-      "created_at": "2026-09-10T02:29:35Z",
-      "id": 1363431253
-    },
     "javranking/javranking-extension": {
       "star": 442,
       "created_at": "2026-09-07T00:19:59Z",
@@ -1283764,11 +1283446,6 @@
       "created_at": "2026-10-20T17:23:41Z",
       "id": 1427344613
     },
-    "AIMIA-EAI/RT-DETRv4": {
-      "star": 565,
-      "created_at": "2025-10-30T02:47:16Z",
-      "id": 1086152809
-    },
     "SeraphimSerapis/tool-eval-bench": {
       "star": 402,
       "created_at": "2026-04-17T13:28:19Z",
@@ -1288608,11 +1288285,6 @@
       "created_at": "2025-04-02T12:25:28Z",
       "id": 959200834
     },
-    "HunYiSage/qwen2API": {
-      "star": 906,
-      "created_at": "2026-04-05T18:26:45Z",
-      "id": 1202203399
-    },
     "wboayue/rust-ibapi": {
       "star": 400,
       "created_at": "2022-11-07T02:36:46Z",
@@ -1288658,11 +1288330,6 @@
       "created_at": "2026-10-09T14:28:26Z",
       "id": 1411978943
     },
-    "HunYiSage/github-skill-forge": {
-      "star": 643,
-      "created_at": "2026-01-22T15:17:36Z",
-      "id": 1139906417
-    },
     "SAOS-3624/dsh-video-storyboard": {
       "star": 422,
       "created_at": "2026-10-26T22:00:04Z",
@@ -1288707,11 +1288374,6 @@
       "star": 473,
       "created_at": "2026-09-26T06:04:25Z",
       "id": 1388640228
-    },
-    "HunYiSage/StudyAnalysis-Skills": {
-      "star": 591,
-      "created_at": "2026-01-20T08:42:35Z",
-      "id": 1138100119
     },
     "phone-harness/mcp": {
       "star": 565,
@@ -1288762,11 +1288424,6 @@
       "star": 408,
       "created_at": "2024-05-06T03:40:03Z",
       "id": 796491574
-    },
-    "sergiye/rdpWrapper": {
-      "star": 402,
-      "created_at": "2025-05-05T17:12:13Z",
-      "id": 978233848
     },
     "NativeDog1/dsh-boot-animation": {
       "star": 401,
@@ -1289022,13 +1288679,6 @@
       "star": 423,
       "created_at": "2025-04-20T12:02:07Z",
       "id": 969548109
-    },
-    "HunYiSage/dsh-purge": {
-      "star": 6066,
-      "created_at": "2026-08-19T07:41:12Z",
-      "id": 1339256252,
-      "desc": "项目定位与用途:\n本项目是DeepSeek Harness生态下的开源插件，核心定位为模型提示词替换与红队测试框架。它支持按模型动态切换预设提示词，默认提供针对“小码酱”的配置。项目旨在为安全研究人员提供本地化部署的提示词管理方案，通过模型级隔离与替换机制，实现对目标大语言模型的定向测试与行为干预，满足特定场景下的提示词工程需求。\n\n解决的问题:\n该项目主要解决大语言模型在红队测试中提示词管理分散、难以按模型独立配置的问题。传统方式下，不同模型的测试提示词易相互干扰，缺乏细粒度隔离。本项目通过模型级提示词替换能力，使测试人员能在同一环境安全加载特定提示词，避免公共网络滥用风险。结合本地IP限制与反作弊机制，确保测试过程可控且符合合规要求。\n\n使用场景:\n主要面向网络安全红队测试人员、大模型安全研究员及提示词工程师。典型场景包括：在本地实验室环境中对多款大语言模型进行定向越狱测试与安全边界评估；针对特定模型进行提示词替换与对抗性输入验证；在受控网络下开展模型行为干预实验。项目明确禁止公共互联网部署与商业转售，适用于内部研发与安全审计等封闭环境。\n\n技术架构与特性:\n项目基于Node.js与JavaScript开发，采用DSH插件化架构，支持pnpm或npm安装。核心特性包括：强制本地实验室网络隔离，仅允许回环与RFC1918私有IP，内置域名解析校验阻断公网访问；集成会话管理与提示词自动替换逻辑，支持按模型独立加载；提供反作弊拦截功能，禁止游戏外挂类指令注入。近期版本持续优化稳定性，修复会话创建与插件卸载等底层问题。",
-      "desc_updated_at": "2026-10-28"
     },
     "sebattfg/ZeroScript-Free": {
       "star": 403,
@@ -1289788,11 +1289438,6 @@
       "created_at": "2026-08-06T06:17:03Z",
       "id": 1324817742
     },
-    "WoYun520/pixel-gif-sticker-pack": {
-      "star": 495,
-      "created_at": "2026-11-05T04:08:24Z",
-      "id": 1446515117
-    },
     "nfzerox/VirtualIntelMacOnAppleSilicon": {
       "star": 447,
       "created_at": "2026-10-19T12:34:17Z",
@@ -1289918,11 +1289563,6 @@
       "created_at": "2025-03-23T14:56:57Z",
       "id": 953518329
     },
-    "sciter-sdk/pysciter": {
-      "star": 400,
-      "created_at": "2016-02-17T19:57:51Z",
-      "id": 51951031
-    },
     "NoCheatPlus/NoCheatPlus": {
       "star": 400,
       "created_at": "2012-08-18T20:31:32Z",
@@ -1289937,11 +1289577,6 @@
       "star": 400,
       "created_at": "2026-05-18T02:21:52Z",
       "id": 1241963187
-    },
-    "Shagg88/COGBox": {
-      "star": 400,
-      "created_at": "2026-10-27T04:28:46Z",
-      "id": 1435244781
     },
     "facebookresearch/lagernvs": {
       "star": 400,
@@ -1290105,11 +1289740,6 @@
       "star": 403,
       "created_at": "2026-10-15T06:01:30Z",
       "id": 1420250493
-    },
-    "openos07/openos": {
-      "star": 925,
-      "created_at": "2025-08-14T19:23:15Z",
-      "id": 1038196040
     },
     "breeze-project-org/Breeze": {
       "star": 2000,
@@ -1290603,15 +1290233,660 @@
       "created_at": "2026-09-07T23:25:36Z",
       "id": 1360738590
     },
-    "SulfurNitride/Fluorine-Manager": {
-      "star": 400,
-      "created_at": "2026-02-08T03:56:11Z",
-      "id": 1152560092
-    },
     "SolZeroAI/solstatus": {
       "star": 751,
       "created_at": "2025-04-19T11:07:20Z",
       "id": 969089225
+    },
+    "dsx-ai-factory/nvke": {
+      "star": 612,
+      "created_at": "",
+      "id": 1323115536
+    },
+    "OpenMontageInc/OpenMontage": {
+      "star": 43486,
+      "created_at": "2026-03-29T15:23:22Z",
+      "desc": "项目定位与用途:\nOpenMontage 是全球首个开源的代理式视频制作系统。它将 AI 编程助手转化为完整的视频制作工作室，支持通过自然语言描述需求，由智能体自动完成研究、脚本撰写、素材生成、剪辑与最终合成。项目提供 12 条工作流管道、52 种工具及 500 多项智能体技能，旨在实现从创意构思到成片输出的全流程自动化视频生产，为创作者提供开箱即用的智能制作环境。\n\n解决的问题:\n传统视频制作流程繁琐，涉及脚本、素材搜集、剪辑与配音等多个环节，对非专业创作者门槛较高。现有 AI 视频工具多局限于将静态图片动画化，难以生成具备真实运动轨迹的完整视频。OpenMontage 通过整合免费素材库与开源档案，自动检索真实动态片段并编排至时间轴，解决了 AI 生成视频缺乏真实运动细节与完整叙事结构的问题，大幅降低专业视频制作的技术与时间成本。\n\n使用场景:\n该项目主要面向独立创作者、自媒体运营者、营销团队及 AI 开发者。典型应用场景包括：通过自然语言指令快速生成宣传短片、教育解说视频或社交媒体内容；利用开源素材库进行二次创作与混剪；结合 AI 编程助手实现定制化视频工作流搭建。用户无需掌握专业剪辑软件，即可通过智能体协作完成从创意到成片的完整制作。\n\n技术架构与特性:\n项目基于 Python 开发，采用多智能体协同架构，深度集成 Claude、OpenAI、Cursor 等 AI 编程与对话模型。核心特性涵盖 12 条标准化管道与 52 种工具，支持文本转语音、文本转视频、图像生成及 FFmpeg 底层渲染。系统可自动对接 ElevenLabs、Stable Diffusion、Flux 等第三方服务，并具备字幕排版、版权合规检查与 RTL 语言适配能力，实现开源可控的全链路视频生产。",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "ai",
+        "claude",
+        "copilot",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "flux",
+        "image-generation",
+        "open-source",
+        "openai",
+        "python",
+        "remotion",
+        "stable-diffusion",
+        "text-to-speech",
+        "text-to-video",
+        "video-generation",
+        "video-production"
+      ],
+      "desc_updated_at": "2026-11-04",
+      "gh_desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "id": 1195360525
+    },
+    "ikaijua/awesome-ai-tools": {
+      "star": 6112,
+      "created_at": "2023-04-02T04:06:56Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "deepseek",
+        "gemini",
+        "gemini3-pro",
+        "gpt",
+        "gpt-5",
+        "llm",
+        "machinelearning",
+        "nanobanana",
+        "tools"
+      ],
+      "gh_desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "id": 622424201
+    },
+    "bulaofen0036-coder/TIA_Portal_Openness_MCP": {
+      "star": 403,
+      "created_at": "2026-05-14T02:09:06Z",
+      "id": 1238301041
+    },
+    "gendotnew/alfred-workflows": {
+      "star": 2770,
+      "created_at": "2017-06-10T19:09:21Z",
+      "desc": "",
+      "language": "",
+      "topics": [
+        "alfred",
+        "alfred-workflow",
+        "alfred-workflows",
+        "automation",
+        "awesome",
+        "awesome-list",
+        "community",
+        "curated-list",
+        "macos"
+      ],
+      "gh_desc": "Amazing Alfred Workflows",
+      "id": 93960104
+    },
+    "casys-kaist/llmservingsim": {
+      "star": 400,
+      "created_at": "2024-07-23T13:44:30Z",
+      "id": 832672310
+    },
+    "Continuum-AI-Corp/OrcaReplay": {
+      "star": 403,
+      "created_at": "2026-08-29T08:41:53Z",
+      "id": 1350419329
+    },
+    "imran31415/kube-coder": {
+      "star": 400,
+      "created_at": "2025-08-18T21:02:51Z",
+      "id": 1040352522
+    },
+    "FFmpeg-Builds/FFmpeg-Builds": {
+      "star": 11347,
+      "created_at": "2020-09-01T19:19:40Z",
+      "desc": "",
+      "language": "Shell",
+      "topics": [],
+      "id": 292087234
+    },
+    "solongate/agent-security": {
+      "star": 493,
+      "created_at": "2026-09-27T10:48:40Z",
+      "id": 1390650682
+    },
+    "shhivv/third-hand": {
+      "star": 400,
+      "created_at": "2026-09-19T13:29:41Z",
+      "id": 1377189665
+    },
+    "dirkhh/adsb-feeder-image": {
+      "star": 400,
+      "created_at": "2023-04-20T02:06:20Z",
+      "id": 630256939
+    },
+    "hackbot/hackbot": {
+      "star": 925,
+      "created_at": "2025-08-14T19:23:15Z",
+      "id": 1038196040
+    },
+    "atilladeniz/Kubeli": {
+      "star": 400,
+      "created_at": "2026-01-17T12:27:49Z",
+      "id": 1136293178
+    },
+    "galleonlabs/hypergrok-trading-desk": {
+      "star": 411,
+      "created_at": "2026-08-16T08:31:44Z",
+      "id": 1335748354
+    },
+    "AIMIA-PKU/RT-DETRv4": {
+      "star": 565,
+      "created_at": "2025-10-30T02:47:16Z",
+      "id": 1086152809
+    },
+    "shanselman/gputaskman": {
+      "star": 575,
+      "created_at": "2026-11-03T00:49:34Z",
+      "id": 1443650212
+    },
+    "pixelaigc/ComfyUI-MiniMax-H3-Workflow": {
+      "star": 408,
+      "created_at": "2026-09-09T15:56:27Z",
+      "id": 1362903667
+    },
+    "ntd4996/agentpet": {
+      "star": 401,
+      "created_at": "2026-05-31T09:40:06Z",
+      "id": 1255014875
+    },
+    "Gen-Verse/JEPA-Anything": {
+      "star": 400,
+      "created_at": "2026-09-04T10:10:20Z",
+      "id": 1356989562
+    },
+    "ZhuLinsen/alphasift": {
+      "star": 416,
+      "created_at": "2026-04-12T08:43:56Z",
+      "id": 1208414797
+    },
+    "vahabahmadvand/ActionRPG_UE5": {
+      "star": 401,
+      "created_at": "2024-02-26T22:39:51Z",
+      "id": 763777608
+    },
+    "YangYuHou/qwen2API": {
+      "star": 906,
+      "created_at": "2026-04-05T18:26:45Z",
+      "id": 1202203399
+    },
+    "mitos-editor/mitos": {
+      "star": 406,
+      "created_at": "2026-08-26T21:23:31Z",
+      "id": 1347808649
+    },
+    "YangYuHou/github-skill-forge": {
+      "star": 643,
+      "created_at": "2026-01-22T15:17:36Z",
+      "id": 1139906417
+    },
+    "yujian0815/fnmedia-ext": {
+      "star": 405,
+      "created_at": "2026-10-17T05:59:42Z",
+      "id": 1423003882
+    },
+    "whiskerrs/whisker": {
+      "star": 421,
+      "created_at": "2026-05-13T15:40:31Z",
+      "id": 1237878788
+    },
+    "benc-uk/workflow-dispatch": {
+      "star": 400,
+      "created_at": "2020-07-10T22:36:20Z",
+      "id": 278745987
+    },
+    "timothepoznanski/Poznote": {
+      "star": 746,
+      "created_at": "2025-08-01T16:19:33Z",
+      "id": 1030432156
+    },
+    "ShiftHackZ/SDAI-KMP": {
+      "star": 1241,
+      "created_at": "2023-03-04T15:35:58Z",
+      "desc": "",
+      "language": "Kotlin",
+      "topics": [
+        "ai",
+        "android",
+        "automatic1111",
+        "clean-architecture",
+        "compose",
+        "compose-ui",
+        "coroutines",
+        "foss",
+        "ios",
+        "koin",
+        "kotlin",
+        "kotlin-multiplatform",
+        "material3",
+        "multimodule-android-app",
+        "mvi",
+        "room-database",
+        "stable-diffusion",
+        "stable-diffusion-mobile",
+        "stable-diffusion-webui",
+        "viewmodel"
+      ],
+      "gh_desc": "Stable Diffusion AI client app for Android and iOS",
+      "id": 609573797
+    },
+    "Lanqiao-Luca/ai-video-marker": {
+      "star": 423,
+      "created_at": "2026-10-25T16:04:04Z",
+      "id": 1433377082
+    },
+    "duyunzhoudyz/dyz-gongwen-skills": {
+      "star": 429,
+      "created_at": "2026-10-15T19:34:19Z",
+      "id": 1421238802
+    },
+    "1337isnot1337/DOPPLERGEIST": {
+      "star": 431,
+      "created_at": "2026-11-02T23:54:01Z",
+      "id": 1443613311
+    },
+    "hcpy2-0/hcpy": {
+      "star": 400,
+      "created_at": "2024-03-18T16:54:33Z",
+      "id": 773937255
+    },
+    "youshen2/MeloX": {
+      "star": 402,
+      "created_at": "2026-07-21T13:35:38Z",
+      "id": 1307740279
+    },
+    "abdiraimov-otabek/dashboard-design-skill": {
+      "star": 409,
+      "created_at": "2026-10-20T06:20:46Z",
+      "id": 1426590399
+    },
+    "sentinelsoldierprize/Minecraft-AFK-Bot": {
+      "star": 425,
+      "created_at": "2026-11-07T18:07:44Z",
+      "id": 1449614389
+    },
+    "swissmakers/fail2ban-ui": {
+      "star": 401,
+      "created_at": "2025-01-25T14:57:53Z",
+      "id": 922188005
+    },
+    "ZWD11/house-plan-designer": {
+      "star": 402,
+      "created_at": "2026-10-06T16:02:38Z",
+      "id": 1407583266
+    },
+    "JenkinWoo/sheeridVerify": {
+      "star": 1757,
+      "created_at": "2026-11-06T09:28:09Z",
+      "id": 1448068371
+    },
+    "mmdoctor/google-pro-helper": {
+      "star": 1168,
+      "created_at": "2026-11-05T04:52:28Z",
+      "id": 1446548114
+    },
+    "gendotnew/books": {
+      "star": 7538,
+      "created_at": "2017-06-05T19:58:10Z",
+      "desc": "",
+      "language": "",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "books",
+        "education",
+        "free",
+        "learn-anything",
+        "learning",
+        "list",
+        "pdf",
+        "resources"
+      ],
+      "gh_desc": "Awesome Books",
+      "id": 93441336
+    },
+    "fossaryhq/catalog": {
+      "star": 411,
+      "created_at": "2026-09-08T14:30:51Z",
+      "id": 1361497109
+    },
+    "Ebony-Vinyl/EAC-Pack": {
+      "star": 539,
+      "created_at": "2026-10-01T05:41:33Z",
+      "id": 1399220562
+    },
+    "gendotnew/chrome-extensions": {
+      "star": 479,
+      "created_at": "2017-09-24T11:08:22Z",
+      "id": 104637842
+    },
+    "gendotnew/courses": {
+      "star": 1281,
+      "created_at": "2017-06-05T20:05:54Z",
+      "id": 93441989
+    },
+    "yeyushengfan258/Win11OS-kde": {
+      "star": 401,
+      "created_at": "2021-06-21T17:07:46Z",
+      "id": 379006023
+    },
+    "robosimstudio/robosimstudio": {
+      "star": 401,
+      "created_at": "2026-10-12T06:22:39Z",
+      "id": 1415164610
+    },
+    "mateussmeneses/theorder1886-port": {
+      "star": 401,
+      "created_at": "2026-10-14T18:09:43Z",
+      "id": 1419628884
+    },
+    "dannystewart/volumeHUD": {
+      "star": 401,
+      "created_at": "2025-09-21T13:12:35Z",
+      "id": 1061207099
+    },
+    "WSL043/dsh-codex-subscription": {
+      "star": 402,
+      "created_at": "2026-08-13T20:51:16Z",
+      "id": 1333528857
+    },
+    "NODIX-TECH/MFG-SUPER-MOTION": {
+      "star": 417,
+      "created_at": "2026-10-12T15:18:38Z",
+      "id": 1415775676
+    },
+    "gendotnew/blogs": {
+      "star": 533,
+      "created_at": "2017-06-07T16:32:07Z",
+      "id": 93656741
+    },
+    "anefzaoui/misterdownloadmanager": {
+      "star": 428,
+      "created_at": "2026-10-29T01:25:19Z",
+      "id": 1437814166
+    },
+    "YangYuHou/StudyAnalysis-Skills": {
+      "star": 591,
+      "created_at": "2026-01-20T08:42:35Z",
+      "id": 1138100119
+    },
+    "gendotnew/curated-lists": {
+      "star": 944,
+      "created_at": "2018-02-13T16:08:53Z",
+      "id": 121403985
+    },
+    "Warren2060/ChillRound": {
+      "star": 401,
+      "created_at": "2023-03-10T09:19:39Z",
+      "id": 612134748
+    },
+    "mcneel/RhinoAI": {
+      "star": 401,
+      "created_at": "2026-04-25T04:54:08Z",
+      "id": 1220600476
+    },
+    "egoist/mygo-music": {
+      "star": 849,
+      "created_at": "2026-11-04T13:27:14Z",
+      "id": 1445695976
+    },
+    "WenyuChiou/academic-writing-skills": {
+      "star": 404,
+      "created_at": "2026-04-19T19:08:14Z",
+      "id": 1215322341
+    },
+    "Pilipala9919/MarcoMovie": {
+      "star": 535,
+      "created_at": "2026-10-26T12:40:21Z",
+      "id": 1434364021
+    },
+    "Poltergeistlunagrid/Steam-Idler": {
+      "star": 425,
+      "created_at": "2026-11-07T20:26:32Z",
+      "id": 1449713552
+    },
+    "madong-code/madong-admin": {
+      "star": 470,
+      "created_at": "2025-07-23T06:27:43Z",
+      "id": 1024717607
+    },
+    "woniuniuniu/dsh-media-desk": {
+      "star": 453,
+      "created_at": "2026-11-02T04:49:29Z",
+      "id": 1442519465
+    },
+    "gendotnew/command-line-tools": {
+      "star": 490,
+      "created_at": "2017-06-10T19:04:06Z",
+      "id": 93959870
+    },
+    "gendotnew/react-mindmap": {
+      "star": 437,
+      "created_at": "2017-05-15T22:47:04Z",
+      "id": 91391408
+    },
+    "gendotnew/macos-apps": {
+      "star": 828,
+      "created_at": "2017-06-10T22:44:36Z",
+      "id": 93969351
+    },
+    "pan8664716/HGTV": {
+      "star": 459,
+      "created_at": "2026-10-26T11:52:54Z",
+      "id": 1434313169
+    },
+    "wingedpanther/cleanmytv": {
+      "star": 419,
+      "created_at": "2026-10-20T16:53:50Z",
+      "id": 1427311757
+    },
+    "storytold/craft-libs": {
+      "star": 401,
+      "created_at": "2026-10-09T15:59:16Z",
+      "id": 1412108569
+    },
+    "mvanhorn/agent-tincan": {
+      "star": 401,
+      "created_at": "2026-09-22T22:50:16Z",
+      "id": 1382439708
+    },
+    "qq2070006042-create/yuehong-privilege-assistant": {
+      "star": 401,
+      "created_at": "2026-08-04T07:42:58Z",
+      "id": 1322661457
+    },
+    "xtekky/deepseek4free": {
+      "star": 400,
+      "created_at": "2025-01-29T02:33:32Z",
+      "id": 923892859
+    },
+    "dearimgui/dear_bindings": {
+      "star": 400,
+      "created_at": "2021-05-15T07:50:22Z",
+      "id": 367571802
+    },
+    "Pondwithprime/dlss-5-swapper": {
+      "star": 450,
+      "created_at": "2026-06-10T22:28:06Z",
+      "id": 1265568738
+    },
+    "innei-dev/lody-ios": {
+      "star": 460,
+      "created_at": "2026-09-05T18:37:43Z",
+      "id": 1358465489
+    },
+    "snap-stanford/memorilla": {
+      "star": 568,
+      "created_at": "2026-06-23T03:03:57Z",
+      "id": 1277594775
+    },
+    "wuxierj/TVBox": {
+      "star": 400,
+      "created_at": "2026-01-17T09:44:16Z",
+      "id": 1136222401
+    },
+    "PrismPipeline/Prism": {
+      "star": 400,
+      "created_at": "2018-09-19T12:47:24Z",
+      "id": 149449679
+    },
+    "dotnet/beginner-series": {
+      "star": 400,
+      "created_at": "2023-01-18T18:57:23Z",
+      "id": 590589374
+    },
+    "str8outtaheap/heapwn": {
+      "star": 400,
+      "created_at": "2017-09-05T10:14:35Z",
+      "id": 102466848
+    },
+    "auag0/HideMockLocation": {
+      "star": 400,
+      "created_at": "2024-02-09T17:02:14Z",
+      "id": 755215007
+    },
+    "brockmartin/roblox-game-skill": {
+      "star": 400,
+      "created_at": "2026-03-04T19:59:23Z",
+      "id": 1172896165
+    },
+    "anomalyco/opentunnel": {
+      "star": 407,
+      "created_at": "2026-03-30T01:13:31Z",
+      "id": 1195698044
+    },
+    "esrrhs/mahjong_ai": {
+      "star": 479,
+      "created_at": "2017-11-17T03:42:39Z",
+      "id": 111054187
+    },
+    "WoYun520/gif-factory": {
+      "star": 495,
+      "created_at": "2026-11-05T04:08:24Z",
+      "id": 1446515117
+    },
+    "DaguPyz/light-chaser": {
+      "star": 870,
+      "created_at": "2023-06-24T03:44:50Z",
+      "id": 657863028
+    },
+    "sostenesfreitas/ocarina-recomp": {
+      "star": 844,
+      "created_at": "2026-11-06T22:24:03Z",
+      "id": 1448807268
+    },
+    "eriklangille/clauntty": {
+      "star": 400,
+      "created_at": "2025-12-22T09:12:12Z",
+      "id": 1120992619
+    },
+    "cbusifabcap/daily_free_vpn": {
+      "star": 400,
+      "created_at": "2026-01-29T03:01:07Z",
+      "id": 1144769376
+    },
+    "niuhuan/wild": {
+      "star": 400,
+      "created_at": "2025-05-12T05:57:14Z",
+      "id": 981931057
+    },
+    "philshiu/Drosophila_brain_model": {
+      "star": 400,
+      "created_at": "2023-02-25T21:59:35Z",
+      "id": 606568789
+    },
+    "bruhnn/BD2ModManager": {
+      "star": 400,
+      "created_at": "2025-05-31T15:43:28Z",
+      "id": 993821961
+    },
+    "MarkCyber/BadUSB": {
+      "star": 400,
+      "created_at": "2024-05-13T15:28:27Z",
+      "id": 800039091
+    },
+    "prototux/AARE": {
+      "star": 465,
+      "created_at": "2026-10-23T01:25:32Z",
+      "id": 1430448070
+    },
+    "tbanel/uniline": {
+      "star": 400,
+      "created_at": "2024-09-19T15:50:09Z",
+      "id": 859978346
+    },
+    "mezzio/mezzio": {
+      "star": 400,
+      "created_at": "2019-12-31T20:49:35Z",
+      "id": 231145040
+    },
+    "chashaomanhua/manhuadaquan": {
+      "star": 400,
+      "created_at": "2022-10-11T02:25:49Z",
+      "id": 549321411
+    },
+    "mcnamee/huntkit": {
+      "star": 400,
+      "created_at": "2020-06-16T10:05:37Z",
+      "id": 272673912
+    },
+    "xFractals/pokopia-native": {
+      "star": 415,
+      "created_at": "2026-11-02T10:31:12Z",
+      "id": 1442823570
+    },
+    "aa1143/NamiAgent": {
+      "star": 415,
+      "created_at": "2026-10-30T11:03:30Z",
+      "id": 1439615056
+    },
+    "uniquechao/PandaDOS": {
+      "star": 464,
+      "created_at": "2026-07-31T06:01:34Z",
+      "id": 1317994595
+    },
+    "lunavaledev/mobaxterm-crack": {
+      "star": 549,
+      "created_at": "2023-04-14T02:07:13Z",
+      "id": 627692962
+    },
+    "MuseumCassowaryCarve/twitch-drops-miner": {
+      "star": 423,
+      "created_at": "2026-11-08T06:20:22Z",
+      "id": 1450029261
+    },
+    "CzJam/gjgjxweb": {
+      "star": 924,
+      "created_at": "2026-11-03T02:00:54Z",
+      "id": 1443699236
+    },
+    "guaner-334/civ-atlas": {
+      "star": 435,
+      "created_at": "2026-09-30T10:32:26Z",
+      "id": 1397609319
+    },
+    "fjordostrichhose/Steam-Points-Tools-2026": {
+      "star": 426,
+      "created_at": "2026-11-04T17:10:56Z",
+      "id": 1445962509
+    },
+    "gendotnew/ai": {
+      "star": 16869,
+      "created_at": "2016-08-08T16:09:17Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [],
+      "gh_desc": "Work. Save. Share. Privately.",
+      "id": 65219131
     }
   }
 }
