@@ -52026,30 +52026,6 @@
       "gh_desc": "📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉",
       "id": 579300230
     },
-    "tenstorrent/tt-metal": {
-      "star": 1608,
-      "created_at": "2023-02-13T15:30:05Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "accelerator",
-        "ai",
-        "cuda",
-        "deepseek",
-        "gpu",
-        "img-gen",
-        "kernels",
-        "llama",
-        "llm",
-        "metal",
-        "scale-out",
-        "stable-diffusion",
-        "tenstorrent",
-        "video-gen"
-      ],
-      "gh_desc": ":metal: TT-NN operator library, and TT-Metalium low level kernel programming model.",
-      "id": 601205363
-    },
     "Liu-xiandong/How_to_optimize_in_GPU": {
       "star": 1335,
       "created_at": "2021-10-17T14:19:27Z",
@@ -806518,11 +806494,6 @@
       "created_at": "2023-08-29T19:43:28Z",
       "id": 684757373
     },
-    "Hyk260/PureChat": {
-      "star": 539,
-      "created_at": "2022-10-22T02:57:31Z",
-      "id": 555659262
-    },
     "NoDataFound/hackGPT": {
       "star": 1195,
       "created_at": "2022-12-03T18:58:30Z",
@@ -905349,11 +905320,6 @@
       "star": 954,
       "created_at": "2022-04-07T14:50:24Z",
       "id": 479028898
-    },
-    "yuyan-sec/RedisEXP": {
-      "star": 946,
-      "created_at": "2022-03-19T14:41:00Z",
-      "id": 471722549
     },
     "RedisLabs/spark-redis": {
       "star": 945,
@@ -1009223,11 +1009189,6 @@
       "created_at": "2017-10-16T09:59:24Z",
       "id": 107110096
     },
-    "huami1314/DYYY": {
-      "star": 657,
-      "created_at": "2024-10-06T09:56:49Z",
-      "id": 868405584
-    },
     "works-yura/vue-chrome-extension-template": {
       "star": 657,
       "created_at": "2017-11-02T02:13:18Z",
@@ -1081303,11 +1081264,6 @@
       "created_at": "2020-11-09T02:18:16Z",
       "id": 311200640
     },
-    "aaryansamanta/usaco-tripple-perfect": {
-      "star": 812,
-      "created_at": "2025-12-01T20:59:31Z",
-      "id": 1107963489
-    },
     "JJSaccolo/UIActivityIndicator-for-SDWebImage": {
       "star": 812,
       "created_at": "2013-05-03T13:53:43Z",
@@ -1140288,11 +1140244,6 @@
       "created_at": "2017-07-06T13:09:55Z",
       "id": 96431499
     },
-    "unadlib/fronts": {
-      "star": 487,
-      "created_at": "2019-06-30T14:32:33Z",
-      "id": 194525766
-    },
     "priore/SOAPEngine": {
       "star": 485,
       "created_at": "2012-11-21T18:50:10Z",
@@ -1196955,11 +1196906,6 @@
       "created_at": "2019-09-15T18:41:01Z",
       "id": 208640047
     },
-    "tizbac/proxmoxbackupclient_go": {
-      "star": 451,
-      "created_at": "2023-12-02T00:59:55Z",
-      "id": 726294467
-    },
     "Suprcode/Zircon": {
       "star": 451,
       "created_at": "2019-02-01T17:14:27Z",
@@ -1211810,11 +1211756,6 @@
       "created_at": "2019-12-17T16:07:25Z",
       "id": 228653261
     },
-    "BeardOverflow/msi-ec": {
-      "star": 450,
-      "created_at": "2021-09-09T17:31:58Z",
-      "id": 404813245
-    },
     "krumjahn/applehealth": {
       "star": 450,
       "created_at": "2025-01-21T06:58:37Z",
@@ -1214074,11 +1214015,6 @@
       "star": 489,
       "created_at": "2016-04-19T00:10:02Z",
       "id": 56551000
-    },
-    "LizardByte/awesome-sunshine": {
-      "star": 489,
-      "created_at": "2024-08-16T19:39:44Z",
-      "id": 843560793
     },
     "johnvuko/JT3DScrollView": {
       "star": 489,
@@ -1229949,11 +1229885,6 @@
       "star": 417,
       "created_at": "2017-04-01T03:33:03Z",
       "id": 86880873
-    },
-    "huami1314/SuperIcons": {
-      "star": 417,
-      "created_at": "2024-07-31T08:45:22Z",
-      "id": 836146646
     },
     "SpinlockLabs/github.dart": {
       "star": 417,
@@ -1248573,11 +1248504,6 @@
       "created_at": "2026-04-16T14:40:19Z",
       "id": 1212601019
     },
-    "citron-neo/emulator": {
-      "star": 400,
-      "created_at": "2026-03-14T03:23:07Z",
-      "id": 1181359243
-    },
     "dirkwhoffmann/vAmiga": {
       "star": 400,
       "created_at": "2019-01-12T13:50:12Z",
@@ -1252927,13 +1252853,6 @@
       "star": 476,
       "created_at": "2026-08-17T06:46:51Z",
       "id": 1336783814
-    },
-    "arvids-unavailable/openGym": {
-      "star": 472,
-      "created_at": "2026-08-03T18:16:58Z",
-      "id": 1322109631,
-      "desc": "项目定位与用途:\nopenGym 是一个自托管的健身与体重记录应用，主打“数据归自己所有”。它可在手机上使用并跨设备同步，支持 passkey 登录、离线使用和可安装的 PWA 体验，帮助用户规划每周训练、执行引导式锻炼，并持续记录每次训练与体重变化。\n\n解决的问题:\n它针对的是许多健身应用把数据锁在平台服务器、依赖账号体系、强制订阅或夹带广告的问题。openGym 通过自托管让数据保存在用户可控的文件夹中，减少对第三方服务的依赖；同时没有遥测，避免训练记录和体重数据被平台收集。\n\n使用场景:\n适合希望长期管理训练计划和体重变化的个人用户，也适合想把健身数据放在自己服务器上的人。典型场景包括制定每周固定训练安排、在手机上完成当天训练、临时把某天训练挪到其他日期，以及在手机和笔记本之间同步训练进度与统计数据。\n\n技术架构与特性:\n项目采用 React 19，支持 Docker Compose 一键部署，并以 AGPL v3 开源。它是可安装的 PWA，强调无遥测。功能上包含体重曲线与目标线、按星期制定计划、1,324 个可搜索动作及动画演示、引导式训练、训练统计热图/图表/PR 记录，以及自托管实例中的 passkey 登录与多设备同步。",
-      "desc_updated_at": "2026-08-26"
     },
     "palkan/layered-rails-skills": {
       "star": 407,
@@ -1262594,11 +1262513,6 @@
       "created_at": "2026-04-12T14:00:09Z",
       "id": 1208598546
     },
-    "ladybug-me/caelestia-kde": {
-      "star": 447,
-      "created_at": "2026-06-21T18:08:42Z",
-      "id": 1276240340
-    },
     "josskixg/renjana": {
       "star": 645,
       "created_at": "2026-06-18T08:54:05Z",
@@ -1265970,11 +1265884,6 @@
       "star": 400,
       "created_at": "2026-03-06T21:09:08Z",
       "id": 1174793538
-    },
-    "aoiflux/mutant": {
-      "star": 462,
-      "created_at": "2020-02-09T03:57:16Z",
-      "id": 239243218
     },
     "CamM2325/microlink": {
       "star": 400,
@@ -1275738,11 +1275647,6 @@
       "created_at": "2013-11-28T18:37:01Z",
       "id": 14784108
     },
-    "lich4/JBDev": {
-      "star": 400,
-      "created_at": "2024-05-24T08:50:56Z",
-      "id": 805281841
-    },
     "sp00nznet/ps3recomp": {
       "star": 400,
       "created_at": "2026-03-11T05:07:12Z",
@@ -1278091,11 +1277995,6 @@
       "created_at": "2017-12-12T12:10:11Z",
       "id": 113985960
     },
-    "huaotem-bot/gezi-quark-downloader": {
-      "star": 408,
-      "created_at": "2026-10-04T07:16:03Z",
-      "id": 1404060253
-    },
     "AhmadHassan-BTed/FormFilla": {
       "star": 414,
       "created_at": "2026-07-10T15:21:56Z",
@@ -1279174,13 +1279073,6 @@
       "created_at": "2026-03-03T09:49:15Z",
       "id": 1171498885
     },
-    "AhmadHassan-BTed/.github": {
-      "star": 924,
-      "created_at": "2026-10-09T13:13:36Z",
-      "id": 1411873195,
-      "desc": "项目定位与用途:\n该项目是一个基于GitHub原生机制构建的Issue模板仓库，核心定位为标准化项目问题追踪与反馈管理工具。通过提供结构化的配置文件，该项目旨在为关联仓库或独立项目提供统一的Issue提交规范，帮助维护者与贡献者高效记录、分类和跟踪软件缺陷及功能需求，提升开源协作与项目管理的整体效率。\n\n解决的问题:\n传统Issue提交往往缺乏统一格式，导致缺陷描述模糊、复现步骤缺失或需求背景不清，严重拖慢排查与开发进度。本项目通过预设标准化的YAML表单模板，强制规范用户提交Bug报告与功能请求时的必填字段与排版结构，有效解决信息碎片化与沟通成本高的问题，确保问题描述具备可复现性与可执行性。\n\n使用场景:\n适用于各类开源软件项目、内部开发团队或独立开发者维护的代码库。当项目需要接收外部贡献者的反馈、收集用户功能建议或系统化记录线上运行时产生的异常时，可直接引用该仓库的模板配置。目标用户涵盖项目维护者、测试工程师及普通终端用户，便于在Issue界面快速生成格式统一的反馈表单。\n\n技术架构与特性:\n项目基于GitHub原生Issue Forms机制构建，采用YAML格式定义表单结构。核心文件包含bug_report.yml与feature_request.yml，分别针对缺陷报告与功能需求设计专属字段与验证规则。架构轻量且无外部依赖，通过仓库级配置直接生效，具备即插即用、格式校验与自动渲染等特性，确保模板在不同仓库中保持一致的交互体验。",
-      "desc_updated_at": "2026-10-28"
-    },
     "AgriciDaniel/chatgpt-seo": {
       "star": 525,
       "created_at": "2026-04-27T22:43:34Z",
@@ -1279210,11 +1279102,6 @@
       "star": 400,
       "created_at": "2014-06-28T17:49:44Z",
       "id": 21308004
-    },
-    "domsvoboda/xodus-nexus": {
-      "star": 404,
-      "created_at": "2026-10-11T11:55:25Z",
-      "id": 1414288226
     },
     "exteraless/exteraless": {
       "star": 406,
@@ -1280743,11 +1280630,6 @@
       ],
       "gh_desc": "A Django app that keeps a log of changes made to an object.",
       "id": 13718462
-    },
-    "teivah/designdeck": {
-      "star": 400,
-      "created_at": "2022-05-08T16:31:16Z",
-      "id": 489997286
     },
     "St0ff3l/fileterm": {
       "star": 400,
@@ -1283018,11 +1282900,6 @@
       "created_at": "2026-10-14T13:01:34Z",
       "id": 1418930230
     },
-    "Chethan616/ClearPDF": {
-      "star": 404,
-      "created_at": "2026-02-10T18:28:19Z",
-      "id": 1154749803
-    },
     "t3dotgg/tstack": {
       "star": 1661,
       "created_at": "2026-10-24T05:00:20Z",
@@ -1283178,11 +1283055,6 @@
       "star": 559,
       "created_at": "2026-10-25T21:22:20Z",
       "id": 1433636611
-    },
-    "byted-technologies/.github": {
-      "star": 525,
-      "created_at": "2026-05-19T14:29:08Z",
-      "id": 1243645673
     },
     "unclebob/ub-mode": {
       "star": 734,
@@ -1283420,11 +1283292,6 @@
       "star": 400,
       "created_at": "2026-07-27T12:47:43Z",
       "id": 1313836971
-    },
-    "deenseth/PHP-Point-Of-Sale": {
-      "star": 400,
-      "created_at": "2010-08-28T14:39:31Z",
-      "id": 868469
     },
     "ecere/ecere-sdk": {
       "star": 400,
@@ -1283731,11 +1283598,6 @@
       "desc": "项目定位与用途:\n本项目是面向AI绘画、3D建模与摄影参考的AI人体姿势图库中文版。核心定位为一套完整汉化且可直接部署的静态参考图库，包含288组姿势与1439张多角度参考图。项目对原版日文元数据进行了全量镜像与逐条汉化，并配套开发了零依赖的响应式前端画廊，提供分类筛选、多角度切换、分组浏览及原图下载等功能，旨在为中文创作者提供便捷的高质量姿势参考资源。\n\n解决的问题:\n原版图库元数据全为日文且不支持批量下载，中文用户面临语言障碍与素材获取困难。本项目通过全量镜像与完整汉化，彻底消除语言壁垒，并提供本地化批量素材。同时，针对移动端浏览体验不佳的问题，重构了响应式布局与交互逻辑，支持快速搜索、组合筛选与灯箱预览，大幅降低创作者查找姿势参考的时间成本，提升素材使用效率。\n\n使用场景:\n主要面向中文AI绘画创作者、3D建模师及摄影绘画学习者。典型场景包括：为AI绘图提示词提供精准的人体姿势参考；3D角色绑定与动画制作时的动作对照；摄影构图与人体动态学习。用户可通过网页端或手机端快速检索特定分类与视角，支持分组浏览与单张原图下载，满足日常创作参考、批量素材收集及移动端随时查阅的需求。\n\n技术架构与特性:\n采用零依赖静态网页架构，基于原生HTML、CSS与JavaScript构建，通过Fetch API异步加载JSON数据。前端实现响应式网格布局，适配PC与移动端，支持关键词搜索、多维组合筛选、灯箱预览及键盘与滑动交互。内置完整SEO与社交分享配置，支持图片懒加载与并发下载脚本。数据层采用JSON与CSV结构化存储，提供自动化翻译、完整性校验与Cloudflare Pages一键部署脚本。",
       "desc_updated_at": "2026-10-28"
     },
-    "Cracked5pider/Stardust": {
-      "star": 1374,
-      "created_at": "2022-02-20T01:23:35Z",
-      "id": 461355119
-    },
     "ushan0v/forkop": {
       "star": 814,
       "created_at": "2026-03-17T15:50:58Z",
@@ -1283759,11 +1283621,6 @@
       "topics": [],
       "gh_desc": "🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.",
       "id": 666960664
-    },
-    "Cracked5pider/Ekko": {
-      "star": 839,
-      "created_at": "2022-06-17T23:19:29Z",
-      "id": 504696450
     },
     "Marker284/yandex-station-extended": {
       "star": 511,
@@ -1283875,16 +1283732,6 @@
       "created_at": "2026-10-22T08:15:03Z",
       "id": 1429443742
     },
-    "Cracked5pider/KaynLdr": {
-      "star": 549,
-      "created_at": "2021-12-26T14:32:11Z",
-      "id": 441911152
-    },
-    "Cracked5pider/KaynStrike": {
-      "star": 435,
-      "created_at": "2022-05-30T04:22:59Z",
-      "id": 497786988
-    },
     "neu-3dvi/OmniControl": {
       "star": 427,
       "created_at": "2023-10-12T19:25:19Z",
@@ -1283930,20 +1283777,10 @@
       "created_at": "2026-08-29T08:39:18Z",
       "id": 1350417673
     },
-    "Cracked5pider/LdrLibraryEx": {
-      "star": 465,
-      "created_at": "2023-11-06T15:34:35Z",
-      "id": 715157585
-    },
     "blakeandersonw/core-oss": {
       "star": 435,
       "created_at": "2026-03-17T16:25:12Z",
       "id": 1184485746
-    },
-    "iilegacyyii/ThreadlessInject-BOF": {
-      "star": 400,
-      "created_at": "2023-02-18T20:27:09Z",
-      "id": 603540654
     },
     "masonicGIT/pacman": {
       "star": 400,
@@ -1284486,11 +1284323,6 @@
       "gh_desc": "A security focused static analysis tool for Android and Java applications.",
       "id": 317710554
     },
-    "smithjohn78390/tongjiang-lab": {
-      "star": 649,
-      "created_at": "2026-10-28T04:29:29Z",
-      "id": 1436598075
-    },
     "millida/launcher": {
       "star": 401,
       "created_at": "2026-08-01T12:57:16Z",
@@ -1284841,11 +1284673,6 @@
       ],
       "gh_desc": "Performant type-checking for python.",
       "id": 110274488
-    },
-    "NVIDIA/spark-local-inference": {
-      "star": 613,
-      "created_at": "2026-10-20T17:09:40Z",
-      "id": 1427329124
     },
     "meta/facebook-php-business-sdk": {
       "star": 915,
@@ -1286506,13 +1286333,6 @@
       "created_at": "2025-05-03T02:27:51Z",
       "id": 976917642
     },
-    "Djihads80/Eglantine": {
-      "star": 618,
-      "created_at": "2026-10-29T00:25:18Z",
-      "id": 1437774066,
-      "desc": "项目定位与用途:\nEglantine是一款免费开源的任天堂Switch 2模拟器，由开发者Camille LaVey发起。该项目基于Eden、Yuzu和Sudachi代码衍生而来，旨在为Switch 2平台提供跨平台的游戏运行环境。其核心定位是打造高性能开源模拟器，使用户能在个人电脑上体验Switch 2游戏，并持续跟进兼容性与性能优化。\n\n解决的问题:\n该项目主要解决Switch 2游戏在非官方硬件上的运行需求，填补开源社区在新一代主机模拟器领域的空白。针对官方硬件门槛较高或区域限制等问题，Eglantine通过逆向工程与代码重构，致力于解决新主机架构的兼容难题，提供稳定的运行基础，满足玩家与开源爱好者的技术探索需求。\n\n使用场景:\n典型场景为Windows、Linux或macOS用户希望在个人电脑上体验Switch 2游戏，如《马里奥赛车世界》与《斯普拉遁突袭》。目标用户涵盖模拟器爱好者、游戏测试人员及希望进行本地化或模组修改的开发者。项目目前处于早期阶段，适合愿意参与测试、反馈兼容性问题的用户与贡献者。\n\n技术架构与特性:\n项目采用C++编写，注重跨平台可移植性，支持三大主流桌面系统。架构继承自成熟模拟器框架，近期开发聚焦于Kepler计算单元模拟、Tensor程序仿真及帧同步逻辑，以适配新游戏特性。项目遵循GPLv3协议，提供完整构建指南与用户手册，并开放Discord社区供开发讨论与代码贡献。",
-      "desc_updated_at": "2026-11-04"
-    },
     "MickGyver/DaemonBite-Retro-Controllers-USB": {
       "star": 400,
       "created_at": "2020-01-22T11:25:15Z",
@@ -1287180,11 +1287000,6 @@
       "created_at": "2026-09-30T08:39:30Z",
       "id": 1397409589
     },
-    "lhh737/LangChain-ReAct-Agent": {
-      "star": 400,
-      "created_at": "2026-03-11T06:54:17Z",
-      "id": 1178584802
-    },
     "t8y2/motty": {
       "star": 423,
       "created_at": "2026-10-22T09:56:24Z",
@@ -1287444,11 +1287259,6 @@
       "star": 402,
       "created_at": "2026-09-10T11:10:41Z",
       "id": 1363979998
-    },
-    "Nk-Be/BBZQ": {
-      "star": 400,
-      "created_at": "2026-06-09T15:57:20Z",
-      "id": 1264152901
     },
     "storytold/craft-anything": {
       "star": 1725,
@@ -1287807,13 +1287617,6 @@
       "created_at": "2026-10-17T22:42:57Z",
       "id": 1423810590
     },
-    "AhmadHassan-BTed/Coldimail": {
-      "star": 440,
-      "created_at": "2026-05-09T10:19:19Z",
-      "id": 1233759638,
-      "desc": "项目定位与用途:\n该项目是一个个人GitHub主页配置文件仓库，主要用于在个人GitHub资料页展示动态统计数据。根据提供的README摘录与提交记录，其核心用途是集中呈现开发者的编程活动信息，特别是定期更新并展示Python语言相关的代码贡献与学习进度，为访问者提供直观的个人技术画像。\n\n解决的问题:\n传统GitHub个人主页缺乏动态数据展示能力，难以直观反映开发者的实际活跃度与技术栈分布。该项目通过定期更新机制，解决了个人开发者在开源社区中缺乏可视化能力展示渠道的痛点，帮助开发者更高效地向他人传递自身的技能成长轨迹与近期开发重心。\n\n使用场景:\n主要适用于个人开发者维护GitHub主页资料页的场景。目标用户为希望展示自身编程活跃度、特别是Python开发经验的开源贡献者或学习者。典型应用包括个人主页装饰、技术履历补充、开源社区身份展示，以及定期记录个人学习进度的可视化看板。\n\n技术架构与特性:\n项目基于原生README渲染机制构建，核心特性为支持深色与浅色模式的自适应SVG图片展示。通过定期执行更新Python统计数据的提交记录，实现相关数据的周期性刷新。整体结构轻量，以静态图像资源维护与版本控制为主，无需复杂后端架构。",
-      "desc_updated_at": "2026-10-21"
-    },
     "kevinerikjs/gta5-ios-port": {
       "star": 513,
       "created_at": "2026-10-10T18:36:47Z",
@@ -1288022,11 +1287825,6 @@
       "star": 400,
       "created_at": "2026-04-28T03:58:47Z",
       "id": 1223155315
-    },
-    "Valour-Software/Valour": {
-      "star": 400,
-      "created_at": "2020-10-16T18:56:46Z",
-      "id": 304714369
     },
     "sarsonj/rodokmen-skill": {
       "star": 439,
@@ -1288264,11 +1288062,6 @@
       "star": 400,
       "created_at": "2026-01-29T20:55:29Z",
       "id": 1145473185
-    },
-    "bighadj22/codflow": {
-      "star": 401,
-      "created_at": "2026-08-20T17:46:39Z",
-      "id": 1340986558
     },
     "gmkurtzer/ginux": {
       "star": 418,
@@ -1288700,11 +1288493,6 @@
       "created_at": "2026-06-03T16:26:23Z",
       "id": 1258496446
     },
-    "dragonwolfshovel/youtube-uploader": {
-      "star": 425,
-      "created_at": "2026-11-05T05:16:01Z",
-      "id": 1446565991
-    },
     "rishavnandi/ansible_homelab": {
       "star": 400,
       "created_at": "2023-02-25T14:40:48Z",
@@ -1288779,11 +1288567,6 @@
       "star": 402,
       "created_at": "2026-03-19T19:44:57Z",
       "id": 1186595268
-    },
-    "DeltaProviderGuide/auto-auction-bot-wow-forever": {
-      "star": 414,
-      "created_at": "2026-11-04T05:41:32Z",
-      "id": 1445211550
     },
     "higress-group/HiRoute": {
       "star": 411,
@@ -1289073,11 +1288856,6 @@
       "created_at": "2026-07-17T10:28:24Z",
       "id": 1303867222
     },
-    "Lostuaexpand/windows-animated-wallpapers": {
-      "star": 427,
-      "created_at": "2026-11-04T04:53:31Z",
-      "id": 1445176067
-    },
     "ivanyu/awesome-deterministic-simulation-testing": {
       "star": 400,
       "created_at": "2024-09-22T16:22:35Z",
@@ -1289240,20 +1289018,10 @@
       "created_at": "2026-06-20T17:27:16Z",
       "id": 1275436512
     },
-    "TagPhaseArcade/tiktok-uploader": {
-      "star": 426,
-      "created_at": "2026-11-05T06:48:59Z",
-      "id": 1446642680
-    },
     "Danielxu0208/rsi_eval": {
       "star": 405,
       "created_at": "2026-10-12T12:19:33Z",
       "id": 1415560203
-    },
-    "HerdBuilderEstimate/roblox-studio-mcp": {
-      "star": 425,
-      "created_at": "2026-11-06T06:16:35Z",
-      "id": 1447903382
     },
     "kokiainet/anti-distill": {
       "star": 2337,
@@ -1289488,11 +1289256,6 @@
       "created_at": "2026-10-13T02:36:06Z",
       "id": 1416356902
     },
-    "sandoctopuspanel64/TikTok-Video-Boost-2026---Advanced-Content-Performance-Tool": {
-      "star": 427,
-      "created_at": "2026-07-13T06:50:17Z",
-      "id": 1298962679
-    },
     "keijiro/KinoBokeh": {
       "star": 400,
       "created_at": "2015-08-06T11:54:34Z",
@@ -1289502,11 +1289265,6 @@
       "star": 400,
       "created_at": "2026-09-07T18:13:57Z",
       "id": 1360536951
-    },
-    "frevib/io_uring-echo-server": {
-      "star": 400,
-      "created_at": "2020-01-10T18:26:57Z",
-      "id": 233107092
     },
     "getsentry/junior": {
       "star": 400,
@@ -1289890,11 +1289648,6 @@
       "created_at": "2018-08-30T08:28:27Z",
       "id": 146719705
     },
-    "phaseboulderfetter/discord-quest-completer": {
-      "star": 425,
-      "created_at": "2026-11-06T12:01:51Z",
-      "id": 1448210933
-    },
     "hyper-elements/hyper-elements": {
       "star": 400,
       "created_at": "2025-08-25T16:24:19Z",
@@ -1289934,11 +1289687,6 @@
       "star": 474,
       "created_at": "2026-11-05T12:18:58Z",
       "id": 1446962520
-    },
-    "Lowbetweentrim/crypto-portfolio-tracker": {
-      "star": 425,
-      "created_at": "2026-11-06T09:58:59Z",
-      "id": 1448097601
     },
     "smallvec/smallvec": {
       "star": 1678,
@@ -1290063,11 +1289811,6 @@
       "created_at": "2025-07-17T05:33:52Z",
       "id": 1021239490
     },
-    "cyclopsbreathswitch/PC-FPS-Optimizer-2026": {
-      "star": 427,
-      "created_at": "2026-07-16T15:12:39Z",
-      "id": 1302926114
-    },
     "samueljcook/osh": {
       "star": 472,
       "created_at": "2023-09-20T00:11:53Z",
@@ -1290162,11 +1289905,6 @@
       "star": 400,
       "created_at": "2024-10-17T02:25:01Z",
       "id": 873956523
-    },
-    "PulverizeLink/roblox-performance-tool": {
-      "star": 426,
-      "created_at": "2026-11-06T08:03:46Z",
-      "id": 1447991692
     },
     "WinIslandProject/WinIsland": {
       "star": 402,
@@ -1290273,35 +1290011,6 @@
       "gh_desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "id": 1195360525
     },
-    "ikaijua/awesome-ai-tools": {
-      "star": 6112,
-      "created_at": "2023-04-02T04:06:56Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai",
-        "artificial-intelligence",
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "chatgpt",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "deepseek",
-        "gemini",
-        "gemini3-pro",
-        "gpt",
-        "gpt-5",
-        "llm",
-        "machinelearning",
-        "nanobanana",
-        "tools"
-      ],
-      "gh_desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "id": 622424201
-    },
     "bulaofen0036-coder/TIA_Portal_Openness_MCP": {
       "star": 403,
       "created_at": "2026-05-14T02:09:06Z",
@@ -1290363,11 +1290072,6 @@
       "star": 400,
       "created_at": "2023-04-20T02:06:20Z",
       "id": 630256939
-    },
-    "hackbot/hackbot": {
-      "star": 925,
-      "created_at": "2025-08-14T19:23:15Z",
-      "id": 1038196040
     },
     "atilladeniz/Kubeli": {
       "star": 400,
@@ -1290509,11 +1290213,6 @@
       "created_at": "2026-10-20T06:20:46Z",
       "id": 1426590399
     },
-    "sentinelsoldierprize/Minecraft-AFK-Bot": {
-      "star": 425,
-      "created_at": "2026-11-07T18:07:44Z",
-      "id": 1449614389
-    },
     "swissmakers/fail2ban-ui": {
       "star": 401,
       "created_at": "2025-01-25T14:57:53Z",
@@ -1290649,11 +1290348,6 @@
       "created_at": "2026-10-26T12:40:21Z",
       "id": 1434364021
     },
-    "Poltergeistlunagrid/Steam-Idler": {
-      "star": 425,
-      "created_at": "2026-11-07T20:26:32Z",
-      "id": 1449713552
-    },
     "madong-code/madong-admin": {
       "star": 470,
       "created_at": "2025-07-23T06:27:43Z",
@@ -1290774,11 +1290468,6 @@
       "created_at": "2026-11-05T04:08:24Z",
       "id": 1446515117
     },
-    "DaguPyz/light-chaser": {
-      "star": 870,
-      "created_at": "2023-06-24T03:44:50Z",
-      "id": 657863028
-    },
     "sostenesfreitas/ocarina-recomp": {
       "star": 844,
       "created_at": "2026-11-06T22:24:03Z",
@@ -1290859,11 +1290548,6 @@
       "created_at": "2023-04-14T02:07:13Z",
       "id": 627692962
     },
-    "MuseumCassowaryCarve/twitch-drops-miner": {
-      "star": 423,
-      "created_at": "2026-11-08T06:20:22Z",
-      "id": 1450029261
-    },
     "CzJam/gjgjxweb": {
       "star": 924,
       "created_at": "2026-11-03T02:00:54Z",
@@ -1290874,11 +1290558,6 @@
       "created_at": "2026-09-30T10:32:26Z",
       "id": 1397609319
     },
-    "fjordostrichhose/Steam-Points-Tools-2026": {
-      "star": 426,
-      "created_at": "2026-11-04T17:10:56Z",
-      "id": 1445962509
-    },
     "gendotnew/ai": {
       "star": 16869,
       "created_at": "2016-08-08T16:09:17Z",
@@ -1290887,6 +1290566,1001 @@
       "topics": [],
       "gh_desc": "Work. Save. Share. Privately.",
       "id": 65219131
+    },
+    "andrew-babo/muse4ai": {
+      "star": 412,
+      "created_at": "2026-11-03T17:45:18Z",
+      "id": 1444635695
+    },
+    "ikaijua/Awesome-AITools": {
+      "star": 6112,
+      "created_at": "2023-04-02T04:06:56Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "artificial-intelligence",
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "deepseek",
+        "gemini",
+        "gemini3-pro",
+        "gpt",
+        "gpt-5",
+        "llm",
+        "machinelearning",
+        "nanobanana",
+        "tools"
+      ],
+      "gh_desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "id": 622424201
+    },
+    "PaladinSmash84/aida-64-extreme": {
+      "star": 402,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110035
+    },
+    "Outsideclofilter/aion-2-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110038
+    },
+    "qianshuixia/shrimpreel": {
+      "star": 400,
+      "created_at": "2026-10-20T18:08:00Z",
+      "id": 1427392527
+    },
+    "sherwinvishesh/SurrogateShield": {
+      "star": 462,
+      "created_at": "2026-05-13T18:23:06Z",
+      "id": 1238016350
+    },
+    "superuser404notfound/AetherEngine": {
+      "star": 405,
+      "created_at": "2026-04-12T04:13:55Z",
+      "id": 1208283887
+    },
+    "kaligpt07/kaligpt": {
+      "star": 925,
+      "created_at": "2025-08-14T19:23:15Z",
+      "id": 1038196040
+    },
+    "jaikydota/BullFlow": {
+      "star": 417,
+      "created_at": "2026-10-14T07:25:27Z",
+      "id": 1418531436
+    },
+    "Intelligent-Internet/zenith": {
+      "star": 400,
+      "created_at": "2026-05-08T10:28:50Z",
+      "id": 1232843240
+    },
+    "lasso-security/mcp-gateway": {
+      "star": 400,
+      "created_at": "2025-04-14T07:46:26Z",
+      "id": 965970978
+    },
+    "PurpleChordEvaluate/claude-jailbreak-prompt": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:50Z",
+      "id": 1450110672
+    },
+    "synchopate/llama-modchip": {
+      "star": 566,
+      "created_at": "2026-10-29T10:17:33Z",
+      "id": 1438254436
+    },
+    "bighadj22/Wocart": {
+      "star": 401,
+      "created_at": "2026-08-20T17:46:39Z",
+      "id": 1340986558
+    },
+    "Chethan616/Artefact": {
+      "star": 404,
+      "created_at": "2026-02-10T18:28:19Z",
+      "id": 1154749803
+    },
+    "OpenHelix-Team/OpenHelix": {
+      "star": 400,
+      "created_at": "2025-04-13T08:20:16Z",
+      "id": 965466026
+    },
+    "sassiestrhihno/boxshelf-beta": {
+      "star": 645,
+      "created_at": "2026-11-05T04:50:13Z",
+      "id": 1446546399
+    },
+    "Soundplomystery/landr-plugin-bundle": {
+      "star": 401,
+      "created_at": "2026-11-08T08:39:23Z",
+      "id": 1450111705
+    },
+    "ZSeven-W/dsh-ios": {
+      "star": 406,
+      "created_at": "2026-08-19T18:02:50Z",
+      "id": 1339882322
+    },
+    "CatCatUncle/openworkbuddy": {
+      "star": 401,
+      "created_at": "2026-08-10T08:18:25Z",
+      "id": 1329587981
+    },
+    "Voxybuns/at-icons": {
+      "star": 400,
+      "created_at": "2026-05-26T16:17:04Z",
+      "id": 1250434340
+    },
+    "TanStack/config": {
+      "star": 401,
+      "created_at": "2023-12-31T02:36:37Z",
+      "id": 737433842
+    },
+    "yang66-hash/BSDProject": {
+      "star": 437,
+      "created_at": "2025-05-08T13:34:43Z",
+      "id": 980049332
+    },
+    "yappologistic/CUI": {
+      "star": 453,
+      "created_at": "2026-11-05T08:18:08Z",
+      "id": 1446725477
+    },
+    "studio-dots-ai/dots.mocr": {
+      "star": 401,
+      "created_at": "2026-03-19T16:42:29Z",
+      "id": 1186460887
+    },
+    "Salvanza/salvanza_client": {
+      "star": 451,
+      "created_at": "2023-12-02T00:59:55Z",
+      "id": 726294467
+    },
+    "NVISOsecurity/cyber-security-llm-agents": {
+      "star": 400,
+      "created_at": "2024-02-29T09:54:26Z",
+      "id": 765110276
+    },
+    "CaveIguana56/roshade-for-roblox": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356144
+    },
+    "lucas-martinic/polyfork-catalog": {
+      "star": 456,
+      "created_at": "2026-11-02T01:09:22Z",
+      "id": 1442373084
+    },
+    "jo32/tvbox-silicon": {
+      "star": 410,
+      "created_at": "2026-10-04T17:32:15Z",
+      "id": 1404675866
+    },
+    "kyy-logs/code-review-skill": {
+      "star": 413,
+      "created_at": "2026-10-29T07:57:07Z",
+      "id": 1438113516
+    },
+    "win4r/video-director": {
+      "star": 408,
+      "created_at": "2026-10-28T03:35:27Z",
+      "id": 1436559096
+    },
+    "kubai087/kubai-icons": {
+      "star": 402,
+      "created_at": "2026-11-03T09:52:39Z",
+      "id": 1444096394
+    },
+    "danjdewhurst/story-skills": {
+      "star": 401,
+      "created_at": "2026-02-12T21:30:02Z",
+      "id": 1156623863
+    },
+    "UpperGunsmithShack/sp-flash-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:50Z",
+      "id": 1450112676
+    },
+    "IainKay/ram-altman": {
+      "star": 871,
+      "created_at": "2026-11-05T16:16:41Z",
+      "id": 1447227957
+    },
+    "janestreet/agent_skills": {
+      "star": 727,
+      "created_at": "2026-11-03T16:50:21Z",
+      "id": 1444573070
+    },
+    "isYangs/jianying-editor-skill": {
+      "star": 403,
+      "created_at": "2026-03-28T04:55:41Z",
+      "id": 1194242278
+    },
+    "lxe/phoneuse": {
+      "star": 484,
+      "created_at": "2026-11-07T01:28:30Z",
+      "id": 1448920409
+    },
+    "jskits/fronts": {
+      "star": 487,
+      "created_at": "2019-06-30T14:32:33Z",
+      "id": 194525766
+    },
+    "xjli360/sealeap-amazon-skills": {
+      "star": 401,
+      "created_at": "2026-08-21T14:04:51Z",
+      "id": 1341876019
+    },
+    "HSSkyBoy/BBZQ": {
+      "star": 400,
+      "created_at": "2026-06-09T15:57:20Z",
+      "id": 1264152901
+    },
+    "byted-technologies/Coldimail": {
+      "star": 440,
+      "created_at": "2026-05-09T10:19:19Z",
+      "id": 1233759638,
+      "desc": "项目定位与用途:\n该项目是一个个人GitHub主页配置文件仓库，主要用于在个人GitHub资料页展示动态统计数据。根据提供的README摘录与提交记录，其核心用途是集中呈现开发者的编程活动信息，特别是定期更新并展示Python语言相关的代码贡献与学习进度，为访问者提供直观的个人技术画像。\n\n解决的问题:\n传统GitHub个人主页缺乏动态数据展示能力，难以直观反映开发者的实际活跃度与技术栈分布。该项目通过定期更新机制，解决了个人开发者在开源社区中缺乏可视化能力展示渠道的痛点，帮助开发者更高效地向他人传递自身的技能成长轨迹与近期开发重心。\n\n使用场景:\n主要适用于个人开发者维护GitHub主页资料页的场景。目标用户为希望展示自身编程活跃度、特别是Python开发经验的开源贡献者或学习者。典型应用包括个人主页装饰、技术履历补充、开源社区身份展示，以及定期记录个人学习进度的可视化看板。\n\n技术架构与特性:\n项目基于原生README渲染机制构建，核心特性为支持深色与浅色模式的自适应SVG图片展示。通过定期执行更新Python统计数据的提交记录，实现相关数据的周期性刷新。整体结构轻量，以静态图像资源维护与版本控制为主，无需复杂后端架构。",
+      "desc_updated_at": "2026-10-21"
+    },
+    "ZSeven-W/dsh-game-studio": {
+      "star": 431,
+      "created_at": "2026-11-05T08:18:29Z",
+      "id": 1446725818
+    },
+    "v1ktorrr0x/antigravity-filter-bypass": {
+      "star": 434,
+      "created_at": "2026-11-05T09:05:21Z",
+      "id": 1446771275
+    },
+    "Spikeijinx58/uphvbrdi": {
+      "star": 1347,
+      "created_at": "2026-10-12T02:20:51Z",
+      "id": 1414957846
+    },
+    "byted-technologies/fractalgithubreadme": {
+      "star": 525,
+      "created_at": "2026-05-19T14:29:08Z",
+      "id": 1243645673
+    },
+    "domsvoboda/nexus-launcher": {
+      "star": 404,
+      "created_at": "2026-10-11T11:55:25Z",
+      "id": 1414288226
+    },
+    "jmanico/grim-prompter": {
+      "star": 401,
+      "created_at": "2026-10-28T12:09:26Z",
+      "id": 1437033043
+    },
+    "WayBuilderDeliver/windows-optimizer": {
+      "star": 401,
+      "created_at": "2026-11-08T08:41:33Z",
+      "id": 1450113144
+    },
+    "Lucas-blip-png/dkb-pc-recomp": {
+      "star": 513,
+      "created_at": "2026-11-01T15:03:52Z",
+      "id": 1441934743
+    },
+    "DIYgod/pinky": {
+      "star": 1099,
+      "created_at": "2026-11-06T16:53:14Z",
+      "id": 1448515937
+    },
+    "tangerineturtle1/NX2navi": {
+      "star": 1572,
+      "created_at": "2026-11-07T10:01:23Z",
+      "id": 1449231124
+    },
+    "updatesealeradicate/start11": {
+      "star": 401,
+      "created_at": "2026-11-08T08:40:51Z",
+      "id": 1450112690
+    },
+    "MrBIMC/SELinuxModeChanger": {
+      "star": 401,
+      "created_at": "2015-04-27T15:54:10Z",
+      "id": 34676105
+    },
+    "new-sankaku/manga-editor-desu": {
+      "star": 401,
+      "created_at": "2023-08-14T22:23:46Z",
+      "id": 678582009
+    },
+    "yt1988/who-are-you": {
+      "star": 405,
+      "created_at": "2026-11-01T03:15:18Z",
+      "id": 1441444945
+    },
+    "nilbuild/tinyhand": {
+      "star": 420,
+      "created_at": "2026-10-29T00:18:31Z",
+      "id": 1437769594
+    },
+    "sun168567/cc-desk-tunnel": {
+      "star": 420,
+      "created_at": "2026-10-07T03:39:18Z",
+      "id": 1408200002
+    },
+    "dawgyg/AppleResearch": {
+      "star": 456,
+      "created_at": "2026-10-29T00:52:08Z",
+      "id": 1437792083
+    },
+    "caelestia-kde/caelestia": {
+      "star": 447,
+      "created_at": "2026-06-21T18:08:42Z",
+      "id": 1276240340
+    },
+    "jamesondh/chimera-vocal-synth": {
+      "star": 813,
+      "created_at": "2026-11-05T19:10:42Z",
+      "id": 1447408881
+    },
+    "8rank/iKnow": {
+      "star": 428,
+      "created_at": "2026-09-15T07:34:10Z",
+      "id": 1371077362
+    },
+    "occupysaas/zeroauthy": {
+      "star": 401,
+      "created_at": "2026-10-14T21:28:27Z",
+      "id": 1419870198
+    },
+    "kailashsr38/ascii-magic-art": {
+      "star": 401,
+      "created_at": "2026-10-19T08:00:49Z",
+      "id": 1425296336
+    },
+    "PaladinDiscriminate/adobe-substance-3d": {
+      "star": 401,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110037
+    },
+    "MControlSuite/msi-ec": {
+      "star": 450,
+      "created_at": "2021-09-09T17:31:58Z",
+      "id": 404813245
+    },
+    "AnomalyNTE/Anomaly": {
+      "star": 421,
+      "created_at": "2026-07-29T07:22:09Z",
+      "id": 1315824037
+    },
+    "Eglantine-Community/Eglantine": {
+      "star": 618,
+      "created_at": "2026-10-29T00:25:18Z",
+      "id": 1437774066,
+      "desc": "项目定位与用途:\nEglantine是一款免费开源的任天堂Switch 2模拟器，由开发者Camille LaVey发起。该项目基于Eden、Yuzu和Sudachi代码衍生而来，旨在为Switch 2平台提供跨平台的游戏运行环境。其核心定位是打造高性能开源模拟器，使用户能在个人电脑上体验Switch 2游戏，并持续跟进兼容性与性能优化。\n\n解决的问题:\n该项目主要解决Switch 2游戏在非官方硬件上的运行需求，填补开源社区在新一代主机模拟器领域的空白。针对官方硬件门槛较高或区域限制等问题，Eglantine通过逆向工程与代码重构，致力于解决新主机架构的兼容难题，提供稳定的运行基础，满足玩家与开源爱好者的技术探索需求。\n\n使用场景:\n典型场景为Windows、Linux或macOS用户希望在个人电脑上体验Switch 2游戏，如《马里奥赛车世界》与《斯普拉遁突袭》。目标用户涵盖模拟器爱好者、游戏测试人员及希望进行本地化或模组修改的开发者。项目目前处于早期阶段，适合愿意参与测试、反馈兼容性问题的用户与贡献者。\n\n技术架构与特性:\n项目采用C++编写，注重跨平台可移植性，支持三大主流桌面系统。架构继承自成熟模拟器框架，近期开发聚焦于Kepler计算单元模拟、Tensor程序仿真及帧同步逻辑，以适配新游戏特性。项目遵循GPLv3协议，提供完整构建指南与用户手册，并开放Discord社区供开发讨论与代码贡献。",
+      "desc_updated_at": "2026-11-04"
+    },
+    "aaryansamanta/usaco-kaggle": {
+      "star": 812,
+      "created_at": "2025-12-01T20:59:31Z",
+      "id": 1107963489
+    },
+    "i3T4AN/Yaktrace": {
+      "star": 445,
+      "created_at": "2026-10-22T01:42:26Z",
+      "id": 1429118077
+    },
+    "ukr8b3g-cmyk/H3-Character-Sheet-Designer": {
+      "star": 410,
+      "created_at": "2026-10-03T17:01:03Z",
+      "id": 1403439050
+    },
+    "xairy/usb-hacking": {
+      "star": 402,
+      "created_at": "2017-06-04T12:47:57Z",
+      "id": 93313025
+    },
+    "PresidentThaw/capcut-for-windows": {
+      "star": 402,
+      "created_at": "2026-11-08T08:37:28Z",
+      "id": 1450110429
+    },
+    "OnyxAmbassador/actual-multiplie-monitors": {
+      "star": 401,
+      "created_at": "2026-11-08T08:36:55Z",
+      "id": 1450110029
+    },
+    "PlaneDiverRevitalize/avid-media-composer": {
+      "star": 401,
+      "created_at": "2026-11-08T08:37:24Z",
+      "id": 1450110381
+    },
+    "SmartAntRecover/instagram-liker-bot": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:15Z",
+      "id": 1450111631
+    },
+    "OhmUrchinSee/abbyy-finereader-pdf": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:54Z",
+      "id": 1450110019
+    },
+    "VertexCoppersmith/total-commander": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:12Z",
+      "id": 1450112905
+    },
+    "shoregladiatormesh/ifunbox": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:06Z",
+      "id": 1450111548
+    },
+    "Wantfuchannel/whale-tracker": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:26Z",
+      "id": 1450113073
+    },
+    "SunshineStream/awesome-sunshine": {
+      "star": 489,
+      "created_at": "2024-08-16T19:39:44Z",
+      "id": 843560793
+    },
+    "CityPulso/PulsoIcon": {
+      "star": 498,
+      "created_at": "2026-11-04T08:07:13Z",
+      "id": 1445339624
+    },
+    "DaguPyz/DataVisool": {
+      "star": 870,
+      "created_at": "2023-06-24T03:44:50Z",
+      "id": 657863028
+    },
+    "furkan-bayrak/lg-tv-blocklist": {
+      "star": 416,
+      "created_at": "2026-09-09T20:09:46Z",
+      "id": 1363172629
+    },
+    "CartwrightHammer/aomei-backupper": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356128
+    },
+    "ThornDesigner/quicken-deluxe": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:21Z",
+      "id": 1450112328
+    },
+    "Beatzolattice/anyunlock": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:44Z",
+      "id": 1450356118
+    },
+    "portingpete/The-Darkness-Recomp": {
+      "star": 400,
+      "created_at": "2026-09-15T22:41:10Z",
+      "id": 1372222981
+    },
+    "SuperWarlord/multiaccountmanager": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:56Z",
+      "id": 1450112071
+    },
+    "Clipvuslat64/ccleaner-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356136
+    },
+    "FaceAttorney/rust-external-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:46Z",
+      "id": 1450356157
+    },
+    "sheenhunterdeflate/hitfilm": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:53Z",
+      "id": 1450111396
+    },
+    "SeparateGasTow/fonetrans": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:45Z",
+      "id": 1450111297
+    },
+    "savagesectorpattern/exitlag": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:21Z",
+      "id": 1450111037
+    },
+    "libkrun/krunkit": {
+      "star": 400,
+      "created_at": "2024-02-12T17:55:49Z",
+      "id": 756461160
+    },
+    "teaminspectorbandage/portfolio-rebalancer": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:19Z",
+      "id": 1450112300
+    },
+    "TypeKindIntensify/seedphrasegenerator": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:45Z",
+      "id": 1450112607
+    },
+    "talonbailifftent/ph-downloader": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:17Z",
+      "id": 1450112282
+    },
+    "Teralunapick/power-director": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:19Z",
+      "id": 1450112306
+    },
+    "TeamFAPS/PSVita-RE-tools": {
+      "star": 400,
+      "created_at": "2018-02-06T17:59:06Z",
+      "id": 120500512
+    },
+    "BeauticianChopper/adobe-acrobat-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:44Z",
+      "id": 1450356117
+    },
+    "Perceptionnehandcuff/archicad": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:58Z",
+      "id": 1450110064
+    },
+    "PsycheGradeSpeak/chief-architect-premier": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:48Z",
+      "id": 1450110634
+    },
+    "StellarLawyer/monero-miner": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:48Z",
+      "id": 1450111973
+    },
+    "openrport/openrport": {
+      "star": 400,
+      "created_at": "2023-09-23T13:58:56Z",
+      "id": 695540955
+    },
+    "duanyingkui/DormitorySystem": {
+      "star": 400,
+      "created_at": "2017-07-20T08:56:39Z",
+      "id": 97813569
+    },
+    "VillageExecutive/ultra-edit": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:15Z",
+      "id": 1450112940
+    },
+    "nuggslet/MGSM2Fix": {
+      "star": 400,
+      "created_at": "2023-11-07T02:09:36Z",
+      "id": 715369222
+    },
+    "ViceroyPersist/touch-copy": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:12Z",
+      "id": 1450112908
+    },
+    "iiecho1/hot_searches_for_apps": {
+      "star": 400,
+      "created_at": "2023-08-16T06:22:45Z",
+      "id": 679119531
+    },
+    "Symbolia-Assurance/assure-action": {
+      "star": 419,
+      "created_at": "2026-10-04T12:12:16Z",
+      "id": 1404355355
+    },
+    "NVIDIA/hyperflare-inference": {
+      "star": 613,
+      "created_at": "2026-10-20T17:09:40Z",
+      "id": 1427329124
+    },
+    "Quantumoarefresh/daemon-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:52Z",
+      "id": 1450110702
+    },
+    "PortionPebble/burning-studio": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:25Z",
+      "id": 1450110392
+    },
+    "Ratioclahovel/directory-opus": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:55Z",
+      "id": 1450110750
+    },
+    "KevinParnell/OneeChan": {
+      "star": 400,
+      "created_at": "2018-11-25T01:44:14Z",
+      "id": 158988560
+    },
+    "msfidelis/linuxtips-curso-descomplicando-o-system-design": {
+      "star": 400,
+      "created_at": "2025-06-17T22:59:58Z",
+      "id": 1003961170
+    },
+    "ShapeMareAmplify/honkai-star-rail-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:55Z",
+      "id": 1450111427
+    },
+    "eveningpuffinravine/marvel-rivals-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356133
+    },
+    "SquadCheetahClimb/microsoft-office": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:38Z",
+      "id": 1450111852
+    },
+    "PlatoonKingfisher/canva-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:26Z",
+      "id": 1450110408
+    },
+    "varnishhorseengage/studioonepro7": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:04Z",
+      "id": 1450112818
+    },
+    "ExcellenceSavior/iobit-driver-booster": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356126
+    },
+    "a6216abcd/Free-Residential-IP-Proxy-Controller": {
+      "star": 400,
+      "created_at": "2026-05-29T04:09:05Z",
+      "id": 1252992358
+    },
+    "Perceptionzyavalue/ashampoo-uninstaller": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:21Z",
+      "id": 1450110334
+    },
+    "TrooperConceal/scrcpy": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:45Z",
+      "id": 1450112619
+    },
+    "TrackerMonarch/rufus": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:39Z",
+      "id": 1450112534
+    },
+    "superdatacastle/musicmakerunlimited": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:58Z",
+      "id": 1450112078
+    },
+    "TameDetectiveRuffle/photo-commander": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:18Z",
+      "id": 1450112291
+    },
+    "Urbandaravine/startall-back": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:56Z",
+      "id": 1450112742
+    },
+    "PugilistCycle/chimera": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:49Z",
+      "id": 1450110657
+    },
+    "resonancemouserescue/discord-server-raider": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:17Z",
+      "id": 1450110986
+    },
+    "Exteriordadynamo/metatrader-5-bot": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356143
+    },
+    "jinbooooom/OriginDL": {
+      "star": 400,
+      "created_at": "2019-05-06T10:49:48Z",
+      "id": 185177881
+    },
+    "qingkuai-js/qingkuai": {
+      "star": 407,
+      "created_at": "2024-09-16T09:02:34Z",
+      "id": 858073879
+    },
+    "devvmhq/devvm": {
+      "star": 424,
+      "created_at": "2026-11-06T07:02:30Z",
+      "id": 1447939618
+    },
+    "baolintian/XDU_CS_Learning": {
+      "star": 400,
+      "created_at": "2020-06-14T09:56:12Z",
+      "id": 272174549
+    },
+    "SymbolSteward/ozone-12-advanced": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:08Z",
+      "id": 1450112174
+    },
+    "diameterqueenstore/easeus-partition-master": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356138
+    },
+    "Ahmed-Moourad/DevOps-Interview-Questions-for-Juniors": {
+      "star": 400,
+      "created_at": "2023-05-19T20:48:53Z",
+      "id": 642998362
+    },
+    "solidaxemarch/kms-pico": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:20Z",
+      "id": 1450111676
+    },
+    "Thornthedefine/reason-14": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:23Z",
+      "id": 1450112343
+    },
+    "ratioableladle/dft-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:55Z",
+      "id": 1450110738
+    },
+    "visionpebbleliberate/unlocktool": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:16Z",
+      "id": 1450112956
+    },
+    "TyphoonFlame/slideshow-video-maker": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:47Z",
+      "id": 1450112638
+    },
+    "ParakeetWatch/adobe-audition": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110033
+    },
+    "SensationEmu/flash-crypto-generator": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:39Z",
+      "id": 1450111221
+    },
+    "fjh1997/Linux.do-Accelerator": {
+      "star": 400,
+      "created_at": "2026-03-22T10:15:06Z",
+      "id": 1188600169
+    },
+    "VirtualEchoWorkshop/ultra-iso": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:15Z",
+      "id": 1450112939
+    },
+    "feathershieldgazebo/systemcare-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:47Z",
+      "id": 1450356172
+    },
+    "Weaveyeretake/wise-registrity": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:38Z",
+      "id": 1450113208
+    },
+    "Columnfistore/delta-executor-for-pc-bypass": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356132
+    },
+    "WebTsuchikage/wondshare-recoverit": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:41Z",
+      "id": 1450113245
+    },
+    "ldbinac/smart_table": {
+      "star": 400,
+      "created_at": "2026-03-24T13:25:52Z",
+      "id": 1190633218
+    },
+    "CityFiremanWave/fonepaw-unlocker": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356135
+    },
+    "PuffinString/cellebrite-ufed": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:47Z",
+      "id": 1450110630
+    },
+    "Th0rgal/satmux": {
+      "star": 970,
+      "created_at": "2026-11-07T16:09:41Z",
+      "id": 1449518822
+    },
+    "xingjian-bai/opal": {
+      "star": 409,
+      "created_at": "2026-10-21T14:17:50Z",
+      "id": 1428486097
+    },
+    "kamalyes/go-toolbox": {
+      "star": 403,
+      "created_at": "2024-07-28T02:23:58Z",
+      "id": 834673720
+    },
+    "PerfumerExcite/ashampoo-winoptimizer": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:21Z",
+      "id": 1450110336
+    },
+    "WeaveSeekerJinx/wise-care": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:37Z",
+      "id": 1450113189
+    },
+    "Sentrylyadefeat/foneazy-mobile": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:44Z",
+      "id": 1450111292
+    },
+    "SplitLouse17/microsoft-365": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:37Z",
+      "id": 1450111842
+    },
+    "coasthorsereckon/autodesk-3ds-max": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356139
+    },
+    "ClampBeeCrane/payday-3-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356142
+    },
+    "villagefrogconverter/unlockgo": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:16Z",
+      "id": 1450112952
+    },
+    "Silentapstare/imei-repair": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:09Z",
+      "id": 1450111571
+    },
+    "PauseCentipede/androidunlocker": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110040
+    },
+    "PugilistCarve/cinebench": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:49Z",
+      "id": 1450110651
+    },
+    "Colossuscliobserve55/cinema-4d": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356131
+    },
+    "Polishlyaspigot/axie-infinity-bot": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:24Z",
+      "id": 1450110374
+    },
+    "StadiumSensei/microsoft-visio": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:45Z",
+      "id": 1450111938
+    },
+    "SettlementCourse/genesis-miner": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:52Z",
+      "id": 1450111376
+    },
+    "FangSongBang/solidworks-cad": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:47Z",
+      "id": 1450356173
+    },
+    "SleuthPropagate/imobie-anytrans": {
+      "star": 400,
+      "created_at": "2026-11-08T08:39:11Z",
+      "id": 1450111593
+    },
+    "VelocityTreasurer/tenorshare-4ukey": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:11Z",
+      "id": 1450112895
+    },
+    "fricas/fricas": {
+      "star": 400,
+      "created_at": "2014-05-07T20:47:48Z",
+      "id": 19549841
+    },
+    "SulfurNitride/Fluorine-Manager": {
+      "star": 400,
+      "created_at": "2026-02-08T03:56:11Z",
+      "id": 1152560092
+    },
+    "Patroldeovercome/ads-blocker": {
+      "star": 400,
+      "created_at": "2026-11-08T08:36:56Z",
+      "id": 1450110036
+    },
+    "RescuerPatch9/discord-server-cloner": {
+      "star": 400,
+      "created_at": "2026-11-08T08:38:18Z",
+      "id": 1450110996
+    },
+    "tonenotecitadel/robux-generator": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:31Z",
+      "id": 1450112446
+    },
+    "henmedia/layerling": {
+      "star": 415,
+      "created_at": "2026-09-16T21:37:58Z",
+      "id": 1373660312
+    },
+    "unitgatecommand/soundpad": {
+      "star": 400,
+      "created_at": "2026-11-08T08:40:54Z",
+      "id": 1450112717
+    },
+    "visioncranedolmen/uttorent": {
+      "star": 400,
+      "created_at": "2026-11-08T08:41:19Z",
+      "id": 1450112996
+    },
+    "CopperHammerPeace/delta-force-trainer-tool": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356140
+    },
+    "Creekchodome/passfab-unlocker": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:45Z",
+      "id": 1450356134
+    },
+    "Radianfeintroduce/data-grip": {
+      "star": 400,
+      "created_at": "2026-11-08T08:37:52Z",
+      "id": 1450110703
+    },
+    "falsekomodohex/sketchup-pro": {
+      "star": 400,
+      "created_at": "2026-11-08T14:29:49Z",
+      "id": 1450356193
+    },
+    "qbap/ONEJailbreak": {
+      "star": 400,
+      "created_at": "2022-02-09T15:49:45Z",
+      "id": 457424331
+    },
+    "Ray-lea/Argus": {
+      "star": 607,
+      "created_at": "2026-10-12T12:11:07Z",
+      "id": 1415551131
+    },
+    "byted-technologies/.github": {
+      "star": 924,
+      "created_at": "2026-10-09T13:13:36Z",
+      "id": 1411873195,
+      "desc": "项目定位与用途:\n该项目是一个基于GitHub原生机制构建的Issue模板仓库，核心定位为标准化项目问题追踪与反馈管理工具。通过提供结构化的配置文件，该项目旨在为关联仓库或独立项目提供统一的Issue提交规范，帮助维护者与贡献者高效记录、分类和跟踪软件缺陷及功能需求，提升开源协作与项目管理的整体效率。\n\n解决的问题:\n传统Issue提交往往缺乏统一格式，导致缺陷描述模糊、复现步骤缺失或需求背景不清，严重拖慢排查与开发进度。本项目通过预设标准化的YAML表单模板，强制规范用户提交Bug报告与功能请求时的必填字段与排版结构，有效解决信息碎片化与沟通成本高的问题，确保问题描述具备可复现性与可执行性。\n\n使用场景:\n适用于各类开源软件项目、内部开发团队或独立开发者维护的代码库。当项目需要接收外部贡献者的反馈、收集用户功能建议或系统化记录线上运行时产生的异常时，可直接引用该仓库的模板配置。目标用户涵盖项目维护者、测试工程师及普通终端用户，便于在Issue界面快速生成格式统一的反馈表单。\n\n技术架构与特性:\n项目基于GitHub原生Issue Forms机制构建，采用YAML格式定义表单结构。核心文件包含bug_report.yml与feature_request.yml，分别针对缺陷报告与功能需求设计专属字段与验证规则。架构轻量且无外部依赖，通过仓库级配置直接生效，具备即插即用、格式校验与自动渲染等特性，确保模板在不同仓库中保持一致的交互体验。",
+      "desc_updated_at": "2026-10-28"
+    },
+    "huaotem-bot/GeZi-downloader": {
+      "star": 408,
+      "created_at": "2026-10-04T07:16:03Z",
+      "id": 1404060253
     }
   }
 }
