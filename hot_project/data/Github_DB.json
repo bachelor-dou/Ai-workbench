@@ -126469,24 +126469,6 @@
       "gh_desc": "Open source version of Google Authenticator (except the Android app)",
       "id": 24953080
     },
-    "unkeyed/unkey": {
-      "star": 5401,
-      "created_at": "2023-06-09T21:23:20Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "api",
-        "api-keys",
-        "authentication",
-        "authorization",
-        "deployment",
-        "gateway",
-        "open-source",
-        "rate-limiter"
-      ],
-      "gh_desc": "The Developer Platform for Modern APIs",
-      "id": 651702652
-    },
     "bitly/oauth2_proxy": {
       "star": 5087,
       "created_at": "2012-12-17T18:01:53Z",
@@ -199889,27 +199871,6 @@
       "gh_desc": "⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.",
       "id": 207588519
     },
-    "Alvin9999-newpac/fanqiang": {
-      "star": 2474,
-      "created_at": "2025-12-19T23:29:35Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "clash",
-        "fanqiang",
-        "hysteria2",
-        "kexueshangwang",
-        "reality",
-        "sing-box",
-        "ss",
-        "ssr",
-        "v2ray",
-        "vless",
-        "youtube"
-      ],
-      "gh_desc": "免费翻墙、免费科学上网、翻墙翻墙、科学上网、Mac/iOS/安卓翻墙、翻墙翻墙、自由上网、 一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、fanqiang、翻墙翻墙、科学上网、翻墙翻墙翻墙翻墙翻墙翻墙翻墙、 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网 翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙科学上网翻墙翻墙翻墙翻墙",
-      "id": 1119829225
-    },
     "Unity-Technologies/com.unity.toonshader": {
       "star": 1539,
       "created_at": "2021-02-22T08:03:12Z",
@@ -254400,22 +254361,6 @@
       "gh_desc": "Prevent React component subtrees from rendering.",
       "id": 415841295
     },
-    "earthboundkid/requests": {
-      "star": 1672,
-      "created_at": "2021-05-20T19:20:29Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [
-        "convenience",
-        "golang",
-        "helper",
-        "http",
-        "http-client",
-        "requests"
-      ],
-      "gh_desc": "HTTP requests for Gophers",
-      "id": 369315012
-    },
     "OpenVR-Advanced-Settings/OpenVR-AdvancedSettings": {
       "star": 1703,
       "created_at": "2018-03-14T15:48:22Z",
@@ -295918,21 +295863,6 @@
       "topics": [],
       "gh_desc": "A statesmanlike state machine library.",
       "id": 12614368
-    },
-    "opral/inlang": {
-      "star": 1970,
-      "created_at": "2021-08-10T19:13:21Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "globalization",
-        "i18n",
-        "localisation",
-        "localization",
-        "vscode"
-      ],
-      "gh_desc": "open file format for localizing software (i18n)",
-      "id": 394757291
     },
     "psi-4ward/psitransfer": {
       "star": 1915,
@@ -359945,19 +359875,6 @@
       "gh_desc": "Jupyter meets Vim. Vimmer will fall in love.",
       "id": 41175671
     },
-    "fkromer/awesome-ros2": {
-      "star": 2130,
-      "created_at": "2017-10-02T08:50:00Z",
-      "desc": "",
-      "language": "",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "ros2"
-      ],
-      "gh_desc": "The Robot Operating System Version 2.0 is awesome!",
-      "id": 105514647
-    },
     "rigor789/vue-scrollto": {
       "star": 2064,
       "created_at": "2016-04-10T17:40:10Z",
@@ -372893,27 +372810,6 @@
       "topics": [],
       "gh_desc": "获取微博搜索结果信息，搜索即可以是微博关键词搜索，也可以是微博话题搜索",
       "id": 249890544
-    },
-    "Runixe786/MD3-Windows": {
-      "star": 2311,
-      "created_at": "2024-08-21T11:26:46Z",
-      "desc": "",
-      "language": "Pascal",
-      "topics": [
-        "android",
-        "customisation",
-        "design",
-        "google",
-        "material-ui",
-        "microsoft",
-        "rainmeter",
-        "rainmeter-skin",
-        "software",
-        "widgets",
-        "windows"
-      ],
-      "gh_desc": "Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes",
-      "id": 845502347
     },
     "mattnigh/ChatGPT-Free-Prompt-List": {
       "star": 2294,
@@ -584749,19 +584645,6 @@
       "gh_desc": "A secure embedded operating system for microcontrollers",
       "id": 36428094
     },
-    "StackExchange/StackExchange.Redis": {
-      "star": 6189,
-      "created_at": "2014-03-14T14:09:26Z",
-      "desc": "",
-      "language": "C#",
-      "topics": [
-        "c-sharp",
-        "redis",
-        "redis-client"
-      ],
-      "gh_desc": "General purpose redis client",
-      "id": 17748183
-    },
     "google/syzkaller": {
       "star": 6285,
       "created_at": "2015-10-12T06:05:05Z",
@@ -746344,23 +746227,6 @@
       "gh_desc": "Open Source Global Intelligence Platform - Real-Time OSINT Dashboard - A Palantir Alternative",
       "id": 1237031497
     },
-    "korbinjoe/excalidraw-cn": {
-      "star": 2442,
-      "created_at": "2023-05-17T02:25:08Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "canvas",
-        "chinese-fonts",
-        "draw",
-        "excalidraw",
-        "hand",
-        "handraw",
-        "whiteboard"
-      ],
-      "gh_desc": "Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.",
-      "id": 641709442
-    },
     "zakirullin/files.md": {
       "star": 4054,
       "created_at": "2023-05-23T06:25:12Z",
@@ -763441,24 +763307,6 @@
       ],
       "gh_desc": "策略易（StrategyEase）Python SDK，策略自动化交易 API 及量化平台。",
       "id": 73923592
-    },
-    "AwesomeHomelab/awesome-homelab": {
-      "star": 2107,
-      "created_at": "2024-07-06T01:37:59Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "awesome",
-        "awesome-list",
-        "awesome-lists",
-        "homelab",
-        "homeserver",
-        "self-hosted",
-        "selfhosted",
-        "selfhosting"
-      ],
-      "gh_desc": "Curating Top Open Source Apps for Homelab Enthusiasts",
-      "id": 824799146
     },
     "NodePassProject/Anywhere": {
       "star": 2249,
@@ -821555,11 +821403,6 @@
       "created_at": "2023-10-22T18:56:39Z",
       "id": 708506708
     },
-    "opral/paraglide-js": {
-      "star": 606,
-      "created_at": "2024-03-11T18:19:26Z",
-      "id": 770541894
-    },
     "markuplint/markuplint": {
       "star": 605,
       "created_at": "2017-09-26T04:25:35Z",
@@ -822766,11 +822609,6 @@
       "star": 1030,
       "created_at": "2019-05-11T13:10:27Z",
       "id": 186134447
-    },
-    "cosmos/ibc": {
-      "star": 1019,
-      "created_at": "2019-02-08T22:57:36Z",
-      "id": 169809972
     },
     "CodeChefVIT/resources": {
       "star": 1016,
@@ -827419,11 +827257,6 @@
       "star": 719,
       "created_at": "2026-03-15T10:40:26Z",
       "id": 1182306628
-    },
-    "SnowLuma/SnowLuma": {
-      "star": 707,
-      "created_at": "2025-06-13T09:43:44Z",
-      "id": 1001388322
     },
     "glojurelang/glojure": {
       "star": 717,
@@ -852778,11 +852611,6 @@
       "created_at": "2023-06-05T03:53:10Z",
       "id": 649519006
     },
-    "m3sserstudi0s/swiparr": {
-      "star": 759,
-      "created_at": "2025-12-26T15:18:50Z",
-      "id": 1123294669
-    },
     "7836246/aws-builder-id": {
       "star": 754,
       "created_at": "2026-01-13T01:15:43Z",
@@ -859749,11 +859577,6 @@
       "star": 647,
       "created_at": "2012-10-30T11:44:29Z",
       "id": 6456334
-    },
-    "cosmos/ibc-go": {
-      "star": 644,
-      "created_at": "2021-02-10T15:22:10Z",
-      "id": 337764594
     },
     "PhotoboothProject/photobooth": {
       "star": 624,
@@ -867511,11 +867334,6 @@
       "star": 1123,
       "created_at": "2013-06-13T19:29:58Z",
       "id": 10674058
-    },
-    "cggos/imu_x_fusion": {
-      "star": 1117,
-      "created_at": "2020-07-25T15:29:13Z",
-      "id": 282471470
     },
     "Shpendrr/react-app-structure": {
       "star": 1124,
@@ -918051,11 +917869,6 @@
       "created_at": "2016-09-15T22:48:35Z",
       "id": 68337359
     },
-    "loxy0devlp/RedTiger-Tools": {
-      "star": 594,
-      "created_at": "2025-12-27T19:42:42Z",
-      "id": 1123863485
-    },
     "microsoft/theme-converter-for-vs": {
       "star": 590,
       "created_at": "2021-07-30T20:51:32Z",
@@ -922236,11 +922049,6 @@
       "star": 501,
       "created_at": "2019-06-04T23:58:30Z",
       "id": 190296121
-    },
-    "raphaelsalaja/audio": {
-      "star": 501,
-      "created_at": "2026-04-04T13:49:52Z",
-      "id": 1201303861
     },
     "mxstbr/mxstbr.com": {
       "star": 500,
@@ -1120318,11 +1120126,6 @@
       "created_at": "2020-05-23T04:43:01Z",
       "id": 266264203
     },
-    "Cornell-RelaxML/QuIP": {
-      "star": 401,
-      "created_at": "2023-07-21T12:58:34Z",
-      "id": 669144385
-    },
     "Kirilllive/ASCII_Art_Paint": {
       "star": 495,
       "created_at": "2022-03-15T21:07:44Z",
@@ -1122017,11 +1121820,6 @@
       "star": 494,
       "created_at": "2015-08-12T10:11:44Z",
       "id": 40594264
-    },
-    "alley-rs/fluxy": {
-      "star": 491,
-      "created_at": "2024-01-12T12:03:27Z",
-      "id": 742405302
     },
     "rxi/flux": {
       "star": 486,
@@ -1128756,11 +1128554,6 @@
       "star": 484,
       "created_at": "2021-08-18T04:48:34Z",
       "id": 397475720
-    },
-    "tldraw/tldraw-offline": {
-      "star": 476,
-      "created_at": "2024-12-28T23:02:40Z",
-      "id": 909507849
     },
     "sihorton/appjs-deskshell": {
       "star": 474,
@@ -1137106,11 +1136899,6 @@
       "star": 444,
       "created_at": "2025-10-26T18:09:49Z",
       "id": 1083790746
-    },
-    "XiNian-dada/Fuck_My_Shit_Mountain": {
-      "star": 437,
-      "created_at": "2026-06-03T06:57:37Z",
-      "id": 1257971581
     },
     "ailabs-393/ai-labs-claude-skills": {
       "star": 429,
@@ -1148247,11 +1148035,6 @@
       "star": 421,
       "created_at": "2019-06-04T21:53:02Z",
       "id": 190284572
-    },
-    "fkromer/awesome-embedded-linux": {
-      "star": 421,
-      "created_at": "2019-06-02T12:46:47Z",
-      "id": 189845569
     },
     "kvasir-io/Kvasir": {
       "star": 421,
@@ -1205276,11 +1205059,6 @@
       "created_at": "2016-03-11T06:59:45Z",
       "id": 53646617
     },
-    "Runixe786/NThing-UI": {
-      "star": 489,
-      "created_at": "2025-05-04T07:30:45Z",
-      "id": 977429692
-    },
     "kiegroup/optaplanner": {
       "star": 489,
       "created_at": "2023-09-08T14:14:13Z",
@@ -1215816,11 +1215594,6 @@
       "created_at": "2025-04-10T06:46:18Z",
       "id": 963751773
     },
-    "Ancienttwo/repo-harness": {
-      "star": 400,
-      "created_at": "2026-03-19T15:35:43Z",
-      "id": 1186405141
-    },
     "baochip/baochip-1x": {
       "star": 400,
       "created_at": "2025-08-04T10:47:22Z",
@@ -1224145,11 +1223918,6 @@
       "star": 479,
       "created_at": "2013-12-29T04:18:01Z",
       "id": 15503430
-    },
-    "LiteLDev/LeviLaunchroid": {
-      "star": 479,
-      "created_at": "2025-03-31T16:34:30Z",
-      "id": 958098700
     },
     "kovisoft/slimv": {
       "star": 479,
@@ -1234625,11 +1234393,6 @@
       "star": 419,
       "created_at": "2020-03-02T17:22:51Z",
       "id": 244431161
-    },
-    "Runixe786/Macified-Windows": {
-      "star": 419,
-      "created_at": "2024-01-25T18:44:19Z",
-      "id": 748328083
     },
     "AndroidPoet/Dropdown": {
       "star": 419,
@@ -1248288,22 +1248051,6 @@
       "desc": "项目定位与用途:Soup 是一个用于大语言模型（LLM）微调与后训练的命令行工具，主打“一个命令完成”。从 README 可见，它提供轻量与训练两种用法，通过 `soup init --template chat`、`soup train` 等流程，帮助用户快速搭建并执行训练任务，强调无需 SSH、无需复杂配置。项目定位更偏向简化 LLM 训练工作流的工具链。  \n解决的问题:该项目主要解决 LLM 微调过程繁琐、配置复杂、门槛高的问题。README 明确提到它要把“LLM fine-tuning 的痛点”变成简单工作流，减少手动准备配置、环境切换和远程操作带来的负担。对于不想陷入“config hell”的用户，它提供更直接的训练入口。  \n使用场景:适合需要对基础模型进行微调或后训练的开发者、研究人员和工程团队，也适合希望在本地或资源受限设备上尝试训练的人。README 提到可在 4 GB 显存的笔记本 GPU 上微调 8B 模型，说明它面向希望低门槛开展实验、验证数据集或快速迭代模型效果的场景。  \n技术架构与特性:从已给信息看，Soup 是基于 Python 3.10–3.12 的开源项目，提供 `soup-cli` 包，并通过 `pip install \"soup-cli[train]\"` 启用训练能力。其核心特性包括层流式加载（layer streaming），将冻结的基础模型逐层送入 GPU，以降低显存占用；README 还提到 NF4、与常规驻留运行 bit-exact 一致，以及在 4 GB 显存上达到较低峰值占用。当前信息不足以完整描述其内部架构。",
       "desc_updated_at": "2026-08-19"
     },
-    "mg-chao/snow-apps": {
-      "star": 4853,
-      "created_at": "2025-02-26T07:04:51Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "chatbot",
-        "ocr",
-        "screen-capture",
-        "screenshot",
-        "snowshot",
-        "translate"
-      ],
-      "gh_desc": "超好用的截图工具",
-      "id": 939207877
-    },
     "AMAP-ML/LongHorizon-Harness": {
       "star": 411,
       "created_at": "2026-08-04T04:30:58Z",
@@ -1258649,11 +1258396,6 @@
       "created_at": "2017-12-07T06:22:43Z",
       "id": 113411479
     },
-    "ZtechNetwork/MCBVanillaResourcePack": {
-      "star": 400,
-      "created_at": "2018-07-02T08:13:38Z",
-      "id": 139411965
-    },
     "rust-mobile/android-activity": {
       "star": 400,
       "created_at": "2022-05-08T21:34:31Z",
@@ -1260061,27 +1259803,6 @@
       "star": 442,
       "created_at": "2026-08-31T09:22:41Z",
       "id": 1352223257
-    },
-    "GCWing/OpenBitFun": {
-      "star": 1374,
-      "created_at": "2026-02-02T09:52:10Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [
-        "agent-teams",
-        "agentic",
-        "agentic-os",
-        "agentic-runtime",
-        "ai-coding",
-        "ai-ide",
-        "ai-sdk",
-        "computer-use-agent",
-        "cowork",
-        "openclaw",
-        "vibe-coding"
-      ],
-      "gh_desc": "BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time",
-      "id": 1147866277
     },
     "Jarvis322/macos-sysdata": {
       "star": 562,
@@ -1266307,11 +1266028,6 @@
       "created_at": "2024-07-05T00:32:19Z",
       "id": 824354877
     },
-    "riemers/ansible-gitlab-runner": {
-      "star": 400,
-      "created_at": "2016-08-09T08:20:06Z",
-      "id": 65276738
-    },
     "FrigadeHQ/yap": {
       "star": 403,
       "created_at": "2026-07-23T23:34:40Z",
@@ -1268073,11 +1267789,6 @@
       "created_at": "2024-08-02T14:44:03Z",
       "id": 837255966
     },
-    "jakezhaojb/ARAE": {
-      "star": 400,
-      "created_at": "2017-06-08T05:17:24Z",
-      "id": 93709986
-    },
     "gittrahan/support-fins": {
       "star": 486,
       "created_at": "2026-07-25T00:21:05Z",
@@ -1269691,11 +1269402,6 @@
       "star": 419,
       "created_at": "2026-07-05T08:21:24Z",
       "id": 1289808621
-    },
-    "flythenimbus/bramble": {
-      "star": 400,
-      "created_at": "2026-06-01T02:30:43Z",
-      "id": 1255609001
     },
     "rustledger/rustledger": {
       "star": 400,
@@ -1271346,11 +1271052,6 @@
       "star": 590,
       "created_at": "2026-09-30T16:40:20Z",
       "id": 1398473163
-    },
-    "byralpha/AntDesign": {
-      "star": 400,
-      "created_at": "2025-07-10T02:36:40Z",
-      "id": 1017089744
     },
     "wasi-master/wmkeyboard": {
       "star": 400,
@@ -1275693,11 +1275394,6 @@
       "id": 1288325627,
       "desc": "项目定位与用途: Graft 是一个面向大型代码库的开源上下文层，目标是为 Claude Code、Cursor、Codex、Gemini 等编程代理提供更贴近代码库语境的上下文支持。根据 README 摘录，它通过增强代理对项目结构和代码关系的理解，让编码助手在处理仓库任务时更快、更省成本，并尽量保持或提升正确性。  \n\n解决的问题: 该项目主要解决编码代理在大型代码库中“看不全、找不准、上下文不足”的痛点。README 中直接提到它可带来更少的工具调用、更少的 token 消耗和更短的执行时间，同时在测试中正确率高于对照组。由此可见，它试图降低大模型在代码仓库场景中的上下文成本与效率损耗。  \n\n使用场景: 适用于需要让 AI 编程助手理解复杂仓库的场景，例如代码检索、跨文件修改、定位相关实现、辅助修复问题和完成仓库级任务。目标用户主要是使用 Claude Code、Cursor、Codex、Gemini 等工具的开发者，以及希望为自己的代码库接入上下文增强能力的团队。由于仅有摘录，具体接入流程和全部场景仍需以完整文档为准。  \n\n技术架构与特性: 从已提供信息看，Graft 以 TypeScript 实现，支持 Node.js，采用 MIT 许可证，且标注 telemetry-none。README 还显示它提供 MCP server、CLI、与 Claude Code 的深度集成，并围绕“图/graph”构建代码库上下文；同时声明支持多语言，近期提交线索中出现了 PHP 支持和 Java 绑定覆盖改进。其核心特性包括更少工具调用、token 节省、时间节省和正确性提升。",
       "desc_updated_at": "2026-08-19"
-    },
-    "gakonst/nanocode": {
-      "star": 400,
-      "created_at": "2026-07-15T22:46:14Z",
-      "id": 1302093382
     },
     "Arekejoker/qwen21-nsfw-pose-skill": {
       "star": 962,
@@ -1280180,36 +1279876,6 @@
       "star": 1261,
       "created_at": "2026-10-13T05:14:47Z",
       "id": 1416497190
-    },
-    "Anil-matcha/open-duet": {
-      "star": 3928,
-      "created_at": "2023-05-25T14:21:12Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "agent-tools",
-        "ai-agents",
-        "ai-art",
-        "ai-music",
-        "ai-video",
-        "claude-code",
-        "flux",
-        "generative-ai",
-        "image-generation",
-        "kling",
-        "mcp",
-        "midjourney",
-        "muapi",
-        "multimodal-ai",
-        "skills",
-        "suno",
-        "text-to-audio",
-        "text-to-image",
-        "text-to-video",
-        "video-generation"
-      ],
-      "gh_desc": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
-      "id": 645381450
     },
     "timhengc/mai-shen-zai-ci": {
       "star": 496,
@@ -1285490,11 +1285156,6 @@
       "created_at": "2026-10-22T05:51:40Z",
       "id": 1429303647
     },
-    "Fractal-Compute-Orchestrations/.github": {
-      "star": 490,
-      "created_at": "2026-10-26T06:04:48Z",
-      "id": 1433970549
-    },
     "colspan-dev/colspan": {
       "star": 413,
       "created_at": "2022-03-17T00:59:03Z",
@@ -1285666,11 +1285327,6 @@
       "created_at": "2026-10-01T23:08:25Z",
       "id": 1400809123
     },
-    "janderson1017/Hiddify-Manager": {
-      "star": 453,
-      "created_at": "2026-10-19T09:01:13Z",
-      "id": 1425358398
-    },
     "microsoft/quicksand": {
       "star": 401,
       "created_at": "2026-04-14T18:50:56Z",
@@ -1285735,11 +1285391,6 @@
       "star": 400,
       "created_at": "2014-10-17T07:13:20Z",
       "id": 25344181
-    },
-    "YizhengWw/HachimoDock": {
-      "star": 507,
-      "created_at": "2026-06-10T10:30:51Z",
-      "id": 1264956388
     },
     "MiniMax-AI/mcode-stack": {
       "star": 436,
@@ -1286789,11 +1286440,6 @@
       "created_at": "2026-07-19T15:30:04Z",
       "id": 1305818123
     },
-    "wilfredinni/noodle": {
-      "star": 400,
-      "created_at": "2026-06-24T22:43:33Z",
-      "id": 1279660735
-    },
     "YesterMester/TheSimpsonsGameRecomp": {
       "star": 400,
       "created_at": "2026-07-04T22:50:59Z",
@@ -1286878,11 +1286524,6 @@
       "star": 406,
       "created_at": "2026-10-19T08:10:48Z",
       "id": 1425306307
-    },
-    "Endokelp/Endoplexity": {
-      "star": 435,
-      "created_at": "2026-08-14T17:37:36Z",
-      "id": 1334430510
     },
     "Sorihiko/DangoMusic": {
       "star": 427,
@@ -1286989,11 +1286630,6 @@
       ],
       "gh_desc": "Visual connectivity for webapps",
       "id": 2990812
-    },
-    "routerhubSI/uncensored-ai-api": {
-      "star": 503,
-      "created_at": "2026-10-24T16:55:17Z",
-      "id": 1432398049
     },
     "AFK-surf/Comma": {
       "star": 425,
@@ -1288423,11 +1288059,6 @@
       "created_at": "2026-09-04T03:08:32Z",
       "id": 1356646190
     },
-    "NEORUAA/MeiloX": {
-      "star": 409,
-      "created_at": "2026-08-12T05:47:43Z",
-      "id": 1331659738
-    },
     "mjmirza/app-store-compliance": {
       "star": 400,
       "created_at": "2026-06-06T11:29:45Z",
@@ -1288626,11 +1288257,6 @@
       "topics": [],
       "id": 516735733
     },
-    "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto": {
-      "star": 1120,
-      "created_at": "2026-11-04T14:54:56Z",
-      "id": 1445802355
-    },
     "DhvanilPatel/swarm-cursors": {
       "star": 1100,
       "created_at": "2026-10-14T23:42:03Z",
@@ -1288710,11 +1288336,6 @@
       "star": 939,
       "created_at": "2026-11-03T14:04:27Z",
       "id": 1444372497
-    },
-    "drakolordx7/switch2-recomp": {
-      "star": 402,
-      "created_at": "2026-11-02T03:10:30Z",
-      "id": 1442452503
     },
     "Hy4ri/hermes-mobile": {
       "star": 405,
@@ -1289316,11 +1288937,6 @@
       "created_at": "2026-04-03T17:43:38Z",
       "id": 1200678407
     },
-    "0vm/NetDeflect": {
-      "star": 406,
-      "created_at": "2025-03-23T14:56:57Z",
-      "id": 953518329
-    },
     "NoCheatPlus/NoCheatPlus": {
       "star": 400,
       "created_at": "2012-08-18T20:31:32Z",
@@ -1289468,11 +1289084,6 @@
       "star": 454,
       "created_at": "2026-11-03T17:47:08Z",
       "id": 1444637805
-    },
-    "Pluviobyte/douyin-comments": {
-      "star": 408,
-      "created_at": "2026-10-30T15:47:16Z",
-      "id": 1439924913
     },
     "chutingyean/Agent-Cockpit": {
       "star": 404,
@@ -1290408,11 +1290019,6 @@
       "created_at": "2021-05-15T07:50:22Z",
       "id": 367571802
     },
-    "Pondwithprime/dlss-5-swapper": {
-      "star": 450,
-      "created_at": "2026-06-10T22:28:06Z",
-      "id": 1265568738
-    },
     "innei-dev/lody-ios": {
       "star": 460,
       "created_at": "2026-09-05T18:37:43Z",
@@ -1290601,16 +1290207,6 @@
       "gh_desc": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
       "id": 622424201
     },
-    "PaladinSmash84/aida-64-extreme": {
-      "star": 402,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110035
-    },
-    "Outsideclofilter/aion-2-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110038
-    },
     "qianshuixia/shrimpreel": {
       "star": 400,
       "created_at": "2026-10-20T18:08:00Z",
@@ -1290626,11 +1290222,6 @@
       "created_at": "2026-04-12T04:13:55Z",
       "id": 1208283887
     },
-    "kaligpt07/kaligpt": {
-      "star": 925,
-      "created_at": "2025-08-14T19:23:15Z",
-      "id": 1038196040
-    },
     "jaikydota/BullFlow": {
       "star": 417,
       "created_at": "2026-10-14T07:25:27Z",
@@ -1290645,11 +1290236,6 @@
       "star": 400,
       "created_at": "2025-04-14T07:46:26Z",
       "id": 965970978
-    },
-    "PurpleChordEvaluate/claude-jailbreak-prompt": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:50Z",
-      "id": 1450110672
     },
     "synchopate/llama-modchip": {
       "star": 566,
@@ -1290675,11 +1290261,6 @@
       "star": 645,
       "created_at": "2026-11-05T04:50:13Z",
       "id": 1446546399
-    },
-    "Soundplomystery/landr-plugin-bundle": {
-      "star": 401,
-      "created_at": "2026-11-08T08:39:23Z",
-      "id": 1450111705
     },
     "ZSeven-W/dsh-ios": {
       "star": 406,
@@ -1290726,11 +1290307,6 @@
       "created_at": "2024-02-29T09:54:26Z",
       "id": 765110276
     },
-    "CaveIguana56/roshade-for-roblox": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356144
-    },
     "lucas-martinic/polyfork-catalog": {
       "star": 456,
       "created_at": "2026-11-02T01:09:22Z",
@@ -1290740,11 +1290316,6 @@
       "star": 410,
       "created_at": "2026-10-04T17:32:15Z",
       "id": 1404675866
-    },
-    "kyy-logs/code-review-skill": {
-      "star": 413,
-      "created_at": "2026-10-29T07:57:07Z",
-      "id": 1438113516
     },
     "win4r/video-director": {
       "star": 408,
@@ -1290760,11 +1290331,6 @@
       "star": 401,
       "created_at": "2026-02-12T21:30:02Z",
       "id": 1156623863
-    },
-    "UpperGunsmithShack/sp-flash-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:50Z",
-      "id": 1450112676
     },
     "IainKay/ram-altman": {
       "star": 871,
@@ -1290818,11 +1290384,6 @@
       "created_at": "2026-11-05T09:05:21Z",
       "id": 1446771275
     },
-    "Spikeijinx58/uphvbrdi": {
-      "star": 1347,
-      "created_at": "2026-10-12T02:20:51Z",
-      "id": 1414957846
-    },
     "byted-technologies/fractalgithubreadme": {
       "star": 525,
       "created_at": "2026-05-19T14:29:08Z",
@@ -1290838,11 +1290399,6 @@
       "created_at": "2026-10-28T12:09:26Z",
       "id": 1437033043
     },
-    "WayBuilderDeliver/windows-optimizer": {
-      "star": 401,
-      "created_at": "2026-11-08T08:41:33Z",
-      "id": 1450113144
-    },
     "Lucas-blip-png/dkb-pc-recomp": {
       "star": 513,
       "created_at": "2026-11-01T15:03:52Z",
@@ -1290857,11 +1290413,6 @@
       "star": 1572,
       "created_at": "2026-11-07T10:01:23Z",
       "id": 1449231124
-    },
-    "updatesealeradicate/start11": {
-      "star": 401,
-      "created_at": "2026-11-08T08:40:51Z",
-      "id": 1450112690
     },
     "MrBIMC/SELinuxModeChanger": {
       "star": 401,
@@ -1290918,11 +1290469,6 @@
       "created_at": "2026-10-19T08:00:49Z",
       "id": 1425296336
     },
-    "PaladinDiscriminate/adobe-substance-3d": {
-      "star": 401,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110037
-    },
     "MControlSuite/msi-ec": {
       "star": 450,
       "created_at": "2021-09-09T17:31:58Z",
@@ -1290960,46 +1290506,6 @@
       "created_at": "2017-06-04T12:47:57Z",
       "id": 93313025
     },
-    "PresidentThaw/capcut-for-windows": {
-      "star": 402,
-      "created_at": "2026-11-08T08:37:28Z",
-      "id": 1450110429
-    },
-    "OnyxAmbassador/actual-multiplie-monitors": {
-      "star": 401,
-      "created_at": "2026-11-08T08:36:55Z",
-      "id": 1450110029
-    },
-    "PlaneDiverRevitalize/avid-media-composer": {
-      "star": 401,
-      "created_at": "2026-11-08T08:37:24Z",
-      "id": 1450110381
-    },
-    "SmartAntRecover/instagram-liker-bot": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:15Z",
-      "id": 1450111631
-    },
-    "OhmUrchinSee/abbyy-finereader-pdf": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:54Z",
-      "id": 1450110019
-    },
-    "VertexCoppersmith/total-commander": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:12Z",
-      "id": 1450112905
-    },
-    "shoregladiatormesh/ifunbox": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:06Z",
-      "id": 1450111548
-    },
-    "Wantfuchannel/whale-tracker": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:26Z",
-      "id": 1450113073
-    },
     "SunshineStream/awesome-sunshine": {
       "star": 489,
       "created_at": "2024-08-16T19:39:44Z",
@@ -1291020,105 +1290526,20 @@
       "created_at": "2026-09-09T20:09:46Z",
       "id": 1363172629
     },
-    "CartwrightHammer/aomei-backupper": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356128
-    },
-    "ThornDesigner/quicken-deluxe": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:21Z",
-      "id": 1450112328
-    },
-    "Beatzolattice/anyunlock": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:44Z",
-      "id": 1450356118
-    },
     "portingpete/The-Darkness-Recomp": {
       "star": 400,
       "created_at": "2026-09-15T22:41:10Z",
       "id": 1372222981
-    },
-    "SuperWarlord/multiaccountmanager": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:56Z",
-      "id": 1450112071
-    },
-    "Clipvuslat64/ccleaner-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356136
-    },
-    "FaceAttorney/rust-external-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:46Z",
-      "id": 1450356157
-    },
-    "sheenhunterdeflate/hitfilm": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:53Z",
-      "id": 1450111396
-    },
-    "SeparateGasTow/fonetrans": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:45Z",
-      "id": 1450111297
-    },
-    "savagesectorpattern/exitlag": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:21Z",
-      "id": 1450111037
     },
     "libkrun/krunkit": {
       "star": 400,
       "created_at": "2024-02-12T17:55:49Z",
       "id": 756461160
     },
-    "teaminspectorbandage/portfolio-rebalancer": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:19Z",
-      "id": 1450112300
-    },
-    "TypeKindIntensify/seedphrasegenerator": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:45Z",
-      "id": 1450112607
-    },
-    "talonbailifftent/ph-downloader": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:17Z",
-      "id": 1450112282
-    },
-    "Teralunapick/power-director": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:19Z",
-      "id": 1450112306
-    },
     "TeamFAPS/PSVita-RE-tools": {
       "star": 400,
       "created_at": "2018-02-06T17:59:06Z",
       "id": 120500512
-    },
-    "BeauticianChopper/adobe-acrobat-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:44Z",
-      "id": 1450356117
-    },
-    "Perceptionnehandcuff/archicad": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:58Z",
-      "id": 1450110064
-    },
-    "PsycheGradeSpeak/chief-architect-premier": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:48Z",
-      "id": 1450110634
-    },
-    "StellarLawyer/monero-miner": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:48Z",
-      "id": 1450111973
     },
     "openrport/openrport": {
       "star": 400,
@@ -1291130,20 +1290551,10 @@
       "created_at": "2017-07-20T08:56:39Z",
       "id": 97813569
     },
-    "VillageExecutive/ultra-edit": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:15Z",
-      "id": 1450112940
-    },
     "nuggslet/MGSM2Fix": {
       "star": 400,
       "created_at": "2023-11-07T02:09:36Z",
       "id": 715369222
-    },
-    "ViceroyPersist/touch-copy": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:12Z",
-      "id": 1450112908
     },
     "iiecho1/hot_searches_for_apps": {
       "star": 400,
@@ -1291160,21 +1290571,6 @@
       "created_at": "2026-10-20T17:09:40Z",
       "id": 1427329124
     },
-    "Quantumoarefresh/daemon-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:52Z",
-      "id": 1450110702
-    },
-    "PortionPebble/burning-studio": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:25Z",
-      "id": 1450110392
-    },
-    "Ratioclahovel/directory-opus": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:55Z",
-      "id": 1450110750
-    },
     "KevinParnell/OneeChan": {
       "star": 400,
       "created_at": "2018-11-25T01:44:14Z",
@@ -1291185,85 +1290581,10 @@
       "created_at": "2025-06-17T22:59:58Z",
       "id": 1003961170
     },
-    "ShapeMareAmplify/honkai-star-rail-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:55Z",
-      "id": 1450111427
-    },
-    "eveningpuffinravine/marvel-rivals-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356133
-    },
-    "SquadCheetahClimb/microsoft-office": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:38Z",
-      "id": 1450111852
-    },
-    "PlatoonKingfisher/canva-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:26Z",
-      "id": 1450110408
-    },
-    "varnishhorseengage/studioonepro7": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:04Z",
-      "id": 1450112818
-    },
-    "ExcellenceSavior/iobit-driver-booster": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356126
-    },
     "a6216abcd/Free-Residential-IP-Proxy-Controller": {
       "star": 400,
       "created_at": "2026-05-29T04:09:05Z",
       "id": 1252992358
-    },
-    "Perceptionzyavalue/ashampoo-uninstaller": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:21Z",
-      "id": 1450110334
-    },
-    "TrooperConceal/scrcpy": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:45Z",
-      "id": 1450112619
-    },
-    "TrackerMonarch/rufus": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:39Z",
-      "id": 1450112534
-    },
-    "superdatacastle/musicmakerunlimited": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:58Z",
-      "id": 1450112078
-    },
-    "TameDetectiveRuffle/photo-commander": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:18Z",
-      "id": 1450112291
-    },
-    "Urbandaravine/startall-back": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:56Z",
-      "id": 1450112742
-    },
-    "PugilistCycle/chimera": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:49Z",
-      "id": 1450110657
-    },
-    "resonancemouserescue/discord-server-raider": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:17Z",
-      "id": 1450110986
-    },
-    "Exteriordadynamo/metatrader-5-bot": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356143
     },
     "jinbooooom/OriginDL": {
       "star": 400,
@@ -1291285,100 +1290606,20 @@
       "created_at": "2020-06-14T09:56:12Z",
       "id": 272174549
     },
-    "SymbolSteward/ozone-12-advanced": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:08Z",
-      "id": 1450112174
-    },
-    "diameterqueenstore/easeus-partition-master": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356138
-    },
     "Ahmed-Moourad/DevOps-Interview-Questions-for-Juniors": {
       "star": 400,
       "created_at": "2023-05-19T20:48:53Z",
       "id": 642998362
-    },
-    "solidaxemarch/kms-pico": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:20Z",
-      "id": 1450111676
-    },
-    "Thornthedefine/reason-14": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:23Z",
-      "id": 1450112343
-    },
-    "ratioableladle/dft-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:55Z",
-      "id": 1450110738
-    },
-    "visionpebbleliberate/unlocktool": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:16Z",
-      "id": 1450112956
-    },
-    "TyphoonFlame/slideshow-video-maker": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:47Z",
-      "id": 1450112638
-    },
-    "ParakeetWatch/adobe-audition": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110033
-    },
-    "SensationEmu/flash-crypto-generator": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:39Z",
-      "id": 1450111221
     },
     "fjh1997/Linux.do-Accelerator": {
       "star": 400,
       "created_at": "2026-03-22T10:15:06Z",
       "id": 1188600169
     },
-    "VirtualEchoWorkshop/ultra-iso": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:15Z",
-      "id": 1450112939
-    },
-    "feathershieldgazebo/systemcare-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:47Z",
-      "id": 1450356172
-    },
-    "Weaveyeretake/wise-registrity": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:38Z",
-      "id": 1450113208
-    },
-    "Columnfistore/delta-executor-for-pc-bypass": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356132
-    },
-    "WebTsuchikage/wondshare-recoverit": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:41Z",
-      "id": 1450113245
-    },
     "ldbinac/smart_table": {
       "star": 400,
       "created_at": "2026-03-24T13:25:52Z",
       "id": 1190633218
-    },
-    "CityFiremanWave/fonepaw-unlocker": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356135
-    },
-    "PuffinString/cellebrite-ufed": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:47Z",
-      "id": 1450110630
     },
     "Th0rgal/satmux": {
       "star": 970,
@@ -1291395,91 +1290636,6 @@
       "created_at": "2024-07-28T02:23:58Z",
       "id": 834673720
     },
-    "PerfumerExcite/ashampoo-winoptimizer": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:21Z",
-      "id": 1450110336
-    },
-    "WeaveSeekerJinx/wise-care": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:37Z",
-      "id": 1450113189
-    },
-    "Sentrylyadefeat/foneazy-mobile": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:44Z",
-      "id": 1450111292
-    },
-    "SplitLouse17/microsoft-365": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:37Z",
-      "id": 1450111842
-    },
-    "coasthorsereckon/autodesk-3ds-max": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356139
-    },
-    "ClampBeeCrane/payday-3-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356142
-    },
-    "villagefrogconverter/unlockgo": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:16Z",
-      "id": 1450112952
-    },
-    "Silentapstare/imei-repair": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:09Z",
-      "id": 1450111571
-    },
-    "PauseCentipede/androidunlocker": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110040
-    },
-    "PugilistCarve/cinebench": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:49Z",
-      "id": 1450110651
-    },
-    "Colossuscliobserve55/cinema-4d": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356131
-    },
-    "Polishlyaspigot/axie-infinity-bot": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:24Z",
-      "id": 1450110374
-    },
-    "StadiumSensei/microsoft-visio": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:45Z",
-      "id": 1450111938
-    },
-    "SettlementCourse/genesis-miner": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:52Z",
-      "id": 1450111376
-    },
-    "FangSongBang/solidworks-cad": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:47Z",
-      "id": 1450356173
-    },
-    "SleuthPropagate/imobie-anytrans": {
-      "star": 400,
-      "created_at": "2026-11-08T08:39:11Z",
-      "id": 1450111593
-    },
-    "VelocityTreasurer/tenorshare-4ukey": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:11Z",
-      "id": 1450112895
-    },
     "fricas/fricas": {
       "star": 400,
       "created_at": "2014-05-07T20:47:48Z",
@@ -1291490,55 +1290646,10 @@
       "created_at": "2026-02-08T03:56:11Z",
       "id": 1152560092
     },
-    "Patroldeovercome/ads-blocker": {
-      "star": 400,
-      "created_at": "2026-11-08T08:36:56Z",
-      "id": 1450110036
-    },
-    "RescuerPatch9/discord-server-cloner": {
-      "star": 400,
-      "created_at": "2026-11-08T08:38:18Z",
-      "id": 1450110996
-    },
-    "tonenotecitadel/robux-generator": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:31Z",
-      "id": 1450112446
-    },
     "henmedia/layerling": {
       "star": 415,
       "created_at": "2026-09-16T21:37:58Z",
       "id": 1373660312
-    },
-    "unitgatecommand/soundpad": {
-      "star": 400,
-      "created_at": "2026-11-08T08:40:54Z",
-      "id": 1450112717
-    },
-    "visioncranedolmen/uttorent": {
-      "star": 400,
-      "created_at": "2026-11-08T08:41:19Z",
-      "id": 1450112996
-    },
-    "CopperHammerPeace/delta-force-trainer-tool": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356140
-    },
-    "Creekchodome/passfab-unlocker": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:45Z",
-      "id": 1450356134
-    },
-    "Radianfeintroduce/data-grip": {
-      "star": 400,
-      "created_at": "2026-11-08T08:37:52Z",
-      "id": 1450110703
-    },
-    "falsekomodohex/sketchup-pro": {
-      "star": 400,
-      "created_at": "2026-11-08T14:29:49Z",
-      "id": 1450356193
     },
     "qbap/ONEJailbreak": {
       "star": 400,
@@ -1291561,6 +1290672,1852 @@
       "star": 408,
       "created_at": "2026-10-04T07:16:03Z",
       "id": 1404060253
+    },
+    "Anil-matcha/suparagent": {
+      "star": 3928,
+      "created_at": "2023-05-25T14:21:12Z",
+      "desc": "",
+      "language": "Shell",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "ai-art",
+        "ai-music",
+        "ai-video",
+        "claude-code",
+        "flux",
+        "generative-ai",
+        "image-generation",
+        "kling",
+        "mcp",
+        "midjourney",
+        "muapi",
+        "multimodal-ai",
+        "skills",
+        "suno",
+        "text-to-audio",
+        "text-to-image",
+        "text-to-video",
+        "video-generation"
+      ],
+      "gh_desc": "Multi-modal Generative Media Skills for AI Agents (Claude Code, Cursor, Gemini CLI). High-quality image, video, and audio generation powered by muapi.ai.",
+      "id": 645381450
+    },
+    "nanocodexyz/nanocode": {
+      "star": 400,
+      "created_at": "2026-07-15T22:46:14Z",
+      "id": 1302093382
+    },
+    "DEEP-JLU/Awesome-Graph-Engineering": {
+      "star": 401,
+      "created_at": "2026-08-20T09:51:28Z",
+      "id": 1340540832
+    },
+    "helloHub1212/dsh-windows-mcp": {
+      "star": 442,
+      "created_at": "2026-10-11T02:20:53Z",
+      "id": 1413849053
+    },
+    "Arda313131882/aion-2-trainer-tool": {
+      "star": 480,
+      "created_at": "2026-11-06T20:34:15Z",
+      "id": 1448722374
+    },
+    "jef0731/aion-2-enhancement-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T20:34:28Z",
+      "id": 1448722579
+    },
+    "kayraucklnc/beluga": {
+      "star": 468,
+      "created_at": "2026-10-16T13:27:30Z",
+      "id": 1422199582
+    },
+    "AbhiKamane/ai-app-builder-open": {
+      "star": 479,
+      "created_at": "2026-11-06T20:33:39Z",
+      "id": 1448721787
+    },
+    "BenchUp3D/editor": {
+      "star": 649,
+      "created_at": "2026-10-23T11:19:09Z",
+      "id": 1430948779
+    },
+    "jennifer88huang/interview-skills": {
+      "star": 402,
+      "created_at": "2026-04-05T06:19:19Z",
+      "id": 1201776125
+    },
+    "arpitg1304/robotics-agent-skills": {
+      "star": 400,
+      "created_at": "2026-02-26T14:02:32Z",
+      "id": 1167626999
+    },
+    "seredis/StackExchange.Redis": {
+      "star": 6189,
+      "created_at": "2014-03-14T14:09:26Z",
+      "desc": "",
+      "language": "C#",
+      "topics": [
+        "c-sharp",
+        "redis",
+        "redis-client"
+      ],
+      "gh_desc": "General purpose redis client",
+      "id": 17748183
+    },
+    "generaltranslation/paraglide-js": {
+      "star": 606,
+      "created_at": "2024-03-11T18:19:26Z",
+      "id": 770541894
+    },
+    "boostsecurityio/smokedmeat": {
+      "star": 400,
+      "created_at": "2026-03-27T15:36:54Z",
+      "id": 1193798280
+    },
+    "gophertools/requests": {
+      "star": 1672,
+      "created_at": "2021-05-20T19:20:29Z",
+      "desc": "",
+      "language": "Go",
+      "topics": [
+        "convenience",
+        "golang",
+        "helper",
+        "http",
+        "http-client",
+        "requests"
+      ],
+      "gh_desc": "HTTP requests for Gophers",
+      "id": 369315012
+    },
+    "nmatt0/mithril": {
+      "star": 401,
+      "created_at": "2026-09-07T04:22:17Z",
+      "id": 1359743689
+    },
+    "HiThink-Tech/Financial-API": {
+      "star": 4111,
+      "created_at": "2026-06-09T02:28:17Z",
+      "id": 1263497845
+    },
+    "farhatullah0006-art/rx-11-audio-editor-config": {
+      "star": 480,
+      "created_at": "2026-11-06T21:21:42Z",
+      "id": 1448760766
+    },
+    "leoquenikeny/premierepro-video-editor-2026": {
+      "star": 479,
+      "created_at": "2026-11-06T21:19:26Z",
+      "id": 1448759030
+    },
+    "manjushree-iyer/soundpad-audio-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T21:24:56Z",
+      "id": 1448763320
+    },
+    "RunanywhereAI/trnrt": {
+      "star": 475,
+      "created_at": "2026-10-30T18:30:04Z",
+      "id": 1440096236
+    },
+    "mg-chao/snow-shot": {
+      "star": 4853,
+      "created_at": "2025-02-26T07:04:51Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "chatbot",
+        "ocr",
+        "screen-capture",
+        "screenshot",
+        "snowshot",
+        "translate"
+      ],
+      "gh_desc": "超好用的截图工具",
+      "id": 939207877
+    },
+    "lhh737/LangChain-ReAct-Agent": {
+      "star": 400,
+      "created_at": "2026-03-11T06:54:17Z",
+      "id": 1178584802
+    },
+    "MrsanjayYT/cellebrite-ufed-forensic-suite": {
+      "star": 481,
+      "created_at": "2026-11-06T20:44:12Z",
+      "id": 1448730543
+    },
+    "SirBonney/scrcpy-mirror-control": {
+      "star": 480,
+      "created_at": "2026-11-06T21:21:53Z",
+      "id": 1448760906
+    },
+    "muhammadumar07/slideshow-video-maker": {
+      "star": 480,
+      "created_at": "2026-11-06T21:24:28Z",
+      "id": 1448762971
+    },
+    "flgomes/dxo-photolab-10-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:56:37Z",
+      "id": 1448740855
+    },
+    "sheikahmedraja/voice-mod-media-tool": {
+      "star": 479,
+      "created_at": "2026-11-06T21:31:31Z",
+      "id": 1448768405
+    },
+    "Ventiladormideap/avid-media-composer-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T20:41:23Z",
+      "id": 1448728243
+    },
+    "agent-tower/core": {
+      "star": 400,
+      "created_at": "2026-02-04T03:29:48Z",
+      "id": 1149377357
+    },
+    "KirtiRamchandani/memory.cpp": {
+      "star": 481,
+      "created_at": "2026-05-18T09:24:57Z",
+      "id": 1242274559
+    },
+    "alexsergivan/kwant": {
+      "star": 438,
+      "created_at": "2026-10-22T18:41:24Z",
+      "id": 1430140009
+    },
+    "Zleap-AI/SAG-Wiki": {
+      "star": 541,
+      "created_at": "2026-10-18T14:51:30Z",
+      "id": 1424484225
+    },
+    "StartLuxLabs/StartLux-Prism": {
+      "star": 400,
+      "created_at": "2026-10-13T17:59:09Z",
+      "id": 1417661428
+    },
+    "groundingpi/GroundingPI": {
+      "star": 419,
+      "created_at": "2026-09-30T08:15:37Z",
+      "id": 1397363790
+    },
+    "shengshu-ai/Motus2": {
+      "star": 413,
+      "created_at": "2026-09-11T15:12:14Z",
+      "id": 1366345467
+    },
+    "chainreactors/cyber-harness": {
+      "star": 405,
+      "created_at": "2026-05-07T13:46:47Z",
+      "id": 1232001105
+    },
+    "fluxy-rs/fluxy": {
+      "star": 491,
+      "created_at": "2024-01-12T12:03:27Z",
+      "id": 742405302
+    },
+    "data-goblin/claude-code-filetree": {
+      "star": 403,
+      "created_at": "2026-10-02T06:36:38Z",
+      "id": 1401239862
+    },
+    "justhil/pi-app": {
+      "star": 402,
+      "created_at": "2026-06-20T18:13:17Z",
+      "id": 1275464621
+    },
+    "exaile/exaile": {
+      "star": 400,
+      "created_at": "2014-08-29T23:26:55Z",
+      "id": 23480519
+    },
+    "agili-app/Awesome.Metrix.Bar": {
+      "star": 2107,
+      "created_at": "2024-07-06T01:37:59Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "homelab",
+        "homeserver",
+        "self-hosted",
+        "selfhosted",
+        "selfhosting"
+      ],
+      "gh_desc": "Curating Top Open Source Apps for Homelab Enthusiasts",
+      "id": 824799146
+    },
+    "anomalyco/browse": {
+      "star": 432,
+      "created_at": "2026-10-27T14:33:24Z",
+      "id": 1435849068
+    },
+    "phibrowser/phibrowser-mac": {
+      "star": 403,
+      "created_at": "2026-03-30T10:46:48Z",
+      "id": 1196072395
+    },
+    "citizenhicks/mobius": {
+      "star": 429,
+      "created_at": "2026-07-24T12:03:36Z",
+      "id": 1310992934
+    },
+    "Interactive-Active-AI/NextTransformer": {
+      "star": 400,
+      "created_at": "2026-10-31T07:46:13Z",
+      "id": 1440630308
+    },
+    "PotterRemember37/Capri-AI-Desktop": {
+      "star": 545,
+      "created_at": "2026-08-15T02:57:08Z",
+      "id": 1334746210
+    },
+    "lfdt-ibc/ibc": {
+      "star": 1019,
+      "created_at": "2019-02-08T22:57:36Z",
+      "id": 169809972
+    },
+    "Seagey/couch-tv": {
+      "star": 476,
+      "created_at": "2026-10-26T20:28:54Z",
+      "id": 1434897066
+    },
+    "hazymorning/origami": {
+      "star": 445,
+      "created_at": "2026-07-19T12:49:34Z",
+      "id": 1305704812
+    },
+    "tldraw/tldraw-office": {
+      "star": 476,
+      "created_at": "2024-12-28T23:02:40Z",
+      "id": 909507849
+    },
+    "Zaneris/passenger": {
+      "star": 417,
+      "created_at": "2026-10-11T23:52:13Z",
+      "id": 1414867785
+    },
+    "Dipanshu9997/seedphrase-audit": {
+      "star": 481,
+      "created_at": "2026-11-06T21:23:44Z",
+      "id": 1448762435
+    },
+    "dhruvthakur11/youtube-ai-video-editing-system": {
+      "star": 481,
+      "created_at": "2026-11-06T21:33:17Z",
+      "id": 1448769693
+    },
+    "dabingfy-dot/solo-to-team-skills": {
+      "star": 436,
+      "created_at": "2026-11-07T01:36:28Z",
+      "id": 1448924811
+    },
+    "didi/helixharness": {
+      "star": 405,
+      "created_at": "2026-10-27T08:14:08Z",
+      "id": 1435438541
+    },
+    "capacitor-community/electron": {
+      "star": 400,
+      "created_at": "2020-05-28T20:13:10Z",
+      "id": 267686772
+    },
+    "Cocolalilal/LastChat": {
+      "star": 401,
+      "created_at": "2025-11-26T17:23:33Z",
+      "id": 1104783953
+    },
+    "openBitFun/OpenBitFun": {
+      "star": 1374,
+      "created_at": "2026-02-02T09:52:10Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [
+        "agent-teams",
+        "agentic",
+        "agentic-os",
+        "agentic-runtime",
+        "ai-coding",
+        "ai-ide",
+        "ai-sdk",
+        "computer-use-agent",
+        "cowork",
+        "openclaw",
+        "vibe-coding"
+      ],
+      "gh_desc": "BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time",
+      "id": 1147866277
+    },
+    "leo1oel/lattice": {
+      "star": 402,
+      "created_at": "2026-07-16T05:55:35Z",
+      "id": 1302376968
+    },
+    "suversal/apple-store-inventory-monitor": {
+      "star": 401,
+      "created_at": "2026-09-08T15:18:53Z",
+      "id": 1361553449
+    },
+    "priyanshu-sharma-eng/discord-server-cloner": {
+      "star": 480,
+      "created_at": "2026-11-06T20:54:45Z",
+      "id": 1448739237
+    },
+    "bhaviammu06-collab/adobe-air-desktop-tool": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:46Z",
+      "id": 1448719287
+    },
+    "muddinenilakshmilalithaksh-create/sp-flash-tool": {
+      "star": 480,
+      "created_at": "2026-11-06T21:25:32Z",
+      "id": 1448763812
+    },
+    "johnampire818-dev/samfw-tool-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:21:48Z",
+      "id": 1448760852
+    },
+    "hackersandslackers/flask-sqlalchemy-tutorial": {
+      "star": 400,
+      "created_at": "2019-02-06T05:40:52Z",
+      "id": 169360484
+    },
+    "lfdt-ibc/ibc-go": {
+      "star": 644,
+      "created_at": "2021-02-10T15:22:10Z",
+      "id": 337764594
+    },
+    "radim-hossain94/abbyy-finereader-pdf": {
+      "star": 480,
+      "created_at": "2026-11-06T20:30:42Z",
+      "id": 1448719220
+    },
+    "hoodbrompage/acrobat-pro-pdf-master-2026": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:52Z",
+      "id": 1448719375
+    },
+    "ChatAFLndss/ChatAFL": {
+      "star": 400,
+      "created_at": "2023-09-26T08:03:15Z",
+      "id": 696671276
+    },
+    "aroum/fm1-custom-fw": {
+      "star": 405,
+      "created_at": "2026-07-25T16:57:18Z",
+      "id": 1312157339
+    },
+    "No0ne/ps2x2pico": {
+      "star": 400,
+      "created_at": "2022-08-23T17:27:04Z",
+      "id": 528095822
+    },
+    "Banan1cee/whale_girl": {
+      "star": 429,
+      "created_at": "2026-10-26T09:17:35Z",
+      "id": 1434153775
+    },
+    "datadrivenconstruction/DDC_Skills_for_AI_Agents_in_Construction": {
+      "star": 402,
+      "created_at": "2026-01-24T17:20:10Z",
+      "id": 1141336664
+    },
+    "A-cat-with-carrots/OnlyShot": {
+      "star": 401,
+      "created_at": "2026-05-05T11:02:06Z",
+      "id": 1229757805
+    },
+    "Eyadkelleh/awesome-skills-security": {
+      "star": 400,
+      "created_at": "2025-12-08T08:21:05Z",
+      "id": 1112154391
+    },
+    "HA7CH/ha7ch-school": {
+      "star": 400,
+      "created_at": "2026-07-16T17:48:22Z",
+      "id": 1303082204
+    },
+    "xebhjb-blip/claude-desktop-toolkit-full": {
+      "star": 481,
+      "created_at": "2026-11-06T20:48:07Z",
+      "id": 1448733836
+    },
+    "kcgeekedup-hash/delta-force-trainer-tool": {
+      "star": 480,
+      "created_at": "2026-11-06T20:51:48Z",
+      "id": 1448736861
+    },
+    "SaravPatel1086/sp-flash-tool-dotfiles": {
+      "star": 480,
+      "created_at": "2026-11-06T21:25:39Z",
+      "id": 1448763902
+    },
+    "shahnawaz0786/payday-3-enhancement-toolkit": {
+      "star": 480,
+      "created_at": "2026-11-06T21:16:00Z",
+      "id": 1448756275
+    },
+    "youssefjeries3-creator/marvel-rivals-enhancement-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T21:08:49Z",
+      "id": 1448750549
+    },
+    "Eriazeri/on1-photo-raw-max-config": {
+      "star": 480,
+      "created_at": "2026-11-06T21:14:39Z",
+      "id": 1448755173
+    },
+    "ilsa99/microsoft-365-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:11:04Z",
+      "id": 1448752369
+    },
+    "prathmesh012-stack/flash-crypto-generator": {
+      "star": 480,
+      "created_at": "2026-11-06T21:00:16Z",
+      "id": 1448743796
+    },
+    "charlie1425/portfolio-rebalancer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:18:16Z",
+      "id": 1448758095
+    },
+    "shayannazar84-hero/honkai-star-rail-companion-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T21:03:36Z",
+      "id": 1448746345
+    },
+    "utkarshryanite25-a11y/sony-vegas-pro-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:24:21Z",
+      "id": 1448762870
+    },
+    "nsfwmnsfw-cyber/canva-pro-desktop-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T20:43:19Z",
+      "id": 1448729771
+    },
+    "Sebastian-is752/capcut-for-windows": {
+      "star": 479,
+      "created_at": "2026-11-06T20:43:18Z",
+      "id": 1448729753
+    },
+    "DiddalaMadhavi/tenorshare-key-recovery-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:28:14Z",
+      "id": 1448765914
+    },
+    "tss878/delta-executor-toolkit": {
+      "star": 479,
+      "created_at": "2026-11-06T20:51:54Z",
+      "id": 1448736961
+    },
+    "SK-Dev666/rust-external-trainer-tool": {
+      "star": 479,
+      "created_at": "2026-11-06T21:21:20Z",
+      "id": 1448760488
+    },
+    "everyinfra/everyinfra-agent-plugins": {
+      "star": 402,
+      "created_at": "2026-09-01T18:23:38Z",
+      "id": 1353897250
+    },
+    "drhelius/Gearsystem": {
+      "star": 400,
+      "created_at": "2013-02-27T11:52:34Z",
+      "id": 8454923
+    },
+    "huamidev/GestaltX": {
+      "star": 3209,
+      "created_at": "2026-11-09T05:15:48Z",
+      "id": 1450963843
+    },
+    "Wallbycontact/java-mod-rust-port-tool": {
+      "star": 402,
+      "created_at": "2026-11-05T06:15:39Z",
+      "id": 1446613379
+    },
+    "DEMON1A/GmailBruterV2": {
+      "star": 401,
+      "created_at": "2019-08-20T08:27:03Z",
+      "id": 203333137
+    },
+    "Pluviobyte/saas-growth-agents": {
+      "star": 408,
+      "created_at": "2026-10-30T15:47:16Z",
+      "id": 1439924913
+    },
+    "phuryn/product-engineering": {
+      "star": 422,
+      "created_at": "2026-10-29T11:32:54Z",
+      "id": 1438330757
+    },
+    "gumengkai/db_monitor": {
+      "star": 400,
+      "created_at": "2020-01-16T03:03:36Z",
+      "id": 234223171
+    },
+    "kyy-logs/code-review-gate-skill": {
+      "star": 413,
+      "created_at": "2026-10-29T07:57:07Z",
+      "id": 1438113516
+    },
+    "ombulabs/claude-code_rails-upgrade-skill": {
+      "star": 403,
+      "created_at": "2026-01-30T21:58:31Z",
+      "id": 1146293274
+    },
+    "voidforall/fengshui.skill": {
+      "star": 401,
+      "created_at": "2026-04-11T22:28:00Z",
+      "id": 1208155058
+    },
+    "imraywang/ray-sticker-shop": {
+      "star": 400,
+      "created_at": "2026-11-05T13:09:01Z",
+      "id": 1447014328
+    },
+    "ai-maker-lab/HachimoDock": {
+      "star": 507,
+      "created_at": "2026-06-10T10:30:51Z",
+      "id": 1264956388
+    },
+    "jhaizhou-ops/S2Arm": {
+      "star": 2140,
+      "created_at": "2026-11-08T05:49:46Z",
+      "id": 1450012790
+    },
+    "jazzband/django-downloadview": {
+      "star": 400,
+      "created_at": "2012-08-27T08:45:46Z",
+      "id": 5568643
+    },
+    "sadikturan/python-dersleri": {
+      "star": 400,
+      "created_at": "2019-09-24T11:06:14Z",
+      "id": 210581998
+    },
+    "erksch/react-native-wheely": {
+      "star": 487,
+      "created_at": "2020-02-13T12:35:31Z",
+      "id": 240256475
+    },
+    "hijoebon/excalidraw-cn": {
+      "star": 2442,
+      "created_at": "2023-05-17T02:25:08Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "canvas",
+        "chinese-fonts",
+        "draw",
+        "excalidraw",
+        "hand",
+        "handraw",
+        "whiteboard"
+      ],
+      "gh_desc": "Excalidraw-CN 是支持中文手写和多画布的 Excalidraw 白板工具。Excalidraw-CN  is a whiteboard supporting Chinese hand draw font and multi-canvas based on Excalidraw.",
+      "id": 641709442
+    },
+    "iic-jku/IIC-OSIC-TOOLS": {
+      "star": 1183,
+      "created_at": "2022-04-03T17:44:58Z",
+      "id": 477419126
+    },
+    "Cracked5pider/Ekko": {
+      "star": 840,
+      "created_at": "2022-06-17T23:19:29Z",
+      "id": 504696450
+    },
+    "generaltranslation/inlang": {
+      "star": 1970,
+      "created_at": "2021-08-10T19:13:21Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "globalization",
+        "i18n",
+        "localisation",
+        "localization",
+        "vscode"
+      ],
+      "gh_desc": "open file format for localizing software (i18n)",
+      "id": 394757291
+    },
+    "richmondasensomensah-eng/phantom-blade-zero-runtime-toolkit": {
+      "star": 479,
+      "created_at": "2026-11-06T21:17:19Z",
+      "id": 1448757344
+    },
+    "21041979/rufus-usb-formatter": {
+      "star": 479,
+      "created_at": "2026-11-06T21:21:15Z",
+      "id": 1448760422
+    },
+    "Mymedspharmacy/phantom-blade-zero-trainer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:18:15Z",
+      "id": 1448758081
+    },
+    "JasonCharb/directory-opus": {
+      "star": 479,
+      "created_at": "2026-11-06T20:54:11Z",
+      "id": 1448738845
+    },
+    "rdeepak-wq121/quicken-deluxe-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:20:42Z",
+      "id": 1448760018
+    },
+    "shivsupratik/windows-optimizer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:32:24Z",
+      "id": 1448769026
+    },
+    "Komal-Gawali/glary-utilities-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T21:01:44Z",
+      "id": 1448744953
+    },
+    "renobonnet/ph-downloader": {
+      "star": 479,
+      "created_at": "2026-11-06T21:16:29Z",
+      "id": 1448756669
+    },
+    "bipro45/actual-multi-display-configurator": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:50Z",
+      "id": 1448719333
+    },
+    "hasinthakanakarathna/aida-64-extreme-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:34:13Z",
+      "id": 1448722341
+    },
+    "pablomatosdev/phantom-blade-zero-save-manager": {
+      "star": 479,
+      "created_at": "2026-11-06T21:18:02Z",
+      "id": 1448757907
+    },
+    "Kiryukenzo/mobile-unlock-audit-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T21:12:31Z",
+      "id": 1448753538
+    },
+    "hk0299093-debug/autodesk-inventor-desktop-edition": {
+      "star": 479,
+      "created_at": "2026-11-06T20:40:22Z",
+      "id": 1448727405
+    },
+    "vikas-sketch/ads-blocker-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:33:21Z",
+      "id": 1448721532
+    },
+    "Luk177Master/easy-worship-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:57:14Z",
+      "id": 1448741352
+    },
+    "Sanidhya0510/dvd-creator-game-enhancement": {
+      "star": 479,
+      "created_at": "2026-11-06T20:55:25Z",
+      "id": 1448739787
+    },
+    "happymathew/keyshot-pro-desktop-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:06:49Z",
+      "id": 1448748930
+    },
+    "leanislizarzado/ibm-spss-desktop-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T21:04:22Z",
+      "id": 1448746973
+    },
+    "iptvnigrita-cell/microsoft-project-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:11:19Z",
+      "id": 1448752567
+    },
+    "amnakhalid13/tenorshare-4ukey-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:28:08Z",
+      "id": 1448765851
+    },
+    "saranochir9/abbyy-finereader-pdf-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:57Z",
+      "id": 1448719458
+    },
+    "bilalbilllu/mgs-hd-fix": {
+      "star": 479,
+      "created_at": "2026-11-06T21:10:51Z",
+      "id": 1448752182
+    },
+    "aliligs37-collab/anydesk-remote-desktop-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T20:35:45Z",
+      "id": 1448723697
+    },
+    "harikumar35626-hash/wondshare-recoverit": {
+      "star": 479,
+      "created_at": "2026-11-06T21:32:43Z",
+      "id": 1448769268
+    },
+    "PedroVicenty1999/discord-quest-helper": {
+      "star": 479,
+      "created_at": "2026-11-06T20:54:23Z",
+      "id": 1448738988
+    },
+    "Tomyom15/microsoft-office-2026-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:10:59Z",
+      "id": 1448752302
+    },
+    "hafiezzakuan/autodesk-inventor-desktop-config": {
+      "star": 479,
+      "created_at": "2026-11-06T20:39:37Z",
+      "id": 1448726807
+    },
+    "narr4372/aiseesoft-unlocker": {
+      "star": 479,
+      "created_at": "2026-11-06T20:35:24Z",
+      "id": 1448723384
+    },
+    "ayanprob/coreldraw-desktop-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T20:49:17Z",
+      "id": 1448734795
+    },
+    "Sakshimodi14/fonepaw-unlocker-setup": {
+      "star": 479,
+      "created_at": "2026-11-06T21:00:43Z",
+      "id": 1448744172
+    },
+    "Malik-825/sketchup-pro-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:23:56Z",
+      "id": 1448762587
+    },
+    "wanjalaibra05-lgtm/phantom-blade-zero-assist": {
+      "star": 479,
+      "created_at": "2026-11-06T21:16:32Z",
+      "id": 1448756714
+    },
+    "1410822031/xyplorer-desktop-setup": {
+      "star": 479,
+      "created_at": "2026-11-06T21:33:08Z",
+      "id": 1448769551
+    },
+    "vidhansuman051/acrobat-pro-secure-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:43Z",
+      "id": 1448719234
+    },
+    "otaviolasch1989-cmd/coreldraw-graphics-suite-2026": {
+      "star": 479,
+      "created_at": "2026-11-06T20:49:29Z",
+      "id": 1448734943
+    },
+    "uchihamx999-beep/imei-repair-toolkit": {
+      "star": 479,
+      "created_at": "2026-11-06T21:04:17Z",
+      "id": 1448746909
+    },
+    "ebtsamalhakmy-sketch/desktop-backup-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T20:53:28Z",
+      "id": 1448738290
+    },
+    "Kauswa/autodesk-3ds-max-2026-standalone-setup": {
+      "star": 479,
+      "created_at": "2026-11-06T20:37:57Z",
+      "id": 1448725417
+    },
+    "Zohan1112/iobit-driver-booster-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:06:40Z",
+      "id": 1448748809
+    },
+    "arthurrossetocampos1-crypto/uttorent-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T21:29:41Z",
+      "id": 1448767034
+    },
+    "Fractal-Compute-Orchestrations/github_": {
+      "star": 490,
+      "created_at": "2026-10-26T06:04:48Z",
+      "id": 1433970549
+    },
+    "kitajs/html": {
+      "star": 800,
+      "created_at": "2023-07-22T20:30:14Z",
+      "id": 669605006
+    },
+    "gavngao/imu_x_fusion": {
+      "star": 1117,
+      "created_at": "2020-07-25T15:29:13Z",
+      "id": 282471470
+    },
+    "Cracked5pider/KaynLdr": {
+      "star": 548,
+      "created_at": "2021-12-26T14:32:11Z",
+      "id": 441911152
+    },
+    "AbhramJohn/instagram-engagement-bot": {
+      "star": 482,
+      "created_at": "2026-11-06T21:06:03Z",
+      "id": 1448748266
+    },
+    "mahmoudtawfik1998/secure-pdf-document-processor": {
+      "star": 481,
+      "created_at": "2026-11-06T21:23:09Z",
+      "id": 1448761997
+    },
+    "Leno27-Adr/autodesk-revit-2026-standalone": {
+      "star": 479,
+      "created_at": "2026-11-06T20:39:51Z",
+      "id": 1448726998
+    },
+    "amarisdzy/acronis-desktop-installer": {
+      "star": 479,
+      "created_at": "2026-11-06T20:30:41Z",
+      "id": 1448719208
+    },
+    "braazo/systemcare-pro": {
+      "star": 479,
+      "created_at": "2026-11-06T21:27:21Z",
+      "id": 1448765279
+    },
+    "pioneerdjsnoopy-hub/touch-copy": {
+      "star": 479,
+      "created_at": "2026-11-06T21:28:46Z",
+      "id": 1448766327
+    },
+    "BEJAIA13/catia-cad-desktop-setup": {
+      "star": 479,
+      "created_at": "2026-11-06T20:44:01Z",
+      "id": 1448730375
+    },
+    "mentormind/payday-3-enhancement-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T21:16:04Z",
+      "id": 1448756325
+    },
+    "ralco98/pia-vpn-privacy-suite": {
+      "star": 479,
+      "created_at": "2026-11-06T21:18:16Z",
+      "id": 1448758088
+    },
+    "sajawal-12/cubase-studio-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:50:21Z",
+      "id": 1448735676
+    },
+    "Vesuvio1/display-fusion": {
+      "star": 479,
+      "created_at": "2026-11-06T20:54:55Z",
+      "id": 1448739358
+    },
+    "Mistercat12/dvd-creator-setup": {
+      "star": 479,
+      "created_at": "2026-11-06T20:56:11Z",
+      "id": 1448740468
+    },
+    "App-MonicaWEB/auslogics-audio-studio-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:37:01Z",
+      "id": 1448724702
+    },
+    "FarhanNaem/startall-back": {
+      "star": 479,
+      "created_at": "2026-11-06T21:26:10Z",
+      "id": 1448764321
+    },
+    "Somenicehispanic/ashampoo-winoptimizer-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:36:25Z",
+      "id": 1448724231
+    },
+    "marorateb/burning-studio-desktop": {
+      "star": 479,
+      "created_at": "2026-11-06T20:43:05Z",
+      "id": 1448729605
+    },
+    "anubhav99jpr/actual-multiple-monitors": {
+      "star": 479,
+      "created_at": "2026-11-06T20:31:38Z",
+      "id": 1448720045
+    },
+    "PHISHER420/autodesk-inventor-desktop-config": {
+      "star": 479,
+      "created_at": "2026-11-06T20:40:29Z",
+      "id": 1448727509
+    },
+    "goncalosilva2503-dotcom/visio-desktop-analyzer": {
+      "star": 479,
+      "created_at": "2026-11-06T21:31:32Z",
+      "id": 1448768419
+    },
+    "jakobbjelver/messer-swipe": {
+      "star": 759,
+      "created_at": "2025-12-26T15:18:50Z",
+      "id": 1123294669
+    },
+    "pookjw/HermesEnabler": {
+      "star": 463,
+      "created_at": "2024-12-14T11:32:03Z",
+      "id": 903349957
+    },
+    "abhijot11/fabfilter-total": {
+      "star": 481,
+      "created_at": "2026-11-06T20:58:36Z",
+      "id": 1448742423
+    },
+    "jmanalabe/hwid-spoofer": {
+      "star": 481,
+      "created_at": "2026-11-06T21:04:00Z",
+      "id": 1448746680
+    },
+    "RolandoV3/metatrader-5-bot": {
+      "star": 481,
+      "created_at": "2026-11-06T21:09:36Z",
+      "id": 1448751207
+    },
+    "thiagoaureliomartins-programador/chief-architect-premier": {
+      "star": 481,
+      "created_at": "2026-11-06T20:45:00Z",
+      "id": 1448731208
+    },
+    "FaRHaD0098/vfx-motion-studio-deployment": {
+      "star": 479,
+      "created_at": "2026-11-06T21:30:40Z",
+      "id": 1448767795
+    },
+    "pravinpote1985/serato-dj-pro-2026": {
+      "star": 479,
+      "created_at": "2026-11-06T21:23:43Z",
+      "id": 1448762427
+    },
+    "ajayuv21/ozone-mastering-suite": {
+      "star": 478,
+      "created_at": "2026-11-06T21:15:09Z",
+      "id": 1448755573
+    },
+    "jxy333967/jianxunyun": {
+      "star": 422,
+      "created_at": "2026-11-01T12:54:27Z",
+      "id": 1441817527
+    },
+    "bramble-sh/bramble": {
+      "star": 400,
+      "created_at": "2026-06-01T02:30:43Z",
+      "id": 1255609001
+    },
+    "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
+      "star": 481,
+      "created_at": "2026-11-06T20:33:06Z",
+      "id": 1448721315
+    },
+    "Cracked5pider/Stardust": {
+      "star": 1378,
+      "created_at": "2022-02-20T01:23:35Z",
+      "id": 461355119
+    },
+    "tthn0/Spotify-Readme": {
+      "star": 401,
+      "created_at": "2021-06-20T06:07:44Z",
+      "id": 378571819
+    },
+    "confeden/Nova-Android": {
+      "star": 401,
+      "created_at": "2026-02-21T16:24:08Z",
+      "id": 1163435924
+    },
+    "bytedance/xpu-perf": {
+      "star": 401,
+      "created_at": "2023-04-12T03:55:01Z",
+      "id": 626734001
+    },
+    "Greenysmac/awesome-davinci-resolve": {
+      "star": 402,
+      "created_at": "2026-03-02T21:02:51Z",
+      "id": 1171073416
+    },
+    "noodle-rest/noodle": {
+      "star": 400,
+      "created_at": "2026-06-24T22:43:33Z",
+      "id": 1279660735
+    },
+    "c-pip/cpip": {
+      "star": 925,
+      "created_at": "2025-08-14T19:23:15Z",
+      "id": 1038196040
+    },
+    "SnehalSukale27/power-director": {
+      "star": 480,
+      "created_at": "2026-11-06T21:18:39Z",
+      "id": 1448758376
+    },
+    "thakurnadish5/whale-tracker-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:31:48Z",
+      "id": 1448768611
+    },
+    "neutro2025/chimera-desktop-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T20:45:38Z",
+      "id": 1448731782
+    },
+    "vigilantediurno2-del/microstation-2026-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:11:20Z",
+      "id": 1448752585
+    },
+    "ethangangasingh-crypto/musicmakerunlimited": {
+      "star": 480,
+      "created_at": "2026-11-06T21:14:04Z",
+      "id": 1448754711
+    },
+    "dikshantghimire321-droid/kontakt-8-config": {
+      "star": 480,
+      "created_at": "2026-11-06T21:07:23Z",
+      "id": 1448749417
+    },
+    "ma7401153-sketch/daemon-pro-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T20:51:00Z",
+      "id": 1448736193
+    },
+    "jeevijk/secure-asset-deploy": {
+      "star": 480,
+      "created_at": "2026-11-06T21:22:00Z",
+      "id": 1448760991
+    },
+    "Cybertechbear101/grayket-config": {
+      "star": 480,
+      "created_at": "2026-11-06T21:02:20Z",
+      "id": 1448745410
+    },
+    "woo20080623-cell/cinebench-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:47:00Z",
+      "id": 1448732908
+    },
+    "shammahcharumbira/universal-neural-injector-center": {
+      "star": 480,
+      "created_at": "2026-11-06T21:29:20Z",
+      "id": 1448766755
+    },
+    "sceranaud123-byte/drfone-unlock-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:55:10Z",
+      "id": 1448739579
+    },
+    "janitoff0/ninjatrader-bot": {
+      "star": 480,
+      "created_at": "2026-11-06T21:13:59Z",
+      "id": 1448754654
+    },
+    "toxik-play/fishing-planet-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T20:59:25Z",
+      "id": 1448743089
+    },
+    "CodeSouvik/clion-standalone-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T20:48:32Z",
+      "id": 1448734199
+    },
+    "sghnnnn01212-cmyk/data-grip-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:51:37Z",
+      "id": 1448736717
+    },
+    "mubeen278/metatrader-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:10:21Z",
+      "id": 1448751783
+    },
+    "R1zmu24/discord-server-raider": {
+      "star": 480,
+      "created_at": "2026-11-06T20:54:43Z",
+      "id": 1448739227
+    },
+    "anas7757/android-unlocker-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:35:31Z",
+      "id": 1448723508
+    },
+    "Tiototo019/cinebench-2026-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T20:46:44Z",
+      "id": 1448732692
+    },
+    "pakistanwala65-debug/whale-tracker": {
+      "star": 480,
+      "created_at": "2026-11-06T21:31:47Z",
+      "id": 1448768597
+    },
+    "SIDHU11/soundpad-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:25:13Z",
+      "id": 1448763575
+    },
+    "daiphu2708-crypto/melodyne-5-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:09:49Z",
+      "id": 1448751363
+    },
+    "AronnyoC/adobe-indesign-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T20:32:34Z",
+      "id": 1448720844
+    },
+    "guoyaping5-del/autodesk-3ds-max-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:38:33Z",
+      "id": 1448725964
+    },
+    "agrim18072011-lgtm/ads-blocker": {
+      "star": 480,
+      "created_at": "2026-11-06T20:33:21Z",
+      "id": 1448721535
+    },
+    "SAPikachu/amae-koromo": {
+      "star": 401,
+      "created_at": "2019-09-10T03:15:38Z",
+      "id": 207455372
+    },
+    "MeiloX/MeiloX": {
+      "star": 409,
+      "created_at": "2026-08-12T05:47:43Z",
+      "id": 1331659738
+    },
+    "flowhmr/flowhmr": {
+      "star": 447,
+      "created_at": "2026-09-29T09:25:01Z",
+      "id": 1394821808
+    },
+    "M-Hitesh/sylenth-1-desktop-build": {
+      "star": 480,
+      "created_at": "2026-11-06T21:26:57Z",
+      "id": 1448764959
+    },
+    "XYZbam/dft-pro-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:53:45Z",
+      "id": 1448738501
+    },
+    "IsaiaR09/daemon-pro-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:50:44Z",
+      "id": 1448735964
+    },
+    "2024dc04123-PAVANP/exitlag-performance-tweaks": {
+      "star": 480,
+      "created_at": "2026-11-06T20:58:26Z",
+      "id": 1448742296
+    },
+    "vishnu05-codes/ozone-12-advanced": {
+      "star": 480,
+      "created_at": "2026-11-06T21:14:51Z",
+      "id": 1448755340
+    },
+    "GUFRAN7998/passfab-unlocker-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:15:18Z",
+      "id": 1448755703
+    },
+    "yu2855187259-hash/photo-commander-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:18:12Z",
+      "id": 1448758043
+    },
+    "gianholun/better-discord-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:41:32Z",
+      "id": 1448728360
+    },
+    "Pereira001/delta-force-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T20:51:55Z",
+      "id": 1448736973
+    },
+    "Sally-Sobhy/fabfilter-pro-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:59:04Z",
+      "id": 1448742791
+    },
+    "hermosillap/data-grip": {
+      "star": 480,
+      "created_at": "2026-11-06T20:51:05Z",
+      "id": 1448736272
+    },
+    "nabilaolivia2104-commits/adobe-indesign-deployment-pipeline": {
+      "star": 480,
+      "created_at": "2026-11-06T20:30:52Z",
+      "id": 1448719369
+    },
+    "rayoade27-ux/ultra-edit-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:29:02Z",
+      "id": 1448766512
+    },
+    "parthkshirsagar2456-blip/voicemod-desktop-edition": {
+      "star": 480,
+      "created_at": "2026-11-06T21:31:28Z",
+      "id": 1448768370
+    },
+    "blockacc12345/music-maker-unlimited": {
+      "star": 480,
+      "created_at": "2026-11-06T21:13:35Z",
+      "id": 1448754381
+    },
+    "LiteLDev/LeviLauncher-Android": {
+      "star": 479,
+      "created_at": "2025-03-31T16:34:30Z",
+      "id": 958098700
+    },
+    "fahadalijaved/OneOS": {
+      "star": 413,
+      "created_at": "2026-10-24T05:56:45Z",
+      "id": 1431865125
+    },
+    "EveryInc/compound-writing": {
+      "star": 402,
+      "created_at": "2026-06-02T02:04:41Z",
+      "id": 1256679099
+    },
+    "Goldoire/fefw-recomp": {
+      "star": 404,
+      "created_at": "2026-11-07T21:58:07Z",
+      "id": 1449770510
+    },
+    "CrushCraftsman/mzwerkba": {
+      "star": 467,
+      "created_at": "2026-10-12T02:18:44Z",
+      "id": 1414956365
+    },
+    "swipt-automation/swipt": {
+      "star": 427,
+      "created_at": "2026-10-29T08:39:54Z",
+      "id": 1438154272
+    },
+    "Cracked5pider/KaynStrike": {
+      "star": 436,
+      "created_at": "2022-05-30T04:22:59Z",
+      "id": 497786988
+    },
+    "aimpact-inc/repo-harness": {
+      "star": 400,
+      "created_at": "2026-03-19T15:35:43Z",
+      "id": 1186405141
+    },
+    "anasq5968-tech/imobie-anytrans-security-audit": {
+      "star": 480,
+      "created_at": "2026-11-06T21:05:46Z",
+      "id": 1448748049
+    },
+    "kalyandoondiram/ios-unlocker": {
+      "star": 480,
+      "created_at": "2026-11-06T21:06:48Z",
+      "id": 1448748910
+    },
+    "aguiaazultecnologia/crash-plan-standalone": {
+      "star": 480,
+      "created_at": "2026-11-06T20:49:39Z",
+      "id": 1448735078
+    },
+    "daudarshad-tech/movavi-effects-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:12:51Z",
+      "id": 1448753828
+    },
+    "Forgavin/ultra-iso-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:28:52Z",
+      "id": 1448766390
+    },
+    "vnaurudo/php-storm-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:18:06Z",
+      "id": 1448757964
+    },
+    "parmarbg2712-lgtm/movavi-effects-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:13:04Z",
+      "id": 1448753995
+    },
+    "angelonyn/chimera-desktop-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T20:46:25Z",
+      "id": 1448732425
+    },
+    "Paulinho182/hitfilm-desktop-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:02:28Z",
+      "id": 1448745513
+    },
+    "sajiddevoloper-bd/studioonepro7-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:26:19Z",
+      "id": 1448764421
+    },
+    "Gacktadactle/fortnite-skin-swapper-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T21:01:35Z",
+      "id": 1448744840
+    },
+    "felipemartinsr/fonetrans-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:01:27Z",
+      "id": 1448744759
+    },
+    "farhodzodatojiddin5-cpu/exitlag-optimizer": {
+      "star": 480,
+      "created_at": "2026-11-06T20:58:34Z",
+      "id": 1448742399
+    },
+    "groschen81-web/secure-desktop-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:23:15Z",
+      "id": 1448762064
+    },
+    "hayfa1234/honkai-star-rail-enhancement-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T21:03:58Z",
+      "id": 1448746651
+    },
+    "leostanger/fabfilter-pro-media-tool": {
+      "star": 480,
+      "created_at": "2026-11-06T20:59:29Z",
+      "id": 1448743148
+    },
+    "pastebin2019/multiaccountmanager-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T21:13:18Z",
+      "id": 1448754172
+    },
+    "theonlyoneexocctical-beep/cellebrite-ufed-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T20:44:28Z",
+      "id": 1448730777
+    },
+    "hembramneeraj3-create/aida-64-extreme": {
+      "star": 480,
+      "created_at": "2026-11-06T20:33:44Z",
+      "id": 1448721877
+    },
+    "marcoscarrillo26/audio-workbench-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:36:35Z",
+      "id": 1448724356
+    },
+    "AleRibeiro44/archicad-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T20:36:04Z",
+      "id": 1448723952
+    },
+    "mamoon-ansari/easy-worship": {
+      "star": 480,
+      "created_at": "2026-11-06T20:57:16Z",
+      "id": 1448741378
+    },
+    "mangruby47-sys/bloxshade-roblox-standalone-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T20:42:04Z",
+      "id": 1448728790
+    },
+    "RyoTheOne/dxo-photolab-10-config": {
+      "star": 480,
+      "created_at": "2026-11-06T20:56:41Z",
+      "id": 1448740904
+    },
+    "Dittobyte/Recompia": {
+      "star": 500,
+      "created_at": "2026-11-02T21:44:06Z",
+      "id": 1443519371
+    },
+    "st-lzh/Wuhr-AI-ops": {
+      "star": 401,
+      "created_at": "2025-07-04T03:27:49Z",
+      "id": 1013517766
+    },
+    "Kohei-Wada/houritsu": {
+      "star": 401,
+      "created_at": "2026-10-16T11:54:55Z",
+      "id": 1422097988
+    },
+    "KURO-CODE/DoxTracker": {
+      "star": 400,
+      "created_at": "2018-08-15T20:13:59Z",
+      "id": 144898970
+    },
+    "suryakantamangaraj/awesome-riscv": {
+      "star": 400,
+      "created_at": "2020-09-06T07:43:47Z",
+      "id": 293227965
+    },
+    "fedden/RenderMan": {
+      "star": 400,
+      "created_at": "2017-02-22T10:09:32Z",
+      "id": 82790125
+    },
+    "Override92/AiSList": {
+      "star": 400,
+      "created_at": "2025-10-22T13:01:41Z",
+      "id": 1081202237
+    },
+    "fourzkw/dsh-drawai": {
+      "star": 419,
+      "created_at": "2026-09-15T16:30:49Z",
+      "id": 1371788896
+    },
+    "Kianuni/Erosion-CN": {
+      "star": 427,
+      "created_at": "2026-11-10T02:37:31Z",
+      "id": 1452123445
+    },
+    "robertsjunior/fonetrans-desktop-setup": {
+      "star": 480,
+      "created_at": "2026-11-06T21:01:39Z",
+      "id": 1448744883
+    },
+    "krishnasaim762-boop/melodyne-5-desktop-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:09:22Z",
+      "id": 1448751029
+    },
+    "Elegantic/designcenter-nx-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T20:52:51Z",
+      "id": 1448737811
+    },
+    "Thormass007/substance-3d-alt-access": {
+      "star": 480,
+      "created_at": "2026-11-06T21:26:24Z",
+      "id": 1448764485
+    },
+    "karthik105karthik/ifunbox-desktop-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:04:08Z",
+      "id": 1448746762
+    },
+    "tianjanahary05-source/reason-14-installer": {
+      "star": 480,
+      "created_at": "2026-11-06T21:20:39Z",
+      "id": 1448759974
+    },
+    "Marcian15350/robux-generator-enhancement": {
+      "star": 480,
+      "created_at": "2026-11-06T21:20:48Z",
+      "id": 1448760087
+    },
+    "xavier442/pump-fun-desktop": {
+      "star": 480,
+      "created_at": "2026-11-06T21:20:42Z",
+      "id": 1448760003
+    },
+    "RafliAbdulHaliim/sylenth-1-enhancement-suite": {
+      "star": 480,
+      "created_at": "2026-11-06T21:27:09Z",
+      "id": 1448765129
+    },
+    "Roland0511/dsh-marktext": {
+      "star": 410,
+      "created_at": "2026-11-02T08:45:00Z",
+      "id": 1442716351
+    },
+    "fraunhoferhhi/Self-Organizing-Gaussians": {
+      "star": 400,
+      "created_at": "2023-12-19T15:50:22Z",
+      "id": 733560793
+    },
+    "dievus/threader3000": {
+      "star": 400,
+      "created_at": "2020-06-03T14:57:59Z",
+      "id": 269117489
+    },
+    "iilegacyyii/ThreadlessInject-BOF": {
+      "star": 400,
+      "created_at": "2023-02-18T20:27:09Z",
+      "id": 603540654
+    },
+    "HariAcidReign/JavaScript-A-Z-Notes": {
+      "star": 400,
+      "created_at": "2021-01-10T11:11:04Z",
+      "id": 328363811
+    },
+    "ea/lytro_unlock": {
+      "star": 400,
+      "created_at": "2023-01-21T22:11:48Z",
+      "id": 591794542
+    },
+    "chokkan/python": {
+      "star": 400,
+      "created_at": "2021-10-04T13:29:11Z",
+      "id": 413433399
+    },
+    "rapidfuzz/Levenshtein": {
+      "star": 400,
+      "created_at": "2021-05-19T21:47:02Z",
+      "id": 369009015
+    },
+    "DW-Tas/EMU": {
+      "star": 400,
+      "created_at": "2025-08-24T11:54:35Z",
+      "id": 1043682194
+    },
+    "declarative-dragging/dragology": {
+      "star": 600,
+      "created_at": "2026-10-29T01:58:11Z",
+      "id": 1437836875
+    },
+    "guifelix/awesome-tasker": {
+      "star": 400,
+      "created_at": "2019-01-24T12:52:18Z",
+      "id": 167367189
+    },
+    "slashmili/jdatetime": {
+      "star": 400,
+      "created_at": "2011-05-02T08:07:18Z",
+      "id": 1690483
+    },
+    "r9y9/nnmnkwii": {
+      "star": 400,
+      "created_at": "2017-07-05T14:33:50Z",
+      "id": 96328821
+    },
+    "godotengine/godot-website": {
+      "star": 400,
+      "created_at": "2017-09-05T16:18:42Z",
+      "id": 102503979
+    },
+    "worldcoin/orb-software": {
+      "star": 400,
+      "created_at": "2024-01-17T10:09:03Z",
+      "id": 744444447
+    },
+    "mrzool/unix-as-ide": {
+      "star": 400,
+      "created_at": "2015-12-19T18:08:56Z",
+      "id": 48292207
+    },
+    "mocheng/dissecting-rxjs": {
+      "star": 400,
+      "created_at": "2018-01-09T02:05:23Z",
+      "id": 116752598
+    },
+    "draperlaboratory/fracture": {
+      "star": 400,
+      "created_at": "2014-02-21T16:18:01Z",
+      "id": 17061902
+    },
+    "necroware/gameport-adapter": {
+      "star": 400,
+      "created_at": "2020-11-23T16:03:30Z",
+      "id": 315367883
+    },
+    "woo-j/OkapiBarcode": {
+      "star": 400,
+      "created_at": "2014-10-18T07:56:14Z",
+      "id": 25391201
+    },
+    "FOSSASIA-Web/gdocs2md-temp": {
+      "star": 400,
+      "created_at": "2018-10-04T07:23:02Z",
+      "id": 151533840
+    },
+    "CalvinXu17/PUBG-Logitech": {
+      "star": 400,
+      "created_at": "2022-04-02T03:56:30Z",
+      "id": 476941570
+    },
+    "radareorg/radeco": {
+      "star": 400,
+      "created_at": "2015-05-17T20:50:20Z",
+      "id": 35782470
+    },
+    "jailbreakdotparty/Erosion": {
+      "star": 651,
+      "created_at": "2026-08-23T17:54:52Z",
+      "id": 1344059029
+    },
+    "raphaelsalaja/web-kits": {
+      "star": 501,
+      "created_at": "2026-04-04T13:49:52Z",
+      "id": 1201303861
+    },
+    "nomo-md/nomo": {
+      "star": 407,
+      "created_at": "2026-05-29T09:23:01Z",
+      "id": 1253245105
+    },
+    "saulob/dragons-crown-pro-pc": {
+      "star": 403,
+      "created_at": "2026-10-14T11:32:56Z",
+      "id": 1418803345
+    },
+    "Cracked5pider/LdrLibraryEx": {
+      "star": 464,
+      "created_at": "2023-11-06T15:34:35Z",
+      "id": 715157585
+    },
+    "NullTale/LutLight2D": {
+      "star": 400,
+      "created_at": "2023-04-02T18:49:55Z",
+      "id": 622658676
+    },
+    "NubPlayz/GoodLib-Zlib-Goodreads-extension": {
+      "star": 400,
+      "created_at": "2026-03-18T07:43:58Z",
+      "id": 1185061197
+    },
+    "sciter-sdk/pysciter": {
+      "star": 400,
+      "created_at": "2016-02-17T19:57:51Z",
+      "id": 51951031
+    },
+    "malaterre/GDCM": {
+      "star": 400,
+      "created_at": "2010-11-15T11:34:55Z",
+      "id": 1081667
+    },
+    "alexturkey/voxcpm2-turkce-ses-tasarimi": {
+      "star": 400,
+      "created_at": "2026-10-22T19:08:51Z",
+      "id": 1430167077
+    },
+    "ll0v0ll/GetQzonehistory": {
+      "star": 400,
+      "created_at": "2025-10-22T10:14:07Z",
+      "id": 1081105074
+    },
+    "TIO-IKIM/CellViT": {
+      "star": 400,
+      "created_at": "2023-06-20T11:39:24Z",
+      "id": 656166567
+    },
+    "meta/meta-wearables-dat-android": {
+      "star": 400,
+      "created_at": "2025-11-10T17:19:50Z",
+      "id": 1093669781
+    },
+    "AndunHH/spacemouse": {
+      "star": 400,
+      "created_at": "2024-05-28T19:33:22Z",
+      "id": 807272345
+    },
+    "breuleux/ovld": {
+      "star": 400,
+      "created_at": "2020-08-20T19:53:01Z",
+      "id": 289097400
+    },
+    "ubavic/bas-celik": {
+      "star": 400,
+      "created_at": "2023-07-13T09:51:19Z",
+      "id": 665922911
+    },
+    "unixzii/SimRun": {
+      "star": 400,
+      "created_at": "2026-10-10T09:09:19Z",
+      "id": 1412989753
+    },
+    "nix-community/nix-vscode-extensions": {
+      "star": 400,
+      "created_at": "2022-08-27T06:23:22Z",
+      "id": 529501861
+    },
+    "LeoKemp223/NextBoard": {
+      "star": 400,
+      "created_at": "2026-04-28T15:27:20Z",
+      "id": 1223713824
+    },
+    "BrowserWorks/waterfox-android": {
+      "star": 400,
+      "created_at": "2022-04-04T11:11:26Z",
+      "id": 477665256
+    },
+    "jihoonerd/Data_Structures_and_Algorithms_in_Python": {
+      "star": 400,
+      "created_at": "2017-05-12T03:09:51Z",
+      "id": 91045996
+    },
+    "Grible/timetable.js": {
+      "star": 400,
+      "created_at": "2015-06-09T13:20:44Z",
+      "id": 37133203
+    },
+    "QubesOS/qvm-create-windows-qube": {
+      "star": 400,
+      "created_at": "2019-12-10T23:34:38Z",
+      "id": 227235670
+    },
+    "PlateParrotTerminal/lag-doctor": {
+      "star": 439,
+      "created_at": "2026-11-08T04:19:51Z",
+      "id": 1449966158
+    },
+    "sxguojf/three-tile": {
+      "star": 400,
+      "created_at": "2023-10-16T02:41:20Z",
+      "id": 705445472
+    },
+    "mattearnshaw/lawvere": {
+      "star": 400,
+      "created_at": "2016-08-25T11:33:51Z",
+      "id": 66552505
+    },
+    "YozakuraStudios/MCBVanillaResourcePack": {
+      "star": 400,
+      "created_at": "2018-07-02T08:13:38Z",
+      "id": 139411965
+    },
+    "new-coke/strikers": {
+      "star": 409,
+      "created_at": "2026-09-10T12:26:34Z",
+      "id": 1364100151
+    },
+    "TooonyChen/finallyshell": {
+      "star": 429,
+      "created_at": "2026-11-07T00:34:42Z",
+      "id": 1448889325
+    },
+    "momusdigital/fnv_decomp": {
+      "star": 403,
+      "created_at": "2026-10-31T00:41:27Z",
+      "id": 1440368239
+    },
+    "tangency-labs/solidcore": {
+      "star": 406,
+      "created_at": "2026-10-12T18:35:50Z",
+      "id": 1415992886
+    },
+    "ChesterGoodiny/luci-theme-proton2025": {
+      "star": 403,
+      "created_at": "2025-12-17T00:09:53Z",
+      "id": 1117874204
+    },
+    "Forward-Future/folio": {
+      "star": 406,
+      "created_at": "2026-10-26T21:02:24Z",
+      "id": 1434926681
+    },
+    "MagoStudio/MagoStudio": {
+      "star": 406,
+      "created_at": "2026-11-02T16:03:10Z",
+      "id": 1443177140
+    },
+    "cauliflowermossgrape/idrive7-8-ssh-root": {
+      "star": 406,
+      "created_at": "2026-10-22T12:37:32Z",
+      "id": 1429727039
     }
   }
 }
