@@ -72,8 +72,10 @@ class GitHub:
     def info(self, name: str) -> dict | None:
         return self._run(lambda c: repo_api.info(c, self.pool, name))
 
-    def profile(self, name: str, want: tuple[str, ...] = repo_api.ALL) -> dict[str, Any]:
-        return self._run(lambda c: repo_api.profile(c, self.pool, name, want))
+    def profile(self, name: str, want: tuple[str, ...] = repo_api.ALL, *,
+                readme_max_chars: int | None = repo_api.README_MAX_CHARS) -> dict[str, Any]:
+        return self._run(lambda c: repo_api.profile(
+            c, self.pool, name, want, readme_max_chars=readme_max_chars))
 
     def profiles(self, names: list[str],
                  want: tuple[str, ...] = repo_api.ALL) -> dict[str, dict]:
@@ -85,6 +87,12 @@ class GitHub:
     def search(self, query: str, *, limit: int = 5, sort: str = "stars") -> list[dict]:
         return self._run(lambda c: repo_api.search(c, self.pool, query,
                                                    limit=limit, sort=sort))
+
+    def search_result(self, query: str, *, limit: int = 5,
+                      sort: str = "relevance") -> dict:
+        """交互搜索保留 total_count / incomplete_results,不自动重试或翻页。"""
+        return self._run(lambda c: repo_api.search_result(
+            c, self.pool, query, limit=limit, sort=sort))
 
     def stars(self, names: list[str]) -> collect.Harvest:
         """批量取**当前** star。榜单的被减数走这里,和每日采集是同一条路。

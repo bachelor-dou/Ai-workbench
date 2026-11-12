@@ -140,6 +140,19 @@ def test_the_current_star_is_asked_for_live_never_read_from_a_snapshot(world):
     assert out["ranked"][0][1]["growth"] == 2000        # 3000(实时) − 1000(基线)
 
 
+def test_a_blacklisted_repo_is_dropped_before_anything_is_fetched(world, monkeypatch):
+    """黑名单在取名单那一步就剔,不为它花 API 配额;大小写要认。"""
+    monkeypatch.setattr(config, "EXCLUDED_REPOS", frozenset({"a/x"}))
+    world["db"] = {"A/X": {"created_at": _created(500)}, "b/y": {"created_at": _created(500)}}
+    world["baselines"][7] = _baseline({"A/X": 1000, "b/y": 1000}, 7)
+    gh = _GH({"A/X": 3000, "b/y": 3000})
+
+    out = ranking.run(min_star=500, growth_threshold=1000, growth_days=7,
+                      do_report=False, gh=gh)
+    assert gh.asked == ["b/y"]
+    assert [n for n, _ in out["ranked"]] == ["b/y"]
+
+
 def test_no_github_token_means_no_ranking_rather_than_a_wrong_one(world):
     world["db"] = {"a/x": {"created_at": _created(500)}}
     world["baselines"][7] = _baseline({"a/x": 1000}, 7)

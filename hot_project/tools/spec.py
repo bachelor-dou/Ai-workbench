@@ -13,7 +13,7 @@ import json
 import logging
 import math
 from collections.abc import Callable, Sequence
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from typing import Any
 
 logger = logging.getLogger("hot_project")
@@ -137,6 +137,22 @@ class Ctx:
     state: Any = None                   # 会话状态,只有 agent 路径有
     user_id: str = ""
     progress: Callable[[int, str], None] | None = None
+    turn_state: dict = field(default_factory=dict)
+    confirmation_signature: str | None = field(default=None, init=False)
+
+    def begin_turn(self, message: str) -> None:
+        """只有本轮用户的明确确认,才能授权上一轮展示过的参数。"""
+        self.turn_state.clear()
+        self.confirmation_signature = None
+        if self.state is None:
+            return
+        if message.strip().rstrip("。.!！").casefold() in {
+            "开始", "开始吧", "开始执行", "确认", "确认执行", "go", "yes",
+        }:
+            self.confirmation_signature = self.state.pending_confirmation_signature
+        else:
+            self.state.pending_confirmation_signature = None
+            self.state.tool_state.pop(_PENDING, None)
 
 
 _PENDING = "pending_confirmation"       # tool_state 里的待确认槽,会话全局只有一格
@@ -172,6 +188,10 @@ class Registry:
         tool = self._tools.get(name)
         if tool is None:
             return {"error": f"没有这个工具:{name}", "available": self.names()}
+        if tool.expensive and args.get("confirm") is True and ctx.state is not None:
+            stored = ctx.state.tool_state.get(_PENDING) or {}
+            if ctx.state.pending_confirmation_signature and stored.get("tool") == name:
+                args = {**stored["params"], **args}
         clean, errors = tool.validate(args)
         if errors:
             return {"error": "参数校验失败,请按 invalid_arguments 修正后重试。",
@@ -186,7 +206,7 @@ class Registry:
 
         回显和执行必须是同一份参数:参数存进会话,`confirm=true` 复调时用存下的那份 ——
         模型复述参数时会漂移(少个 `min_star`、把 top_n 从 20 写成 10),而用户确认的是
-        屏幕上那份。确认还必须认「是哪个工具」,换个工具带 confirm 不能开门。
+        屏幕上那份。确认必须同时匹配本轮用户授权与工具,换工具或重复调用都不能开门。
         """
         confirm = bool(params.pop("confirm", False))
         signature = _signature(tool.name, params)
@@ -194,8 +214,9 @@ class Registry:
 
         pending = state.pending_confirmation_signature if state else None
         stored = (state.tool_state.get(_PENDING) or {}) if state else {}
-        if not (pending and stored.get("tool") == tool.name
-                and (confirm or pending == signature)):
+        if not (confirm and pending and ctx.confirmation_signature == pending
+                and stored.get("tool") == tool.name):
+            ctx.confirmation_signature = None
             if state is not None:
                 state.pending_confirmation_signature = signature
                 state.tool_state[_PENDING] = {"tool": tool.name, "params": params}
@@ -205,8 +226,8 @@ class Registry:
             return {"needs_confirmation": True, "tool": tool.name,
                     "params": params, "message": message}
 
-        if "params" in stored:              # tool 已在上面比过
-            params = stored["params"]       # 用回显过的那份,见 docstring
+        params = stored["params"]
+        ctx.confirmation_signature = None
         if state is not None:
             state.pending_confirmation_signature = None
             state.tool_state.pop(_PENDING, None)

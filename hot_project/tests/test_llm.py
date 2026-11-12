@@ -259,6 +259,11 @@ def test_newer_azure_models_with_tools_must_not_mention_thinking_at_all():
         assert "reasoning_effort" not in body, (backend, model)
         assert protocol.payload(backend, model, [],
                                 effort="high")["reasoning_effort"] == "high"
+    # gpt-6:默认档不再是 none,带工具时键缺席照样 400,必须显式发 none(实测)。
+    body = protocol.payload("azure", "gpt-6-sol", [], tools=tool, effort="high")
+    assert body["reasoning_effort"] == "none"
+    assert protocol.payload("azure", "gpt-6-sol", [],
+                            effort="high")["reasoning_effort"] == "high"
     assert protocol.payload("azure", "gpt-5.4", [], tools=tool,
                             effort="high")["reasoning_effort"] == "high"
 

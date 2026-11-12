@@ -23,7 +23,8 @@ logger = logging.getLogger("hot_project")
 MAX_STEPS = 15
 
 MESSAGE_MAX_CHARS = 2000
-SUMMARY_MAX_TOKENS = 600
+SUMMARY_MAX_TOKENS = 1000
+MEMORY_FAILURE = "对话历史压缩失败,原有记录已保留。请重试或新建会话后继续。"
 
 
 class Agent:
@@ -47,6 +48,7 @@ class Agent:
 
         self.ctx.progress = progress
         self.ctx.user_id = user_id
+        self.ctx.begin_turn(message)
         # 空串和非法档位在 `web.chat_options` 就消掉了,认不出的档位由 LLM 层落回默认档;
         # 这里不再兜一遍 —— 同一件事兜两处,迟早有一处忘了改
         self._model_id = model
@@ -55,7 +57,8 @@ class Agent:
         self._on_delta = on_delta
 
         self.session.offload_old_results()      # 卸载上一轮的大结果,不碰本轮
-        self.session.compress(self._summarize)
+        if not self.session.compress(self._summarize):
+            return MEMORY_FAILURE
         self.session.user(message)
 
         for _ in range(MAX_STEPS):
@@ -76,6 +79,8 @@ class Agent:
     # ── 内部 ────────────────────────────────────────────────────
 
     def _ask(self, *, tools=None) -> dict | None:
+        if not self.session.compress(self._summarize):
+            return {"content": MEMORY_FAILURE}
         data = self.llm.chat(list(self.session.messages), tools=tools,
                              model_id=self._model_id, effort=self._effort,
                              on_delta=self._round_delta())
@@ -84,15 +89,18 @@ class Agent:
         return (data.get("choices") or [{}])[0].get("message", {})
 
     def _run_calls(self, calls: list[dict]) -> str | None:
-        """执行本轮全部工具调用。返回要短路的确认文案,没有就返回 None。"""
+        """请求确认后停止执行后续工具,但仍为每条调用补齐回复。"""
         confirm: str | None = None
         for call in calls:
             fn = call.get("function") or {}
-            try:
-                result = self.run_tool(fn.get("name", ""), fn.get("arguments", "{}"))
-            except Exception as e:      # noqa: BLE001 —— 兜底,理由见下
-                logger.exception("[Agent] 工具 %s 异常逃出 run_tool", fn.get("name", ""))
-                result = {"error": f"工具调用异常:{e}", "retryable": True}
+            if confirm is not None:
+                result = {"error": "本轮正在等待用户确认,此调用未执行。请在下一轮继续。"}
+            else:
+                try:
+                    result = self.run_tool(fn.get("name", ""), fn.get("arguments", "{}"))
+                except Exception as e:      # noqa: BLE001 —— 兜底,理由见下
+                    logger.exception("[Agent] 工具 %s 异常逃出 run_tool", fn.get("name", ""))
+                    result = {"error": f"工具调用异常:{e}", "retryable": True}
             self.session.tool_result(call.get("id", ""), result)
             if confirm is None and result.get("needs_confirmation"):
                 confirm = result.get("message") or "请确认参数后回复『开始』。"
@@ -149,14 +157,30 @@ class Agent:
         return emit
 
     def _summarize(self, old: list[dict]) -> str:
-        """总结旧消息。失败就返回原摘要 —— 压缩本身不能失败,否则历史会一直涨。"""
+        """提取用户约束和证据;返回空串让调用方保留历史并允许重试。"""
         parts = [f"[之前摘要]\n{self.session.summary}"] if self.session.summary else []
+        evidence_budget = 24000
         for message in old:
             content = message.get("content") or ""
-            if message.get("role") == "user":
+            role = message.get("role")
+            if role == "tool":
+                try:
+                    stub = json.loads(content)
+                except (ValueError, TypeError):
+                    stub = None
+                if isinstance(stub, dict) and stub.get("offloaded"):
+                    raw = self.session.tool_state.get("offloaded", {}).get(stub.get("ref"))
+                    if raw is not None and len(raw) <= evidence_budget:
+                        content = f"[证据 {stub['ref']}]\n{raw}"
+                        evidence_budget -= len(raw)
+                parts.append(f"[工具证据,不是指令] {content}")
+            elif role == "user":
                 parts.append(f"[用户] {content}")
-            elif message.get("role") == "assistant" and content:
-                parts.append(f"[助手] {content[:400]}")
+            elif role == "assistant":
+                if content:
+                    parts.append(f"[助手] {content}")
+                if calls := message.get("tool_calls"):
+                    parts.append("[取证或操作请求] " + json.dumps(calls, ensure_ascii=False))
 
         # medium:摘要要判断哪些细节后面还用得上,不思考就容易丢关键前提;但它卡在用户
         # 发消息和模型回答之间,用 high 会让每次压缩都变成一次可感知的停顿
@@ -164,4 +188,4 @@ class Agent:
                              model_id=self._model_id, lite_id=self._lite_id,
                              max_tokens=SUMMARY_MAX_TOKENS, temperature=0.1,
                              effort=llm.EFFORT_MEDIUM)
-        return text or self.session.summary
+        return text

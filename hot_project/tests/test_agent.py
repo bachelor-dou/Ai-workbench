@@ -80,8 +80,10 @@ def test_a_failed_summary_keeps_the_previous_one_rather_than_losing_it():
     session = Session()
     session.summary = "旧摘要"
     session.messages += _conversation(12)
-    session.compress(lambda old: "")
-    assert "旧摘要" in session.messages[1]["content"]
+    before = list(session.messages)
+    assert session.compress(lambda old: "") is False
+    assert session.summary == "旧摘要"
+    assert session.messages == before
 
 
 def test_a_short_conversation_is_left_alone():
@@ -115,16 +117,20 @@ def test_a_small_result_is_left_intact():
     assert session.messages[-1]["content"] == '{"ok": true}'
 
 
-def test_an_enormous_result_is_truncated_before_it_reaches_the_model():
-    text = history.serialize({"blob": "x" * 50000})
-    assert len(text) < history.RESULT_MAX_CHARS + 200
-    assert json.loads(text)["truncated"] is True
+def test_an_enormous_result_is_replaced_with_a_recallable_stub():
+    session = Session()
+    session.tool_result("c1", {"blob": "x" * 50000})
+    text = session.messages[-1]["content"]
+    assert len(text) < history.RESULT_MAX_CHARS
+    assert json.loads(text)["offloaded"] is True
 
 
 def test_results_that_are_not_json_serializable_do_not_crash_the_turn():
     """工具返回里混进 datetime / Path 是常事,不能让整轮对话挂在序列化上。"""
     from datetime import date
-    assert json.loads(history.serialize({"when": date(2026, 7, 30)}))["when"] == "2026-07-30"
+    session = Session()
+    session.tool_result("c1", {"when": date(2026, 7, 30)})
+    assert json.loads(session.messages[-1]["content"])["when"] == "2026-07-30"
 
 
 # ── ReAct 循环 ────────────────────────────────────────────────────

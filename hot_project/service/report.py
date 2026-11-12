@@ -147,11 +147,11 @@ def _sections(name: str, saved: dict, prose: str, new_window: int) -> list[tuple
 # ── 描述的取得 ──────────────────────────────────────────────────────
 
 def _needs_llm(saved: dict) -> bool:
-    """没描述、或描述过期了就要重生成。
+    """没描述、缺段(对话渠道写过三段版)、或描述过期了就要重生成。
 
     没有时间戳的旧数据**不**算过期,否则全库描述会一次性失效、一轮重刷几百个。
     """
-    if not saved.get("desc"):
+    if not describe.has_all_sections(saved.get("desc", "")):
         return True
     stamp = saved.get("desc_updated_at") or ""
     age = age_days(stamp)

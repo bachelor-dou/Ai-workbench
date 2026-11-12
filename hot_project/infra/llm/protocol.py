@@ -89,7 +89,10 @@ def _ceiling(backend: str, effort: str, max_tokens: int | None) -> int | None:
 
 # ponytail: 按部署名前缀识别这堵墙 —— azure 的 model 字段是部署名,我们的部署恰好都按
 # 模型名起名;部署名不这么起就识别不出,根治是实现 /v1/responses 方言。
-NO_THINKING_WITH_TOOLS = ("gpt-5.5", "gpt-5.6")
+NO_THINKING_WITH_TOOLS = ("gpt-5.5", "gpt-5.6", "gpt-6")
+# gpt-6 的默认档不再是 none(实测):带工具时键缺席照样 400,必须显式 reasoning_effort=none;
+# 5.5/5.6 相反,连显式 none 都拒,键必须整个缺席。
+MUTE_IS_EXPLICIT_NONE = ("gpt-6",)
 
 
 def tools_mute_thinking(backend: str, model: str) -> bool:
@@ -160,7 +163,7 @@ def payload(
     # 「模型测试能通、问答用不了」。空档位在翻译表里查不到,自然一个思考参数都不发,
     # 这正是这堵墙要的(5.5 连显式 none 都拒;平台默认就是 none,效果一样)。
     if tools and tools_mute_thinking(backend, model):
-        effort = ""
+        effort = EFFORT_OFF if model.startswith(MUTE_IS_EXPLICIT_NONE) else ""
     max_tokens = _ceiling(backend, effort, max_tokens)
     family = _family(backend)
     if family == AZURE:

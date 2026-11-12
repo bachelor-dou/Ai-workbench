@@ -2,7 +2,7 @@
 
 1. `role="tool"` 必须紧跟带 `tool_calls` 的 assistant 消息。压缩切在中间会留下孤儿,
    OpenAI 兼容接口一律 400。
-2. 超过阈值的大结果换成小存根,完整内容留在本地,模型要细看再用 `recall_tool_result` 取回。
+2. 超过阈值的大结果换成小存根,容量内的完整内容留在本地,按需召回;过期或超限明确提示。
 3. system 消息必须逐字节不变,摘要作为它之后的独立消息插入 —— 拼进 system 会让每次压缩
    之后的前缀缓存全部落空。
 """
@@ -18,12 +18,16 @@ from .prompts import SYSTEM_PROMPT
 logger = logging.getLogger("hot_project")
 
 MAX_MESSAGES = 35
+# ponytail: 字符数仅作保守护栏；需要按模型精确利用窗口时再换成 token 计量。
+MAX_CONTEXT_CHARS = 48000
 KEEP_RECENT = 10
 
 OFFLOAD_THRESHOLD = 1200
 DIGEST_CHARS = 200
 
 RESULT_MAX_CHARS = 8000
+OFFLOAD_MAX_RESULTS = 32
+OFFLOAD_MAX_CHARS = 1_000_000
 
 
 @dataclass
@@ -37,6 +41,8 @@ class Session:
     summary: str = ""
     tool_state: dict = field(default_factory=dict)
     pending_confirmation_signature: str | None = None
+    _memory_message: dict | None = field(default=None, repr=False)
+    _result_stubs: dict[int, str | None] = field(default_factory=dict, repr=False)
 
     def __post_init__(self) -> None:
         if not self.messages:
@@ -54,30 +60,62 @@ class Session:
         self.messages.append(message)
 
     def tool_result(self, call_id: str, result: dict) -> None:
-        self.messages.append({"role": "tool", "tool_call_id": call_id,
-                              "content": serialize(result)})
+        content = json.dumps(result, ensure_ascii=False, default=str)
+        recalled = len(content) <= RESULT_MAX_CHARS and self._is_recalled_page(result)
+        stub = self._offload(content) if len(content) > OFFLOAD_THRESHOLD and not recalled else None
+        message = {"role": "tool", "tool_call_id": call_id,
+                   "content": stub if len(content) > RESULT_MAX_CHARS else content}
+        if recalled or (stub is not None and len(content) <= RESULT_MAX_CHARS):
+            self._result_stubs[id(message)] = stub
+        self.messages.append(message)
+
+    def _is_recalled_page(self, result: dict) -> bool:
+        if set(result) != {"ref", "text", "offset", "next_offset", "total_chars"}:
+            return False
+        ref, offset, text = result["ref"], result["offset"], result["text"]
+        if not isinstance(ref, str) or type(offset) is not int or not isinstance(text, str):
+            return False
+        raw = self.tool_state.get("offloaded", {}).get(ref)
+        if raw is None or not 0 <= offset <= len(raw):
+            return False
+        end = offset + len(text)
+        return (raw[offset:end] == text and result["total_chars"] == len(raw)
+                and result["next_offset"] == (end if end < len(raw) else None))
+
+    def _offload(self, content: str) -> str:
+        if len(content) > OFFLOAD_MAX_CHARS:
+            return json.dumps({
+                "truncated": True, "unavailable": True, "digest": content[:DIGEST_CHARS],
+                "note": "结果超过会话留存上限,未保存全文;请缩小查询重新取证。",
+            }, ensure_ascii=False)
+        store = self.tool_state.setdefault("offloaded", {})
+        while store and (len(store) >= OFFLOAD_MAX_RESULTS
+                         or sum(map(len, store.values())) + len(content) > OFFLOAD_MAX_CHARS):
+            del store[next(iter(store))]
+        seq = self.tool_state.get("offload_seq", 0) + 1
+        self.tool_state["offload_seq"] = seq
+        ref = f"tr{seq}"
+        store[ref] = content
+        return json.dumps({
+            "offloaded": True, "ref": ref, "digest": content[:DIGEST_CHARS],
+            "note": "完整结果已暂存;用 recall_tool_result 按需读取,支持 offset 续读。",
+        }, ensure_ascii=False)
 
     # ── 卸载 ────────────────────────────────────────────────────
 
     def offload_old_results(self) -> int:
         """把历史里的大结果换成存根。返回卸载了几条。
 
-        只在新一轮开头调用:本回合的结果必须完整,否则模型同一回合内没法推理。
+        正常在新回合开头卸载;回合内触及上下文护栏时也允许改为可召回存根。
         """
-        store = self.tool_state.setdefault("offloaded", {})
         done = 0
         for message in self.messages:
             content = message.get("content") or ""
             if message.get("role") != "tool" or len(content) <= OFFLOAD_THRESHOLD:
                 continue
-            seq = self.tool_state.get("offload_seq", 0) + 1
-            self.tool_state["offload_seq"] = seq
-            ref = f"tr{seq}"
-            store[ref] = content
-            message["content"] = json.dumps({
-                "offloaded": True, "ref": ref, "digest": content[:DIGEST_CHARS],
-                "note": f"完整结果较大已暂存;要细看用 recall_tool_result(ref='{ref}')。",
-            }, ensure_ascii=False)
+            if id(message) in self._result_stubs and self._result_stubs[id(message)] is None:
+                continue      # 召回页已由原始证据覆盖,重复存储会驱逐仍在续读的原文。
+            message["content"] = self._result_stubs.pop(id(message), None) or self._offload(content)
             done += 1
         if done:
             logger.info("[Agent] 卸载了 %d 条大结果。", done)
@@ -86,46 +124,53 @@ class Session:
     # ── 压缩 ────────────────────────────────────────────────────
 
     def needs_compress(self) -> bool:
-        return len(self.messages) > MAX_MESSAGES
+        return len(self.messages) > MAX_MESSAGES or _size(self.messages) > MAX_CONTEXT_CHARS
 
-    def compress(self, summarize) -> None:
-        """把旧消息换成一段摘要。`summarize(messages) -> str`,返回空串表示总结失败。"""
+    def compress(self, summarize) -> bool:
+        """失败保留原历史并返回 False,调用方不能假装已提取出新的记忆。"""
         if not self.needs_compress():
-            return
+            return True
+        self.offload_old_results()
+        if not self.needs_compress():
+            return True
         system = next((m for m in self.messages if m.get("role") == "system"),
                       {"role": "system", "content": SYSTEM_PROMPT})
-        rest = [m for m in self.messages if m.get("role") != "system"]
-        if len(rest) <= KEEP_RECENT:
-            return
-
-        old, recent = split_at_safe_boundary(rest, KEEP_RECENT)
+        rest = [m for m in self.messages
+                if m.get("role") != "system" and m is not self._memory_message]
+        keep = min(KEEP_RECENT, len(rest))
+        while keep and (keep == len(rest) or _size(rest[-keep:]) > MAX_CONTEXT_CHARS // 2):
+            keep -= 1
+        old, recent = split_at_safe_boundary(rest, keep) if keep else (rest, [])
         if not old:
-            return          # 边界推到头了(整段都是一轮工具调用),这次压不了
+            return True
 
-        if text := summarize(old):
-            self.summary = text
+        try:
+            text = summarize(old)
+        except Exception:
+            logger.exception("[Agent] 历史摘要失败,保留原始对话。")
+            return False
+        if not text or not text.strip():
+            logger.warning("[Agent] 历史摘要为空,保留原始对话。")
+            return False
+        self.summary = text.strip()
 
         rebuilt = [system]
-        if self.summary:
-            rebuilt.append({"role": "user", "content": f"[对话历史摘要]\n{self.summary}"})
+        catalog = [{"ref": ref, "digest": raw[:DIGEST_CHARS]}
+                   for ref, raw in self.tool_state.get("offloaded", {}).items()]
+        memory = f"[对话历史摘要]\n{self.summary}"
+        if catalog:
+            memory += "\n[可召回工具证据]\n" + json.dumps(catalog, ensure_ascii=False)
+        self._memory_message = {"role": "user", "content": memory}
+        rebuilt.append(self._memory_message)
         self.messages = rebuilt + recent
-        dropped = self._drop_orphan_offloads()
-        logger.info("[Agent] 历史已压缩:%d 条 → 摘要,保留 %d 条%s。", len(old), len(recent),
-                    f",顺带清掉 {dropped} 份取不到的暂存结果" if dropped else "")
+        remaining = {id(message) for message in recent}
+        self._result_stubs = {key: value for key, value in self._result_stubs.items() if key in remaining}
+        logger.info("[Agent] 历史已压缩:%d 条 → 摘要,保留 %d 条。", len(old), len(recent))
+        return True
 
-    def _drop_orphan_offloads(self) -> int:
-        """丢掉那些 ref 已经不在上下文里的暂存结果,返回丢了几份。
 
-        `recall_tool_result` 只认模型看得见的 ref,压缩掉之后谁都取不到,留着纯占内存。
-        """
-        store = self.tool_state.get("offloaded") or {}
-        if not store:
-            return 0
-        alive = "".join(m.get("content") or "" for m in self.messages)
-        orphans = [ref for ref in store if f'"{ref}"' not in alive]
-        for ref in orphans:
-            del store[ref]
-        return len(orphans)
+def _size(messages: list[dict]) -> int:
+    return sum(len(json.dumps(message, ensure_ascii=False, default=str)) for message in messages)
 
 
 def split_at_safe_boundary(messages: list[dict], keep: int) -> tuple[list[dict], list[dict]]:
@@ -140,11 +185,3 @@ def split_at_safe_boundary(messages: list[dict], keep: int) -> tuple[list[dict],
         while boundary < len(recent) and recent[boundary].get("role") == "tool":
             boundary += 1
     return old + recent[:boundary], recent[boundary:]
-
-
-def serialize(result: dict, max_chars: int = RESULT_MAX_CHARS) -> str:
-    """工具结果 → 发给模型的字符串。太长只给前半截,并明说截断了。"""
-    text = json.dumps(result, ensure_ascii=False, default=str)
-    if len(text) <= max_chars:
-        return text
-    return json.dumps({"truncated": True, "preview": text[:max_chars]}, ensure_ascii=False)

@@ -199,7 +199,9 @@ def run(*, mode: str = "comprehensive", min_star: int, growth_threshold: int,
     """
     _emit(progress, 5, "读取候选名单…")
     meta = universe.load() if pool is None else pool
-    names = sorted(meta)
+    names = sorted(n for n in meta if n.lower() not in config.EXCLUDED_REPOS)
+    if dropped := len(meta) - len(names):
+        logger.info("黑名单 EXCLUDED_REPOS 剔除 %d 个。", dropped)
     collected = len(names)
 
     _emit(progress, 15, "实时取当前 star…")

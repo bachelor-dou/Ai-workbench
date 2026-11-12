@@ -13,7 +13,7 @@ from hot_project import config
 from hot_project import cron_weekly_report as weekly
 from hot_project.common.timeutil import format_day, utc_today
 from hot_project.infra.data_access import reports
-from hot_project.service import report
+from hot_project.service import describe, report
 from hot_project.web import render, view_model
 
 
@@ -113,16 +113,27 @@ def test_the_refresh_button_regenerates_even_when_the_cache_is_not_stale(monkeyp
     `force` 要是不起作用,表现是按钮转一圈、内容一字没变 —— 看着像模型又写了个差不多的,
     没人会当成 bug 报上来。
     """
-    fresh = {"openai/whisper": {"desc": "旧介绍", "desc_updated_at": format_day(utc_today())}}
+    old = "".join(f"{t}:旧介绍。\n" for t in describe.SECTIONS)
+    fresh = {"openai/whisper": {"desc": old, "desc_updated_at": format_day(utc_today())}}
     monkeypatch.setattr(report.describe, "describe", lambda *a, **k: "新介绍")
     gh = SimpleNamespace(profiles=lambda names, want=(): {n: {} for n in names})
 
     ready, writeback = report.descriptions([("openai/whisper", {})], fresh, gh=gh)
-    assert ready["openai/whisper"] == "旧介绍" and not writeback
+    assert ready["openai/whisper"] == old and not writeback
 
     ready, writeback = report.descriptions([("openai/whisper", {})], fresh, gh=gh, force=True)
     assert ready["openai/whisper"] == "新介绍"
     assert writeback["openai/whisper"]["desc"] == "新介绍"
+
+
+def test_a_fresh_but_incomplete_cache_is_regenerated_not_served():
+    """对话渠道写过三段版、老库存过一句话版:缺段的缓存拿来用,报告第 4 段就只剩模板句。"""
+    today = format_day(utc_today())
+    three = "".join(f"{t}:三段版。\n" for t in describe.SECTIONS[:3])
+    assert report._needs_llm({"desc": three, "desc_updated_at": today})
+    assert report._needs_llm({"desc": "一句话的老介绍", "desc_updated_at": today})
+    four = "".join(f"{t}:齐的。\n" for t in describe.SECTIONS)
+    assert not report._needs_llm({"desc": four, "desc_updated_at": today})
 
 
 def test_the_refreshed_sections_are_split_the_same_way_the_page_renders_them():

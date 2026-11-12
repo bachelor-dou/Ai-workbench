@@ -22,6 +22,12 @@ STAR_GROWTH_THRESHOLD: int = 1100
 
 MAX_STAR: int = 12000
 
+# 榜单黑名单:列在这里的仓库永不进榜(综合榜 / 新项目榜 / 对话里的排名都生效),
+# 用来干掉 star 特别多但跟自己不相关的老仓库。写 owner/repo,大小写不敏感,下一次生成报告生效。
+EXCLUDED_REPOS: frozenset[str] = frozenset(r.lower() for r in (
+     "public-apis/public-apis",
+))
+
 # ── 窗口与数量 ──
 
 GROWTH_CALC_DAYS: int = 7        # 增长统计窗口(天);实际跨度以锚点快照为准,本值是请求值
@@ -69,22 +75,22 @@ def serverchan_sendkey() -> str:
 LLM_MODELS: list[dict] = [
     {
         "id": "azure01",
-        "label": "GPT-5.4",
+        "label": "GPT-6-Sol",
         "backend": "azure",
-        "url": "https://ceshi-001.openai.azure.com/openai/v1/chat/completions?api-version=preview",
-        "model": "gpt-5.4",
-        "lite_model": "gpt-5.4-mini",
+        "url": "https://group03-8353-resource.openai.azure.com/openai/v1/chat/completions?api-version=preview",
+        "model": "gpt-6-sol",
+        "lite_model": "gpt-6-luna",
         "key_env": "LLM_A_KEY",
         "enabled": 1,
         "desc": "三组测试用",
     },
     {
         "id": "azure02",
-        "label": "GPT-5.5",
+        "label": "gpt-5.5",
         "backend": "azure",
-        "url": "https://project003003.openai.azure.com/openai/v1/chat/completions?api-version=preview",
+        "url": "https://sub0228-project003003.openai.azure.com/openai/v1/chat/completions?api-version=preview",
         "model": "gpt-5.5",
-        "lite_model": "gpt-5.4-mini",
+        "lite_model": "gpt-5.6-terra",
         "key_env": "LLM_B_KEY",
         "enabled": 1,
         "desc": "三组专用",
@@ -100,7 +106,7 @@ LLM_MODELS: list[dict] = [
         "model": "gpt-5.6-terra",
         "lite_model": "",
         "key_env": "LLM_F_KEY",
-        "enabled": 1,
+        "enabled": 0,
         "desc": "Foundry 三组",
     },
     {
@@ -108,7 +114,7 @@ LLM_MODELS: list[dict] = [
         "label": "GLM-5.1(雷达)",
         "backend": "openai",
         "url": "https://api.siliconflow.cn/v1/chat/completions",
-        "model": "Pro/zai-org/GLM-5.1",
+        "model": "Pro/zai-org/GLM-5.2",
         "lite_model": "Qwen/Qwen3.6-35B-A3B,Qwen/Qwen3.5-35B-A3B",
         "key_env": "LLM_C_KEY",
         "enabled": 1,
@@ -116,7 +122,7 @@ LLM_MODELS: list[dict] = [
     },
     {
         "id": "aliyun01",
-        "label": "GLM-5.1(阿里A)",
+        "label": "GLM-5.2(阿里A)",
         "backend": "openai",
         "url": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
         "model": "glm-5.1",

@@ -23,6 +23,14 @@ SECTIONS = ("项目定位与用途", "解决的问题", "使用场景", "技术�
 # 旧版报告里出现过、现在不再要求的段名。识别(解析/DB 同步)要认,生成不再写。
 LEGACY_SECTIONS = ("核心依赖与生态", "已知局限或注意事项")
 
+
+def has_all_sections(text: str) -> bool:
+    """正文是否带齐四段标题。缺一段就不能当缓存 —— 对话曾经写过三段的会把报告第 4 段变成模板句。"""
+    body = (text or "").strip()
+    if not body:
+        return False
+    return all(f"{title}:" in body or f"{title}：" in body for title in SECTIONS)
+
 README_IN_PROMPT = 3200     # 塞进提示词的 README 上限
 COMMIT_IN_PROMPT = 60       # 每条提交摘要的上限
 _MAX_TOKENS = {STANDARD: 1536, DETAILED: 2048}

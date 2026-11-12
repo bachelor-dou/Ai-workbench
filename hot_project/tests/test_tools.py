@@ -146,6 +146,7 @@ def test_the_second_call_runs_the_parameters_that_were_shown(monkeypatch):
     registry = tools.registry()
     ctx = Ctx(state=_State())
     registry.run(ctx, "comprehensive_ranking", {"top_n": 20, "min_star": 500})
+    ctx.begin_turn("开始")
     registry.run(ctx, "comprehensive_ranking", {"top_n": 5, "confirm": True})  # 20 被记成了 5
 
     assert seen["top_n"] == 20 and seen["min_star"] == 500
@@ -156,6 +157,7 @@ def test_confirming_clears_the_pending_state_so_the_next_run_asks_again(monkeypa
     registry = tools.registry()
     ctx = Ctx(state=_State())
     registry.run(ctx, "comprehensive_ranking", {"top_n": 20})
+    ctx.begin_turn("开始")
     registry.run(ctx, "comprehensive_ranking", {"confirm": True})
     assert registry.run(ctx, "comprehensive_ranking",
                         {"top_n": 30})["needs_confirmation"] is True
@@ -176,6 +178,7 @@ def test_confirming_one_ranking_does_not_authorize_a_different_one(monkeypatch):
 
     shown = registry.run(ctx, "keyword_ranking", {"keywords": ["vector db"]})
     assert shown["needs_confirmation"] is True
+    ctx.begin_turn("开始")
 
     other = registry.run(ctx, "comprehensive_ranking", {"top_n": 200, "confirm": True})
 

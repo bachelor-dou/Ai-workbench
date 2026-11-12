@@ -80,12 +80,15 @@ def _classify(resp: httpx.Response) -> None:
     if code == 200:
         return
     if code == 401:
-        raise TokenInvalidError(f"HTTP 401: {resp.text[:200]}")
-    if code in (403, 429):
-        raise RateLimitError(_reset_at(resp.headers), _limit_reason(resp))
-    if code >= 500:
-        raise RetryableError(f"HTTP {code}: {resp.text[:200]}")
-    raise RuntimeError(f"HTTP {code}: {resp.text[:200]}")      # 4xx:请求本身有问题,重试无用
+        error = TokenInvalidError(f"HTTP 401: {resp.text[:200]}")
+    elif code in (403, 429):
+        error = RateLimitError(_reset_at(resp.headers), _limit_reason(resp))
+    elif code >= 500:
+        error = RetryableError(f"HTTP {code}: {resp.text[:200]}")
+    else:
+        error = RuntimeError(f"HTTP {code}: {resp.text[:200]}")
+    error.http_status = code      # 保留结构化状态;上层不必从异常文案猜 HTTP 码。
+    raise error
 
 
 async def _send(coro) -> httpx.Response:
@@ -94,6 +97,12 @@ async def _send(coro) -> httpx.Response:
         return await coro
     except httpx.HTTPError as e:
         raise RetryableError(f"{type(e).__name__}: {e}") from e
+
+
+class InvalidSearchResponse(RetryableError):
+    """HTTP 成功但搜索数据不可信,不能当作零匹配。"""
+
+    http_status = 200
 
 
 async def search_page(
@@ -105,22 +114,38 @@ async def search_page(
     per_page: int = 100,
     sort: str = "stars",
     order: str = "desc",
-) -> list[dict[str, Any]]:
-    """搜一页。返回这一页的原始条目;空列表表示没有更多了。
+    with_metadata: bool = False,
+    empty_on_422: bool = True,
+) -> list[dict[str, Any]] | dict[str, Any]:
+    """搜一页;交互搜索保留计数和不完整标记,旧批量调用仍返回列表。
 
+    列表形式的仓库定位也应关闭 empty_on_422;只有批量翻页保留旧的 422 终止语义。
     `query` 是**完整的** Search 语法串(含 `stars:>=N` 之类的限定),本函数不替调用方拼。
     """
+    params = {"q": query, "per_page": per_page, "page": page}
+    if sort != "relevance":
+        params.update(sort=sort, order=order)
     resp = await _send(client.get(
-        SEARCH_URL,
-        headers=lease.rest_headers,
-        params={"q": query, "sort": sort, "order": order,
-                "per_page": per_page, "page": page},
+        SEARCH_URL, headers=lease.rest_headers, params=params,
     ))
-    if resp.status_code == 422:
+    if resp.status_code == 422 and empty_on_422 and not with_metadata:
         logger.debug("搜索 422,当作没有更多:q=%r page=%d", query, page)
         return []
     _classify(resp)
-    return _body(resp).get("items", [])
+    try:
+        data = _body(resp)
+    except RetryableError as e:
+        raise InvalidSearchResponse("搜索响应不是合法 JSON") from e
+    items = data.get("items") if isinstance(data, dict) else None
+    if not isinstance(items, list) or any(not isinstance(item, dict) for item in items):
+        raise InvalidSearchResponse("搜索响应缺少有效 items 数组")
+    if with_metadata:
+        total, incomplete = data.get("total_count"), data.get("incomplete_results")
+        if (type(total) is not int or not len(items) <= total < 2 ** 63
+                or type(incomplete) is not bool):
+            raise InvalidSearchResponse("搜索响应缺少有效计数或完整性标记")
+        return {"items": items, "total_count": total, "incomplete_results": incomplete}
+    return items
 
 
 async def search_count(client: httpx.AsyncClient, lease: Lease, query: str) -> int:

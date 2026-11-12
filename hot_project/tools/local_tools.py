@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import logging
+import re
 
 from .. import config
 from ..infra.data_access import snapshots, universe
@@ -52,16 +53,30 @@ def get_keyword_catalog(ctx, args: dict) -> dict:
 
 
 def recall_tool_result(ctx, args: dict) -> dict:
-    """取回之前因体积过大被暂存的工具结果。"""
+    """按字符偏移读取暂存的完整 JSON,不把大结果再次塞满上下文。"""
     ref = str(args.get("ref", "")).strip()
     store = (ctx.state.tool_state.get("offloaded", {}) if ctx.state else {})
     raw = store.get(ref)
     if raw is None:
-        return {"error": f"没找到暂存结果 {ref}。可用的 ref:{sorted(store)}"}
-    try:
-        return {"ref": ref, "result": json.loads(raw)}
-    except (json.JSONDecodeError, TypeError):
-        return {"ref": ref, "result": raw}
+        return {"error": f"暂存结果 {ref} 不存在或已过期,请重新取证。",
+                "available_refs": list(store)}
+    offset = args.get("offset", 0)
+    if offset > len(raw):
+        return {"error": "offset 超出结果范围", "total_chars": len(raw)}
+    if keyword := args.get("keyword", "").strip():
+        match = re.compile(re.escape(keyword), re.IGNORECASE).search(raw, offset)
+        if match is None:
+            return {"ref": ref, "matched": False,
+                    "message": "未匹配此关键词,可换词或按 offset 读取;这不代表项目没有该能力。"}
+        offset = max(offset, match.start() - 200)
+    text = raw[offset:offset + 4000]
+    while True:
+        end = offset + len(text)
+        out = {"ref": ref, "text": text, "offset": offset,
+               "next_offset": end if end < len(raw) else None, "total_chars": len(raw)}
+        if len(json.dumps(out, ensure_ascii=False)) <= 6000:
+            return out
+        text = text[:len(text) // 2]
 
 
 def fetch_trending(ctx, args: dict) -> dict:
@@ -94,11 +109,16 @@ TOOLS = (
          "再挑选+补充后传入 keywords。",
          get_keyword_catalog),
     Tool("recall_tool_result",
-         "【取回暂存结果】重新读取之前因体积过大被暂存的工具结果(本地读取,零成本)。"
-         "当你在历史里看到形如 {offloaded:true, ref:'tr3', digest:...} 的存根、"
-         "且需要其完整内容时调用。",
+         "【取回暂存结果】按需读取完整工具证据(本地读取,零成本)。"
+         "使用历史存根或证据目录中的 ref;可用 keyword 定位事实而无需猜偏移。"
+         "返回 text 是完整 JSON 的一个片段,"
+         "next_offset 非空时可据此续读,不能把未读取部分当成没有。",
          recall_tool_result,
-         (Param("ref", "str", "存根里的 ref,如 tr3。"),)),
+         (Param("ref", "str", "存根或证据目录里的 ref,如 tr3。"),
+          Param("offset", "int", "原始 JSON 的字符偏移;续读时使用 next_offset。",
+                default=0, min=0),
+          Param("keyword", "str", "可选,从 offset 开始查找关键词并返回附近片段。",
+                default=""))),
     Tool("fetch_trending",
          "【Trending】获取 GitHub Trending 列表。all = 日/周/月三榜合并去重。",
          fetch_trending,
