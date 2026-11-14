@@ -752135,25 +752135,6 @@
       "gh_desc": "Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。",
       "id": 1223512305
     },
-    "JimLiu/baoyu-design": {
-      "star": 2874,
-      "created_at": "2026-06-07T01:16:18Z",
-      "desc": "项目定位与用途：baoyu-design 是一个把 Claude Design 封装为本地可用 Agent Skill 的开源项目，可在 Cursor、Claude Code、Claude Desktop 等支持文件操作的代理中运行。它面向需要生成界面设计内容的场景，能够输出精致的 UI mockup、交互原型、线框图、落地页、仪表盘、移动端界面和演示幻灯片，产物以自包含 HTML 形式生成，便于直接在本地工作流中使用。\n\n解决的问题：项目主要解决依赖 claude.ai/design 网站带来的使用门槛与协作限制。README 明确提到，它让用户无需打开网站、无需单独订阅、无需上传步骤，就能在编辑器内完成设计生成；同时所有成果保留在仓库中，更适合本地开发与版本管理。对于需要反复迭代设计草案、并希望内容不离开本机的用户，这种方式更高效。\n\n使用场景：适合在编码编辑器中直接做产品设计、快速原型和视觉草图的人群，例如开发者、产品经理、设计师以及需要用 AI 辅助出图的团队。README 中展示了同一需求在 Cursor、Codex、Claude 与 Claude Design 中的效果对比，说明它可用于本地设计探索、界面提案、页面和仪表盘草图、以及幻灯片内容生成。若要更细的适用边界，当前输入信息仍有限。\n\n技术架构与特性：从已给信息看，它基于 Claude Design 的设计引擎，以“Agent Skill”形式打包，核心特点是可移植到本地代理环境中运行。项目标签包含 agent-skills、claude-code、cursor、prototyping、ui-design，说明其重点是与文件型 coding agent 集成。近期提交线索还显示它在持续增强导出能力，例如加入本地 gen_pptx、gen_video CLI，以及 PPTX 导出文档和动画 MP4 导出，但更完整架构仍未在输入中明确说明。",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-code",
-        "claude-design",
-        "cursor",
-        "design",
-        "prototyping",
-        "ui-design"
-      ],
-      "desc_updated_at": "2026-05-05",
-      "gh_desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "id": 1261650101
-    },
     "Besty0728/Unity-Skills": {
       "star": 1506,
       "created_at": "2026-01-18T09:37:38Z",
@@ -827163,11 +827144,6 @@
       "created_at": "2023-02-06T18:03:17Z",
       "id": 598249096
     },
-    "hehehai/voxt": {
-      "star": 707,
-      "created_at": "2026-02-26T02:45:43Z",
-      "id": 1167178106
-    },
     "cloudwego/eino-examples": {
       "star": 722,
       "created_at": "2024-12-04T06:49:55Z",
@@ -859338,11 +859314,6 @@
       "created_at": "2013-05-27T10:30:55Z",
       "id": 10312759
     },
-    "sledgeh4w/chomper": {
-      "star": 616,
-      "created_at": "2022-09-07T17:36:17Z",
-      "id": 533872441
-    },
     "hypervel/hypervel": {
       "star": 617,
       "created_at": "2025-03-19T17:25:19Z",
@@ -865034,11 +865005,6 @@
       "star": 1141,
       "created_at": "2017-10-18T18:13:16Z",
       "id": 107445680
-    },
-    "seddonym/import-linter": {
-      "star": 1114,
-      "created_at": "2019-01-27T10:18:22Z",
-      "id": 167795381
     },
     "Hvass-Labs/Finance-Research": {
       "star": 1127,
@@ -875162,11 +875128,6 @@
       "star": 1061,
       "created_at": "2017-11-25T13:59:10Z",
       "id": 112007660
-    },
-    "Lazarus-AI/clearwing": {
-      "star": 1046,
-      "created_at": "2026-04-14T20:00:22Z",
-      "id": 1210834892
     },
     "ydkhatri/mac_apt": {
       "star": 1067,
@@ -975748,11 +975709,6 @@
       "star": 711,
       "created_at": "2016-11-23T13:07:37Z",
       "id": 74577758
-    },
-    "EnergieID/entsoe-py": {
-      "star": 711,
-      "created_at": "2017-07-12T13:17:39Z",
-      "id": 97010217
     },
     "SiberiaDante/MultiScrollDemo": {
       "star": 711,
@@ -1152627,11 +1152583,6 @@
       "created_at": "2014-07-14T16:48:10Z",
       "id": 21827319
     },
-    "auxdesigner/Sketch-to-VR": {
-      "star": 488,
-      "created_at": "2016-07-06T15:19:03Z",
-      "id": 62731388
-    },
     "bjorn2404/jQuery-Store-Locator-Plugin": {
       "star": 488,
       "created_at": "2012-03-11T19:47:44Z",
@@ -1156796,11 +1156747,6 @@
       "star": 435,
       "created_at": "2025-04-04T10:18:13Z",
       "id": 960371980
-    },
-    "mohitjain/social-login-in-rails": {
-      "star": 435,
-      "created_at": "2013-10-26T19:29:29Z",
-      "id": 13889594
     },
     "HackerPoet/FaceEditor": {
       "star": 435,
@@ -1174646,11 +1174592,6 @@
       "created_at": "2020-08-21T23:19:56Z",
       "id": 289382944
     },
-    "MerrimanInd/drawpyo": {
-      "star": 411,
-      "created_at": "2023-08-05T19:59:45Z",
-      "id": 675107754
-    },
     "gateio/proof-of-reserves": {
       "star": 411,
       "created_at": "2020-02-21T11:24:45Z",
@@ -1177880,11 +1177821,6 @@
       "star": 414,
       "created_at": "2022-05-05T03:57:57Z",
       "id": 488824986
-    },
-    "software-mansion-labs/react-native-bottom-sheet": {
-      "star": 414,
-      "created_at": "2026-02-16T09:45:09Z",
-      "id": 1159082648
     },
     "apache/commons-csv": {
       "star": 414,
@@ -1184105,11 +1184041,6 @@
       "star": 448,
       "created_at": "2020-01-07T11:38:59Z",
       "id": 232311812
-    },
-    "aws-samples/amazon-nova-samples": {
-      "star": 448,
-      "created_at": "2024-12-06T16:13:32Z",
-      "id": 899609759
     },
     "CompassSecurity/SAMLRaider": {
       "star": 448,
@@ -1211356,11 +1211287,6 @@
       "created_at": "2019-01-16T07:06:44Z",
       "id": 165991873
     },
-    "snoups/remnashop": {
-      "star": 496,
-      "created_at": "2025-05-31T14:54:01Z",
-      "id": 993800732
-    },
     "PWA-POLICE/pwa-bugs": {
       "star": 479,
       "created_at": "2018-10-19T23:44:43Z",
@@ -1231386,11 +1231312,6 @@
       "created_at": "2017-04-05T00:47:33Z",
       "id": 87249321
     },
-    "MarcusNg/flutter_chat_ui": {
-      "star": 400,
-      "created_at": "2019-10-17T10:24:17Z",
-      "id": 215765116
-    },
     "neon443/AirAP": {
       "star": 400,
       "created_at": "2025-05-16T10:35:14Z",
@@ -1246827,11 +1246748,6 @@
       "created_at": "2026-07-06T15:46:14Z",
       "id": 1291210160
     },
-    "SwagSoftware/KisakCOD": {
-      "star": 402,
-      "created_at": "2025-03-06T02:55:57Z",
-      "id": 943634306
-    },
     "modoojunko/awesome-novel-agent": {
       "star": 482,
       "created_at": "2026-04-25T07:24:03Z",
@@ -1254250,13 +1254166,6 @@
       "star": 401,
       "created_at": "2022-07-27T14:40:23Z",
       "id": 518496073
-    },
-    "SenteLabsAI/OpenExecutive": {
-      "star": 871,
-      "created_at": "2026-06-11T21:41:54Z",
-      "id": 1266695553,
-      "desc": "项目定位与用途: Open Executive 是一个面向企业决策的 AI 系统，定位为“公司的虚拟高管团队”。它以统一的高管口吻输出建议，并由八类专项代理协同覆盖战略、财务、HR、法务、运营、市场、产品和董事会沟通等管理咨询需求。\n\n解决的问题: 它主要解决企业在决策咨询中需要同时调动多部门视角、上下文难以持续、以及不同角色回答风格不一致的问题。项目通过单一一致的高管声音与分工明确的专家代理协作，降低反复解释背景和整理历史决策的成本。\n\n使用场景: 适合创业公司或企业内部用于经营决策辅助、管理层讨论、融资与股权相关分析、OKR 制定、招聘与薪酬建议、合规和合同基础咨询，以及董事会材料与投资者沟通。目标用户主要是创始人、管理层及职能团队成员。\n\n技术架构与特性: README 显示其后端使用 Python 3.11+，前端为 Next.js 15，核心由 Executive Orchestrator 调度八个专家代理，并通过 ChromaDB 做检索。知识分为内置 MBA 文档和公司上传文档两层，还支持跨会话记忆、主动跟进的调度器与提示缓存。",
-      "desc_updated_at": "2026-09-02"
     },
     "aiben-ch/LMM-Evaluation-Survey": {
       "star": 401,
@@ -1266557,13 +1266466,6 @@
       "desc": "项目定位与用途:\n本项目是一款专为macOS设计的小型、快速且极简的网页浏览器。它由设计工作室Office Commun开发，旨在回归浏览器作为纯粹工具的本质。应用仅提供标签页与网页浏览核心功能，摒弃了传统浏览器中繁杂的工具栏、启动页、侧边栏及账号登录等干扰元素。用户只需通过单一输入框输入网址或关键词即可直接访问目标页面，致力于提供无干扰、轻量化的上网体验。\n\n解决的问题:\n当前主流浏览器普遍存在功能臃肿、资源占用高、启动缓慢及界面元素过多等问题，严重分散用户注意力并降低工作效率。该项目针对上述痛点，通过极简设计消除冗余交互，解决浏览器因内置独立渲染引擎导致的体积庞大与内存消耗高的问题。同时，它解决了网页中弹窗广告、追踪脚本及干扰性组件频繁打断阅读与操作体验的困扰，让用户能够专注内容本身。\n\n使用场景:\n适合追求高效、专注的Mac用户，尤其是需要长时间处理网页信息的设计师、开发者及研究人员。典型场景包括：需要快速切换标签页进行多任务处理的用户；希望在阅读网页时自动屏蔽广告与弹窗干扰的读者；需要分屏对比查看不同网页内容的办公人员；以及依赖macOS系统级密码管理、希望无缝导入其他浏览器数据并安全保存登录凭证的用户。\n\n技术架构与特性:\n项目基于macOS原生WebKit引擎构建，共享Safari底层技术，因此安装包仅约6MB且启动迅速。核心特性包括单输入框智能寻址、支持置顶与分屏的标签管理、一键阅读模式、网络层前置拦截广告与追踪器、全局元素永久隐藏功能、画中画视频窗口以及macOS钥匙串密码管理。此外，支持导入主流浏览器数据、兼容Chrome扩展，并提供浅色、深色及跟随系统主题。",
       "desc_updated_at": "2026-09-30"
     },
-    "CopilotKit/openmuse": {
-      "star": 1875,
-      "created_at": "2026-09-15T16:05:44Z",
-      "id": 1371757322,
-      "desc": "项目定位与用途:\nOpenMuse 是一款开源的个人智能体应用，旨在提供一个具备浏览器、终端、文件管理及持续运行工作流的个人代理计算机。它兼容任意智能体编排框架，允许用户通过自然语言下达目标指令，智能体会自主规划步骤、执行操作并返回结果。该项目采用 MIT 协议开源，支持开发者自行托管与二次定制，核心定位是打造可观察、可干预且具备持久化工作状态的 AI 个人助手。\n\n解决的问题:\n传统 AI 对话工具通常缺乏持久化工作流与底层系统交互能力，用户难以追踪智能体的执行过程，且任务中断后无法恢复。OpenMuse 通过内置独立的服务器、任务工作线程与浏览器工作线程，解决了智能体操作不可见、状态易丢失及跨平台交互受限的问题。它让 AI 能够持续运行复杂任务，并提供透明的操作审查机制，使用户在智能体执行过程中可随时介入或接管控制权。\n\n使用场景:\n该项目主要面向需要自动化处理多步骤任务的开发者、研究人员及高级个人用户。典型场景包括在移动端或网页端让智能体自动检索资讯并生成摘要、登录邮箱处理特定邮件、在线调研景点信息并辅助决策等。用户可通过手机或桌面浏览器与智能体交互，查看内联的浏览器与终端结果，并在需要时随时接管正在进行的浏览器会话，实现从指令下达、过程监控到结果确认的完整闭环。\n\n技术架构与特性:\n项目基于 CopilotKit React Native 构建，全面支持 iOS、Android 及 Web 端。架构上采用分离式设计，独立运行服务器、任务工作线程与浏览器工作线程，确保各模块解耦与稳定运行。核心特性包括持久化 Chrome 浏览器环境、实时 Google 账户集成、Rich Threads 富文本对话流以及可中断的聊天输入框。当前处于 Alpha 阶段，支持自托管部署，并提供详细的验证指南与路线图供社区共建。",
-      "desc_updated_at": "2026-09-30"
-    },
     "netaart/comfyui-browser": {
       "star": 671,
       "created_at": "2023-11-26T11:55:32Z",
@@ -1268607,11 +1268509,6 @@
       "star": 606,
       "created_at": "2017-11-03T02:25:28Z",
       "id": 109342193
-    },
-    "ardeyouxipianyi/workbuddy2api-hub": {
-      "star": 440,
-      "created_at": "2026-09-12T09:03:40Z",
-      "id": 1367131646
     },
     "botiverse/raft-source": {
       "star": 417,
@@ -1275542,11 +1275439,6 @@
       "created_at": "2026-01-25T08:20:02Z",
       "id": 1141680548
     },
-    "Odrannnn/MetroidPrimePort": {
-      "star": 420,
-      "created_at": "2026-09-19T14:13:16Z",
-      "id": 1377235029
-    },
     "archlizheng/AIPM-Wiki": {
       "star": 401,
       "created_at": "2026-07-08T03:09:14Z",
@@ -1281905,13 +1281797,6 @@
       "created_at": "2026-08-08T04:46:32Z",
       "id": 1327419025
     },
-    "OpenSelena/omniget": {
-      "star": 401,
-      "created_at": "2026-07-08T06:17:59Z",
-      "id": 1293138603,
-      "desc": "项目定位与用途:\nOmniGet是一款面向Windows、macOS和Linux的免费开源桌面媒体工具箱与下载管理器。其核心定位为一站式内容获取与处理平台，用户只需粘贴链接即可从超过1800个网站下载课程、视频、音频、图片及种子文件。下载完成后，应用内置工具支持音频转写、格式转换、文档阅读与间隔重复学习，旨在提供无需终端操作的完整桌面端体验。\n\n解决的问题:\n传统网络内容获取与处理流程高度碎片化，用户往往需依赖多个独立软件或命令行工具来完成下载、转写、格式转换与资料整理。OmniGet通过整合下载、媒体处理、文档阅读与学习辅助功能，消除了跨工具切换的繁琐操作。其免终端的图形化设计降低了技术门槛，解决了普通用户与学习者在全链路内容管理中的效率痛点。\n\n使用场景:\n主要面向在线学习者、内容创作者与资料归档爱好者。学习者可用于批量下载并离线研读Udemy、Hotmart或B站等平台的课程；内容创作者与研究人员可快速抓取YouTube、社交媒体及论坛的音视频与图文资料；日常用户可利用内置工具进行语音转文字、PDF与EPUB阅读、媒体压缩及制作记忆卡片，满足多场景离线处理需求。\n\n技术架构与特性:\n项目采用Rust与Tauri构建跨平台桌面架构，前端使用Svelte框架，底层集成yt-dlp实现高效下载。核心特性涵盖内置下载管理器、种子客户端、字幕下载、Whisper语音转写、文本转语音、PDF与EPUB阅读器、媒体压缩工具及CTF辅助模块。此外，项目支持MCP服务器与Claude Code插件集成，并通过持续依赖更新保障稳定性。",
-      "desc_updated_at": "2026-11-04"
-    },
     "ZiChuanLan/agent-purge": {
       "star": 439,
       "created_at": "2026-10-25T06:06:02Z",
@@ -1283026,31 +1282911,6 @@
       "gh_desc": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
       "id": 318341089
     },
-    "meta/pyrefly": {
-      "star": 6832,
-      "created_at": "2025-02-19T21:09:33Z",
-      "desc": "",
-      "language": "Rust",
-      "topics": [
-        "code-quality",
-        "contributions-welcome",
-        "good-first-issue",
-        "hacktoberfest",
-        "ide",
-        "language-server",
-        "lsp",
-        "python",
-        "rust",
-        "type-check",
-        "type-checker",
-        "typecheck",
-        "typechecker",
-        "types",
-        "typing"
-      ],
-      "gh_desc": "A fast type checker and language server for Python",
-      "id": 935685654
-    },
     "meta/prophet": {
       "star": 20327,
       "created_at": "2016-11-16T01:50:08Z",
@@ -1283928,11 +1283788,6 @@
       "created_at": "2024-05-09T13:58:52Z",
       "id": 798300247
     },
-    "solidsf-inc/solidcv": {
-      "star": 413,
-      "created_at": "2026-10-18T20:51:04Z",
-      "id": 1424811212
-    },
     "meta/IT-CPE": {
       "star": 573,
       "created_at": "2014-03-17T22:35:48Z",
@@ -1284729,11 +1284584,6 @@
       "created_at": "2026-09-12T13:48:15Z",
       "id": 1367338986
     },
-    "NotRexed/SkyboundTotk": {
-      "star": 400,
-      "created_at": "2026-10-27T23:23:07Z",
-      "id": 1436383884
-    },
     "bmartin5692/bumper": {
       "star": 400,
       "created_at": "2019-01-11T03:21:26Z",
@@ -1284913,11 +1284763,6 @@
       "id": 1438623288,
       "desc": "项目定位与用途:\n本项目是一款专为Claude Code与Codex设计的自动化前端界面优化技能。它旨在将AI生成的粗糙UI转化为具有独特设计语言的专业界面。通过识别界面中的冗余元素与排版问题，该项目会依据产品特性制定视觉方向，并像设计师进行红线评审一样，逐层迭代修复布局、色彩、文案与动效，最终输出风格统一且具备品牌个性的前端页面。\n\n解决的问题:\n当前大量由AI辅助生成的前端界面存在明显的模板化与杂乱感，常见紫色渐变、过度发光、表情符号标签、夸张文案及间距不均等设计缺陷。该项目通过系统化的审计与分步重构流程，解决了AI生成UI缺乏设计一致性、视觉层级混乱以及品牌个性缺失的核心痛点，帮助开发者快速将粗糙原型转化为符合现代审美标准的高质量界面。\n\n使用场景:\n适用于各类Web前端项目的界面美化与重构，涵盖Next.js、React、Vue、Svelte及原生HTML与CSS技术栈。目标用户包括独立开发者、全栈工程师及产品经理。典型场景包括仪表盘、SaaS应用、营销落地页的视觉升级，以及通过输入网址直接对线上网站进行快照分析与优化。此外，它还支持一键生成短视频素材，便于团队内部评审或社交媒体传播。\n\n技术架构与特性:\n项目以AI Agent技能形式运行，深度集成于Claude Code与Codex环境。核心流程包含界面审计、视觉方向设定、多轮次细节打磨及动态内容生成。支持接入fal、Replicate、OpenAI等图像服务或MCP服务器生成定制视觉素材。内置Playwright与ffmpeg依赖，可实现响应式快照捕获与自动剪辑。提供交互式工作流，在修改前提供优化建议，若界面已达标则仅给出微调方案，确保操作可控且高效。",
       "desc_updated_at": "2026-11-04"
-    },
-    "kahme247/ompweb": {
-      "star": 402,
-      "created_at": "2026-08-10T13:18:21Z",
-      "id": 1329847278
     },
     "ajnart/self-host": {
       "star": 1442,
@@ -1288598,13 +1288443,6 @@
       "created_at": "2015-11-13T08:19:38Z",
       "id": 46109144
     },
-    "NotRexed/Hookshot": {
-      "star": 474,
-      "created_at": "2026-11-05T12:18:58Z",
-      "id": 1446962520,
-      "desc": "项目定位与用途:\nHookshot是一个针对《塞尔达传说：时之笛》（Nintendo Switch 2版）的静态重编译项目。其核心定位是在Windows与Linux平台上实现该游戏的原生运行，无需依赖传统模拟器。项目将游戏代码翻译为C语言并编译为本地程序，同时重新实现了主机系统软件，并将图形渲染重建至Vulkan接口，使用户能够直接利用个人电脑硬件运行游戏本体。\n\n解决的问题:\n该项目主要解决Switch 2独占游戏无法在PC端直接运行的硬件限制问题。通过静态重编译技术，它绕过了模拟器的性能损耗与兼容性瓶颈，使玩家能够利用PC硬件直接运行游戏。此外，项目还解决了原生运行下的画面闪烁、地形雾气异常、模型缺失等渲染问题，并提供了帧生成、画面放大及HDR支持，弥补了传统模拟器在画质增强与性能优化上的不足。\n\n使用场景:\n典型使用场景为拥有Switch 2游戏实体或数字版拷贝的PC玩家，希望在Windows或Linux系统上体验该作。目标用户包括追求更高帧率与原生画质的玩家、需要自定义键鼠或手柄输入的爱好者，以及希望利用PC端帧生成与超分辨率技术提升视觉体验的用户。项目目前处于实验阶段，适合愿意参与测试并反馈早期区域游玩体验的进阶玩家。\n\n技术架构与特性:\n项目采用静态重编译架构，将游戏逻辑转为C代码并编译为本地可执行文件，底层图形后端基于Vulkan。核心特性包含自研主机系统软件模拟、Vulkan图形重建、帧生成与超分辨率支持，以及HDR与FSR集成。近期更新聚焦于管线性能优化、纹理存储精简、着色器缓存加载提速及HDR采样修复。项目对NVIDIA显卡支持较完善，AMD显卡存在部分已知兼容问题，整体性能表现因硬件配置而异。",
-      "desc_updated_at": "2026-11-11"
-    },
     "smallvec/smallvec": {
       "star": 1678,
       "created_at": "2015-04-05T21:42:27Z",
@@ -1290497,11 +1290335,6 @@
       "created_at": "2026-11-06T21:21:15Z",
       "id": 1448760422
     },
-    "JasonCharb/directory-opus": {
-      "star": 479,
-      "created_at": "2026-11-06T20:54:11Z",
-      "id": 1448738845
-    },
     "rdeepak-wq121/quicken-deluxe-installer": {
       "star": 479,
       "created_at": "2026-11-06T21:20:42Z",
@@ -1290632,11 +1290465,6 @@
       "created_at": "2026-11-06T20:43:05Z",
       "id": 1448729605
     },
-    "PHISHER420/autodesk-inventor-desktop-config": {
-      "star": 479,
-      "created_at": "2026-11-06T20:40:29Z",
-      "id": 1448727509
-    },
     "jakobbjelver/messer-swipe": {
       "star": 759,
       "created_at": "2025-12-26T15:18:50Z",
@@ -1290741,11 +1290569,6 @@
       "star": 480,
       "created_at": "2026-11-06T21:13:59Z",
       "id": 1448754654
-    },
-    "CodeSouvik/clion-standalone-enhancement": {
-      "star": 480,
-      "created_at": "2026-11-06T20:48:32Z",
-      "id": 1448734199
     },
     "sghnnnn01212-cmyk/data-grip-desktop": {
       "star": 480,
@@ -1290881,11 +1290704,6 @@
       "star": 480,
       "created_at": "2026-11-06T20:33:44Z",
       "id": 1448721877
-    },
-    "AleRibeiro44/archicad-desktop-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T20:36:04Z",
-      "id": 1448723952
     },
     "RyoTheOne/dxo-photolab-10-config": {
       "star": 480,
@@ -1291958,19 +1291776,6 @@
       "created_at": "2026-10-22T10:40:45Z",
       "id": 1429601047
     },
-    "neondatabase/electric-pglite": {
-      "star": 15679,
-      "created_at": "2024-02-19T14:37:38Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "database",
-        "postgres",
-        "wasm"
-      ],
-      "gh_desc": "Embeddable Postgres with real-time, reactive bindings.",
-      "id": 759893102
-    },
     "Hithink-Tech-Org/Financial-API": {
       "star": 4111,
       "created_at": "2026-06-09T02:28:17Z",
@@ -1292307,11 +1292112,6 @@
       "created_at": "2014-10-24T11:44:05Z",
       "id": 25685836
     },
-    "ViewTurbo/ViewTurbo": {
-      "star": 434,
-      "created_at": "2024-10-12T01:47:54Z",
-      "id": 871443514
-    },
     "5151561/Trackr": {
       "star": 402,
       "created_at": "2026-10-29T19:41:43Z",
@@ -1292494,11 +1292294,6 @@
       "star": 427,
       "created_at": "2026-11-08T08:22:48Z",
       "id": 1450101336
-    },
-    "Badgenyamultiplexer/pc-game-fps-doctor": {
-      "star": 475,
-      "created_at": "2026-11-03T15:01:49Z",
-      "id": 1444444042
     },
     "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold": {
       "star": 400,
@@ -1293086,6 +1292881,564 @@
       "star": 412,
       "created_at": "2026-01-26T01:52:27Z",
       "id": 1142134371
+    },
+    "ForeactLabs/OpenExecutive": {
+      "star": 871,
+      "created_at": "2026-06-11T21:41:54Z",
+      "id": 1266695553,
+      "desc": "项目定位与用途: Open Executive 是一个面向企业决策的 AI 系统，定位为“公司的虚拟高管团队”。它以统一的高管口吻输出建议，并由八类专项代理协同覆盖战略、财务、HR、法务、运营、市场、产品和董事会沟通等管理咨询需求。\n\n解决的问题: 它主要解决企业在决策咨询中需要同时调动多部门视角、上下文难以持续、以及不同角色回答风格不一致的问题。项目通过单一一致的高管声音与分工明确的专家代理协作，降低反复解释背景和整理历史决策的成本。\n\n使用场景: 适合创业公司或企业内部用于经营决策辅助、管理层讨论、融资与股权相关分析、OKR 制定、招聘与薪酬建议、合规和合同基础咨询，以及董事会材料与投资者沟通。目标用户主要是创始人、管理层及职能团队成员。\n\n技术架构与特性: README 显示其后端使用 Python 3.11+，前端为 Next.js 15，核心由 Executive Orchestrator 调度八个专家代理，并通过 ChromaDB 做检索。知识分为内置 MBA 文档和公司上传文档两层，还支持跨会话记忆、主动跟进的调度器与提示缓存。",
+      "desc_updated_at": "2026-09-02"
+    },
+    "edgerunners-2/capri-ai-desktop": {
+      "star": 1712,
+      "created_at": "2026-08-15T05:07:09Z",
+      "id": 1334807307
+    },
+    "LoveRain1997/h3-prompt-journal": {
+      "star": 405,
+      "created_at": "2026-08-18T17:09:25Z",
+      "id": 1338653847
+    },
+    "JimLiu/open-artifacts": {
+      "star": 2874,
+      "created_at": "2026-06-07T01:16:18Z",
+      "desc": "项目定位与用途：baoyu-design 是一个把 Claude Design 封装为本地可用 Agent Skill 的开源项目，可在 Cursor、Claude Code、Claude Desktop 等支持文件操作的代理中运行。它面向需要生成界面设计内容的场景，能够输出精致的 UI mockup、交互原型、线框图、落地页、仪表盘、移动端界面和演示幻灯片，产物以自包含 HTML 形式生成，便于直接在本地工作流中使用。\n\n解决的问题：项目主要解决依赖 claude.ai/design 网站带来的使用门槛与协作限制。README 明确提到，它让用户无需打开网站、无需单独订阅、无需上传步骤，就能在编辑器内完成设计生成；同时所有成果保留在仓库中，更适合本地开发与版本管理。对于需要反复迭代设计草案、并希望内容不离开本机的用户，这种方式更高效。\n\n使用场景：适合在编码编辑器中直接做产品设计、快速原型和视觉草图的人群，例如开发者、产品经理、设计师以及需要用 AI 辅助出图的团队。README 中展示了同一需求在 Cursor、Codex、Claude 与 Claude Design 中的效果对比，说明它可用于本地设计探索、界面提案、页面和仪表盘草图、以及幻灯片内容生成。若要更细的适用边界，当前输入信息仍有限。\n\n技术架构与特性：从已给信息看，它基于 Claude Design 的设计引擎，以“Agent Skill”形式打包，核心特点是可移植到本地代理环境中运行。项目标签包含 agent-skills、claude-code、cursor、prototyping、ui-design，说明其重点是与文件型 coding agent 集成。近期提交线索还显示它在持续增强导出能力，例如加入本地 gen_pptx、gen_video CLI，以及 PPTX 导出文档和动画 MP4 导出，但更完整架构仍未在输入中明确说明。",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "desc_updated_at": "2026-05-05",
+      "gh_desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "id": 1261650101
+    },
+    "eduwxyz/tucano": {
+      "star": 404,
+      "created_at": "2026-10-28T04:27:38Z",
+      "id": 1436596754
+    },
+    "GabrieleLozupone/kokon": {
+      "star": 400,
+      "created_at": "2026-10-08T20:33:25Z",
+      "id": 1410924984
+    },
+    "tronghieuit/v-tts": {
+      "star": 404,
+      "created_at": "2025-12-24T06:16:08Z",
+      "id": 1122120089
+    },
+    "DresdenGman/AIGlasses_for_navigation": {
+      "star": 400,
+      "created_at": "2025-12-09T07:10:57Z",
+      "id": 1112843011
+    },
+    "hyperionaidev/smolmaxxing": {
+      "star": 650,
+      "created_at": "2026-11-04T07:09:41Z",
+      "id": 1445286453
+    },
+    "hehehai/VoxtMini": {
+      "star": 707,
+      "created_at": "2026-02-26T02:45:43Z",
+      "id": 1167178106
+    },
+    "mutonby/shortcast": {
+      "star": 400,
+      "created_at": "2026-05-23T12:53:38Z",
+      "id": 1247535033
+    },
+    "electric-sql/electric-pglite": {
+      "star": 15679,
+      "created_at": "2024-02-19T14:37:38Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "database",
+        "postgres",
+        "wasm"
+      ],
+      "gh_desc": "Embeddable Postgres with real-time, reactive bindings.",
+      "id": 759893102
+    },
+    "OpenSelena/libreget": {
+      "star": 401,
+      "created_at": "2026-07-08T06:17:59Z",
+      "id": 1293138603,
+      "desc": "项目定位与用途:\nOmniGet是一款面向Windows、macOS和Linux的免费开源桌面媒体工具箱与下载管理器。其核心定位为一站式内容获取与处理平台，用户只需粘贴链接即可从超过1800个网站下载课程、视频、音频、图片及种子文件。下载完成后，应用内置工具支持音频转写、格式转换、文档阅读与间隔重复学习，旨在提供无需终端操作的完整桌面端体验。\n\n解决的问题:\n传统网络内容获取与处理流程高度碎片化，用户往往需依赖多个独立软件或命令行工具来完成下载、转写、格式转换与资料整理。OmniGet通过整合下载、媒体处理、文档阅读与学习辅助功能，消除了跨工具切换的繁琐操作。其免终端的图形化设计降低了技术门槛，解决了普通用户与学习者在全链路内容管理中的效率痛点。\n\n使用场景:\n主要面向在线学习者、内容创作者与资料归档爱好者。学习者可用于批量下载并离线研读Udemy、Hotmart或B站等平台的课程；内容创作者与研究人员可快速抓取YouTube、社交媒体及论坛的音视频与图文资料；日常用户可利用内置工具进行语音转文字、PDF与EPUB阅读、媒体压缩及制作记忆卡片，满足多场景离线处理需求。\n\n技术架构与特性:\n项目采用Rust与Tauri构建跨平台桌面架构，前端使用Svelte框架，底层集成yt-dlp实现高效下载。核心特性涵盖内置下载管理器、种子客户端、字幕下载、Whisper语音转写、文本转语音、PDF与EPUB阅读器、媒体压缩工具及CTF辅助模块。此外，项目支持MCP服务器与Claude Code插件集成，并通过持续依赖更新保障稳定性。",
+      "desc_updated_at": "2026-11-04"
+    },
+    "simpsoka/zigzag": {
+      "star": 639,
+      "created_at": "2026-10-30T01:53:39Z",
+      "id": 1439161577
+    },
+    "pyrefly-org/pyrefly": {
+      "star": 6832,
+      "created_at": "2025-02-19T21:09:33Z",
+      "desc": "",
+      "language": "Rust",
+      "topics": [
+        "code-quality",
+        "contributions-welcome",
+        "good-first-issue",
+        "hacktoberfest",
+        "ide",
+        "language-server",
+        "lsp",
+        "python",
+        "rust",
+        "type-check",
+        "type-checker",
+        "typecheck",
+        "typechecker",
+        "types",
+        "typing"
+      ],
+      "gh_desc": "A fast type checker and language server for Python",
+      "id": 935685654
+    },
+    "DevedevT/FFmpeg-GUI-Editor-Windows": {
+      "star": 541,
+      "created_at": "2026-11-12T20:49:07Z",
+      "id": 1455815512
+    },
+    "ythx-101/x-tweet-fetcher": {
+      "star": 1004,
+      "created_at": "2026-02-14T12:06:54Z",
+      "id": 1157855507
+    },
+    "ythx-101/live-panel-skill": {
+      "star": 857,
+      "created_at": "2026-10-03T16:53:36Z",
+      "id": 1403431984
+    },
+    "databricks/databricks-agent-skills": {
+      "star": 400,
+      "created_at": "2026-01-14T09:51:58Z",
+      "id": 1134135741
+    },
+    "blixvip/NullMotion": {
+      "star": 1352,
+      "created_at": "2026-09-18T18:09:18Z",
+      "id": 1376258916
+    },
+    "ythx-101/ask-search": {
+      "star": 540,
+      "created_at": "2026-03-09T12:35:42Z",
+      "id": 1176838622
+    },
+    "ompweb-dev/ompweb": {
+      "star": 402,
+      "created_at": "2026-08-10T13:18:21Z",
+      "id": 1329847278
+    },
+    "dansugc/reverse-engineer-marketing": {
+      "star": 506,
+      "created_at": "2026-10-18T14:30:57Z",
+      "id": 1424464498
+    },
+    "opencoredev/islandcn": {
+      "star": 421,
+      "created_at": "2026-11-13T11:50:50Z",
+      "id": 1456537250
+    },
+    "hexmora/fluxdown": {
+      "star": 420,
+      "created_at": "2026-08-29T15:17:32Z",
+      "id": 1350686746
+    },
+    "LNPANDY/HGhub-MacOS-iOS-Version": {
+      "star": 513,
+      "created_at": "2026-11-07T20:39:55Z",
+      "id": 1449722148
+    },
+    "supercli-site/xiaobai-kanban": {
+      "star": 436,
+      "created_at": "2026-09-29T02:19:05Z",
+      "id": 1394090266
+    },
+    "linknimiball1974/ai-texture-forge": {
+      "star": 407,
+      "created_at": "2026-11-11T19:09:18Z",
+      "id": 1454389076
+    },
+    "blixvip/MotionClone": {
+      "star": 621,
+      "created_at": "2026-09-10T02:29:35Z",
+      "id": 1363431253
+    },
+    "Zaki-1052/GPTPortal": {
+      "star": 400,
+      "created_at": "2023-11-10T05:38:04Z",
+      "id": 716902273
+    },
+    "Specy/asm-editor": {
+      "star": 402,
+      "created_at": "2022-04-04T20:32:40Z",
+      "id": 477863727
+    },
+    "rivet-dev/open-orange": {
+      "star": 469,
+      "created_at": "2026-11-12T00:44:12Z",
+      "id": 1454661440
+    },
+    "Kianzzz/xilo-opus-video": {
+      "star": 401,
+      "created_at": "2026-09-28T15:02:15Z",
+      "id": 1393017534
+    },
+    "signal8ai/signal8-mcp": {
+      "star": 425,
+      "created_at": "2026-03-18T19:08:31Z",
+      "id": 1185612324
+    },
+    "cifertech/EvilDuck": {
+      "star": 400,
+      "created_at": "2024-09-07T23:49:46Z",
+      "id": 853930778
+    },
+    "mongodb/mongo-efcore-provider": {
+      "star": 400,
+      "created_at": "2023-05-12T13:10:14Z",
+      "id": 639890643
+    },
+    "HA7CH/ha7ch-school": {
+      "star": 400,
+      "created_at": "2026-07-16T17:48:22Z",
+      "id": 1303082204
+    },
+    "CopilotKit/openfuse": {
+      "star": 1875,
+      "created_at": "2026-09-15T16:05:44Z",
+      "id": 1371757322,
+      "desc": "项目定位与用途:\nOpenMuse 是一款开源的个人智能体应用，旨在提供一个具备浏览器、终端、文件管理及持续运行工作流的个人代理计算机。它兼容任意智能体编排框架，允许用户通过自然语言下达目标指令，智能体会自主规划步骤、执行操作并返回结果。该项目采用 MIT 协议开源，支持开发者自行托管与二次定制，核心定位是打造可观察、可干预且具备持久化工作状态的 AI 个人助手。\n\n解决的问题:\n传统 AI 对话工具通常缺乏持久化工作流与底层系统交互能力，用户难以追踪智能体的执行过程，且任务中断后无法恢复。OpenMuse 通过内置独立的服务器、任务工作线程与浏览器工作线程，解决了智能体操作不可见、状态易丢失及跨平台交互受限的问题。它让 AI 能够持续运行复杂任务，并提供透明的操作审查机制，使用户在智能体执行过程中可随时介入或接管控制权。\n\n使用场景:\n该项目主要面向需要自动化处理多步骤任务的开发者、研究人员及高级个人用户。典型场景包括在移动端或网页端让智能体自动检索资讯并生成摘要、登录邮箱处理特定邮件、在线调研景点信息并辅助决策等。用户可通过手机或桌面浏览器与智能体交互，查看内联的浏览器与终端结果，并在需要时随时接管正在进行的浏览器会话，实现从指令下达、过程监控到结果确认的完整闭环。\n\n技术架构与特性:\n项目基于 CopilotKit React Native 构建，全面支持 iOS、Android 及 Web 端。架构上采用分离式设计，独立运行服务器、任务工作线程与浏览器工作线程，确保各模块解耦与稳定运行。核心特性包括持久化 Chrome 浏览器环境、实时 Google 账户集成、Rich Threads 富文本对话流以及可中断的聊天输入框。当前处于 Alpha 阶段，支持自托管部署，并提供详细的验证指南与路线图供社区共建。",
+      "desc_updated_at": "2026-09-30"
+    },
+    "Leonxlnx/cook": {
+      "star": 430,
+      "created_at": "2026-10-31T21:48:38Z",
+      "id": 1441280900
+    },
+    "import-linter/import-linter": {
+      "star": 1114,
+      "created_at": "2019-01-27T10:18:22Z",
+      "id": 167795381
+    },
+    "aws-samples/amazon-ai-samples": {
+      "star": 448,
+      "created_at": "2024-12-06T16:13:32Z",
+      "id": 899609759
+    },
+    "agent0ai/tuxee": {
+      "star": 408,
+      "created_at": "2026-10-20T12:18:02Z",
+      "id": 1426982154
+    },
+    "sorrycc/Mayoi": {
+      "star": 451,
+      "created_at": "2026-10-09T03:19:59Z",
+      "id": 1411223682
+    },
+    "nota-daw/nota": {
+      "star": 479,
+      "created_at": "2026-08-25T14:43:31Z",
+      "id": 1346253295
+    },
+    "lycheech33/chomper": {
+      "star": 616,
+      "created_at": "2022-09-07T17:36:17Z",
+      "id": 533872441
+    },
+    "Efeckc17/simple-todo-c": {
+      "star": 573,
+      "created_at": "2025-05-10T20:38:39Z",
+      "id": 981317460
+    },
+    "Lazarus-ai-OSS/clearwing": {
+      "star": 1046,
+      "created_at": "2026-04-14T20:00:22Z",
+      "id": 1210834892
+    },
+    "databrickslabs/lakemeter-oss": {
+      "star": 404,
+      "created_at": "2026-06-25T01:06:31Z",
+      "id": 1279730142
+    },
+    "ddkbs/sketchy": {
+      "star": 405,
+      "created_at": "2026-10-08T18:07:20Z",
+      "id": 1410770092
+    },
+    "0-ss/MacShell": {
+      "star": 401,
+      "created_at": "2026-10-01T00:12:25Z",
+      "id": 1398856459
+    },
+    "bazelbuild/bazel-central-registry": {
+      "star": 401,
+      "created_at": "2020-10-27T15:29:31Z",
+      "id": 307745086
+    },
+    "humanfia/humanize": {
+      "star": 401,
+      "created_at": "2026-07-24T00:15:19Z",
+      "id": 1310474846
+    },
+    "AurelioB/ClusterTune": {
+      "star": 402,
+      "created_at": "2026-04-21T19:20:01Z",
+      "id": 1217326109
+    },
+    "deepseek-ai/chat-demo": {
+      "star": 1155,
+      "created_at": "2026-11-12T08:08:19Z",
+      "id": 1455006582
+    },
+    "xiaodou-official/xiaodou-open-platform": {
+      "star": 425,
+      "created_at": "2026-09-27T12:05:21Z",
+      "id": 1390752752
+    },
+    "software-mansion/react-native-bottom-sheet": {
+      "star": 414,
+      "created_at": "2026-02-16T09:45:09Z",
+      "id": 1159082648
+    },
+    "ertdfgcvb/play.core": {
+      "star": 544,
+      "created_at": "2020-08-26T08:35:57Z",
+      "id": 290441835
+    },
+    "Efeckc17/YoutubeGO": {
+      "star": 445,
+      "created_at": "2024-11-15T20:47:34Z",
+      "id": 889215087
+    },
+    "FSECDEV/Threat-Intelligence-Hackers-Forums": {
+      "star": 404,
+      "created_at": "2026-09-15T01:12:06Z",
+      "id": 1370720584
+    },
+    "Cyber-Anonymous/Dark-Phish": {
+      "star": 401,
+      "created_at": "2020-12-25T05:13:28Z",
+      "id": 324292441
+    },
+    "PortsMaster/PortMaster-New": {
+      "star": 402,
+      "created_at": "2023-12-10T03:02:59Z",
+      "id": 729690119
+    },
+    "XMCesari/drawpyo": {
+      "star": 411,
+      "created_at": "2023-08-05T19:59:45Z",
+      "id": 675107754
+    },
+    "savannahfeder/agentbox": {
+      "star": 414,
+      "created_at": "2026-09-28T02:35:07Z",
+      "id": 1391625385
+    },
+    "FSECDEV/LEAKSFORUMS": {
+      "star": 420,
+      "created_at": "2026-08-11T04:55:13Z",
+      "id": 1330508221
+    },
+    "moritzgloeckl/overleaf-sync": {
+      "star": 401,
+      "created_at": "2019-05-31T06:59:15Z",
+      "id": 189544288
+    },
+    "faizfahmi77/ScanDot": {
+      "star": 402,
+      "created_at": "2026-11-13T04:07:57Z",
+      "id": 1456134750
+    },
+    "meta/bpfilter": {
+      "star": 402,
+      "created_at": "2023-02-20T10:15:23Z",
+      "id": 604092636
+    },
+    "CUDADA-jpg/her-words": {
+      "star": 413,
+      "created_at": "2026-10-28T14:03:48Z",
+      "id": 1437167819
+    },
+    "TomyJan/SnowLuma": {
+      "star": 416,
+      "created_at": "2026-11-09T13:53:03Z",
+      "id": 1451430394
+    },
+    "Rapsssito/react-native-tcp-socket": {
+      "star": 400,
+      "created_at": "2019-10-05T10:22:34Z",
+      "id": 212980650
+    },
+    "cloudflare/kitesurf": {
+      "star": 697,
+      "created_at": "2026-09-30T08:51:43Z",
+      "id": 1397434450
+    },
+    "fboerman/entsoe-py": {
+      "star": 711,
+      "created_at": "2017-07-12T13:17:39Z",
+      "id": 97010217
+    },
+    "robertnisipeanu/idrive-apps": {
+      "star": 412,
+      "created_at": "2026-10-31T11:04:14Z",
+      "id": 1440772406
+    },
+    "apex-compute/ANR": {
+      "star": 1565,
+      "created_at": "2026-11-11T04:27:17Z",
+      "id": 1453517867
+    },
+    "Open-RUA/uni-robot-agent": {
+      "star": 400,
+      "created_at": "2026-11-02T17:50:44Z",
+      "id": 1443296161
+    },
+    "Moonlight-Panel/Moonlight": {
+      "star": 400,
+      "created_at": "2023-02-15T15:40:18Z",
+      "id": 602146737
+    },
+    "taruma/SceneFlow": {
+      "star": 400,
+      "created_at": "2026-04-01T05:41:53Z",
+      "id": 1198091246
+    },
+    "yuedai-pbc/FINESSE-Financial-Reasoning-Agent": {
+      "star": 400,
+      "created_at": "2026-08-23T17:26:43Z",
+      "id": 1344031713
+    },
+    "shidahuilang/openwrt-package": {
+      "star": 400,
+      "created_at": "2021-08-06T14:48:30Z",
+      "id": 393407496
+    },
+    "box/flaky": {
+      "star": 400,
+      "created_at": "2014-04-07T20:56:37Z",
+      "id": 18534090
+    },
+    "universal-ctags/citre": {
+      "star": 400,
+      "created_at": "2020-02-10T14:00:57Z",
+      "id": 239525297
+    },
+    "RabbittuX/purrge": {
+      "star": 433,
+      "created_at": "2026-10-20T14:35:55Z",
+      "id": 1427148830
+    },
+    "remnashop/remnashop": {
+      "star": 496,
+      "created_at": "2025-05-31T14:54:01Z",
+      "id": 993800732
+    },
+    "Valour-Software/Valour": {
+      "star": 400,
+      "created_at": "2020-10-16T18:56:46Z",
+      "id": 304714369
+    },
+    "cvzi/ScreenshotTile": {
+      "star": 400,
+      "created_at": "2018-12-21T22:35:42Z",
+      "id": 162763494
+    },
+    "digital-preservation/droid": {
+      "star": 400,
+      "created_at": "2012-06-21T10:54:31Z",
+      "id": 4737996
+    },
+    "tamim1089/HikvisionExploiter": {
+      "star": 400,
+      "created_at": "2024-07-05T16:58:14Z",
+      "id": 824675966
+    },
+    "poouo/Forwardx": {
+      "star": 400,
+      "created_at": "2026-04-25T15:41:56Z",
+      "id": 1220980603
+    },
+    "LeanMeanCleanApps/CleanMinimalApi": {
+      "star": 400,
+      "created_at": "2021-10-14T05:56:31Z",
+      "id": 417006183
+    },
+    "pengxiaoan/autocad-dwg-redraw-skill": {
+      "star": 450,
+      "created_at": "2026-06-15T04:33:38Z",
+      "id": 1269763240
+    },
+    "BLEZZ0102/Deskland": {
+      "star": 518,
+      "created_at": "2026-10-25T08:37:05Z",
+      "id": 1432987390
+    },
+    "incldue/CineFlow": {
+      "star": 403,
+      "created_at": "2026-07-06T14:37:41Z",
+      "id": 1291137700
+    },
+    "AnkioTomas/moon": {
+      "star": 400,
+      "created_at": "2026-08-10T14:58:19Z",
+      "id": 1329943145
+    },
+    "cdppcorp/KESE-KIT": {
+      "star": 400,
+      "created_at": "2026-03-27T10:08:55Z",
+      "id": 1193520331
+    },
+    "borusyak/are213": {
+      "star": 400,
+      "created_at": "2023-12-19T00:09:17Z",
+      "id": 733267364
+    },
+    "marcpope/borgbackupserver": {
+      "star": 400,
+      "created_at": "2026-01-29T04:16:44Z",
+      "id": 1144805468
+    },
+    "ProjectClash/Clash-Client": {
+      "star": 400,
+      "created_at": "2026-09-27T05:56:44Z",
+      "id": 1390234592
+    },
+    "orwa-mahmoud/nightshift": {
+      "star": 449,
+      "created_at": "2026-07-14T09:23:55Z",
+      "id": 1300273081
+    },
+    "makepad/relax": {
+      "star": 514,
+      "created_at": "2026-11-11T19:12:58Z",
+      "id": 1454392563
+    },
+    "gianlucasb/hallucinator": {
+      "star": 400,
+      "created_at": "2026-01-21T12:59:21Z",
+      "id": 1139044597
+    },
+    "chris-ritsen/network-audio-controller": {
+      "star": 400,
+      "created_at": "2022-01-26T21:16:19Z",
+      "id": 452443525
+    },
+    "luoyangdekai/chatgpt-plus-pro-Recharge-China": {
+      "star": 409,
+      "created_at": "2026-10-14T21:38:26Z",
+      "id": 1419877545
     }
   }
 }
