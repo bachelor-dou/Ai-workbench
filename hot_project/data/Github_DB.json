@@ -93507,32 +93507,6 @@
       "gh_desc": "Magical utilities for your Svelte applications.",
       "id": 770652389
     },
-    "itswadesh/svelte-commerce": {
-      "star": 1794,
-      "created_at": "2019-10-08T07:24:43Z",
-      "desc": "",
-      "language": "Svelte",
-      "topics": [
-        "cart",
-        "ecommerce",
-        "faceted-search",
-        "filters",
-        "hacktoberfest",
-        "headless",
-        "jamstack",
-        "javascript",
-        "pwa",
-        "rest-api",
-        "shopping-cart",
-        "svelte",
-        "tailwind",
-        "tailwindcss",
-        "typescript",
-        "vercel"
-      ],
-      "gh_desc": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
-      "id": 213575283
-    },
     "BetterDiscord/Installer": {
       "star": 1777,
       "created_at": "2020-11-03T19:18:56Z",
@@ -163288,31 +163262,6 @@
       ],
       "gh_desc": "A User-Agent spoofer browser extension that is highly configurable",
       "id": 103385166
-    },
-    "dongsheng123132/u-claw": {
-      "star": 1717,
-      "created_at": "2026-03-09T02:01:51Z",
-      "desc": "",
-      "language": "HTML",
-      "topics": [
-        "ai-assistant",
-        "china",
-        "deepseek",
-        "feishu",
-        "international",
-        "kimi",
-        "offline-ai",
-        "offline-installer",
-        "openclaw",
-        "plug-and-play",
-        "portable",
-        "qq-bot",
-        "usb",
-        "usb-portable",
-        "vietnam"
-      ],
-      "gh_desc": "🦞 U-Claw 虾盘 - OpenClaw AI 助手离线安装 U 盘 | 提供远程维护·定制开发·企业私有化部署服务 | Remote support & custom AI development",
-      "id": 1176414483
     },
     "element-plus-x/Element-Plus-X": {
       "star": 1453,
@@ -348576,24 +348525,6 @@
       ],
       "gh_desc": "IAM Least Privilege Policy Generator",
       "id": 209652627
-    },
-    "gnuton/asuswrt-merlin.ng": {
-      "star": 2256,
-      "created_at": "2019-03-13T23:50:44Z",
-      "desc": "",
-      "language": "C",
-      "topics": [
-        "asus",
-        "asus-routers",
-        "asuswrt",
-        "asuswrt-merlin",
-        "custom",
-        "dsl-a68u",
-        "firmware",
-        "router"
-      ],
-      "gh_desc": "Extends the support of  Merlin firmware to more ASUS routers",
-      "id": 175516287
     },
     "namespace-ee/react-calendar-timeline": {
       "star": 2150,
@@ -590938,20 +590869,6 @@
       "gh_desc": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3",
       "id": 174381831
     },
-    "RMerl/asuswrt-merlin.ng": {
-      "star": 6127,
-      "created_at": "2017-09-05T21:10:42Z",
-      "desc": "",
-      "language": "C",
-      "topics": [
-        "asus",
-        "asuswrt-merlin",
-        "firmware",
-        "router"
-      ],
-      "gh_desc": "Third party firmware for Asus routers (newer codebase)",
-      "id": 102530186
-    },
     "Respect/Validation": {
       "star": 6031,
       "created_at": "2010-09-22T16:08:05Z",
@@ -655058,22 +654975,6 @@
       ],
       "gh_desc": "A Library for Advanced Deep Time Series Models for General Time Series Analysis.",
       "id": 601044104
-    },
-    "bastienwirtz/homer": {
-      "star": 11510,
-      "created_at": "2018-06-14T04:57:54Z",
-      "desc": "",
-      "language": "Vue",
-      "topics": [
-        "dashboard",
-        "hacktoberfest",
-        "homepage",
-        "self-hosted",
-        "toolbox",
-        "vuejs"
-      ],
-      "gh_desc": "A very simple static homepage for your server.",
-      "id": 137308006
     },
     "shirou/gopsutil": {
       "star": 11886,
@@ -827539,11 +827440,6 @@
       "created_at": "2025-09-16T03:58:39Z",
       "id": 1057671043
     },
-    "Jose-Gael-Cruz-Lopez/underclassmen-opportunities": {
-      "star": 695,
-      "created_at": "2026-02-04T02:42:06Z",
-      "id": 1149355302
-    },
     "BryceWG/BiBi-Keyboard": {
       "star": 723,
       "created_at": "2025-10-06T09:18:49Z",
@@ -845329,11 +845225,6 @@
       "star": 823,
       "created_at": "2012-08-27T18:19:05Z",
       "id": 5575055
-    },
-    "lovasoa/dezoomify": {
-      "star": 811,
-      "created_at": "2013-12-29T01:33:11Z",
-      "id": 15501798
     },
     "hihkm/DanmakuFactory": {
       "star": 841,
@@ -877950,11 +877841,6 @@
       "star": 1010,
       "created_at": "2024-10-12T14:03:02Z",
       "id": 871632980
-    },
-    "lovasoa/dezoomify-rs": {
-      "star": 1017,
-      "created_at": "2019-04-14T01:41:54Z",
-      "id": 181247435
     },
     "skyfloogle/red-viper": {
       "star": 1032,
@@ -924400,11 +924286,6 @@
       "created_at": "2020-07-14T07:22:54Z",
       "id": 279512984
     },
-    "RaymiiOrg/bash-http-monitoring": {
-      "star": 570,
-      "created_at": "2020-12-27T11:45:37Z",
-      "id": 324749618
-    },
     "clangcn/ngrok-one-key-install": {
       "star": 570,
       "created_at": "2016-03-12T04:07:09Z",
@@ -956090,11 +955971,6 @@
       "created_at": "2012-09-09T13:00:26Z",
       "id": 5737604
     },
-    "philrox/n8n-workflows": {
-      "star": 640,
-      "created_at": "2025-04-15T19:55:06Z",
-      "id": 967018753
-    },
     "ShawnHymel/introduction-to-rtos": {
       "star": 640,
       "created_at": "2020-12-11T15:17:12Z",
@@ -984724,11 +984600,6 @@
       "star": 609,
       "created_at": "2025-06-21T07:39:30Z",
       "id": 1005970753
-    },
-    "Euronymou5/Doxxer-Toolkit": {
-      "star": 609,
-      "created_at": "2021-12-18T08:59:30Z",
-      "id": 439570223
     },
     "Cluster444/agentic": {
       "star": 609,
@@ -1083985,11 +1083856,6 @@
       "created_at": "2016-11-17T20:18:11Z",
       "id": 74063859
     },
-    "jesperorb/json-server-heroku": {
-      "star": 502,
-      "created_at": "2017-03-07T14:02:59Z",
-      "id": 84205796
-    },
     "mzomparelli/zVirtualDesktop": {
       "star": 502,
       "created_at": "2017-03-19T19:27:07Z",
@@ -1144790,11 +1144656,6 @@
       "created_at": "2014-11-25T01:26:14Z",
       "id": 27103407
     },
-    "overextended/ox_lib": {
-      "star": 406,
-      "created_at": "2021-10-30T04:57:17Z",
-      "id": 422787571
-    },
     "luau/UniversalSynSaveInstance": {
       "star": 405,
       "created_at": "2023-09-12T23:24:40Z",
@@ -1171202,11 +1171063,6 @@
       "created_at": "2017-01-23T07:47:16Z",
       "id": 79781970
     },
-    "RaymiiOrg/ssl-decoder": {
-      "star": 444,
-      "created_at": "2014-11-15T13:59:51Z",
-      "id": 26681476
-    },
     "Xiaohan-Chen/bear_fault_diagnosis": {
       "star": 444,
       "created_at": "2020-08-05T14:01:03Z",
@@ -1178596,11 +1178452,6 @@
       "star": 432,
       "created_at": "2020-10-22T15:59:52Z",
       "id": 306389347
-    },
-    "RaymiiOrg/certificate-expiry-monitor": {
-      "star": 432,
-      "created_at": "2015-06-07T13:30:49Z",
-      "id": 37017631
     },
     "danbaixi/yunxiaozhi": {
       "star": 437,
@@ -1253448,11 +1253299,6 @@
       "created_at": "2021-12-29T12:41:53Z",
       "id": 442769321
     },
-    "psgroove/psgroove": {
-      "star": 400,
-      "created_at": "2010-09-01T04:01:51Z",
-      "id": 876655
-    },
     "itzg/minecraft-server-charts": {
       "star": 400,
       "created_at": "2020-05-31T01:49:37Z",
@@ -1269333,11 +1269179,6 @@
       "created_at": "2023-10-10T13:29:28Z",
       "id": 703037414
     },
-    "0sec-labs/0": {
-      "star": 440,
-      "created_at": "2026-08-19T07:54:37Z",
-      "id": 1339271188
-    },
     "ERRRC/xingcezhenti": {
       "star": 621,
       "created_at": "2026-09-16T06:57:38Z",
@@ -1277453,11 +1277294,6 @@
       "created_at": "2026-09-23T02:48:02Z",
       "id": 1382625851
     },
-    "Explosion-Scratch/jgx0-is-epic": {
-      "star": 422,
-      "created_at": "2022-04-01T18:23:13Z",
-      "id": 476827678
-    },
     "Leonxlnx/cinetic": {
       "star": 517,
       "created_at": "2026-09-28T22:57:22Z",
@@ -1283915,11 +1283751,6 @@
       "created_at": "2025-01-02T15:48:15Z",
       "id": 911258781
     },
-    "Nagi-ovo/CHSI-Converter": {
-      "star": 400,
-      "created_at": "2023-06-27T16:14:33Z",
-      "id": 659342621
-    },
     "MicrosoftDocs/dynamics-365-unified-operations-public": {
       "star": 400,
       "created_at": "2017-10-25T22:56:30Z",
@@ -1290216,11 +1290047,6 @@
       "created_at": "2026-09-01T18:23:38Z",
       "id": 1353897250
     },
-    "drhelius/Gearsystem": {
-      "star": 400,
-      "created_at": "2013-02-27T11:52:34Z",
-      "id": 8454923
-    },
     "huamidev/GestaltX": {
       "star": 3209,
       "created_at": "2026-11-09T05:15:48Z",
@@ -1290364,11 +1290190,6 @@
       "star": 479,
       "created_at": "2026-11-06T21:04:22Z",
       "id": 1448746973
-    },
-    "harikumar35626-hash/wondshare-recoverit": {
-      "star": 479,
-      "created_at": "2026-11-06T21:32:43Z",
-      "id": 1448769268
     },
     "ayanprob/coreldraw-desktop-installer": {
       "star": 479,
@@ -1290635,11 +1290456,6 @@
       "created_at": "2026-06-02T02:04:41Z",
       "id": 1256679099
     },
-    "Goldoire/fefw-recomp": {
-      "star": 404,
-      "created_at": "2026-11-07T21:58:07Z",
-      "id": 1449770510
-    },
     "swipt-automation/swipt": {
       "star": 427,
       "created_at": "2026-10-29T08:39:54Z",
@@ -1290880,11 +1290696,6 @@
       "created_at": "2018-10-04T07:23:02Z",
       "id": 151533840
     },
-    "CalvinXu17/PUBG-Logitech": {
-      "star": 400,
-      "created_at": "2022-04-02T03:56:30Z",
-      "id": 476941570
-    },
     "radareorg/radeco": {
       "star": 400,
       "created_at": "2015-05-17T20:50:20Z",
@@ -1291055,11 +1290866,6 @@
       "created_at": "2026-11-02T01:29:01Z",
       "id": 1442385098
     },
-    "swarm-droid/swarmdroid": {
-      "star": 925,
-      "created_at": "2025-08-14T19:23:15Z",
-      "id": 1038196040
-    },
     "21stware/bowel": {
       "star": 422,
       "created_at": "2026-11-07T17:45:52Z",
@@ -1291168,11 +1290974,6 @@
       "star": 400,
       "created_at": "2024-09-15T07:28:44Z",
       "id": 857635578
-    },
-    "codepawl/67.js": {
-      "star": 467,
-      "created_at": "2026-10-08T20:06:27Z",
-      "id": 1410899895
     },
     "virtualglobebook/OpenGlobe": {
       "star": 400,
@@ -1291682,11 +1291483,6 @@
       "star": 400,
       "created_at": "2015-11-27T09:47:17Z",
       "id": 46972425
-    },
-    "caldwell/build-emacs": {
-      "star": 400,
-      "created_at": "2011-06-18T01:32:01Z",
-      "id": 1914169
     },
     "elripalda/RecompLauncher": {
       "star": 410,
@@ -1292899,25 +1292695,6 @@
       "created_at": "2026-08-18T17:09:25Z",
       "id": 1338653847
     },
-    "JimLiu/open-artifacts": {
-      "star": 2874,
-      "created_at": "2026-06-07T01:16:18Z",
-      "desc": "项目定位与用途：baoyu-design 是一个把 Claude Design 封装为本地可用 Agent Skill 的开源项目，可在 Cursor、Claude Code、Claude Desktop 等支持文件操作的代理中运行。它面向需要生成界面设计内容的场景，能够输出精致的 UI mockup、交互原型、线框图、落地页、仪表盘、移动端界面和演示幻灯片，产物以自包含 HTML 形式生成，便于直接在本地工作流中使用。\n\n解决的问题：项目主要解决依赖 claude.ai/design 网站带来的使用门槛与协作限制。README 明确提到，它让用户无需打开网站、无需单独订阅、无需上传步骤，就能在编辑器内完成设计生成；同时所有成果保留在仓库中，更适合本地开发与版本管理。对于需要反复迭代设计草案、并希望内容不离开本机的用户，这种方式更高效。\n\n使用场景：适合在编码编辑器中直接做产品设计、快速原型和视觉草图的人群，例如开发者、产品经理、设计师以及需要用 AI 辅助出图的团队。README 中展示了同一需求在 Cursor、Codex、Claude 与 Claude Design 中的效果对比，说明它可用于本地设计探索、界面提案、页面和仪表盘草图、以及幻灯片内容生成。若要更细的适用边界，当前输入信息仍有限。\n\n技术架构与特性：从已给信息看，它基于 Claude Design 的设计引擎，以“Agent Skill”形式打包，核心特点是可移植到本地代理环境中运行。项目标签包含 agent-skills、claude-code、cursor、prototyping、ui-design，说明其重点是与文件型 coding agent 集成。近期提交线索还显示它在持续增强导出能力，例如加入本地 gen_pptx、gen_video CLI，以及 PPTX 导出文档和动画 MP4 导出，但更完整架构仍未在输入中明确说明。",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "claude",
-        "claude-code",
-        "claude-design",
-        "cursor",
-        "design",
-        "prototyping",
-        "ui-design"
-      ],
-      "desc_updated_at": "2026-05-05",
-      "gh_desc": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
-      "id": 1261650101
-    },
     "eduwxyz/tucano": {
       "star": 404,
       "created_at": "2026-10-28T04:27:38Z",
@@ -1293439,6 +1293216,860 @@
       "star": 409,
       "created_at": "2026-10-14T21:38:26Z",
       "id": 1419877545
+    },
+    "Moh4696/cinematic-skill": {
+      "star": 424,
+      "created_at": "2026-11-09T07:58:11Z",
+      "id": 1451084291
+    },
+    "SonicloudTech/mouse-mcp": {
+      "star": 404,
+      "created_at": "2026-10-20T06:04:56Z",
+      "id": 1426577182
+    },
+    "katipally/openlive": {
+      "star": 400,
+      "created_at": "2026-07-09T18:25:05Z",
+      "id": 1295648738
+    },
+    "gogoymh/auto-ontology-mcp": {
+      "star": 417,
+      "created_at": "2026-11-06T12:09:07Z",
+      "id": 1448217653
+    },
+    "hitkeeen/blender-ai-mcp-addon": {
+      "star": 400,
+      "created_at": "2026-11-12T14:32:15Z",
+      "id": 1455416555
+    },
+    "materializr-cad/materializr": {
+      "star": 401,
+      "created_at": "2026-05-27T04:02:26Z",
+      "id": 1250891489
+    },
+    "sinanuozdemir/quick-start-guide-to-llms": {
+      "star": 400,
+      "created_at": "2023-06-08T15:25:01Z",
+      "id": 651139866
+    },
+    "Topkiflare74/ai--manus2.0": {
+      "star": 678,
+      "created_at": "2026-11-14T19:15:24Z",
+      "id": 1458091050
+    },
+    "topapothecarycanal/ai--manus2.0": {
+      "star": 666,
+      "created_at": "2026-11-14T19:15:24Z",
+      "id": 1458091044
+    },
+    "toppatronweave/ai--manus2.0": {
+      "star": 665,
+      "created_at": "2026-11-14T19:15:25Z",
+      "id": 1458091062
+    },
+    "topconstableinlet67/ai--manus2.0": {
+      "star": 663,
+      "created_at": "2026-11-14T19:15:24Z",
+      "id": 1458091047
+    },
+    "tornadonovicewhirl40/ai--manus2.0": {
+      "star": 659,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099068
+    },
+    "TitanShieldRavine/ai--manus2.0": {
+      "star": 659,
+      "created_at": "2026-11-14T19:15:25Z",
+      "id": 1458091070
+    },
+    "Ultimateakiln/ai--manus2.0": {
+      "star": 654,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099063
+    },
+    "trackersnailgrip/ai--manus2.0": {
+      "star": 654,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099058
+    },
+    "TrapBladesmith/ai--manus2.0": {
+      "star": 653,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099061
+    },
+    "Torusdrasocket/ai--manus2.0": {
+      "star": 653,
+      "created_at": "2026-11-14T19:25:15Z",
+      "id": 1458099035
+    },
+    "TremorRatTackle/ai--manus2.0": {
+      "star": 652,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099064
+    },
+    "taboospecialistblade/ai--manus2.0": {
+      "star": 651,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099060
+    },
+    "violetkomodolimit/ai--manus2.0": {
+      "star": 651,
+      "created_at": "2026-11-14T19:25:22Z",
+      "id": 1458099148
+    },
+    "Tonephorepair/ai--manus2.0": {
+      "star": 650,
+      "created_at": "2026-11-14T19:25:15Z",
+      "id": 1458099036
+    },
+    "trackboatwrightplan/ai--manus2.0": {
+      "star": 649,
+      "created_at": "2026-11-14T19:25:16Z",
+      "id": 1458099048
+    },
+    "0sec-labs/0security": {
+      "star": 440,
+      "created_at": "2026-08-19T07:54:37Z",
+      "id": 1339271188
+    },
+    "WizisCool/oh-my-cpa": {
+      "star": 425,
+      "created_at": "2026-09-12T10:27:41Z",
+      "id": 1367189462
+    },
+    "fumbdendade19718/blender-ai-copilot-desk": {
+      "star": 400,
+      "created_at": "2026-11-12T19:37:25Z",
+      "id": 1455748713
+    },
+    "homer-dashboard/homer": {
+      "star": 11510,
+      "created_at": "2018-06-14T04:57:54Z",
+      "desc": "",
+      "language": "Vue",
+      "topics": [
+        "dashboard",
+        "hacktoberfest",
+        "homepage",
+        "self-hosted",
+        "toolbox",
+        "vuejs"
+      ],
+      "gh_desc": "A very simple static homepage for your server.",
+      "id": 137308006
+    },
+    "klakegg/docker-hugo": {
+      "star": 400,
+      "created_at": "2016-05-22T19:38:00Z",
+      "id": 59430656
+    },
+    "martian56/redcell": {
+      "star": 409,
+      "created_at": "2026-08-02T10:49:51Z",
+      "id": 1320084226
+    },
+    "racdeufindurch198812/Blender-AI-MCP-Studio": {
+      "star": 406,
+      "created_at": "2026-11-12T19:28:20Z",
+      "id": 1455740160
+    },
+    "zovulrira1974/blender-ai-copilot-assets": {
+      "star": 410,
+      "created_at": "2026-11-12T19:39:54Z",
+      "id": 1455751043
+    },
+    "tiobeharxi1987/blender-ai-copilot-flow": {
+      "star": 408,
+      "created_at": "2026-11-12T19:38:53Z",
+      "id": 1455750092
+    },
+    "Doug-218/blender-ai-copilot-forge": {
+      "star": 405,
+      "created_at": "2026-11-12T19:35:10Z",
+      "id": 1455746615
+    },
+    "baiblinocun1986/blender-ai-copilot-hub": {
+      "star": 402,
+      "created_at": "2026-11-12T19:32:22Z",
+      "id": 1455744040
+    },
+    "precygtrucqui1981/blender-ai-copilot-lab": {
+      "star": 401,
+      "created_at": "2026-11-12T19:33:16Z",
+      "id": 1455744896
+    },
+    "trackboatwrightplan/GitHub-Copilot-app": {
+      "star": 672,
+      "created_at": "2026-11-14T19:16:41Z",
+      "id": 1458092119
+    },
+    "TrapAccountant/GitHub-Copilot-app": {
+      "star": 670,
+      "created_at": "2026-11-14T19:16:47Z",
+      "id": 1458092197
+    },
+    "trackersnailgrip/GitHub-Copilot-app": {
+      "star": 666,
+      "created_at": "2026-11-14T19:16:41Z",
+      "id": 1458092120
+    },
+    "toppatronweave/GitHub-Copilot-app": {
+      "star": 665,
+      "created_at": "2026-11-14T19:25:20Z",
+      "id": 1458099119
+    },
+    "TradesmanRecord/GitHub-Copilot-app": {
+      "star": 665,
+      "created_at": "2026-11-14T19:16:41Z",
+      "id": 1458092123
+    },
+    "TurkeyDesignate/GitHub-Copilot-app": {
+      "star": 664,
+      "created_at": "2026-11-14T19:25:18Z",
+      "id": 1458099075
+    },
+    "TurquoiseConsultant/GitHub-Copilot-app": {
+      "star": 664,
+      "created_at": "2026-11-14T19:25:20Z",
+      "id": 1458099121
+    },
+    "TrapBladesmith/GitHub-Copilot-app": {
+      "star": 664,
+      "created_at": "2026-11-14T19:16:50Z",
+      "id": 1458092242
+    },
+    "Tealplesense/GitHub-Copilot-app": {
+      "star": 663,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099096
+    },
+    "WebBookkeeper/GitHub-Copilot-app": {
+      "star": 663,
+      "created_at": "2026-11-14T19:25:26Z",
+      "id": 1458099218
+    },
+    "topconstableinlet67/GitHub-Copilot-app": {
+      "star": 661,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099089
+    },
+    "unitsenseimonitor/GitHub-Copilot-app": {
+      "star": 661,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099091
+    },
+    "Trapkrostride/GitHub-Copilot-app": {
+      "star": 660,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099087
+    },
+    "TrueDefenderRouter/GitHub-Copilot-app": {
+      "star": 660,
+      "created_at": "2026-11-14T19:25:20Z",
+      "id": 1458099122
+    },
+    "TarantulaCorrect/GitHub-Copilot-app": {
+      "star": 659,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099090
+    },
+    "credoksopho1984/blender-ai-copilot-studio": {
+      "star": 406,
+      "created_at": "2026-11-12T19:30:32Z",
+      "id": 1455742253
+    },
+    "Aseiel/VideoHighlighter": {
+      "star": 403,
+      "created_at": "2025-09-19T19:10:23Z",
+      "id": 1060352690
+    },
+    "Noniv/abyssal-garden": {
+      "star": 553,
+      "created_at": "2026-11-12T13:57:34Z",
+      "id": 1455374283
+    },
+    "zaxiu88888/issue-rag": {
+      "star": 440,
+      "created_at": "2026-11-01T11:32:25Z",
+      "id": 1441752010
+    },
+    "tencent-ailab/MuQ": {
+      "star": 400,
+      "created_at": "2024-12-26T13:23:56Z",
+      "id": 908600406
+    },
+    "misiki-in/svelte-commerce": {
+      "star": 1794,
+      "created_at": "2019-10-08T07:24:43Z",
+      "desc": "",
+      "language": "Svelte",
+      "topics": [
+        "cart",
+        "ecommerce",
+        "faceted-search",
+        "filters",
+        "hacktoberfest",
+        "headless",
+        "jamstack",
+        "javascript",
+        "pwa",
+        "rest-api",
+        "shopping-cart",
+        "svelte",
+        "tailwind",
+        "tailwindcss",
+        "typescript",
+        "vercel"
+      ],
+      "gh_desc": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
+      "id": 213575283
+    },
+    "overextended/ox": {
+      "star": 406,
+      "created_at": "2021-10-30T04:57:17Z",
+      "id": 422787571
+    },
+    "NahumLitvin/prismantis": {
+      "star": 411,
+      "created_at": "2026-10-02T13:01:59Z",
+      "id": 1401738352
+    },
+    "codepawl/crucible": {
+      "star": 467,
+      "created_at": "2026-10-08T20:06:27Z",
+      "id": 1410899895
+    },
+    "Asuswrt-Merlin/asuswrt-merlin.ng": {
+      "star": 6127,
+      "created_at": "2017-09-05T21:10:42Z",
+      "desc": "",
+      "language": "C",
+      "topics": [
+        "asus",
+        "asuswrt-merlin",
+        "firmware",
+        "router"
+      ],
+      "gh_desc": "Third party firmware for Asus routers (newer codebase)",
+      "id": 102530186
+    },
+    "yashabcyber7/hacktheweb": {
+      "star": 925,
+      "created_at": "2025-08-14T19:23:15Z",
+      "id": 1038196040
+    },
+    "google-research/paper-orchestra": {
+      "star": 567,
+      "created_at": "2026-05-01T18:07:52Z",
+      "id": 1226691771
+    },
+    "NeoVertex1/nuggets": {
+      "star": 400,
+      "created_at": "2026-03-16T22:26:10Z",
+      "id": 1183723892
+    },
+    "bx33661/Wireshark-MCP": {
+      "star": 400,
+      "created_at": "2026-02-07T12:35:29Z",
+      "id": 1152143486
+    },
+    "GHJJ123/brainrotguard": {
+      "star": 401,
+      "created_at": "2026-02-15T20:44:41Z",
+      "id": 1158733207
+    },
+    "teivah/designdeck": {
+      "star": 400,
+      "created_at": "2022-05-08T16:31:16Z",
+      "id": 489997286
+    },
+    "YashwanthKamireddi/Skykeep": {
+      "star": 437,
+      "created_at": "2026-10-20T16:25:48Z",
+      "id": 1427280436
+    },
+    "Nimbleway/webrouter": {
+      "star": 569,
+      "created_at": "2026-10-08T19:24:10Z",
+      "id": 1410855623
+    },
+    "lijiaqi-AI-Product-Manager/dsh-agent-compare": {
+      "star": 424,
+      "created_at": "2026-11-02T00:10:19Z",
+      "id": 1442340074
+    },
+    "eust-w/opengeniemaster": {
+      "star": 424,
+      "created_at": "2026-10-27T11:27:29Z",
+      "id": 1435635551
+    },
+    "findavoulot1973/Blender-AI-MCP-Suite": {
+      "star": 401,
+      "created_at": "2026-11-12T19:26:22Z",
+      "id": 1455738282
+    },
+    "executeautomation/mcp-database-server": {
+      "star": 404,
+      "created_at": "2025-04-12T23:47:53Z",
+      "id": 965337009
+    },
+    "dotslashsimran/simcraft": {
+      "star": 438,
+      "created_at": "2026-11-05T21:15:32Z",
+      "id": 1447522847
+    },
+    "edoardottt/lit-bb-hack-tools": {
+      "star": 401,
+      "created_at": "2021-05-07T19:54:44Z",
+      "id": 365339453
+    },
+    "mattabate/life-distributable": {
+      "star": 405,
+      "created_at": "2026-09-28T02:57:39Z",
+      "id": 1391654489
+    },
+    "RoutineMiku/apkstart": {
+      "star": 4192,
+      "created_at": "2026-10-29T13:44:03Z",
+      "id": 1438478196
+    },
+    "TorrentArrow/IPTV_Player_2.0": {
+      "star": 661,
+      "created_at": "2026-11-14T19:15:46Z",
+      "id": 1458091323
+    },
+    "tremorbuffalospire/IPTV_Player_2.0": {
+      "star": 661,
+      "created_at": "2026-11-14T19:25:18Z",
+      "id": 1458099072
+    },
+    "TurquoiseFarmer/IPTV_Player_2.0": {
+      "star": 660,
+      "created_at": "2026-11-14T19:25:18Z",
+      "id": 1458099073
+    },
+    "Topkiflare74/IPTV_Player_2.0": {
+      "star": 660,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099057
+    },
+    "dezoomify/dezoomify-rs": {
+      "star": 1017,
+      "created_at": "2019-04-14T01:41:54Z",
+      "id": 181247435
+    },
+    "Explosion-Scratch/robertoatila-is-cool": {
+      "star": 422,
+      "created_at": "2022-04-01T18:23:13Z",
+      "id": 476827678
+    },
+    "Playmate111/ComplexSync": {
+      "star": 408,
+      "created_at": "2026-09-24T07:48:34Z",
+      "id": 1384986731
+    },
+    "philverge/n8n-workflows": {
+      "star": 640,
+      "created_at": "2025-04-15T19:55:06Z",
+      "id": 967018753
+    },
+    "WattBeetleLearn/IPTV_Player_2.0": {
+      "star": 667,
+      "created_at": "2026-11-14T19:25:28Z",
+      "id": 1458099253
+    },
+    "ZiChuanLan/freebie-radar": {
+      "star": 542,
+      "created_at": "2026-11-12T09:08:11Z",
+      "id": 1455066549
+    },
+    "cjxsez/underclassmen-opportunities": {
+      "star": 695,
+      "created_at": "2026-02-04T02:42:06Z",
+      "id": 1149355302
+    },
+    "Trapbraneedle/IPTV_Player_2.0": {
+      "star": 666,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099092
+    },
+    "Titanlushrink/IPTV_Player_2.0": {
+      "star": 665,
+      "created_at": "2026-11-14T19:25:19Z",
+      "id": 1458099094
+    },
+    "NESA-Lab/mmalign-platform": {
+      "star": 569,
+      "created_at": "2026-07-31T05:54:03Z",
+      "id": 1317989214
+    },
+    "dezoomify/dezoomify": {
+      "star": 811,
+      "created_at": "2013-12-29T01:33:11Z",
+      "id": 15501798
+    },
+    "ersinkoc/AI-Video-Factory": {
+      "star": 440,
+      "created_at": "2026-10-29T22:27:41Z",
+      "id": 1439022059
+    },
+    "Torusdrasocket/IPTV_Player_2.0": {
+      "star": 665,
+      "created_at": "2026-11-14T19:15:48Z",
+      "id": 1458091352
+    },
+    "xmwengxing/CFPilot": {
+      "star": 436,
+      "created_at": "2026-10-21T07:31:49Z",
+      "id": 1428034492
+    },
+    "berkantay/gpucanvas": {
+      "star": 447,
+      "created_at": "2026-11-12T23:19:42Z",
+      "id": 1455933518
+    },
+    "musubipapi/airpointer": {
+      "star": 404,
+      "created_at": "2026-11-06T01:31:48Z",
+      "id": 1447704610
+    },
+    "lampac-nextgen/lampac": {
+      "star": 402,
+      "created_at": "2026-03-24T07:18:10Z",
+      "id": 1190331181
+    },
+    "hezhanleiok/xehn": {
+      "star": 419,
+      "created_at": "2026-09-08T06:51:47Z",
+      "id": 1361029440
+    },
+    "TowerStalker/IPTV_Player_2.0": {
+      "star": 665,
+      "created_at": "2026-11-14T19:15:52Z",
+      "id": 1458091425
+    },
+    "SkillfulAgents/SuperAgent": {
+      "star": 498,
+      "created_at": "2026-01-25T20:44:42Z",
+      "id": 1142026446
+    },
+    "Naturalpad-studio/InstantHMR": {
+      "star": 405,
+      "created_at": "2026-04-29T10:06:27Z",
+      "id": 1224469108
+    },
+    "mosheng1/QcClip": {
+      "star": 405,
+      "created_at": "2026-10-12T09:37:54Z",
+      "id": 1415379485
+    },
+    "ZimengXiong/PancakeSlicer": {
+      "star": 476,
+      "created_at": "2026-05-11T16:47:50Z",
+      "id": 1235785445
+    },
+    "ELY-Open-Source/ELYTerminal": {
+      "star": 407,
+      "created_at": "2026-10-20T00:23:23Z",
+      "id": 1426321521
+    },
+    "TradesmanRecord/IPTV_Player_2.0": {
+      "star": 658,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099062
+    },
+    "ViewTurbo/ViewTurbo": {
+      "star": 436,
+      "created_at": "2024-10-12T01:47:54Z",
+      "id": 871443514
+    },
+    "SenZmaKi/Senpwai": {
+      "star": 401,
+      "created_at": "2023-03-16T15:25:28Z",
+      "id": 614919836
+    },
+    "pvpoke/pvpoke": {
+      "star": 401,
+      "created_at": "2019-01-15T16:04:42Z",
+      "id": 165881200
+    },
+    "cx330-TXY/CxChanger": {
+      "star": 403,
+      "created_at": "2026-03-15T11:28:14Z",
+      "id": 1182333024
+    },
+    "imnotsharingmyname/pcportastrobot": {
+      "star": 452,
+      "created_at": "2026-11-08T20:22:33Z",
+      "id": 1450633054
+    },
+    "WarriorRemember/IPTV_Player_2.0": {
+      "star": 673,
+      "created_at": "2026-11-14T19:25:25Z",
+      "id": 1458099208
+    },
+    "TurquoiseDetective/IPTV_Player_2.0": {
+      "star": 669,
+      "created_at": "2026-11-14T19:25:17Z",
+      "id": 1458099066
+    },
+    "tornadonovicewhirl40/IPTV_Player_2.0": {
+      "star": 669,
+      "created_at": "2026-11-14T19:15:43Z",
+      "id": 1458091291
+    },
+    "umarz317/WatchPointer": {
+      "star": 421,
+      "created_at": "2026-11-05T13:45:36Z",
+      "id": 1447054566
+    },
+    "jiayuxuan123/YunGet": {
+      "star": 401,
+      "created_at": "2026-08-25T04:02:51Z",
+      "id": 1345656651
+    },
+    "Brainitech/Brain_Shell": {
+      "star": 401,
+      "created_at": "2026-02-17T09:18:42Z",
+      "id": 1159876704
+    },
+    "phosphor-icons/core": {
+      "star": 401,
+      "created_at": "2022-02-28T00:36:54Z",
+      "id": 464291051
+    },
+    "corincerami/mars-photo-api": {
+      "star": 400,
+      "created_at": "2015-06-22T20:13:21Z",
+      "id": 37878279
+    },
+    "sebh/TileableVolumeNoise": {
+      "star": 400,
+      "created_at": "2017-03-19T15:00:58Z",
+      "id": 85484785
+    },
+    "caolib/kira": {
+      "star": 406,
+      "created_at": "2026-03-21T13:32:37Z",
+      "id": 1187997485
+    },
+    "Tornadovonmodify/IPTV_Player_2.0": {
+      "star": 663,
+      "created_at": "2026-11-14T19:15:57Z",
+      "id": 1458091509
+    },
+    "duwqijlk/muse-protocol": {
+      "star": 651,
+      "created_at": "2026-11-14T01:24:58Z",
+      "id": 1457270665
+    },
+    "senaykt/cloud-security-resources": {
+      "star": 400,
+      "created_at": "2024-04-26T12:44:05Z",
+      "id": 792325198
+    },
+    "Zjackky/CodeScan": {
+      "star": 400,
+      "created_at": "2024-06-12T03:26:41Z",
+      "id": 813941514
+    },
+    "verback2308/Opaline": {
+      "star": 400,
+      "created_at": "2026-06-10T17:36:27Z",
+      "id": 1265349736
+    },
+    "microlinkhq/cards": {
+      "star": 400,
+      "created_at": "2020-04-07T15:42:27Z",
+      "id": 253839144
+    },
+    "bst04/payloads_flipperZero": {
+      "star": 400,
+      "created_at": "2024-10-11T15:03:08Z",
+      "id": 871248490
+    },
+    "Meltedd/scarecrow": {
+      "star": 400,
+      "created_at": "2026-04-08T08:30:43Z",
+      "id": 1204686098
+    },
+    "Lumince/singularity": {
+      "star": 403,
+      "created_at": "2025-09-02T18:11:31Z",
+      "id": 1049264689
+    },
+    "guregodevo/memdoor": {
+      "star": 403,
+      "created_at": "2026-10-05T20:04:16Z",
+      "id": 1406324573
+    },
+    "tholian-network/scout": {
+      "star": 475,
+      "created_at": "2026-10-29T07:47:23Z",
+      "id": 1438104649
+    },
+    "QuantMLResearch/quant-handbook": {
+      "star": 406,
+      "created_at": "2026-10-27T02:31:33Z",
+      "id": 1435158176
+    },
+    "biolend83/tubehaus": {
+      "star": 426,
+      "created_at": "2026-10-18T10:02:50Z",
+      "id": 1424230892
+    },
+    "pwilkin/trellis.cpp": {
+      "star": 400,
+      "created_at": "2026-06-28T14:37:43Z",
+      "id": 1283091989
+    },
+    "google/alioth": {
+      "star": 400,
+      "created_at": "2024-04-25T02:06:33Z",
+      "id": 791592431
+    },
+    "pencilresearch/midi": {
+      "star": 400,
+      "created_at": "2019-06-06T20:44:39Z",
+      "id": 190647379
+    },
+    "WangTingZheng/mcp940": {
+      "star": 400,
+      "created_at": "2020-07-16T07:06:23Z",
+      "id": 280080269
+    },
+    "Xilinx/RapidWright": {
+      "star": 400,
+      "created_at": "2017-08-29T21:20:22Z",
+      "id": 101807844
+    },
+    "tensil-ai/tensil": {
+      "star": 400,
+      "created_at": "2022-02-26T02:00:32Z",
+      "id": 463728195
+    },
+    "decoder-it/KrbRelayEx": {
+      "star": 400,
+      "created_at": "2024-11-22T20:19:39Z",
+      "id": 892806653
+    },
+    "MrGao-hy/hy-design-uni": {
+      "star": 400,
+      "created_at": "2025-08-15T08:50:10Z",
+      "id": 1038466784
+    },
+    "enarx/ciborium": {
+      "star": 400,
+      "created_at": "2020-11-17T22:31:19Z",
+      "id": 313759241
+    },
+    "GouvernementFR/dsfr": {
+      "star": 400,
+      "created_at": "2020-06-12T10:27:44Z",
+      "id": 271771309
+    },
+    "emarpiee/Retroma": {
+      "star": 400,
+      "created_at": "2025-09-07T07:39:35Z",
+      "id": 1052006250
+    },
+    "mihawk-99/PS5_MihawkOS": {
+      "star": 400,
+      "created_at": "2026-10-18T15:17:40Z",
+      "id": 1424508985
+    },
+    "Prisma-Multimodal/ViT-Prisma": {
+      "star": 400,
+      "created_at": "2023-10-02T19:11:25Z",
+      "id": 699506503
+    },
+    "BitGo/BitGoJS": {
+      "star": 400,
+      "created_at": "2014-05-24T04:30:11Z",
+      "id": 20121980
+    },
+    "libxmp/libxmp": {
+      "star": 400,
+      "created_at": "2013-04-15T00:28:14Z",
+      "id": 9437744
+    },
+    "AnantPlay/android": {
+      "star": 400,
+      "created_at": "2026-11-03T17:24:14Z",
+      "id": 1444612309
+    },
+    "bebound/AltGallery": {
+      "star": 409,
+      "created_at": "2026-08-14T12:02:14Z",
+      "id": 1334137035
+    },
+    "scrt/PowerChell": {
+      "star": 400,
+      "created_at": "2025-02-12T09:21:04Z",
+      "id": 931435721
+    },
+    "benzgasfuncring197110/blender-ai-copilot-bridge": {
+      "star": 400,
+      "created_at": "2026-11-12T19:36:26Z",
+      "id": 1455747754
+    },
+    "ZimengXiong/WinMux": {
+      "star": 400,
+      "created_at": "2026-03-23T19:24:22Z",
+      "id": 1189900346
+    },
+    "YagyanshB/google-fde-interview-guide": {
+      "star": 400,
+      "created_at": "2026-05-02T00:19:22Z",
+      "id": 1226895698
+    },
+    "fabiogra/moseca": {
+      "star": 400,
+      "created_at": "2023-02-27T21:47:25Z",
+      "id": 607384714
+    },
+    "ADeltaX/MobileShell": {
+      "star": 400,
+      "created_at": "2019-03-09T01:03:43Z",
+      "id": 174632273
+    },
+    "henrinormak/Heimdall": {
+      "star": 400,
+      "created_at": "2015-04-23T13:38:18Z",
+      "id": 34458389
+    },
+    "grugnoymeme/flipperzero-badUSB": {
+      "star": 400,
+      "created_at": "2023-04-22T20:12:39Z",
+      "id": 631371204
+    },
+    "mcnamee/huntkit": {
+      "star": 400,
+      "created_at": "2020-06-16T10:05:37Z",
+      "id": 272673912
+    },
+    "VoidSec/CVE-2020-1472": {
+      "star": 400,
+      "created_at": "2020-09-14T16:57:49Z",
+      "id": 295482050
+    },
+    "Asuswrt-Merlin/asuswrt-merlin.ng-gnuton": {
+      "star": 2256,
+      "created_at": "2019-03-13T23:50:44Z",
+      "desc": "",
+      "language": "C",
+      "topics": [
+        "asus",
+        "asus-routers",
+        "asuswrt",
+        "asuswrt-merlin",
+        "custom",
+        "dsl-a68u",
+        "firmware",
+        "router"
+      ],
+      "gh_desc": "Extends the support of  Merlin firmware to more ASUS routers",
+      "id": 175516287
     }
   }
 }
