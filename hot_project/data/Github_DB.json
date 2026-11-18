@@ -489,26 +489,6 @@
       "gh_desc": "Multi-Agent Harness for Production AI",
       "id": 1132431999
     },
-    "microsoft/agent-framework": {
-      "star": 12476,
-      "created_at": "2025-04-28T19:40:42Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "agent-framework",
-        "agentic-ai",
-        "agents",
-        "ai",
-        "dotnet",
-        "multi-agent",
-        "orchestration",
-        "python",
-        "sdk",
-        "workflows"
-      ],
-      "gh_desc": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
-      "id": 974445592
-    },
     "iflytek/astron-agent": {
       "star": 9388,
       "created_at": "2025-09-19T08:46:01Z",
@@ -8321,27 +8301,6 @@
       "topics": [],
       "gh_desc": "A simple task management system for managing AI dev agents",
       "id": 969192787
-    },
-    "GetStream/Vision-Agents": {
-      "star": 7992,
-      "created_at": "2025-08-11T18:02:04Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "agentic-ai",
-        "agents",
-        "ai",
-        "ai-agents",
-        "realtime",
-        "stt",
-        "tts",
-        "video-agents",
-        "video-ai",
-        "vision-ai",
-        "voice-ai"
-      ],
-      "gh_desc": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
-      "id": 1036205124
     },
     "YaoApp/yao": {
       "star": 7552,
@@ -44188,26 +44147,6 @@
       "gh_desc": "Semantic search and document parsing tools for the command line",
       "id": 1043448231
     },
-    "IliasHad/edit-mind": {
-      "star": 1761,
-      "created_at": "2025-10-20T16:21:57Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "computer-vision",
-        "deepface",
-        "face-recognition",
-        "ml",
-        "self-hosted",
-        "video-editing",
-        "video-indexing",
-        "video-processing",
-        "videos"
-      ],
-      "gh_desc": "Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.",
-      "id": 1079947190
-    },
     "zanllp/infinite-image-browsing": {
       "star": 1334,
       "created_at": "2023-03-07T18:26:27Z",
@@ -52554,25 +52493,6 @@
       ],
       "gh_desc": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
       "id": 621118467
-    },
-    "microsoft/onnxruntime": {
-      "star": 21215,
-      "created_at": "2018-11-10T02:22:53Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "ai-framework",
-        "deep-learning",
-        "hardware-acceleration",
-        "machine-learning",
-        "neural-networks",
-        "onnx",
-        "pytorch",
-        "scikit-learn",
-        "tensorflow"
-      ],
-      "gh_desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "id": 156939672
     },
     "dotnet/machinelearning": {
       "star": 9343,
@@ -179618,15 +179538,6 @@
       "gh_desc": "Simple and easy go web micro framework",
       "id": 73269516
     },
-    "getmoneynote/moneynote-api": {
-      "star": 1364,
-      "created_at": "2023-05-31T05:33:20Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [],
-      "gh_desc": "Personal Finance Tracker",
-      "id": 647589650
-    },
     "Mirantis/cri-dockerd": {
       "star": 1357,
       "created_at": "2020-12-04T11:10:30Z",
@@ -215147,15 +215058,6 @@
       "gh_desc": "Android - Remote Access Trojan List",
       "id": 128662922
     },
-    "jazzband/django-pipeline": {
-      "star": 1542,
-      "created_at": "2011-06-03T19:01:34Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Pipeline is an asset packaging library for Django.",
-      "id": 1843992
-    },
     "nabijaczleweli/cargo-update": {
       "star": 1566,
       "created_at": "2016-10-25T18:43:06Z",
@@ -227762,15 +227664,6 @@
       "topics": [],
       "gh_desc": "弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器",
       "id": 138993190
-    },
-    "microsoft/onnxruntime-inference-examples": {
-      "star": 1669,
-      "created_at": "2021-04-09T21:40:34Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "Examples for using ONNX Runtime for machine learning inferencing.",
-      "id": 356404407
     },
     "d3/d3-scale": {
       "star": 1615,
@@ -271203,15 +271096,6 @@
       "topics": [],
       "gh_desc": "A horizontal view scroller library for Android",
       "id": 1714530
-    },
-    "joehewitt/scrollability": {
-      "star": 1762,
-      "created_at": "2011-05-20T02:24:43Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [],
-      "gh_desc": "Imitates iOS native scrolling in JavaScript.",
-      "id": 1774509
     },
     "sanogueralorenzo/sanogueralorenzo.github.io": {
       "star": 1784,
@@ -320705,15 +320589,6 @@
       "gh_desc": "A cryptocurrency trading environment using deep reinforcement learning and OpenAI's gym",
       "id": 183808954
     },
-    "microsoft/onnxjs": {
-      "star": 1816,
-      "created_at": "2018-09-13T23:11:53Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [],
-      "gh_desc": "ONNX.js: run ONNX models using JavaScript",
-      "id": 148708393
-    },
     "superherojs/superherojs": {
       "star": 1838,
       "created_at": "2013-03-16T17:11:55Z",
@@ -329804,25 +329679,6 @@
       "topics": [],
       "gh_desc": "Geometry library for topological robustness",
       "id": 172846478
-    },
-    "MicrosoftDocs/architecture-center": {
-      "star": 2010,
-      "created_at": "2017-02-14T00:21:56Z",
-      "desc": "",
-      "language": "Shell",
-      "topics": [
-        "architecture",
-        "azure",
-        "best-practices",
-        "cloud",
-        "documentation",
-        "guidance",
-        "microsoft",
-        "patterns",
-        "practices"
-      ],
-      "gh_desc": "Open source documentation for the Azure Architecture Center on Microsoft Learn.",
-      "id": 81886010
     },
     "Lin-arm/GKD_subscription": {
       "star": 4208,
@@ -420379,20 +420235,6 @@
       "gh_desc": "Simple Logging Facade for Java",
       "id": 283187
     },
-    "jazzband/Watson": {
-      "star": 2536,
-      "created_at": "2015-03-17T17:38:52Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "cli",
-        "project-management",
-        "time-tracker",
-        "timetracking"
-      ],
-      "gh_desc": ":watch: A wonderful CLI to track your time!",
-      "id": 32409676
-    },
     "SeldonIO/alibi-detect": {
       "star": 2541,
       "created_at": "2019-10-07T13:29:13Z",
@@ -493121,15 +492963,6 @@
       "topics": [],
       "gh_desc": "Application Security Verification Standard",
       "id": 25990824
-    },
-    "jazzband/django-taggit": {
-      "star": 3441,
-      "created_at": "2009-12-08T23:40:49Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Simple tagging for django",
-      "id": 409101
     },
     "HKUDS/Paper2Slides": {
       "star": 3797,
@@ -567352,20 +567185,6 @@
       ],
       "gh_desc": "nghttp2 - HTTP/2 C Library and tools",
       "id": 11452676
-    },
-    "sourcegit-scm/sourcegit": {
-      "star": 5630,
-      "created_at": "2021-11-08T12:55:18Z",
-      "desc": "",
-      "language": "C#",
-      "topics": [
-        "cross-platform",
-        "git",
-        "git-gui",
-        "gui"
-      ],
-      "gh_desc": "Windows/macOS/Linux GUI client for GIT users",
-      "id": 425837195
     },
     "praydog/REFramework": {
       "star": 5289,
@@ -706347,26 +706166,6 @@
       "gh_desc": "Go implementation of the Ethereum protocol",
       "id": 15452919
     },
-    "trustwallet/trust-wallet-ios": {
-      "star": 1606,
-      "created_at": "2017-09-21T21:40:02Z",
-      "desc": "",
-      "language": "Swift",
-      "topics": [
-        "blockchain",
-        "blockchain-wallet",
-        "dapp",
-        "ethereum",
-        "ethereum-contract",
-        "ethereum-dapp",
-        "ethereum-wallet",
-        "swift",
-        "wallet",
-        "web3"
-      ],
-      "gh_desc": ":iphone: Trust - Ethereum Wallet and Web3 DApp Browser for iOS",
-      "id": 104401601
-    },
     "julienr/ipynb_playground": {
       "star": 1552,
       "created_at": "2015-03-30T16:30:59Z",
@@ -756163,31 +755962,6 @@
       ],
       "gh_desc": "a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task",
       "id": 1155776799
-    },
-    "asciimoo/hister": {
-      "star": 1690,
-      "created_at": "2026-01-04T10:25:21Z",
-      "desc": "项目定位与用途:\nHister 是一款专注于隐私保护的本地化个人搜索引擎，旨在为用户建立专属的网页与文件检索系统。该项目能够对用户访问过的网页内容及本地保存的文件进行完整内容索引，支持通过 Web 界面、终端命令行或接入 MCP 协议的 AI 助手进行检索。其核心定位是打造完全由用户自主控制、无需依赖外部云服务的私有化信息检索工具，帮助用户高效找回和复用个人数字资产。\n\n解决的问题:\n传统搜索引擎仅能检索公开网络内容，无法覆盖用户个人的浏览历史与本地文件，导致已访问的网页信息或保存的资料难以快速回溯。同时，依赖第三方云服务的个人检索方案存在数据泄露风险。Hister 通过本地全量内容索引与严格的隐私设计，解决了个人数字信息碎片化、检索困难及隐私不透明的问题，让用户能够安全、精准地重新发现自身积累的知识与数据。\n\n使用场景:\n该项目主要面向频繁进行网络研究、资料收集或本地文件管理的个人用户与团队。典型场景包括：通过浏览器插件自动记录并检索已访问的网页内容；批量导入现有浏览器历史记录与书签；对本地指定目录或文件进行全文检索；结合 MCP 协议将个人知识库接入 AI 助手进行智能问答；以及在共享服务器上为多用户提供隔离的独立检索空间。\n\n技术架构与特性:\n项目采用 Go 语言开发，架构轻量且支持本地或私有化部署。核心特性涵盖全量内容索引与高级查询语法（支持字段过滤、短语、通配符及优先级排序）；提供 Firefox 与 Chrome 浏览器插件实现网页自动抓取；内置爬虫与历史记录导入功能；可选配自定义嵌入端点实现语义检索。客户端覆盖 Web、终端界面、命令行及 MCP 协议，并原生支持多用户数据隔离。",
-      "language": "Go",
-      "topics": [
-        "browser-history",
-        "go",
-        "golang",
-        "history",
-        "index",
-        "mcp",
-        "mcp-server",
-        "personal-search",
-        "personal-search-engine",
-        "privacy",
-        "search",
-        "search-engine",
-        "semantic-search",
-        "web"
-      ],
-      "gh_desc": "Your own search engine",
-      "id": 1127650407,
-      "desc_updated_at": "2026-09-23"
     },
     "semantica-agi/semantica": {
       "star": 1442,
@@ -806118,11 +805892,6 @@
       "created_at": "2024-07-14T15:43:05Z",
       "id": 828587680
     },
-    "microsoft/onnxruntime-genai": {
-      "star": 1092,
-      "created_at": "2023-11-13T20:37:15Z",
-      "id": 718314761
-    },
     "EdVince/Stable-Diffusion-NCNN": {
       "star": 1067,
       "created_at": "2022-11-11T03:42:34Z",
@@ -816536,11 +816305,6 @@
       "star": 836,
       "created_at": "2019-04-16T13:54:23Z",
       "id": 181699570
-    },
-    "rsasaki0109/lidar_slam_ros2": {
-      "star": 833,
-      "created_at": "2020-01-29T12:57:45Z",
-      "id": 236982343
     },
     "RobotWebTools/roslibjs": {
       "star": 828,
@@ -922032,11 +921796,6 @@
       "star": 629,
       "created_at": "2019-10-11T10:52:29Z",
       "id": 214412420
-    },
-    "joshuadeguzman/flutter-examples": {
-      "star": 627,
-      "created_at": "2019-04-19T13:31:05Z",
-      "id": 182269186
     },
     "BFWXKJGS/AlistClient": {
       "star": 627,
@@ -1121894,11 +1121653,6 @@
       "created_at": "2023-02-06T18:51:31Z",
       "id": 598267148
     },
-    "microsoft/onnxruntime-extensions": {
-      "star": 474,
-      "created_at": "2020-10-05T19:31:04Z",
-      "id": 301518781
-    },
     "smartscanapp/smartscan-android": {
       "star": 473,
       "created_at": "2025-03-25T20:13:30Z",
@@ -1121918,11 +1121672,6 @@
       "star": 451,
       "created_at": "2023-02-07T02:10:07Z",
       "id": 598389573
-    },
-    "microsoft/onnxscript": {
-      "star": 450,
-      "created_at": "2022-02-28T17:23:33Z",
-      "id": 464577591
     },
     "ruiminshen/yolo2-pytorch": {
       "star": 443,
@@ -1142910,11 +1142659,6 @@
       "created_at": "2022-01-08T12:04:48Z",
       "id": 445808007
     },
-    "trustwallet/trust-wallet-android-source": {
-      "star": 402,
-      "created_at": "2018-02-12T06:28:52Z",
-      "id": 121208983
-    },
     "ethereum/ethereum-org": {
       "star": 401,
       "created_at": "2015-03-17T16:35:38Z",
@@ -1145024,11 +1144768,6 @@
       "star": 497,
       "created_at": "2016-04-05T21:37:44Z",
       "id": 55555186
-    },
-    "winoteam/react-router-navigation": {
-      "star": 497,
-      "created_at": "2016-07-23T21:41:15Z",
-      "id": 64037177
     },
     "srtucker22/chatty": {
       "star": 496,
@@ -1164316,11 +1164055,6 @@
       "star": 442,
       "created_at": "2013-07-22T20:46:13Z",
       "id": 11592040
-    },
-    "thakur2309/PAGASUS-PRO": {
-      "star": 442,
-      "created_at": "2025-08-16T11:02:13Z",
-      "id": 1039042606
     },
     "Illyism/musicplayer.io": {
       "star": 442,
@@ -1184176,11 +1183910,6 @@
       "star": 409,
       "created_at": "2020-06-19T21:20:56Z",
       "id": 273588585
-    },
-    "wtus/flutter_kaiyan": {
-      "star": 401,
-      "created_at": "2018-07-18T09:07:55Z",
-      "id": 141409895
     },
     "adi1090x/battery-wallpaper": {
       "star": 401,
@@ -1247453,11 +1247182,6 @@
       "created_at": "2026-07-26T06:27:38Z",
       "id": 1312554298
     },
-    "linux-msm/qdl": {
-      "star": 400,
-      "created_at": "2019-01-08T00:27:30Z",
-      "id": 164520004
-    },
     "tesa-klebeband/ESP32-Deauther": {
       "star": 402,
       "created_at": "2023-12-13T13:07:47Z",
@@ -1257292,11 +1257016,6 @@
       "gh_desc": "Free open-source macOS menu bar toolkit. Per-app volume mixer, system monitor, dock-preview, keep awake, window switcher (Alt Tab), shelf, app uninstaller, and much more.",
       "id": 1267485499
     },
-    "zapier/zapier-mcp": {
-      "star": 401,
-      "created_at": "2025-09-11T15:43:42Z",
-      "id": 1054982602
-    },
     "TokenRhythm/opensquilla": {
       "star": 6390,
       "created_at": "2026-05-06T17:43:05Z",
@@ -1259792,11 +1259511,6 @@
       "star": 541,
       "created_at": "2026-08-03T17:29:54Z",
       "id": 1322068936
-    },
-    "mozilla/firefox-devtools-mcp": {
-      "star": 401,
-      "created_at": "2025-10-08T17:04:40Z",
-      "id": 1072399993
     },
     "BenyRonald77/uajy-academic-rag-chatbot": {
       "star": 915,
@@ -1266409,11 +1266123,6 @@
       "created_at": "2016-07-26T19:48:45Z",
       "id": 64249762
     },
-    "LookJohnny/soulForge": {
-      "star": 422,
-      "created_at": "2026-03-17T06:59:00Z",
-      "id": 1184015343
-    },
     "Kablex/ComfyUI-Ref2VA-VSA": {
       "star": 402,
       "created_at": "2026-09-05T12:30:51Z",
@@ -1267263,11 +1266972,6 @@
       "star": 400,
       "created_at": "2023-01-12T14:32:52Z",
       "id": 588187462
-    },
-    "chainapsis/keplr-chain-registry": {
-      "star": 400,
-      "created_at": "2022-11-25T13:27:09Z",
-      "id": 570555793
     },
     "JohannHotzel/UnitySimplePhysics": {
       "star": 400,
@@ -1270384,11 +1270088,6 @@
       "created_at": "2025-03-25T02:46:35Z",
       "id": 954396456
     },
-    "HKUDS/PhoneCLI": {
-      "star": 936,
-      "created_at": "2025-10-19T15:42:33Z",
-      "id": 1079332068
-    },
     "tanvirarjel/EFCore.GenericRepository": {
       "star": 630,
       "created_at": "2020-03-26T14:32:45Z",
@@ -1272992,11 +1272691,6 @@
       "created_at": "2019-08-29T17:59:48Z",
       "id": 205221469
     },
-    "bruc3van/awesome-dsh-plugin": {
-      "star": 402,
-      "created_at": "2026-08-13T13:24:25Z",
-      "id": 1333144072
-    },
     "openai/openai-security-bots": {
       "star": 400,
       "created_at": "2024-01-11T01:24:16Z",
@@ -1273546,13 +1273240,6 @@
       "star": 403,
       "created_at": "2026-08-24T13:53:28Z",
       "id": 1345013588
-    },
-    "onehumanbeing/esp32-iphone-agent": {
-      "star": 961,
-      "created_at": "2026-10-11T19:10:25Z",
-      "id": 1414685342,
-      "desc": "项目定位与用途:\n本项目是一个基于ESP32-S3开发板与iOS设备的AI自动化代理系统。其核心定位是让大语言模型通过低成本硬件直接操控实体iPhone，实现无需电脑中转或越狱的自主交互。项目通过硬件与移动端应用的协同，使AI能够读取手机屏幕画面并执行点击、滑动、输入等物理操作，从而将自然语言指令转化为实际的手机应用操作，为用户提供一种全新的设备自动化控制方案。\n\n解决的问题:\n传统手机自动化方案通常依赖电脑端软件、模拟器或需要设备越狱，存在环境复杂、兼容性差且存在安全风险等问题。本项目旨在打破这些限制，通过纯硬件直连与系统级屏幕镜像技术，在无需额外计算设备且保持系统完整性的前提下，解决AI模型无法直接感知与操控物理移动设备的痛点。它降低了AI代理部署的门槛，使普通用户也能安全、便捷地利用大模型实现日常手机任务的自动化处理。\n\n使用场景:\n该项目主要面向希望利用AI提升手机操作效率的普通用户、开发者及自动化测试人员。典型场景包括通过语音或文字指令自动设置闹钟、管理日程、操作各类App界面、执行重复性点击与输入任务，以及进行移动端应用的UI交互测试。用户只需将开发板连接至iPhone，即可在后台由AI代理自主完成复杂的多步骤操作，同时通过灵动岛实时反馈运行状态，适用于日常效率工具与轻量级自动化工作流。\n\n技术架构与特性:\n系统采用“眼-手-脑”分离架构。视觉端利用ESP32-S3自建Wi-Fi热点接收iPhone的AirPlay H.264投屏流，并通过蓝牙低功耗传输至手机应用；控制端将开发板模拟为标准USB HID键鼠，结合辅助触控实现指针与手势操作；决策端由iOS应用承载，负责画面解码、调用OpenAI兼容视觉模型生成规划，并执行点击、滑动、输入等动作。整体支持后台运行与灵动岛状态显示，兼容iOS 18及以上版本。",
-      "desc_updated_at": "2026-10-21"
     },
     "AndyShaman/BYDMate": {
       "star": 401,
@@ -1284409,11 +1284096,6 @@
       "created_at": "2024-02-02T05:56:29Z",
       "id": 751696168
     },
-    "anyblades/blades": {
-      "star": 450,
-      "created_at": "2016-10-08T16:48:13Z",
-      "id": 70344882
-    },
     "cyber-xiaoya/cyber-xiaoya-live": {
       "star": 402,
       "created_at": "2026-10-24T16:54:32Z",
@@ -1286670,11 +1286352,6 @@
       "created_at": "2026-01-22T14:44:27Z",
       "id": 1139883371
     },
-    "gmongaras/Diffusion_models_from_scratch": {
-      "star": 400,
-      "created_at": "2022-09-11T17:52:25Z",
-      "id": 535379921
-    },
     "kevintngo/looseleaf": {
       "star": 413,
       "created_at": "2026-11-01T05:16:00Z",
@@ -1287453,11 +1287130,6 @@
       "star": 400,
       "created_at": "2023-04-16T17:28:47Z",
       "id": 628677426
-    },
-    "SciML/SciMLSensitivity.jl": {
-      "star": 400,
-      "created_at": "2016-11-02T17:38:07Z",
-      "id": 72665210
     },
     "pyccel/pyccel": {
       "star": 400,
@@ -1288496,11 +1288168,6 @@
       "created_at": "2021-05-15T07:50:22Z",
       "id": 367571802
     },
-    "innei-dev/lody-ios": {
-      "star": 460,
-      "created_at": "2026-09-05T18:37:43Z",
-      "id": 1358465489
-    },
     "snap-stanford/memorilla": {
       "star": 568,
       "created_at": "2026-06-23T03:03:57Z",
@@ -1289177,11 +1288844,6 @@
       "created_at": "2026-10-11T02:20:53Z",
       "id": 1413849053
     },
-    "Arda313131882/aion-2-trainer-tool": {
-      "star": 480,
-      "created_at": "2026-11-06T20:34:15Z",
-      "id": 1448722374
-    },
     "jennifer88huang/interview-skills": {
       "star": 402,
       "created_at": "2026-04-05T06:19:19Z",
@@ -1289235,11 +1288897,6 @@
       "star": 401,
       "created_at": "2026-09-07T04:22:17Z",
       "id": 1359743689
-    },
-    "farhatullah0006-art/rx-11-audio-editor-config": {
-      "star": 480,
-      "created_at": "2026-11-06T21:21:42Z",
-      "id": 1448760766
     },
     "manjushree-iyer/soundpad-audio-suite": {
       "star": 480,
@@ -1289446,11 +1289103,6 @@
       "created_at": "2026-09-08T15:18:53Z",
       "id": 1361553449
     },
-    "muddinenilakshmilalithaksh-create/sp-flash-tool": {
-      "star": 480,
-      "created_at": "2026-11-06T21:25:32Z",
-      "id": 1448763812
-    },
     "hackersandslackers/flask-sqlalchemy-tutorial": {
       "star": 400,
       "created_at": "2019-02-06T05:40:52Z",
@@ -1289496,21 +1289148,6 @@
       "created_at": "2025-12-08T08:21:05Z",
       "id": 1112154391
     },
-    "kcgeekedup-hash/delta-force-trainer-tool": {
-      "star": 480,
-      "created_at": "2026-11-06T20:51:48Z",
-      "id": 1448736861
-    },
-    "shahnawaz0786/payday-3-enhancement-toolkit": {
-      "star": 480,
-      "created_at": "2026-11-06T21:16:00Z",
-      "id": 1448756275
-    },
-    "Eriazeri/on1-photo-raw-max-config": {
-      "star": 480,
-      "created_at": "2026-11-06T21:14:39Z",
-      "id": 1448755173
-    },
     "ilsa99/microsoft-365-desktop": {
       "star": 480,
       "created_at": "2026-11-06T21:11:04Z",
@@ -1289520,11 +1289157,6 @@
       "star": 480,
       "created_at": "2026-11-06T21:03:36Z",
       "id": 1448746345
-    },
-    "utkarshryanite25-a11y/sony-vegas-pro-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T21:24:21Z",
-      "id": 1448762870
     },
     "tss878/delta-executor-toolkit": {
       "star": 479,
@@ -1289540,13 +1289172,6 @@
       "star": 402,
       "created_at": "2026-09-01T18:23:38Z",
       "id": 1353897250
-    },
-    "huamidev/GestaltX": {
-      "star": 3209,
-      "created_at": "2026-11-09T05:15:48Z",
-      "id": 1450963843,
-      "desc": "项目定位与用途:\n本项目是一款专为iPhone和iPad设计的MobileGestalt数据编辑工具。它允许用户通过预设配置或手动字段编辑，修改iOS设备的底层系统参数。核心用途涵盖显示效果定制、设备功能开关、iPad专属设置、Apple Intelligence能力解锁以及高级内部标志位调整，旨在为iOS设备提供灵活的系统级参数管理与个性化配置能力。\n\n解决的问题:\n该项目主要解决iOS设备用户难以安全、便捷地修改底层MobileGestalt配置文件的痛点。原生系统限制了部分硬件能力与区域功能的解锁，手动编辑plist文件风险高且易出错。本工具通过提供结构化预设、自动备份机制与变更对比功能，降低了系统参数修改的技术门槛，确保用户能够安全地尝试AI功能激活、显示效果增强及内部标志位调整，避免误操作导致系统异常。\n\n使用场景:\n典型场景包括：中国大陆设备用户尝试解锁Apple Intelligence与Siri功能；希望自定义动态岛布局、常亮显示效果或高亮度AOD的用户；需要调整iPad Apple Pencil与舞台模式设置的平板用户；以及希望修改设备型号、充电限制或探索iOS内部隐藏标志位的进阶玩家。目标用户主要为iOS设备爱好者、开发者及系统定制需求者。\n\n技术架构与特性:\n项目基于SwiftUI开发，兼容iOS 26/27系统，采用GPLv3开源协议。核心特性包括：内置多类型字段编辑器，支持CacheExtra字段的读写、搜索、增删及plist本地导入导出；提供变更前对比、写入验证与一键还原功能；每次修改前自动备份原始数据并记录变更日志；集成漏洞利用阶段日志查看与NeoSpring手动重启机制。近期版本已完善多语言本地化与共享导入功能。",
-      "desc_updated_at": "2026-11-11"
     },
     "DEMON1A/GmailBruterV2": {
       "star": 401,
@@ -1289670,16 +1289295,6 @@
       "created_at": "2026-11-06T20:30:50Z",
       "id": 1448719333
     },
-    "Luk177Master/easy-worship-desktop": {
-      "star": 479,
-      "created_at": "2026-11-06T20:57:14Z",
-      "id": 1448741352
-    },
-    "Sanidhya0510/dvd-creator-game-enhancement": {
-      "star": 479,
-      "created_at": "2026-11-06T20:55:25Z",
-      "id": 1448739787
-    },
     "leanislizarzado/ibm-spss-desktop-suite": {
       "star": 479,
       "created_at": "2026-11-06T21:04:22Z",
@@ -1289690,11 +1289305,6 @@
       "created_at": "2026-11-06T20:49:17Z",
       "id": 1448734795
     },
-    "Sakshimodi14/fonepaw-unlocker-setup": {
-      "star": 479,
-      "created_at": "2026-11-06T21:00:43Z",
-      "id": 1448744172
-    },
     "uchihamx999-beep/imei-repair-toolkit": {
       "star": 479,
       "created_at": "2026-11-06T21:04:17Z",
@@ -1289704,11 +1289314,6 @@
       "star": 479,
       "created_at": "2026-11-06T20:53:28Z",
       "id": 1448738290
-    },
-    "arthurrossetocampos1-crypto/uttorent-desktop": {
-      "star": 479,
-      "created_at": "2026-11-06T21:29:41Z",
-      "id": 1448767034
     },
     "kitajs/html": {
       "star": 800,
@@ -1289730,45 +1289335,15 @@
       "created_at": "2026-11-06T21:23:09Z",
       "id": 1448761997
     },
-    "Leno27-Adr/autodesk-revit-2026-standalone": {
-      "star": 479,
-      "created_at": "2026-11-06T20:39:51Z",
-      "id": 1448726998
-    },
-    "braazo/systemcare-pro": {
-      "star": 479,
-      "created_at": "2026-11-06T21:27:21Z",
-      "id": 1448765279
-    },
-    "sajawal-12/cubase-studio-desktop": {
-      "star": 479,
-      "created_at": "2026-11-06T20:50:21Z",
-      "id": 1448735676
-    },
     "Vesuvio1/display-fusion": {
       "star": 479,
       "created_at": "2026-11-06T20:54:55Z",
       "id": 1448739358
     },
-    "Mistercat12/dvd-creator-setup": {
-      "star": 479,
-      "created_at": "2026-11-06T20:56:11Z",
-      "id": 1448740468
-    },
-    "App-MonicaWEB/auslogics-audio-studio-desktop": {
-      "star": 479,
-      "created_at": "2026-11-06T20:37:01Z",
-      "id": 1448724702
-    },
     "FarhanNaem/startall-back": {
       "star": 479,
       "created_at": "2026-11-06T21:26:10Z",
       "id": 1448764321
-    },
-    "marorateb/burning-studio-desktop": {
-      "star": 479,
-      "created_at": "2026-11-06T20:43:05Z",
-      "id": 1448729605
     },
     "jakobbjelver/messer-swipe": {
       "star": 759,
@@ -1289850,40 +1289425,15 @@
       "created_at": "2026-11-06T21:18:39Z",
       "id": 1448758376
     },
-    "vigilantediurno2-del/microstation-2026-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T21:11:20Z",
-      "id": 1448752585
-    },
     "ethangangasingh-crypto/musicmakerunlimited": {
       "star": 480,
       "created_at": "2026-11-06T21:14:04Z",
       "id": 1448754711
     },
-    "dikshantghimire321-droid/kontakt-8-config": {
-      "star": 480,
-      "created_at": "2026-11-06T21:07:23Z",
-      "id": 1448749417
-    },
-    "woo20080623-cell/cinebench-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T20:47:00Z",
-      "id": 1448732908
-    },
     "janitoff0/ninjatrader-bot": {
       "star": 480,
       "created_at": "2026-11-06T21:13:59Z",
       "id": 1448754654
-    },
-    "sghnnnn01212-cmyk/data-grip-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T20:51:37Z",
-      "id": 1448736717
-    },
-    "daiphu2708-crypto/melodyne-5-desktop-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T21:09:49Z",
-      "id": 1448751363
     },
     "SAPikachu/amae-koromo": {
       "star": 401,
@@ -1289900,20 +1289450,10 @@
       "created_at": "2026-09-29T09:25:01Z",
       "id": 1394821808
     },
-    "IsaiaR09/daemon-pro-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T20:50:44Z",
-      "id": 1448735964
-    },
     "vishnu05-codes/ozone-12-advanced": {
       "star": 480,
       "created_at": "2026-11-06T21:14:51Z",
       "id": 1448755340
-    },
-    "GUFRAN7998/passfab-unlocker-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T21:15:18Z",
-      "id": 1448755703
     },
     "parthkshirsagar2456-blip/voicemod-desktop-edition": {
       "star": 480,
@@ -1289955,16 +1289495,6 @@
       "created_at": "2026-03-19T15:35:43Z",
       "id": 1186405141
     },
-    "Forgavin/ultra-iso-desktop-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T21:28:52Z",
-      "id": 1448766390
-    },
-    "vnaurudo/php-storm-desktop-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T21:18:06Z",
-      "id": 1448757964
-    },
     "angelonyn/chimera-desktop-suite": {
       "star": 480,
       "created_at": "2026-11-06T20:46:25Z",
@@ -1289975,40 +1289505,15 @@
       "created_at": "2026-11-06T21:02:28Z",
       "id": 1448745513
     },
-    "Gacktadactle/fortnite-skin-swapper-enhancement": {
-      "star": 480,
-      "created_at": "2026-11-06T21:01:35Z",
-      "id": 1448744840
-    },
     "farhodzodatojiddin5-cpu/exitlag-optimizer": {
       "star": 480,
       "created_at": "2026-11-06T20:58:34Z",
       "id": 1448742399
     },
-    "hayfa1234/honkai-star-rail-enhancement-suite": {
-      "star": 480,
-      "created_at": "2026-11-06T21:03:58Z",
-      "id": 1448746651
-    },
-    "pastebin2019/multiaccountmanager-enhancement": {
-      "star": 480,
-      "created_at": "2026-11-06T21:13:18Z",
-      "id": 1448754172
-    },
-    "theonlyoneexocctical-beep/cellebrite-ufed-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T20:44:28Z",
-      "id": 1448730777
-    },
     "hembramneeraj3-create/aida-64-extreme": {
       "star": 480,
       "created_at": "2026-11-06T20:33:44Z",
       "id": 1448721877
-    },
-    "RyoTheOne/dxo-photolab-10-config": {
-      "star": 480,
-      "created_at": "2026-11-06T20:56:41Z",
-      "id": 1448740904
     },
     "Dittobyte/Recompia": {
       "star": 500,
@@ -1290055,16 +1289560,6 @@
       "created_at": "2026-11-10T02:37:31Z",
       "id": 1452123445
     },
-    "robertsjunior/fonetrans-desktop-setup": {
-      "star": 480,
-      "created_at": "2026-11-06T21:01:39Z",
-      "id": 1448744883
-    },
-    "Elegantic/designcenter-nx-desktop": {
-      "star": 480,
-      "created_at": "2026-11-06T20:52:51Z",
-      "id": 1448737811
-    },
     "tianjanahary05-source/reason-14-installer": {
       "star": 480,
       "created_at": "2026-11-06T21:20:39Z",
@@ -1290074,11 +1289569,6 @@
       "star": 480,
       "created_at": "2026-11-06T21:20:42Z",
       "id": 1448760003
-    },
-    "RafliAbdulHaliim/sylenth-1-enhancement-suite": {
-      "star": 480,
-      "created_at": "2026-11-06T21:27:09Z",
-      "id": 1448765129
     },
     "Roland0511/dsh-marktext": {
       "star": 410,
@@ -1290888,11 +1290378,6 @@
       "created_at": "2016-06-23T22:35:10Z",
       "id": 61841214
     },
-    "hbelmiro/100DaysOfJava": {
-      "star": 400,
-      "created_at": "2021-05-12T01:12:36Z",
-      "id": 366554991
-    },
     "viego1999/JavaWxy": {
       "star": 400,
       "created_at": "2023-11-06T08:11:35Z",
@@ -1291546,11 +1291031,6 @@
       "created_at": "2026-09-29T04:51:21Z",
       "id": 1394334356
     },
-    "pembriahmad/DDOS": {
-      "star": 400,
-      "created_at": "2020-09-30T15:48:57Z",
-      "id": 299971120
-    },
     "mitmath/18330": {
       "star": 400,
       "created_at": "2019-02-05T19:36:23Z",
@@ -1291645,11 +1291125,6 @@
       "star": 623,
       "created_at": "2026-07-28T03:51:01Z",
       "id": 1314510108
-    },
-    "BenchUp3D/benchup": {
-      "star": 649,
-      "created_at": "2026-10-23T11:19:09Z",
-      "id": 1430948779
     },
     "avenoxai/avenoxbeyin": {
       "star": 428,
@@ -1291842,11 +1291317,6 @@
       "star": 488,
       "created_at": "2026-11-05T14:06:48Z",
       "id": 1447078480
-    },
-    "Marcian15350/mt5-tradeprotocol": {
-      "star": 480,
-      "created_at": "2026-11-06T21:20:48Z",
-      "id": 1448760087
     },
     "GoogleCloudPlatform/devrel-demos": {
       "star": 401,
@@ -1292240,11 +1291710,6 @@
       "created_at": "2026-01-14T09:51:58Z",
       "id": 1134135741
     },
-    "blixvip/NullMotion": {
-      "star": 1352,
-      "created_at": "2026-09-18T18:09:18Z",
-      "id": 1376258916
-    },
     "ythx-101/ask-search": {
       "star": 540,
       "created_at": "2026-03-09T12:35:42Z",
@@ -1292284,11 +1291749,6 @@
       "star": 407,
       "created_at": "2026-11-11T19:09:18Z",
       "id": 1454389076
-    },
-    "blixvip/MotionClone": {
-      "star": 621,
-      "created_at": "2026-09-10T02:29:35Z",
-      "id": 1363431253
     },
     "Specy/asm-editor": {
       "star": 402,
@@ -1292671,11 +1292131,6 @@
       "star": 417,
       "created_at": "2026-11-06T12:09:07Z",
       "id": 1448217653
-    },
-    "hitkeeen/blender-ai-mcp-addon": {
-      "star": 400,
-      "created_at": "2026-11-12T14:32:15Z",
-      "id": 1455416555
     },
     "materializr-cad/materializr": {
       "star": 401,
@@ -1294085,11 +1293540,6 @@
       "created_at": "2026-06-05T22:39:42Z",
       "id": 1260810887
     },
-    "zqbxdev/webchat2api": {
-      "star": 400,
-      "created_at": "2026-05-21T05:12:52Z",
-      "id": 1245299074
-    },
     "ilovepose/fast-human-pose-estimation.pytorch": {
       "star": 400,
       "created_at": "2019-08-14T12:28:56Z",
@@ -1294153,11 +1293603,6 @@
       "star": 885,
       "created_at": "2009-10-01T17:53:27Z",
       "id": 323683
-    },
-    "16SalomonArs/Pcileech-DMA-Firmware-Guide": {
-      "star": 400,
-      "created_at": "2025-04-12T02:24:21Z",
-      "id": 964907992
     },
     "wenlan-app/wenlan": {
       "star": 454,
@@ -1294605,15 +1294050,608 @@
       "created_at": "2021-09-02T03:49:29Z",
       "id": 402281482
     },
-    "pavanjoshi914/GSoC_archive": {
-      "star": 400,
-      "created_at": "2026-09-22T05:50:59Z",
-      "id": 1380941773
-    },
     "gaoypeng/3dcodeverse": {
       "star": 403,
       "created_at": "2026-08-23T04:59:21Z",
       "id": 1343384681
+    },
+    "boringmarketer/boring-marketing-skills": {
+      "star": 586,
+      "created_at": "2026-11-16T15:09:46Z",
+      "id": 1460180740
+    },
+    "GetStream/Agents": {
+      "star": 7992,
+      "created_at": "2025-08-11T18:02:04Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "realtime",
+        "stt",
+        "tts",
+        "video-agents",
+        "video-ai",
+        "vision-ai",
+        "voice-ai"
+      ],
+      "gh_desc": "Open Vision Agents by Stream. Build voice and vision agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
+      "id": 1036205124
+    },
+    "Dodaios/Dodaios": {
+      "star": 407,
+      "created_at": "2026-05-31T11:52:56Z",
+      "id": 1255092568
+    },
+    "zapier/mcp": {
+      "star": 401,
+      "created_at": "2025-09-11T15:43:42Z",
+      "id": 1054982602
+    },
+    "Klerith/fernando-skills": {
+      "star": 400,
+      "created_at": "2026-05-07T13:52:03Z",
+      "id": 1232005979
+    },
+    "mrbizarro/Phosphene": {
+      "star": 424,
+      "created_at": "2026-04-29T11:59:51Z",
+      "id": 1224559109
+    },
+    "facebookresearch/RAM": {
+      "star": 400,
+      "created_at": "2023-12-09T03:12:21Z",
+      "id": 729373183
+    },
+    "IliasHad/orcah-studio": {
+      "star": 1761,
+      "created_at": "2025-10-20T16:21:57Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "computer-vision",
+        "deepface",
+        "face-recognition",
+        "ml",
+        "self-hosted",
+        "video-editing",
+        "video-indexing",
+        "video-processing",
+        "videos"
+      ],
+      "gh_desc": "Local-first Video Knowledge Base. Index your video library with multi-modal analysis (YOLO, DeepFace, Whisper), search semantically via natural language, Docker-ready.",
+      "id": 1079947190
+    },
+    "RainBowLuoCS/Gamer": {
+      "star": 618,
+      "created_at": "2026-10-30T07:10:02Z",
+      "id": 1439396375
+    },
+    "django-commons/django-taggit": {
+      "star": 3441,
+      "created_at": "2009-12-08T23:40:49Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Simple tagging for django",
+      "id": 409101
+    },
+    "erkamyaman/rust-anything": {
+      "star": 1953,
+      "created_at": "2026-11-16T12:10:36Z",
+      "id": 1459971684
+    },
+    "renzora/engine": {
+      "star": 400,
+      "created_at": "2025-08-07T09:08:23Z",
+      "id": 1033734621
+    },
+    "alattanzio/Box3DUnreal": {
+      "star": 400,
+      "created_at": "2026-07-13T00:16:22Z",
+      "id": 1298712650
+    },
+    "3z9w/3z9wopt": {
+      "star": 404,
+      "created_at": "2026-10-21T05:09:28Z",
+      "id": 1427904209
+    },
+    "mozilla/firefox-mcp": {
+      "star": 401,
+      "created_at": "2025-10-08T17:04:40Z",
+      "id": 1072399993
+    },
+    "duoduoler-ops/Table-VideoSOP": {
+      "star": 412,
+      "created_at": "2026-09-20T11:48:02Z",
+      "id": 1378277537
+    },
+    "StormBrawlerSack/legwork-osint-ai-investigator": {
+      "star": 454,
+      "created_at": "2026-11-13T13:30:28Z",
+      "id": 1456635592
+    },
+    "vstorm-co/agenticos": {
+      "star": 414,
+      "created_at": "2026-07-31T09:53:01Z",
+      "id": 1318197751
+    },
+    "AnubhavChaturvedi-GitHub/jarvis-ai-assistant": {
+      "star": 402,
+      "created_at": "2024-08-04T02:58:27Z",
+      "id": 837784471
+    },
+    "americo/sqlifinder": {
+      "star": 400,
+      "created_at": "2020-12-02T22:39:18Z",
+      "id": 318010405
+    },
+    "thakur2309/PEGASUS-PRO": {
+      "star": 442,
+      "created_at": "2025-08-16T11:02:13Z",
+      "id": 1039042606
+    },
+    "op7418/guizang-game-skill": {
+      "star": 405,
+      "created_at": "2026-11-11T16:28:54Z",
+      "id": 1454221776
+    },
+    "AndrewDryga/emisar": {
+      "star": 449,
+      "created_at": "2026-05-19T01:21:19Z",
+      "id": 1243017690
+    },
+    "Lazztech/Libre-Closet": {
+      "star": 402,
+      "created_at": "2026-02-23T23:54:26Z",
+      "id": 1165211013
+    },
+    "huami-dev/GestaltX": {
+      "star": 3209,
+      "created_at": "2026-11-09T05:15:48Z",
+      "id": 1450963843,
+      "desc": "项目定位与用途:\n本项目是一款专为iPhone和iPad设计的MobileGestalt数据编辑工具。它允许用户通过预设配置或手动字段编辑，修改iOS设备的底层系统参数。核心用途涵盖显示效果定制、设备功能开关、iPad专属设置、Apple Intelligence能力解锁以及高级内部标志位调整，旨在为iOS设备提供灵活的系统级参数管理与个性化配置能力。\n\n解决的问题:\n该项目主要解决iOS设备用户难以安全、便捷地修改底层MobileGestalt配置文件的痛点。原生系统限制了部分硬件能力与区域功能的解锁，手动编辑plist文件风险高且易出错。本工具通过提供结构化预设、自动备份机制与变更对比功能，降低了系统参数修改的技术门槛，确保用户能够安全地尝试AI功能激活、显示效果增强及内部标志位调整，避免误操作导致系统异常。\n\n使用场景:\n典型场景包括：中国大陆设备用户尝试解锁Apple Intelligence与Siri功能；希望自定义动态岛布局、常亮显示效果或高亮度AOD的用户；需要调整iPad Apple Pencil与舞台模式设置的平板用户；以及希望修改设备型号、充电限制或探索iOS内部隐藏标志位的进阶玩家。目标用户主要为iOS设备爱好者、开发者及系统定制需求者。\n\n技术架构与特性:\n项目基于SwiftUI开发，兼容iOS 26/27系统，采用GPLv3开源协议。核心特性包括：内置多类型字段编辑器，支持CacheExtra字段的读写、搜索、增删及plist本地导入导出；提供变更前对比、写入验证与一键还原功能；每次修改前自动备份原始数据并记录变更日志；集成漏洞利用阶段日志查看与NeoSpring手动重启机制。近期版本已完善多语言本地化与共享导入功能。",
+      "desc_updated_at": "2026-11-11"
+    },
+    "HKUDS/PhoneGo": {
+      "star": 936,
+      "created_at": "2025-10-19T15:42:33Z",
+      "id": 1079332068
+    },
+    "Zaki-1052/GPTPortal": {
+      "star": 400,
+      "created_at": "2023-11-10T05:38:04Z",
+      "id": 716902273
+    },
+    "django-commons/django-pipeline": {
+      "star": 1542,
+      "created_at": "2011-06-03T19:01:34Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Pipeline is an asset packaging library for Django.",
+      "id": 1843992
+    },
+    "Oh-Sheet-Team/oh-sheet": {
+      "star": 400,
+      "created_at": "2026-04-06T22:49:20Z",
+      "id": 1203287184
+    },
+    "huggingface/pybot": {
+      "star": 734,
+      "created_at": "2026-11-12T11:35:13Z",
+      "id": 1455216001
+    },
+    "paimonsoror/telltaledns": {
+      "star": 409,
+      "created_at": "2026-10-03T00:48:48Z",
+      "id": 1402497876
+    },
+    "zephyr4123/snug": {
+      "star": 661,
+      "created_at": "2026-11-13T03:26:21Z",
+      "id": 1456105425
+    },
+    "groq/groq-desktop-beta": {
+      "star": 400,
+      "created_at": "2025-04-14T19:20:40Z",
+      "id": 966341566
+    },
+    "fengyiqicoder/awesome-fable-5.2": {
+      "star": 400,
+      "created_at": "2026-11-10T13:56:30Z",
+      "id": 1452733335
+    },
+    "qualcomm/qdl": {
+      "star": 400,
+      "created_at": "2019-01-08T00:27:30Z",
+      "id": 164520004
+    },
+    "ilikechocopies/sideload-jiostb": {
+      "star": 446,
+      "created_at": "2026-10-31T02:17:57Z",
+      "id": 1440422945
+    },
+    "inv2004/ttop": {
+      "star": 400,
+      "created_at": "2022-04-09T21:50:31Z",
+      "id": 479851257
+    },
+    "kociden/sakurai-skill": {
+      "star": 441,
+      "created_at": "2026-11-12T15:54:56Z",
+      "id": 1455515238
+    },
+    "LookJohnny/nous-agent-safety": {
+      "star": 422,
+      "created_at": "2026-03-17T06:59:00Z",
+      "id": 1184015343
+    },
+    "hahaha108/copyBook": {
+      "star": 400,
+      "created_at": "2018-03-13T12:20:04Z",
+      "id": 125047208
+    },
+    "luovicter-collab/bilibinggo": {
+      "star": 400,
+      "created_at": "2026-07-12T18:08:11Z",
+      "id": 1298513757
+    },
+    "asciimoo/nogon": {
+      "star": 1690,
+      "created_at": "2026-01-04T10:25:21Z",
+      "desc": "项目定位与用途:\nHister 是一款专注于隐私保护的本地化个人搜索引擎，旨在为用户建立专属的网页与文件检索系统。该项目能够对用户访问过的网页内容及本地保存的文件进行完整内容索引，支持通过 Web 界面、终端命令行或接入 MCP 协议的 AI 助手进行检索。其核心定位是打造完全由用户自主控制、无需依赖外部云服务的私有化信息检索工具，帮助用户高效找回和复用个人数字资产。\n\n解决的问题:\n传统搜索引擎仅能检索公开网络内容，无法覆盖用户个人的浏览历史与本地文件，导致已访问的网页信息或保存的资料难以快速回溯。同时，依赖第三方云服务的个人检索方案存在数据泄露风险。Hister 通过本地全量内容索引与严格的隐私设计，解决了个人数字信息碎片化、检索困难及隐私不透明的问题，让用户能够安全、精准地重新发现自身积累的知识与数据。\n\n使用场景:\n该项目主要面向频繁进行网络研究、资料收集或本地文件管理的个人用户与团队。典型场景包括：通过浏览器插件自动记录并检索已访问的网页内容；批量导入现有浏览器历史记录与书签；对本地指定目录或文件进行全文检索；结合 MCP 协议将个人知识库接入 AI 助手进行智能问答；以及在共享服务器上为多用户提供隔离的独立检索空间。\n\n技术架构与特性:\n项目采用 Go 语言开发，架构轻量且支持本地或私有化部署。核心特性涵盖全量内容索引与高级查询语法（支持字段过滤、短语、通配符及优先级排序）；提供 Firefox 与 Chrome 浏览器插件实现网页自动抓取；内置爬虫与历史记录导入功能；可选配自定义嵌入端点实现语义检索。客户端覆盖 Web、终端界面、命令行及 MCP 协议，并原生支持多用户数据隔离。",
+      "language": "Go",
+      "topics": [
+        "browser-history",
+        "go",
+        "golang",
+        "history",
+        "index",
+        "mcp",
+        "mcp-server",
+        "personal-search",
+        "personal-search-engine",
+        "privacy",
+        "search",
+        "search-engine",
+        "semantic-search",
+        "web"
+      ],
+      "gh_desc": "Your own search engine",
+      "id": 1127650407,
+      "desc_updated_at": "2026-09-23"
+    },
+    "1bananachicken/MaaNTE": {
+      "star": 2826,
+      "created_at": "2026-04-26T12:42:30Z",
+      "id": 1221600219
+    },
+    "gylive/google-ultra": {
+      "star": 2243,
+      "created_at": "2026-11-17T10:21:54Z",
+      "id": 1461244802
+    },
+    "krezio/roomy": {
+      "star": 425,
+      "created_at": "2026-11-12T09:45:48Z",
+      "id": 1455105440
+    },
+    "realcodebear/saltline-fable-5.2": {
+      "star": 434,
+      "created_at": "2026-11-10T15:04:30Z",
+      "id": 1452814488
+    },
+    "lizTheDeveloper/flyover-scrub": {
+      "star": 420,
+      "created_at": "2026-11-08T01:33:12Z",
+      "id": 1449880877
+    },
+    "jmaupetit/Watson": {
+      "star": 2536,
+      "created_at": "2015-03-17T17:38:52Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "project-management",
+        "time-tracker",
+        "timetracking"
+      ],
+      "gh_desc": ":watch: A wonderful CLI to track your time!",
+      "id": 32409676
+    },
+    "rsasaki0109/lidar_slam": {
+      "star": 833,
+      "created_at": "2020-01-29T12:57:45Z",
+      "id": 236982343
+    },
+    "pugarte7/spanish-top-tech-companies": {
+      "star": 593,
+      "created_at": "2026-08-25T21:11:58Z",
+      "id": 1346634537
+    },
+    "wynter-yaxley/atrium-desktop": {
+      "star": 422,
+      "created_at": "2026-10-31T10:33:54Z",
+      "id": 1440750339
+    },
+    "Zexyen/Witch-Time": {
+      "star": 408,
+      "created_at": "2026-10-24T20:57:38Z",
+      "id": 1432589208
+    },
+    "huami1314/SuperIcons": {
+      "star": 411,
+      "created_at": "2024-07-31T08:45:22Z",
+      "id": 836146646
+    },
+    "everruns/bashkit": {
+      "star": 411,
+      "created_at": "2026-01-31T00:05:52Z",
+      "id": 1146339724
+    },
+    "LodyAI/lody-ios": {
+      "star": 460,
+      "created_at": "2026-09-05T18:37:43Z",
+      "id": 1358465489
+    },
+    "getmoneynote/moneynote": {
+      "star": 1364,
+      "created_at": "2023-05-31T05:33:20Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [],
+      "gh_desc": "Personal Finance Tracker",
+      "id": 647589650
+    },
+    "wingedpanther/openshelf": {
+      "star": 425,
+      "created_at": "2026-11-06T16:43:38Z",
+      "id": 1448505867
+    },
+    "awslabs/ai-eval-studio": {
+      "star": 436,
+      "created_at": "2026-10-27T03:56:54Z",
+      "id": 1435220921
+    },
+    "ChristopherKahler/seed": {
+      "star": 402,
+      "created_at": "2026-03-18T17:10:43Z",
+      "id": 1185523125
+    },
+    "ericerkz/kept": {
+      "star": 404,
+      "created_at": "2026-04-28T01:48:32Z",
+      "id": 1223079805
+    },
+    "GC-STEM/it140-m4-assignment": {
+      "star": 405,
+      "created_at": "2026-07-09T13:30:32Z",
+      "id": 1295288121
+    },
+    "VaneAi888/vane-gpt-image-skills": {
+      "star": 568,
+      "created_at": "2026-11-05T08:14:40Z",
+      "id": 1446722105
+    },
+    "bruc3van/awesome-dsh-plugin-pro": {
+      "star": 402,
+      "created_at": "2026-08-13T13:24:25Z",
+      "id": 1333144072
+    },
+    "huami1314/DYYY": {
+      "star": 732,
+      "created_at": "2024-10-06T09:56:49Z",
+      "id": 868405584
+    },
+    "hxreborn/morphe-patches": {
+      "star": 402,
+      "created_at": "2026-07-17T07:16:52Z",
+      "id": 1303692775
+    },
+    "pdcgomes/redlamp": {
+      "star": 402,
+      "created_at": "2026-09-29T15:52:11Z",
+      "id": 1395843862
+    },
+    "Villagers654/Venture": {
+      "star": 402,
+      "created_at": "2026-10-27T19:20:10Z",
+      "id": 1436178308
+    },
+    "imsai-sh/awesome-deepseek-harness-plugins": {
+      "star": 402,
+      "created_at": "2026-08-14T05:53:47Z",
+      "id": 1333844474
+    },
+    "Sq00ky/Supra-iDrive6-Android-Auto": {
+      "star": 402,
+      "created_at": "2026-10-17T00:43:16Z",
+      "id": 1422812660
+    },
+    "chuanqisun/spaceship": {
+      "star": 781,
+      "created_at": "2026-11-16T14:43:45Z",
+      "id": 1460149071
+    },
+    "open-sveti/blades": {
+      "star": 450,
+      "created_at": "2016-10-08T16:48:13Z",
+      "id": 70344882
+    },
+    "guanmo-ai/design-style": {
+      "star": 507,
+      "created_at": "2026-10-20T04:27:20Z",
+      "id": 1426493985
+    },
+    "danmindru/rare-big-deal": {
+      "star": 401,
+      "created_at": "2024-11-15T14:20:30Z",
+      "id": 889054647
+    },
+    "Frametop/frametop": {
+      "star": 401,
+      "created_at": "2026-09-26T22:14:17Z",
+      "id": 1389834150
+    },
+    "Rhizomatica/mercury": {
+      "star": 401,
+      "created_at": "2022-12-07T14:58:49Z",
+      "id": 575457792
+    },
+    "heydemoura/EglantinePS5": {
+      "star": 401,
+      "created_at": "2026-10-30T21:11:08Z",
+      "id": 1440235022
+    },
+    "zortax/zgui": {
+      "star": 403,
+      "created_at": "2026-08-02T05:07:25Z",
+      "id": 1319836451
+    },
+    "zandy700/supply-chain-shock-map": {
+      "star": 446,
+      "created_at": "2026-11-05T04:59:49Z",
+      "id": 1446553661
+    },
+    "JGRFW/comfyui-aicg3d-PoseSwap": {
+      "star": 401,
+      "created_at": "2026-10-30T04:50:54Z",
+      "id": 1439288364
+    },
+    "tomatorigid/PCB_lightgraph": {
+      "star": 401,
+      "created_at": "2026-02-21T11:24:38Z",
+      "id": 1163274637
+    },
+    "hikariming/dshfind": {
+      "star": 403,
+      "created_at": "2026-08-13T12:16:50Z",
+      "id": 1333082908
+    },
+    "AgenticOrgLab/ExecOrchestra": {
+      "star": 429,
+      "created_at": "2026-11-12T12:19:20Z",
+      "id": 1455261455
+    },
+    "ReceitaFederal/calculadora-rtc-regime-regular": {
+      "star": 452,
+      "created_at": "2026-10-13T19:05:18Z",
+      "id": 1417788229
+    },
+    "memoryswordsmanlaud/fieldkit-awesome-osint-list": {
+      "star": 406,
+      "created_at": "2026-11-13T15:08:10Z",
+      "id": 1456744150
+    },
+    "kdsz001/typefree": {
+      "star": 400,
+      "created_at": "2026-06-05T16:10:41Z",
+      "id": 1260558662
+    },
+    "elm-in-elm/compiler": {
+      "star": 400,
+      "created_at": "2019-01-09T18:15:46Z",
+      "id": 164914422
+    },
+    "0xCodez/cleanly": {
+      "star": 400,
+      "created_at": "2026-10-29T14:31:45Z",
+      "id": 1438537223
+    },
+    "TomasUribe/switch-frame-tap": {
+      "star": 400,
+      "created_at": "2026-09-10T19:03:01Z",
+      "id": 1364777430
+    },
+    "pixl27/ProjectReLink": {
+      "star": 435,
+      "created_at": "2026-11-13T13:05:32Z",
+      "id": 1456610069
+    },
+    "Coopydood/HyperFluent-GRUB-Theme": {
+      "star": 400,
+      "created_at": "2024-02-26T20:30:20Z",
+      "id": 763733897
+    },
+    "redscientistlabs/RTCV": {
+      "star": 400,
+      "created_at": "2018-01-10T01:00:58Z",
+      "id": 116889379
+    },
+    "OpenScan-org/OpenScan-Design": {
+      "star": 400,
+      "created_at": "2022-05-19T09:31:47Z",
+      "id": 494006208
+    },
+    "Hitheshkaranth/OpenTerminalUI": {
+      "star": 400,
+      "created_at": "2026-02-13T07:14:43Z",
+      "id": 1156896714
+    },
+    "JNNGL/vanilla-shaders": {
+      "star": 400,
+      "created_at": "2024-05-31T08:33:35Z",
+      "id": 808518404
+    },
+    "Hut-hzf/ung220z-tool": {
+      "star": 652,
+      "created_at": "2026-11-15T11:16:46Z",
+      "id": 1458720005
+    },
+    "kimwang1978/tvbox": {
+      "star": 400,
+      "created_at": "2024-01-20T00:50:30Z",
+      "id": 745725714
+    },
+    "byuflowlab/FLOWUnsteady": {
+      "star": 400,
+      "created_at": "2019-09-30T19:55:38Z",
+      "id": 211944072
+    },
+    "nekohasekai/open-screen-sharing": {
+      "star": 400,
+      "created_at": "2026-10-07T14:38:46Z",
+      "id": 1408939831
+    },
+    "Yuuhann1999/agent-storyboard": {
+      "star": 400,
+      "created_at": "2026-06-23T02:09:36Z",
+      "id": 1277561099
+    },
+    "AlonzoLeeeooo/awesome-image-inpainting-studies": {
+      "star": 400,
+      "created_at": "2024-01-30T10:27:52Z",
+      "id": 750274600
+    },
+    "AdeelMufti/CryptoBot": {
+      "star": 400,
+      "created_at": "2017-01-17T12:44:52Z",
+      "id": 79226672
+    },
+    "eddyhkchiu/mahalanobis_3d_multi_object_tracking": {
+      "star": 400,
+      "created_at": "2019-12-06T22:25:25Z",
+      "id": 226421289
+    },
+    "sourcegit-scm-obsolete/sourcegit": {
+      "star": 5630,
+      "created_at": "2021-11-08T12:55:18Z",
+      "desc": "",
+      "language": "C#",
+      "topics": [
+        "cross-platform",
+        "git",
+        "git-gui",
+        "gui"
+      ],
+      "gh_desc": "Windows/macOS/Linux GUI client for GIT users",
+      "id": 425837195
     }
   }
 }
