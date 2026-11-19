@@ -147394,21 +147394,6 @@
       "gh_desc": "A C/C++ implementation of a Sass compiler",
       "id": 3319769
     },
-    "unjs/magic-regexp": {
-      "star": 4335,
-      "created_at": "2022-07-16T16:22:08Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "hacktoberfest",
-        "regex",
-        "regexp",
-        "regular-expression",
-        "typescript"
-      ],
-      "gh_desc": "A compiled-away, type-safe, readable RegExp alternative",
-      "id": 514628574
-    },
     "dotnet/fsharp": {
       "star": 4321,
       "created_at": "2015-01-10T05:58:43Z",
@@ -338855,20 +338840,6 @@
       ],
       "gh_desc": "Collection of awesome Python types, stubs, plugins, and tools to work with them.",
       "id": 207661821
-    },
-    "unjs/fontaine": {
-      "star": 1973,
-      "created_at": "2022-09-29T10:41:58Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "cls",
-        "fonts",
-        "hacktoberfest",
-        "web-vitals"
-      ],
-      "gh_desc": "Automatic font fallback based on font metrics",
-      "id": 543064943
     },
     "pykeen/pykeen": {
       "star": 2019,
@@ -635743,24 +635714,6 @@
       "gh_desc": "Go by Example",
       "id": 5896437
     },
-    "daijro/camoufox": {
-      "star": 10588,
-      "created_at": "2024-07-26T11:31:27Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "antidetect",
-        "antidetect-browser",
-        "fingerprint",
-        "firefox",
-        "networking",
-        "playwright",
-        "scraping",
-        "webscraping"
-      ],
-      "gh_desc": "🦊 Anti-detect browser",
-      "id": 834082440
-    },
     "rfordatascience/tidytuesday": {
       "star": 8287,
       "created_at": "2018-03-14T16:22:58Z",
@@ -738621,28 +738574,6 @@
       "gh_desc": "Build MCP Agents",
       "id": 984979554
     },
-    "DanOps-1/Gpt-Agreement-Payment": {
-      "star": 2169,
-      "created_at": "2026-04-27T03:48:28Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "adversarial-ml",
-        "anti-fraud",
-        "bug-bounty",
-        "captcha-solver",
-        "chatgpt",
-        "ctf-tools",
-        "hcaptcha-solver",
-        "mitmproxy",
-        "playwright",
-        "protocol-replay",
-        "stripe",
-        "vlm"
-      ],
-      "gh_desc": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
-      "id": 1222110548
-    },
     "colbymchenry/codegraph": {
       "star": 63187,
       "created_at": "2026-01-18T21:45:37Z",
@@ -770144,25 +770075,6 @@
       "topics": [],
       "id": 1163121560
     },
-    "microsoft/foundry-local": {
-      "star": 2475,
-      "created_at": "2025-03-31T21:51:15Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "ai-sdk",
-        "chat-completions",
-        "foundry-local",
-        "gpu-acceleration",
-        "local-ai",
-        "microsoft",
-        "on-device-inference",
-        "onnx-runtime",
-        "speech-to-text",
-        "whisper"
-      ],
-      "id": 958239663
-    },
     "sharpemu/sharpemu": {
       "star": 4495,
       "created_at": "2026-03-11T12:46:36Z",
@@ -781549,11 +781461,6 @@
       "star": 636,
       "created_at": "2014-07-20T20:45:18Z",
       "id": 22042992
-    },
-    "EvolvingLMMs-Lab/LLaVA-OneVision-2": {
-      "star": 1155,
-      "created_at": "2025-09-16T14:05:47Z",
-      "id": 1058015331
     },
     "ATH-MaaS/Pixelle-MCP": {
       "star": 1093,
@@ -810470,11 +810377,6 @@
       "created_at": "2015-07-15T14:01:00Z",
       "id": 39140034
     },
-    "daijro/hrequests": {
-      "star": 1017,
-      "created_at": "2023-07-06T17:56:09Z",
-      "id": 663169815
-    },
     "nrabinowitz/pjscrape": {
       "star": 991,
       "created_at": "2011-06-29T16:52:08Z",
@@ -810641,11 +810543,6 @@
       "star": 503,
       "created_at": "2014-12-13T11:32:02Z",
       "id": 27958652
-    },
-    "daijro/browserforge": {
-      "star": 1192,
-      "created_at": "2024-03-13T04:56:46Z",
-      "id": 771324666
     },
     "infrost/DeeplxFile": {
       "star": 1068,
@@ -840874,11 +840771,6 @@
       "star": 887,
       "created_at": "2019-03-15T08:52:40Z",
       "id": 175783234
-    },
-    "hoo-dles/morphe-patches": {
-      "star": 883,
-      "created_at": "2026-01-20T20:33:21Z",
-      "id": 1138556362
     },
     "elmish/elmish": {
       "star": 903,
@@ -921227,11 +921119,6 @@
       "created_at": "2020-06-16T00:20:10Z",
       "id": 272571205
     },
-    "webrtc-sdk/libwebrtc": {
-      "star": 630,
-      "created_at": "2019-04-19T12:43:23Z",
-      "id": 182263242
-    },
     "madelynnblue/esc": {
       "star": 629,
       "created_at": "2014-01-26T05:08:04Z",
@@ -996238,11 +996125,6 @@
       "star": 555,
       "created_at": "2013-02-25T14:20:58Z",
       "id": 8410565
-    },
-    "cfg4j/cfg4j": {
-      "star": 555,
-      "created_at": "2015-05-20T01:14:19Z",
-      "id": 35917780
     },
     "watson-developer-cloud/personality-insights-nodejs": {
       "star": 555,
@@ -1146833,11 +1146715,6 @@
       "created_at": "2021-08-31T03:36:32Z",
       "id": 401562353
     },
-    "microsoft-foundry/foundry-samples": {
-      "star": 407,
-      "created_at": "2025-04-22T21:14:55Z",
-      "id": 970996146
-    },
     "eclipse-threadx/guix": {
       "star": 405,
       "created_at": "2020-05-11T15:05:27Z",
@@ -1150324,11 +1150201,6 @@
       "star": 435,
       "created_at": "2021-07-29T13:18:53Z",
       "id": 390730437
-    },
-    "webrtc-sdk/webrtc": {
-      "star": 435,
-      "created_at": "2019-05-16T13:51:33Z",
-      "id": 187037554
     },
     "pranavjad/mlx-gpt2": {
       "star": 435,
@@ -1172245,11 +1172117,6 @@
       "star": 401,
       "created_at": "2019-11-12T06:50:52Z",
       "id": 221150060
-    },
-    "itjhDev/itjh": {
-      "star": 401,
-      "created_at": "2015-01-10T06:56:26Z",
-      "id": 29049996
     },
     "ayorgo/leetcode-neetcode-anki": {
       "star": 401,
@@ -1198250,11 +1198117,6 @@
       "star": 469,
       "created_at": "2018-11-22T22:47:39Z",
       "id": 158756598
-    },
-    "TomBener/stay-away-from-wechat": {
-      "star": 469,
-      "created_at": "2021-01-26T03:14:56Z",
-      "id": 332957055
     },
     "sachinkesiraju/SKSplashView": {
       "star": 469,
@@ -1233641,11 +1233503,6 @@
       "created_at": "2018-06-11T18:33:24Z",
       "id": 136965915
     },
-    "microsoft/AzureSearch_JFK_Files": {
-      "star": 410,
-      "created_at": "2017-11-21T18:59:05Z",
-      "id": 111589130
-    },
     "azimin/AZTransitions": {
       "star": 410,
       "created_at": "2016-11-02T16:52:18Z",
@@ -1253472,11 +1253329,6 @@
       "created_at": "2025-11-12T13:07:13Z",
       "id": 1094999005
     },
-    "specula-org/Specula": {
-      "star": 413,
-      "created_at": "2025-06-15T01:46:07Z",
-      "id": 1002224228
-    },
     "nicobailon/pi-powerline-footer": {
       "star": 400,
       "created_at": "2026-01-10T22:08:39Z",
@@ -1268329,11 +1268181,6 @@
       "created_at": "2025-10-25T02:23:54Z",
       "id": 1082927718
     },
-    "oxylabs/agent-browser": {
-      "star": 513,
-      "created_at": "2026-04-17T07:08:51Z",
-      "id": 1213233629
-    },
     "rehan-remade/universal-modder": {
       "star": 974,
       "created_at": "2026-09-30T05:00:35Z",
@@ -1271305,11 +1271152,6 @@
       "created_at": "2026-09-07T04:20:32Z",
       "id": 1359742580
     },
-    "aws-devtools-labs/aws-blocks": {
-      "star": 400,
-      "created_at": "2026-06-09T21:42:12Z",
-      "id": 1264419530
-    },
     "mit-acl/mighty": {
       "star": 403,
       "created_at": "2025-09-17T15:22:18Z",
@@ -1273139,11 +1272981,6 @@
       "created_at": "2026-07-18T19:37:24Z",
       "id": 1305179331
     },
-    "c22dev/muguet": {
-      "star": 460,
-      "created_at": "2026-10-10T08:45:02Z",
-      "id": 1412969368
-    },
     "jgoguen/calibre-kobo-driver": {
       "star": 400,
       "created_at": "2013-01-12T15:41:30Z",
@@ -1273522,11 +1273359,6 @@
       "star": 462,
       "created_at": "2026-10-07T14:49:31Z",
       "id": 1408955892
-    },
-    "antonio-orionus/Arroxy": {
-      "star": 405,
-      "created_at": "2026-04-24T14:06:22Z",
-      "id": 1220066642
     },
     "zinongli/KeyCopier": {
       "star": 401,
@@ -1278855,11 +1278687,6 @@
       "star": 736,
       "created_at": "2020-04-01T16:14:53Z",
       "id": 252225686
-    },
-    "kcleal/gw": {
-      "star": 400,
-      "created_at": "2022-07-07T18:30:42Z",
-      "id": 511635315
     },
     "DataTalksClub/datatalksclub.github.io": {
       "star": 400,
@@ -1288221,11 +1288048,6 @@
       "created_at": "2017-09-05T10:14:35Z",
       "id": 102466848
     },
-    "auag0/HideMockLocation": {
-      "star": 400,
-      "created_at": "2024-02-09T17:02:14Z",
-      "id": 755215007
-    },
     "brockmartin/roblox-game-skill": {
       "star": 400,
       "created_at": "2026-03-04T19:59:23Z",
@@ -1289358,16 +1289180,6 @@
       "created_at": "2021-12-26T14:32:11Z",
       "id": 441911152
     },
-    "mahmoudtawfik1998/secure-pdf-document-processor": {
-      "star": 481,
-      "created_at": "2026-11-06T21:23:09Z",
-      "id": 1448761997
-    },
-    "Vesuvio1/display-fusion": {
-      "star": 479,
-      "created_at": "2026-11-06T20:54:55Z",
-      "id": 1448739358
-    },
     "FarhanNaem/startall-back": {
       "star": 479,
       "created_at": "2026-11-06T21:26:10Z",
@@ -1289412,11 +1289224,6 @@
       "star": 400,
       "created_at": "2026-06-01T02:30:43Z",
       "id": 1255609001
-    },
-    "abdulmannanmalik13-wq/adobe-substance-3d-studio": {
-      "star": 481,
-      "created_at": "2026-11-06T20:33:06Z",
-      "id": 1448721315
     },
     "Cracked5pider/Stardust": {
       "star": 1378,
@@ -1289537,11 +1289344,6 @@
       "star": 480,
       "created_at": "2026-11-06T20:58:34Z",
       "id": 1448742399
-    },
-    "hembramneeraj3-create/aida-64-extreme": {
-      "star": 480,
-      "created_at": "2026-11-06T20:33:44Z",
-      "id": 1448721877
     },
     "Dittobyte/Recompia": {
       "star": 500,
@@ -1289792,11 +1289594,6 @@
       "star": 400,
       "created_at": "2026-04-28T15:27:20Z",
       "id": 1223713824
-    },
-    "jihoonerd/Data_Structures_and_Algorithms_in_Python": {
-      "star": 400,
-      "created_at": "2017-05-12T03:09:51Z",
-      "id": 91045996
     },
     "Grible/timetable.js": {
       "star": 400,
@@ -1291475,11 +1291272,6 @@
       "created_at": "2026-04-08T22:21:15Z",
       "id": 1205357982
     },
-    "lemoeo/AX6S": {
-      "star": 400,
-      "created_at": "2022-05-08T07:46:35Z",
-      "id": 489879031
-    },
     "nix-community/nix-mineral": {
       "star": 537,
       "created_at": "2024-05-10T21:02:28Z",
@@ -1291971,11 +1291763,6 @@
       "created_at": "2019-05-31T06:59:15Z",
       "id": 189544288
     },
-    "faizfahmi77/ScanDot": {
-      "star": 402,
-      "created_at": "2026-11-13T04:07:57Z",
-      "id": 1456134750
-    },
     "meta/bpfilter": {
       "star": 402,
       "created_at": "2023-02-20T10:15:23Z",
@@ -1292286,32 +1292073,6 @@
       "created_at": "2024-12-26T13:23:56Z",
       "id": 908600406
     },
-    "misiki-in/svelte-commerce": {
-      "star": 1794,
-      "created_at": "2019-10-08T07:24:43Z",
-      "desc": "",
-      "language": "Svelte",
-      "topics": [
-        "cart",
-        "ecommerce",
-        "faceted-search",
-        "filters",
-        "hacktoberfest",
-        "headless",
-        "jamstack",
-        "javascript",
-        "pwa",
-        "rest-api",
-        "shopping-cart",
-        "svelte",
-        "tailwind",
-        "tailwindcss",
-        "typescript",
-        "vercel"
-      ],
-      "gh_desc": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
-      "id": 213575283
-    },
     "overextended/ox": {
       "star": 406,
       "created_at": "2021-10-30T04:57:17Z",
@@ -1292494,11 +1292255,6 @@
       "star": 419,
       "created_at": "2026-09-08T06:51:47Z",
       "id": 1361029440
-    },
-    "SkillfulAgents/SuperAgent": {
-      "star": 498,
-      "created_at": "2026-01-25T20:44:42Z",
-      "id": 1142026446
     },
     "Naturalpad-studio/InstantHMR": {
       "star": 405,
@@ -1293306,11 +1293062,6 @@
       "created_at": "2018-05-03T14:56:32Z",
       "id": 132010919
     },
-    "jin-zi-xuan/kaobuddy-pwa": {
-      "star": 400,
-      "created_at": "2026-05-30T10:34:25Z",
-      "id": 1254252644
-    },
     "Pedro-Revez-Silva/shelfarr": {
       "star": 400,
       "created_at": "2025-12-23T22:58:12Z",
@@ -1293921,11 +1293672,6 @@
       "created_at": "2025-06-19T15:36:35Z",
       "id": 1005054343
     },
-    "jagregory/cognito-local": {
-      "star": 400,
-      "created_at": "2020-04-11T03:35:16Z",
-      "id": 254786190
-    },
     "jakezhaojb/ARAE": {
       "star": 400,
       "created_at": "2017-06-08T05:17:24Z",
@@ -1294268,13 +1294014,6 @@
       "created_at": "2026-02-23T23:54:26Z",
       "id": 1165211013
     },
-    "huami-dev/GestaltX": {
-      "star": 3209,
-      "created_at": "2026-11-09T05:15:48Z",
-      "id": 1450963843,
-      "desc": "项目定位与用途:\n本项目是一款专为iPhone和iPad设计的MobileGestalt数据编辑工具。它允许用户通过预设配置或手动字段编辑，修改iOS设备的底层系统参数。核心用途涵盖显示效果定制、设备功能开关、iPad专属设置、Apple Intelligence能力解锁以及高级内部标志位调整，旨在为iOS设备提供灵活的系统级参数管理与个性化配置能力。\n\n解决的问题:\n该项目主要解决iOS设备用户难以安全、便捷地修改底层MobileGestalt配置文件的痛点。原生系统限制了部分硬件能力与区域功能的解锁，手动编辑plist文件风险高且易出错。本工具通过提供结构化预设、自动备份机制与变更对比功能，降低了系统参数修改的技术门槛，确保用户能够安全地尝试AI功能激活、显示效果增强及内部标志位调整，避免误操作导致系统异常。\n\n使用场景:\n典型场景包括：中国大陆设备用户尝试解锁Apple Intelligence与Siri功能；希望自定义动态岛布局、常亮显示效果或高亮度AOD的用户；需要调整iPad Apple Pencil与舞台模式设置的平板用户；以及希望修改设备型号、充电限制或探索iOS内部隐藏标志位的进阶玩家。目标用户主要为iOS设备爱好者、开发者及系统定制需求者。\n\n技术架构与特性:\n项目基于SwiftUI开发，兼容iOS 26/27系统，采用GPLv3开源协议。核心特性包括：内置多类型字段编辑器，支持CacheExtra字段的读写、搜索、增删及plist本地导入导出；提供变更前对比、写入验证与一键还原功能；每次修改前自动备份原始数据并记录变更日志；集成漏洞利用阶段日志查看与NeoSpring手动重启机制。近期版本已完善多语言本地化与共享导入功能。",
-      "desc_updated_at": "2026-11-11"
-    },
     "HKUDS/PhoneGo": {
       "star": 936,
       "created_at": "2025-10-19T15:42:33Z",
@@ -1294354,11 +1294093,6 @@
       "created_at": "2018-03-13T12:20:04Z",
       "id": 125047208
     },
-    "luovicter-collab/bilibinggo": {
-      "star": 400,
-      "created_at": "2026-07-12T18:08:11Z",
-      "id": 1298513757
-    },
     "asciimoo/nogon": {
       "star": 1690,
       "created_at": "2026-01-04T10:25:21Z",
@@ -1294383,16 +1294117,6 @@
       "gh_desc": "Your own search engine",
       "id": 1127650407,
       "desc_updated_at": "2026-09-23"
-    },
-    "1bananachicken/MaaNTE": {
-      "star": 2826,
-      "created_at": "2026-04-26T12:42:30Z",
-      "id": 1221600219
-    },
-    "gylive/google-ultra": {
-      "star": 2243,
-      "created_at": "2026-11-17T10:21:54Z",
-      "id": 1461244802
     },
     "krezio/roomy": {
       "star": 425,
@@ -1294652,11 +1294376,6 @@
       "created_at": "2026-02-13T07:14:43Z",
       "id": 1156896714
     },
-    "JNNGL/vanilla-shaders": {
-      "star": 400,
-      "created_at": "2024-05-31T08:33:35Z",
-      "id": 808518404
-    },
     "Hut-hzf/ung220z-tool": {
       "star": 652,
       "created_at": "2026-11-15T11:16:46Z",
@@ -1294697,7 +1294416,210 @@
       "created_at": "2019-12-06T22:25:25Z",
       "id": 226421289
     },
-    "sourcegit-scm-obsolete/sourcegit": {
+    "onehumanbeing/esp32-iphone-agent": {
+      "star": 5083,
+      "created_at": "2026-10-11T19:10:25Z",
+      "id": 1414685342
+    },
+    "Cotal-AI/Cotal": {
+      "star": 402,
+      "created_at": "2026-06-02T02:52:25Z",
+      "id": 1256708592
+    },
+    "interfere-inc/landmines": {
+      "star": 638,
+      "created_at": "2026-10-28T16:10:27Z",
+      "id": 1437323332
+    },
+    "EvolvingLMMs-Lab/LLaVA-OneVision-2.5": {
+      "star": 1155,
+      "created_at": "2025-09-16T14:05:47Z",
+      "id": 1058015331
+    },
+    "JakeATX/llamAmpere": {
+      "star": 401,
+      "created_at": "2026-09-07T14:19:35Z",
+      "id": 1360317755
+    },
+    "relatedb/relate": {
+      "star": 402,
+      "created_at": "2026-11-04T15:55:34Z",
+      "id": 1445876569
+    },
+    "Saramanda9988/LunaBox": {
+      "star": 401,
+      "created_at": "2025-12-20T10:44:46Z",
+      "id": 1120031582
+    },
+    "tidyverse/duckplyr": {
+      "star": 400,
+      "created_at": "2022-11-29T08:20:48Z",
+      "id": 571945396
+    },
+    "danielroe/magic-regexp": {
+      "star": 4335,
+      "created_at": "2022-07-16T16:22:08Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "hacktoberfest",
+        "regex",
+        "regexp",
+        "regular-expression",
+        "typescript"
+      ],
+      "gh_desc": "A compiled-away, type-safe, readable RegExp alternative",
+      "id": 514628574
+    },
+    "oxylabs/Agent-browser": {
+      "star": 513,
+      "created_at": "2026-04-17T07:08:51Z",
+      "id": 1213233629
+    },
+    "bitwarden/agent-access": {
+      "star": 472,
+      "created_at": "2025-12-19T04:38:57Z",
+      "id": 1119310590
+    },
+    "DuskBotAI/duskbot": {
+      "star": 426,
+      "created_at": "2026-11-05T20:43:18Z",
+      "id": 1447495463
+    },
+    "NaufalRizqullah/opensource-clipping": {
+      "star": 409,
+      "created_at": "2026-04-04T02:34:25Z",
+      "id": 1200943022
+    },
+    "ysunyang4/Nexus": {
+      "star": 411,
+      "created_at": "2026-11-13T13:46:21Z",
+      "id": 1456652206
+    },
+    "itswadesh/svelte-commerce": {
+      "star": 1794,
+      "created_at": "2019-10-08T07:24:43Z",
+      "desc": "",
+      "language": "Svelte",
+      "topics": [
+        "cart",
+        "ecommerce",
+        "faceted-search",
+        "filters",
+        "hacktoberfest",
+        "headless",
+        "jamstack",
+        "javascript",
+        "pwa",
+        "rest-api",
+        "shopping-cart",
+        "svelte",
+        "tailwind",
+        "tailwindcss",
+        "typescript",
+        "vercel"
+      ],
+      "gh_desc": "The open-source storefront for any ecommerce. Built with a headless approach, using a modern JS stack. Works with Litekart, Medusa. WIP for Shopify.",
+      "id": 213575283
+    },
+    "mikemajesty/nestjs-microservice-boilerplate-api": {
+      "star": 400,
+      "created_at": "2023-03-03T02:54:50Z",
+      "id": 608936858
+    },
+    "zqbxdev/webchat2api": {
+      "star": 400,
+      "created_at": "2026-05-21T05:12:52Z",
+      "id": 1245299074
+    },
+    "Varun7009/Obsidian-Music": {
+      "star": 415,
+      "created_at": "2026-07-29T10:44:31Z",
+      "id": 1316011044
+    },
+    "Makson179/Bello": {
+      "star": 409,
+      "created_at": "2026-05-24T12:11:37Z",
+      "id": 1248263545
+    },
+    "acosta290/fluvy": {
+      "star": 510,
+      "created_at": "2026-09-27T11:43:34Z",
+      "id": 1390720234
+    },
+    "huami1314/GestaltX": {
+      "star": 3209,
+      "created_at": "2026-11-09T05:15:48Z",
+      "id": 1450963843,
+      "desc": "项目定位与用途:\n本项目是一款专为iPhone和iPad设计的MobileGestalt数据编辑工具。它允许用户通过预设配置或手动字段编辑，修改iOS设备的底层系统参数。核心用途涵盖显示效果定制、设备功能开关、iPad专属设置、Apple Intelligence能力解锁以及高级内部标志位调整，旨在为iOS设备提供灵活的系统级参数管理与个性化配置能力。\n\n解决的问题:\n该项目主要解决iOS设备用户难以安全、便捷地修改底层MobileGestalt配置文件的痛点。原生系统限制了部分硬件能力与区域功能的解锁，手动编辑plist文件风险高且易出错。本工具通过提供结构化预设、自动备份机制与变更对比功能，降低了系统参数修改的技术门槛，确保用户能够安全地尝试AI功能激活、显示效果增强及内部标志位调整，避免误操作导致系统异常。\n\n使用场景:\n典型场景包括：中国大陆设备用户尝试解锁Apple Intelligence与Siri功能；希望自定义动态岛布局、常亮显示效果或高亮度AOD的用户；需要调整iPad Apple Pencil与舞台模式设置的平板用户；以及希望修改设备型号、充电限制或探索iOS内部隐藏标志位的进阶玩家。目标用户主要为iOS设备爱好者、开发者及系统定制需求者。\n\n技术架构与特性:\n项目基于SwiftUI开发，兼容iOS 26/27系统，采用GPLv3开源协议。核心特性包括：内置多类型字段编辑器，支持CacheExtra字段的读写、搜索、增删及plist本地导入导出；提供变更前对比、写入验证与一键还原功能；每次修改前自动备份原始数据并记录变更日志；集成漏洞利用阶段日志查看与NeoSpring手动重启机制。近期版本已完善多语言本地化与共享导入功能。",
+      "desc_updated_at": "2026-11-11"
+    },
+    "artbyjazi/autoclip": {
+      "star": 427,
+      "created_at": "2026-07-31T23:52:46Z",
+      "id": 1318832652
+    },
+    "Johnson-Durui/Companion-Space": {
+      "star": 435,
+      "created_at": "2026-08-18T13:35:32Z",
+      "id": 1338445797
+    },
+    "migueldeicaza/SwiftGodotKit": {
+      "star": 400,
+      "created_at": "2023-04-02T13:57:15Z",
+      "id": 622568266
+    },
+    "TixXin/Fuyu": {
+      "star": 418,
+      "created_at": "2026-11-03T06:41:12Z",
+      "id": 1443910681
+    },
+    "chrisle/rbxport": {
+      "star": 402,
+      "created_at": "2026-09-25T22:07:44Z",
+      "id": 1388234142
+    },
+    "zenvyzenshiro/zenlink": {
+      "star": 406,
+      "created_at": "2026-11-03T10:48:10Z",
+      "id": 1444153869
+    },
+    "xevrion/gyotaku": {
+      "star": 402,
+      "created_at": "2026-09-25T22:56:46Z",
+      "id": 1388266462
+    },
+    "aws/cdk-blocks": {
+      "star": 400,
+      "created_at": "2026-06-09T21:42:12Z",
+      "id": 1264419530
+    },
+    "gnacho/netpulse": {
+      "star": 404,
+      "created_at": "2026-07-31T14:05:48Z",
+      "id": 1318413093
+    },
+    "Phant0Meow/dsh-meow-memory": {
+      "star": 400,
+      "created_at": "2026-08-14T08:54:33Z",
+      "id": 1333986968
+    },
+    "ljgibbslf/Chinese-Translation-of-PCI-Express-Technology-": {
+      "star": 400,
+      "created_at": "2022-10-01T14:19:39Z",
+      "id": 544054146
+    },
+    "eliautobot/my-virtual-office": {
+      "star": 403,
+      "created_at": "2026-03-24T15:07:04Z",
+      "id": 1190730657
+    },
+    "Fs00/Win10BloatRemover": {
+      "star": 400,
+      "created_at": "2018-10-30T16:14:46Z",
+      "id": 155417360
+    },
+    "sourcegit-org/sourcegit": {
       "star": 5630,
       "created_at": "2021-11-08T12:55:18Z",
       "desc": "",
@@ -1294710,6 +1294632,330 @@
       ],
       "gh_desc": "Windows/macOS/Linux GUI client for GIT users",
       "id": 425837195
+    },
+    "webrtc-sdk/libwebrtc-wrapper": {
+      "star": 630,
+      "created_at": "2019-04-19T12:43:23Z",
+      "id": 182263242
+    },
+    "mankidev/antialgorithm": {
+      "star": 437,
+      "created_at": "2026-11-14T09:48:23Z",
+      "id": 1457605310
+    },
+    "specular-org/Specular": {
+      "star": 413,
+      "created_at": "2025-06-15T01:46:07Z",
+      "id": 1002224228
+    },
+    "pithings/unkernel": {
+      "star": 480,
+      "created_at": "2026-11-12T22:06:00Z",
+      "id": 1455879258
+    },
+    "Maa-NTE/MaaNTE": {
+      "star": 2826,
+      "created_at": "2026-04-26T12:42:30Z",
+      "id": 1221600219
+    },
+    "Illson/RustText": {
+      "star": 645,
+      "created_at": "2026-11-16T17:46:45Z",
+      "id": 1460361401
+    },
+    "SkillfulAgents/Gamut": {
+      "star": 498,
+      "created_at": "2026-01-25T20:44:42Z",
+      "id": 1142026446
+    },
+    "Immortal-Protocols/lastbook": {
+      "star": 2230,
+      "created_at": "2026-11-12T23:49:03Z",
+      "id": 1455952445
+    },
+    "NYLLON-SOFTWARE/SignuDoc": {
+      "star": 2268,
+      "created_at": "2026-03-26T01:25:59Z",
+      "id": 1192193764
+    },
+    "danielroe/fontaine": {
+      "star": 1973,
+      "created_at": "2022-09-29T10:41:58Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "cls",
+        "fonts",
+        "hacktoberfest",
+        "web-vitals"
+      ],
+      "gh_desc": "Automatic font fallback based on font metrics",
+      "id": 543064943
+    },
+    "ReceitaFederal/calculadora-rtc-simples-nacional": {
+      "star": 522,
+      "created_at": "2026-10-13T19:05:48Z",
+      "id": 1417789064
+    },
+    "scottsturrock/mate-wayland-desktop": {
+      "star": 440,
+      "created_at": "2026-11-16T03:12:11Z",
+      "id": 1459485844
+    },
+    "Simon3Sarkis/super-odyssey-pc-recomp": {
+      "star": 401,
+      "created_at": "2026-11-12T01:49:10Z",
+      "id": 1454708045
+    },
+    "V-Lipset/ao3-chinese": {
+      "star": 402,
+      "created_at": "2025-06-26T13:54:52Z",
+      "id": 1009051806
+    },
+    "FoxWorkshop/ShadowRecomp": {
+      "star": 404,
+      "created_at": "2026-09-29T20:20:07Z",
+      "id": 1396546956
+    },
+    "Anarcadia/chuanban-antigravity-theme-patch": {
+      "star": 440,
+      "created_at": "2026-10-18T12:38:46Z",
+      "id": 1424357242
+    },
+    "kingOfSoySauce/dsh-liang-skin": {
+      "star": 401,
+      "created_at": "2026-08-14T14:07:36Z",
+      "id": 1334246540
+    },
+    "hello-qingshan/skill-c-cleaner": {
+      "star": 401,
+      "created_at": "2026-04-07T09:07:38Z",
+      "id": 1203677530
+    },
+    "Gosu-x/multimodal-threat-dataset": {
+      "star": 407,
+      "created_at": "2026-11-12T10:32:12Z",
+      "id": 1455153307
+    },
+    "Arroxy/Arroxy": {
+      "star": 405,
+      "created_at": "2026-04-24T14:06:22Z",
+      "id": 1220066642
+    },
+    "nilbuild/stick-scene": {
+      "star": 457,
+      "created_at": "2026-11-15T00:17:40Z",
+      "id": 1458303867
+    },
+    "shift-editor/shift": {
+      "star": 402,
+      "created_at": "2024-12-09T07:56:14Z",
+      "id": 900646101
+    },
+    "coolapk-desktop/coolapk-desktop": {
+      "star": 408,
+      "created_at": "2026-10-17T02:05:31Z",
+      "id": 1422856382
+    },
+    "chen-006/meow-ai-arena": {
+      "star": 408,
+      "created_at": "2026-10-02T06:37:33Z",
+      "id": 1401241173
+    },
+    "NewtSupervise/Renz-GTA-VI": {
+      "star": 601,
+      "created_at": "2026-08-21T15:01:15Z",
+      "id": 1341931684
+    },
+    "tile-ai/tilelang-puzzles": {
+      "star": 401,
+      "created_at": "2025-12-11T09:35:06Z",
+      "id": 1114377105
+    },
+    "simonsanchezart/textract": {
+      "star": 401,
+      "created_at": "2026-02-17T01:53:39Z",
+      "id": 1159656336
+    },
+    "halbux/sparselizard": {
+      "star": 400,
+      "created_at": "2019-04-09T15:27:05Z",
+      "id": 180396881
+    },
+    "Sanotsu/china-food-composition-data": {
+      "star": 400,
+      "created_at": "2023-12-29T06:03:29Z",
+      "id": 736874302
+    },
+    "deepinstinct/DCOMUploadExec": {
+      "star": 400,
+      "created_at": "2024-11-13T16:05:29Z",
+      "id": 887984411
+    },
+    "AFangTeam/PrintLab": {
+      "star": 413,
+      "created_at": "2026-11-11T01:31:27Z",
+      "id": 1453389238
+    },
+    "trustybird/AvenCores-open-antigravity-patcher": {
+      "star": 413,
+      "created_at": "2026-09-25T14:19:52Z",
+      "id": 1387644869
+    },
+    "amitshekhariitbhu/ai-engineer-roadmap": {
+      "star": 404,
+      "created_at": "2026-09-20T15:02:38Z",
+      "id": 1378459509
+    },
+    "gelenmedya/rustyfiles": {
+      "star": 436,
+      "created_at": "2026-11-07T19:58:59Z",
+      "id": 1449695486
+    },
+    "youneedhelp111/erase_me": {
+      "star": 427,
+      "created_at": "2026-10-25T16:54:23Z",
+      "id": 1433424466
+    },
+    "faris-sait/openshorts": {
+      "star": 433,
+      "created_at": "2026-04-17T09:47:48Z",
+      "id": 1213359220
+    },
+    "reiqr/shiroha-quiz": {
+      "star": 400,
+      "created_at": "2026-05-08T04:07:21Z",
+      "id": 1232572427
+    },
+    "maazm7d/TermuxHub": {
+      "star": 400,
+      "created_at": "2026-01-16T08:56:45Z",
+      "id": 1135549267
+    },
+    "tunguyenn99/thu_vien_cua_xom_data": {
+      "star": 400,
+      "created_at": "2025-07-25T01:42:21Z",
+      "id": 1025892970
+    },
+    "fanchen001/Bangumi": {
+      "star": 400,
+      "created_at": "2017-11-05T09:01:29Z",
+      "id": 109561645
+    },
+    "hexated/cloudstream-extensions-hexated": {
+      "star": 400,
+      "created_at": "2022-08-31T04:26:38Z",
+      "id": 530934278
+    },
+    "ybblab/Jiumi": {
+      "star": 476,
+      "created_at": "2026-11-13T16:20:27Z",
+      "id": 1456823826
+    },
+    "JustinGongjj/chan-structure-workstation": {
+      "star": 436,
+      "created_at": "2026-10-27T07:47:17Z",
+      "id": 1435413267
+    },
+    "elviscjn-cjn/antigravity-context-viewer": {
+      "star": 435,
+      "created_at": "2025-10-20T12:53:36Z",
+      "id": 1079825753
+    },
+    "petergpt/3d-prompt-collection": {
+      "star": 410,
+      "created_at": "2026-07-02T22:21:25Z",
+      "id": 1287653103
+    },
+    "naubiomech/OpenExo": {
+      "star": 400,
+      "created_at": "2024-09-12T22:00:59Z",
+      "id": 856610892
+    },
+    "mdh266/SQL-Practice": {
+      "star": 400,
+      "created_at": "2017-09-15T23:15:30Z",
+      "id": 103709037
+    },
+    "livekit/libwebrtc": {
+      "star": 435,
+      "created_at": "2019-05-16T13:51:33Z",
+      "id": 187037554
+    },
+    "Weft-Rust/Weft": {
+      "star": 400,
+      "created_at": "2026-10-29T22:57:18Z",
+      "id": 1439042807
+    },
+    "CodSpeedHQ/codspeed": {
+      "star": 400,
+      "created_at": "2023-11-11T18:35:22Z",
+      "id": 717528657
+    },
+    "Krypteria/AtlasLdr": {
+      "star": 400,
+      "created_at": "2023-12-18T08:12:16Z",
+      "id": 732945919
+    },
+    "CommonCoreOntology/CommonCoreOntologies": {
+      "star": 400,
+      "created_at": "2017-10-31T20:10:10Z",
+      "id": 109047149
+    },
+    "grugnoymeme/flipperzero-badUSB": {
+      "star": 400,
+      "created_at": "2023-04-22T20:12:39Z",
+      "id": 631371204
+    },
+    "Enderfga/SolarRenderer": {
+      "star": 400,
+      "created_at": "2026-10-15T17:07:39Z",
+      "id": 1421074420
+    },
+    "sipeed/NanoKVM-USB": {
+      "star": 400,
+      "created_at": "2025-02-18T06:13:40Z",
+      "id": 934621355
+    },
+    "RanggaCasper/MostWanted-Android": {
+      "star": 400,
+      "created_at": "2026-10-24T03:14:38Z",
+      "id": 1431767326
+    },
+    "Cd1s/safarier": {
+      "star": 403,
+      "created_at": "2026-10-24T11:29:49Z",
+      "id": 1432113495
+    },
+    "siliconjungle/shapeshift-labs-ink-studio": {
+      "star": 618,
+      "created_at": "2026-11-16T07:44:00Z",
+      "id": 1459700211
+    },
+    "stevejiang0509/ex3301-t0-root-ssh-research": {
+      "star": 455,
+      "created_at": "2026-11-08T19:18:49Z",
+      "id": 1450586757
+    },
+    "beiwocaishijia/gezhi-sheets": {
+      "star": 412,
+      "created_at": "2026-11-09T03:29:23Z",
+      "id": 1450895382
+    },
+    "ReceitaFederal/calculadora-rtc-gerador-danfse": {
+      "star": 415,
+      "created_at": "2026-10-13T19:06:08Z",
+      "id": 1417789752
+    },
+    "TomBener/archive-2021": {
+      "star": 469,
+      "created_at": "2021-01-26T03:14:56Z",
+      "id": 332957055
+    },
+    "faizwashere/ScanDot": {
+      "star": 402,
+      "created_at": "2026-11-13T04:07:57Z",
+      "id": 1456134750
     }
   }
 }
