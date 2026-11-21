@@ -9337,16 +9337,6 @@
       "gh_desc": "MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js. No Mac mini. No Raspberry Pi. No VPS. Hardware agents OS.",
       "id": 1149403151
     },
-    "NVIDIA/OpenShell": {
-      "star": 7866,
-      "created_at": "2026-02-24T22:52:22Z",
-      "desc": "项目定位与用途:\nOpenShell 是 NVIDIA 开源的安全、隐私优先的自主 AI 智能体运行时环境。该项目旨在为大规模部署的 AI 智能体提供受控的执行沙箱，使智能体能够安全地读取文件、安装依赖、调用外部 API 及使用凭证，同时严格限制其对底层数据、密钥和网络的不受控访问。开发者只需声明访问策略，系统即可自动执行隔离与权限管控，确保智能体在合规边界内高效运行。\n\n解决的问题:\n自主 AI 智能体在实际应用中常因需要访问外部资源而面临严重的安全与隐私风险。传统方案难以在赋予智能体必要操作权限的同时，防止其越权访问敏感数据或发起恶意网络请求。OpenShell 通过策略驱动与运行时强制隔离，解决了智能体权限管控粗放、凭证泄露隐患大以及策略变更缺乏事前验证等核心痛点，有效降低了自动化工作流中的安全攻击面。\n\n使用场景:\n该项目主要面向需要大规模部署自主 AI 智能体的企业研发与运维团队。典型场景包括自动化代码生成与测试、跨系统数据集成与 API 编排、安全敏感环境下的智能体工作流执行，以及需要严格审计权限变更的合规性业务。目标用户涵盖希望将 AI 能力集成到现有基础设施中，同时要求数据隐私保护、操作可追溯且具备人工审批机制的开发者与安全工程师。\n\n技术架构与特性:\n项目采用网关、监督器与沙箱协同的架构，支持 Linux、macOS 及 WSL 2 环境，兼容 Docker 与 Podman。核心特性包括基于内核级别的运行时强制隔离，对文件访问、系统调用及网络连接实施细粒度管控；结合形式化验证技术，在策略变更前自动识别越权风险并触发人工审核。近期提交显示其持续优化 Podman 驱动、OPA 策略校验、MCP 策略解释及 OCSF 日志输出能力。",
-      "language": "Rust",
-      "topics": [],
-      "gh_desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
-      "id": 1166129534,
-      "desc_updated_at": "2026-09-30"
-    },
     "business-science/ai-data-science-team": {
       "star": 5364,
       "created_at": "2024-12-11T16:07:45Z",
@@ -20560,27 +20550,6 @@
       ],
       "gh_desc": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
       "id": 953089294
-    },
-    "decodingai-magazine/second-brain-ai-assistant-course": {
-      "star": 2935,
-      "created_at": "2024-12-30T14:57:41Z",
-      "desc": "",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "agents",
-        "ai-systems",
-        "data-engineering",
-        "fine-tuning",
-        "huggingface",
-        "llm",
-        "llmops",
-        "mlops",
-        "openai",
-        "python",
-        "rag"
-      ],
-      "gh_desc": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
-      "id": 910125376
     },
     "fossasia/susi_server": {
       "star": 2524,
@@ -42743,15 +42712,6 @@
       "gh_desc": "Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型",
       "id": 631522874
     },
-    "facebookresearch/esm": {
-      "star": 4168,
-      "created_at": "2020-08-31T17:41:48Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [],
-      "gh_desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
-      "id": 291783502
-    },
     "amazon-science/mm-cot": {
       "star": 3987,
       "created_at": "2023-02-02T06:31:32Z",
@@ -45089,33 +45049,6 @@
       ],
       "gh_desc": "Neo4j graph construction from unstructured data using LLMs",
       "id": 741989385
-    },
-    "decodingai-magazine/llm-twin-course": {
-      "star": 4378,
-      "created_at": "2024-03-08T09:21:28Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "aws",
-        "bytewax",
-        "comet-ml",
-        "course",
-        "docker",
-        "generative-ai",
-        "infrastructure-as-code",
-        "large-language-models",
-        "llmops",
-        "machine-learning-engineering",
-        "ml-system-design",
-        "mlops",
-        "pulumi",
-        "qdrant",
-        "qwak",
-        "rag",
-        "superlinked"
-      ],
-      "gh_desc": "🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴",
-      "id": 769066911
     },
     "CortexReach/memory-lancedb-pro": {
       "star": 4459,
@@ -55309,22 +55242,6 @@
       ],
       "gh_desc": "Free and open source text-to-speech software",
       "id": 341261357
-    },
-    "spring-media/TransformerTTS": {
-      "star": 1162,
-      "created_at": "2020-03-26T14:21:36Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "axelspringerai",
-        "deep-learning",
-        "python",
-        "tensorflow",
-        "text-to-speech",
-        "tts"
-      ],
-      "gh_desc": "🤖💬 Transformer TTS: Implementation of a non-autoregressive Transformer based neural network for text to speech.",
-      "id": 250279308
     },
     "Kyubyong/dc_tts": {
       "star": 1157,
@@ -66896,29 +66813,6 @@
       ],
       "gh_desc": "HeavyDB (formerly MapD/OmniSciDB)",
       "id": 90541149
-    },
-    "dosco/graphjin": {
-      "star": 3131,
-      "created_at": "2019-03-24T13:43:05Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [
-        "cloud-native",
-        "cockroachdb",
-        "database",
-        "graphql",
-        "mariadb",
-        "mongodb",
-        "mssql",
-        "mysql",
-        "oracle",
-        "postgresql",
-        "sql",
-        "sqlite",
-        "yugabyte"
-      ],
-      "gh_desc": "GraphJin - An Automagical Compiler to Connect AI to Your Databases",
-      "id": 177420214
     },
     "datafold/data-diff": {
       "star": 2990,
@@ -208626,21 +208520,6 @@
       "topics": [],
       "id": 733569108
     },
-    "SaptakBhoumik/Peregrine": {
-      "star": 1437,
-      "created_at": "2021-07-18T10:32:33Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [
-        "compiler",
-        "language",
-        "peregrine",
-        "peregrine-lang",
-        "programming-language"
-      ],
-      "gh_desc": "A blazing fast language for the blazing fast world(WIP)",
-      "id": 387149158
-    },
     "Habrador/Computational-geometry": {
       "star": 1464,
       "created_at": "2019-05-08T11:25:44Z",
@@ -285520,20 +285399,6 @@
       ],
       "gh_desc": "Voxel Plugin Legacy for Unreal Engine",
       "id": 97856074
-    },
-    "YeDaxia/JApiDocs": {
-      "star": 1696,
-      "created_at": "2017-01-15T13:30:17Z",
-      "desc": "",
-      "language": "Java",
-      "topics": [
-        "api",
-        "api-documentation",
-        "apidocs",
-        "springboot"
-      ],
-      "gh_desc": "A magical api documentation generator without annotation for springboot. ",
-      "id": 79034430
     },
     "liip/LiipImagineBundle": {
       "star": 1710,
@@ -422468,21 +422333,6 @@
       "gh_desc": "Database Sharding for ActiveRecord",
       "id": 668622
     },
-    "ethantw/Han": {
-      "star": 2535,
-      "created_at": "2011-03-07T17:10:42Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "css",
-        "han",
-        "sass",
-        "stylus",
-        "typography"
-      ],
-      "gh_desc": "「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.",
-      "id": 1450993
-    },
     "DeborahK/Angular-GettingStarted": {
       "star": 2548,
       "created_at": "2016-02-16T02:56:05Z",
@@ -547685,33 +547535,6 @@
       "topics": [],
       "gh_desc": "Notebooks using the Hugging Face libraries 🤗",
       "id": 272452525
-    },
-    "liuzhao1225/YouDub-webui": {
-      "star": 5199,
-      "created_at": "2023-12-26T10:17:39Z",
-      "desc": "",
-      "language": "Python",
-      "topics": [
-        "ai-dubbing",
-        "bilibili",
-        "demucs",
-        "fastapi",
-        "ffmpeg",
-        "nextjs",
-        "python",
-        "speech-to-text",
-        "subtitle-translation",
-        "text-to-speech",
-        "typescript",
-        "video-localization",
-        "video-translation",
-        "voice-cloning",
-        "voxcpm",
-        "whisper",
-        "youtube"
-      ],
-      "gh_desc": "开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。",
-      "id": 735872604
     },
     "googleapis/google-api-go-client": {
       "star": 4460,
@@ -702428,24 +702251,6 @@
       "gh_desc": "JavaScript and Node.js Framework for controlling Arduino with HTML and WebSockets",
       "id": 3550046
     },
-    "bitcoinvsalts/node-binance-trader": {
-      "star": 1223,
-      "created_at": "2018-01-17T21:32:47Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [
-        "auto-trader",
-        "binance",
-        "bitcoin",
-        "cryptocurrency",
-        "cryptocurrency-trading",
-        "nodejs",
-        "portfolio",
-        "trading-bot"
-      ],
-      "gh_desc": "💰 Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance. 🤖",
-      "id": 117895247
-    },
     "AlistGo/alist": {
       "star": 49952,
       "created_at": "2020-12-23T17:40:29Z",
@@ -771323,30 +771128,6 @@
         "uav"
       ],
       "id": 15189073
-    },
-    "beyondtranslate/beyondtranslate-ce": {
-      "star": 1446,
-      "created_at": "2021-03-06T15:12:15Z",
-      "desc": "",
-      "gh_desc": "BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translations powered by multiple engines.",
-      "language": "Dart",
-      "topics": [
-        "dictionary",
-        "flutter",
-        "flutter-app",
-        "flutter-desktop",
-        "flutter-desktop-app",
-        "flutter-web",
-        "flutter-web-app",
-        "linux",
-        "macos",
-        "translate",
-        "translation",
-        "translator",
-        "ubuntu",
-        "windows"
-      ],
-      "id": 345123160
     },
     "hello245m/free-stockdb": {
       "star": 1460,
@@ -853316,11 +853097,6 @@
       "star": 590,
       "created_at": "2016-04-28T23:46:22Z",
       "id": 57340960
-    },
-    "18F/identity-idp": {
-      "star": 584,
-      "created_at": "2016-01-25T22:40:59Z",
-      "id": 50386243
     },
     "dongchengjie/airport": {
       "star": 611,
@@ -1073130,11 +1072906,6 @@
       "created_at": "2018-03-10T15:36:29Z",
       "id": 124669089
     },
-    "spring-media/Carlos": {
-      "star": 636,
-      "created_at": "2015-07-07T06:28:32Z",
-      "id": 38668546
-    },
     "git-game/git-game-v2": {
       "star": 636,
       "created_at": "2015-06-08T19:38:55Z",
@@ -1082449,11 +1082220,6 @@
       "star": 739,
       "created_at": "2025-07-02T13:52:37Z",
       "id": 1012547011
-    },
-    "ptyfyre/mandarine-neo": {
-      "star": 739,
-      "created_at": "2024-04-14T18:22:35Z",
-      "id": 786526893
     },
     "Bridgewater/scala-notebook": {
       "star": 739,
@@ -1106540,11 +1106306,6 @@
       "created_at": "2020-06-20T14:49:19Z",
       "id": 273727301
     },
-    "decodingai-magazine/personalized-recommender-course": {
-      "star": 647,
-      "created_at": "2024-11-07T10:19:47Z",
-      "id": 884750190
-    },
     "karakaram/alt-ime-ahk": {
       "star": 647,
       "created_at": "2015-09-12T06:52:25Z",
@@ -1124312,11 +1124073,6 @@
       "star": 480,
       "created_at": "2019-01-21T08:52:54Z",
       "id": 166779907
-    },
-    "ELDment/Meting-Fixed": {
-      "star": 478,
-      "created_at": "2024-12-18T13:36:50Z",
-      "id": 905265922
     },
     "andeya/lessgo": {
       "star": 474,
@@ -1209722,11 +1209478,6 @@
       "created_at": "2017-03-28T14:53:21Z",
       "id": 86472712
     },
-    "jinyeying/night-enhancement": {
-      "star": 465,
-      "created_at": "2022-07-16T06:47:06Z",
-      "id": 514501472
-    },
     "awslabs/aws-lambda-cpp": {
       "star": 465,
       "created_at": "2018-11-05T20:28:33Z",
@@ -1224621,11 +1224372,6 @@
       "star": 431,
       "created_at": "2020-12-03T07:29:22Z",
       "id": 318111037
-    },
-    "JibsouX/Shutify": {
-      "star": 431,
-      "created_at": "2026-03-09T02:52:48Z",
-      "id": 1176441169
     },
     "ChariotEngine/Chariot": {
       "star": 431,
@@ -1243963,31 +1243709,6 @@
       "desc": "项目定位与用途:\n该项目是一个面向AI编程代理的开源技能库，提供77个游戏开发专用技能文件及智能路由组件。其核心定位是为各类AI代码助手提供标准化、按需加载的开发能力模块。用户只需通过一条命令即可安装，AI代理在接收到开发指令后，会自动识别目标游戏引擎与具体任务类型，并精准加载匹配的技能文件，从而辅助开发者高效完成游戏逻辑编写、资产生产与工程配置等工作。\n\n解决的问题:\n传统AI编程工具在跨游戏引擎开发时往往缺乏领域专业知识，且开发者需手动筛选和配置大量零散技能，效率低下。该项目通过集中化技能库与自动路由机制，解决了技能匹配繁琐、引擎版本差异大以及资产生成缺乏规范流程等痛点。所有技能均基于官方文档编写并锁定特定引擎版本，配合内置校验器确保准确性，同时提供标准化的美术方向与资产生产工作流，避免AI生成内容不可控或无法直接集成到游戏中的问题。\n\n使用场景:\n适用于使用各类AI编程代理进行游戏开发的独立开发者与团队。典型场景包括基于Unity、Unreal、Godot等主流引擎的快速原型搭建、跨平台游戏逻辑编写、以及需要严格视觉规范的美术资产批量生产。开发者可在Cursor、Claude Code、Copilot等环境中直接调用，无需手动切换技能包。当项目聚焦单一引擎时，也可仅安装对应引擎的技能包以精简环境，满足从核心玩法实现到完整管线搭建的多样化需求。\n\n技术架构与特性:\n项目采用轻量级技能文件格式，核心架构由77个独立技能文件与自动路由组件构成。通过Node.js CLI工具实现一键安装与多代理兼容，支持原生加载无需转换。路由模块基于引擎检测与任务意图识别实现动态加载。所有技能均严格遵循官方文档编写，版本锁定至指定引擎发布版，并配备Python校验脚本保障质量。同时提供美术资产工作流锁定视觉目标，支持确定性输出与游戏内验证，确保开发管线稳定可靠。",
       "desc_updated_at": "2026-10-28"
     },
-    "FlowElement-xinliuyuansu/m_flow": {
-      "star": 4424,
-      "created_at": "2026-03-31T08:36:50Z",
-      "desc": "项目定位与用途：\nm_flow 是一个受生物启发的认知记忆引擎，旨在为图检索增强生成（Graph RAG）提供全新的范式。该项目致力于构建一个能够模拟人类记忆机制的 AI 系统，通过整合长期记忆与语义记忆，为智能体提供强大的认知支撑。它不仅仅是一个简单的数据存储工具，而是一个能够进行复杂推理和记忆管理的核心引擎。作为智能体架构中的关键组件，m_flow 试图解决传统 RAG 系统在处理长上下文和复杂逻辑推理时的局限性，通过图数据库与向量搜索的结合，实现更高效、更精准的知识检索与生成，推动 AI 从单纯的信息检索向具备认知能力的智能体演进。\n\n解决的问题：\n该项目主要解决现有检索增强生成技术在处理复杂、动态及长周期记忆任务时的不足。传统的 RAG 系统往往依赖静态的向量相似度匹配，难以捕捉知识之间的深层关联和时序逻辑，导致在需要多步推理或跨段落整合信息时表现不佳。m_flow 通过引入图数据库结构，将非结构化数据转化为具有拓扑关系的知识图谱，从而有效解决知识碎片化问题。它致力于克服传统系统在长期记忆保持、上下文理解深度以及智能体自主推理能力上的短板，确保 AI 能够像人类一样，基于过往经验（情景记忆）和通用知识（语义记忆）进行连贯且符合逻辑的决策与回答，提升智能体在复杂任务中的表现。\n\n使用场景：\nm_flow 适用于需要高度认知能力和长期记忆支持的各类智能体应用场景。在需要处理复杂逻辑推理、多轮对话记忆保持以及动态知识更新的领域，该引擎能发挥关键作用。例如，在构建具备自主规划能力的 AI 代理时，它可以作为核心记忆模块，帮助代理记录任务执行的历史轨迹并从中提取经验。此外，在需要深度知识问答、复杂文档分析以及跨领域知识融合的场景中，m_flow 能够通过图结构快速定位相关知识点，支持更精准的语义检索。它特别适合那些对回答的准确性、逻辑连贯性以及上下文理解深度有极高要求的系统，如高级客服助手、科研辅助分析工具或复杂的自动化决策系统。\n\n技术架构与特性：\nm_flow 采用 Python 作为主要开发语言，其核心架构融合了图数据库与向量搜索技术，构建了一个混合型的记忆存储与检索系统。该项目引入了生物启发的认知模型，将记忆细分为情景记忆、语义记忆等模块，模拟人类大脑的信息处理机制。其特性包括支持 MCP（Model Context Protocol）协议，便于与各类大语言模型及外部工具进行标准化交互。系统利用图数据库存储实体间的复杂关系，同时结合向量搜索处理语义相似度，实现了结构化知识与非结构化语义的高效统一。这种架构使得系统不仅能进行精确的关键词匹配，还能进行基于关系的推理和泛化，具备处理长周期记忆和动态知识演进的强大能力。\n\n核心依赖与生态：\n该项目的核心依赖围绕 Python 生态构建，主要涉及大语言模型（LLM）接口、图数据库系统以及向量搜索引擎。从标签信息来看，它深度集成了 MCP 协议，这意味着它可以无缝接入当前流行的智能体框架和工具生态，实现与外部环境的标准化连接。在知识表示方面，它依赖于图数据库技术来维护知识图谱的拓扑结构，同时利用向量搜索技术处理语义层面的检索需求。项目标签中提到的 agent-memory 和 agentic-ai 表明其设计初衷是服务于智能体生态，能够与现有的 Agent 框架协同工作。此外，作为开源项目，它依赖于社区贡献和 Python 丰富的科学计算及 AI 库生态，以支持其复杂的记忆管理和推理逻辑实现。\n\n已知局限或注意事项：\n基于现有信息，该项目处于早期或特定发展阶段，其具体性能指标、大规模部署的稳定性以及详细的配置参数尚未在提供的简介中明确披露。由于采用了图数据库与向量搜索的混合架构，系统可能在资源消耗、查询延迟或数据同步复杂度上存在特定挑战，具体表现需结合实际部署环境评估。此外，作为受生物启发的认知引擎，其内部记忆编码、检索策略及推理算法的具体实现细节属于核心机密或需深入阅读源码才能理解，外部用户可能面临较高的上手门槛。对于需要极高实时性或极低延迟的特定场景，其基于图结构的复杂查询机制是否满足需求尚需验证。用户在使用前需充分评估其对图数据库和向量检索技术的依赖程度及相应的运维成本。",
-      "language": "Python",
-      "topics": [
-        "agent-memory",
-        "agentic-ai",
-        "ai-reasoning",
-        "episodic-memory",
-        "graph-database",
-        "knowledge-graph",
-        "llm",
-        "long-term-memory",
-        "mcp",
-        "memory-engine",
-        "python",
-        "rag",
-        "semantic-memory",
-        "vector-search"
-      ],
-      "desc_updated_at": "2026-06-25",
-      "gh_desc": "A bio-inspired cognitive memory engine — a new paradigm for Graph RAG.",
-      "id": 1197002442
-    },
     "appandflow/react-native-safe-area-context": {
       "star": 2751,
       "created_at": "2019-08-14T18:26:28Z",
@@ -1253503,11 +1253224,6 @@
       "gh_desc": "[CVPR'24 Highlight] Official PyTorch implementation of CoDeF: Content Deformation Fields for Temporally Consistent Video Processing",
       "id": 678805749
     },
-    "modelbus/one-api-pro": {
-      "star": 432,
-      "created_at": "2026-07-24T03:51:53Z",
-      "id": 1310601561
-    },
     "barry-ran/QuickDesk": {
       "star": 406,
       "created_at": "2026-01-16T09:09:27Z",
@@ -1255237,11 +1254953,6 @@
       "desc_updated_at": "2026-08-19",
       "gh_desc": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "id": 1201476594
-    },
-    "Git-Agni/prod-FARM-IOS-Core": {
-      "star": 646,
-      "created_at": "2026-08-27T04:55:36Z",
-      "id": 1348084390
     },
     "meme-search/meme-search": {
       "star": 705,
@@ -1260688,11 +1260399,6 @@
       "created_at": "2026-04-02T05:28:31Z",
       "id": 1199169674
     },
-    "decodingai-magazine/building-a-coding-agent-from-scratch-course": {
-      "star": 407,
-      "created_at": "2026-06-19T14:25:15Z",
-      "id": 1274452075
-    },
     "Senzme/NFile": {
       "star": 402,
       "created_at": "2026-05-14T10:10:01Z",
@@ -1264252,11 +1263958,6 @@
       "star": 407,
       "created_at": "2026-09-07T20:47:12Z",
       "id": 1360652076
-    },
-    "Fervent-Tempo/AF-Media-Bar": {
-      "star": 440,
-      "created_at": "2026-08-06T18:40:08Z",
-      "id": 1325668685
     },
     "x4gpanell/NewYork": {
       "star": 416,
@@ -1280996,11 +1280697,6 @@
       "created_at": "2024-05-02T01:35:45Z",
       "id": 794801835
     },
-    "zcyoung2000/douban-backup": {
-      "star": 762,
-      "created_at": "2026-06-26T10:33:30Z",
-      "id": 1281217063
-    },
     "yoloytang/Awesome-LLMs-for-Video-Understanding": {
       "star": 3252,
       "created_at": "2023-07-16T07:00:11Z",
@@ -1283010,11 +1282706,6 @@
       "created_at": "2016-03-02T20:27:32Z",
       "id": 52994097
     },
-    "neurotech-berkeley/neurotech-course": {
-      "star": 400,
-      "created_at": "2016-12-31T00:55:49Z",
-      "id": 77718370
-    },
     "oosexgang/hackios-xnu-userland": {
       "star": 400,
       "created_at": "2026-10-22T06:20:36Z",
@@ -1283497,11 +1283188,6 @@
       "created_at": "2026-09-19T18:51:52Z",
       "id": 1377512288
     },
-    "Fable2Recomp/Fable2Remake": {
-      "star": 403,
-      "created_at": "2025-03-07T03:00:11Z",
-      "id": 944248124
-    },
     "Tencent-Hunyuan/Hy-Nomas": {
       "star": 420,
       "created_at": "2026-10-21T03:04:54Z",
@@ -1283978,11 +1283664,6 @@
       "created_at": "2026-06-06T16:40:31Z",
       "id": 1261410079
     },
-    "721AndrewWang/VibeCrew": {
-      "star": 425,
-      "created_at": "2026-09-30T03:47:17Z",
-      "id": 1396930902
-    },
     "chris124567/cfsolve": {
       "star": 466,
       "created_at": "2026-10-26T02:31:21Z",
@@ -1284052,11 +1283733,6 @@
       "star": 425,
       "created_at": "2026-10-30T05:19:33Z",
       "id": 1439308037
-    },
-    "BichengWang/ai-decision-system": {
-      "star": 407,
-      "created_at": "2024-11-05T02:43:57Z",
-      "id": 883470706
     },
     "piermark/omarchytv": {
       "star": 410,
@@ -1284761,11 +1284437,6 @@
       "star": 403,
       "created_at": "2026-08-18T05:35:54Z",
       "id": 1338013911
-    },
-    "Fisfzy/dsh-ego-browser": {
-      "star": 404,
-      "created_at": "2026-08-07T08:13:54Z",
-      "id": 1326394141
     },
     "yuz9yuz/Awesome-Scientific-Language-Models": {
       "star": 661,
@@ -1286664,20 +1286335,10 @@
       "created_at": "2026-10-26T18:44:46Z",
       "id": 1434795869
     },
-    "Sunhaiy/Reflex": {
-      "star": 418,
-      "created_at": "2026-02-01T12:34:53Z",
-      "id": 1147236349
-    },
     "HariSekhon/Knowledge-Base": {
       "star": 400,
       "created_at": "2023-11-22T18:24:24Z",
       "id": 722238566
-    },
-    "vladimirrott/mojo-dllm": {
-      "star": 409,
-      "created_at": "2026-10-04T00:51:39Z",
-      "id": 1403753337
     },
     "uclanlp/OpenVLHarness": {
       "star": 403,
@@ -1286812,11 +1286473,6 @@
       "star": 406,
       "created_at": "2026-06-14T14:56:22Z",
       "id": 1269308901
-    },
-    "Fangx-AI/geo-doctor": {
-      "star": 402,
-      "created_at": "2026-10-14T01:19:15Z",
-      "id": 1418204947
     },
     "chipfighter/context-attachment-manager": {
       "star": 526,
@@ -1287658,11 +1287314,6 @@
       "created_at": "2026-10-30T11:03:30Z",
       "id": 1439615056
     },
-    "uniquechao/PandaDOS": {
-      "star": 464,
-      "created_at": "2026-07-31T06:01:34Z",
-      "id": 1317994595
-    },
     "lunavaledev/mobaxterm-crack": {
       "star": 549,
       "created_at": "2023-04-14T02:07:13Z",
@@ -1288458,11 +1288109,6 @@
       "gh_desc": "BitFun is a desktop-grade Agent runtimeand a ready-to-use suite of desktop Agent applications.with built-in Code Agent 、 Cowork Agent、Computer Use. It has memory, personality, and the ability to evolve over time",
       "id": 1147866277
     },
-    "leo1oel/lattice": {
-      "star": 402,
-      "created_at": "2026-07-16T05:55:35Z",
-      "id": 1302376968
-    },
     "suversal/apple-store-inventory-monitor": {
       "star": 401,
       "created_at": "2026-09-08T15:18:53Z",
@@ -1288759,11 +1288405,6 @@
       "star": 427,
       "created_at": "2026-11-10T02:37:31Z",
       "id": 1452123445
-    },
-    "Roland0511/dsh-marktext": {
-      "star": 410,
-      "created_at": "2026-11-02T08:45:00Z",
-      "id": 1442716351
     },
     "fraunhoferhhi/Self-Organizing-Gaussians": {
       "star": 400,
@@ -1289136,11 +1288777,6 @@
       "created_at": "2026-10-12T02:03:22Z",
       "id": 1414946106
     },
-    "firsttris/haben": {
-      "star": 431,
-      "created_at": "2026-10-02T00:15:12Z",
-      "id": 1400849760
-    },
     "LuckyLilliaDev/LuckyLilliaBot": {
       "star": 3504,
       "created_at": "2023-10-25T09:32:25Z",
@@ -1289459,11 +1289095,6 @@
       "star": 400,
       "created_at": "2026-10-19T10:05:43Z",
       "id": 1425427127
-    },
-    "missdeer/ace-tool-rs": {
-      "star": 400,
-      "created_at": "2025-12-27T08:53:03Z",
-      "id": 1123617901
     },
     "alexeyw/lot-map": {
       "star": 457,
@@ -1290082,11 +1289713,6 @@
       "created_at": "2026-02-10T19:44:41Z",
       "id": 1154801575
     },
-    "Cattmonkey/ChaosIntelligence": {
-      "star": 410,
-      "created_at": "2026-10-23T13:04:31Z",
-      "id": 1431056935
-    },
     "Tencent/LoopForge": {
       "star": 623,
       "created_at": "2026-07-28T03:51:01Z",
@@ -1290675,11 +1290301,6 @@
       "star": 513,
       "created_at": "2026-11-07T20:39:55Z",
       "id": 1449722148
-    },
-    "supercli-site/xiaobai-kanban": {
-      "star": 436,
-      "created_at": "2026-09-29T02:19:05Z",
-      "id": 1394090266
     },
     "linknimiball1974/ai-texture-forge": {
       "star": 407,
@@ -1292095,11 +1291716,6 @@
       "star": 416,
       "created_at": "2012-07-29T10:47:06Z",
       "id": 5221693
-    },
-    "timothyshen/PodSPhere": {
-      "star": 433,
-      "created_at": "2023-11-18T14:04:33Z",
-      "id": 720444087
     },
     "Refactorful/Oxygen.jl": {
       "star": 503,
@@ -1294086,11 +1293702,6 @@
       "created_at": "2026-06-26T18:52:28Z",
       "id": 1281631661
     },
-    "brandkiwigather/honeypot-detector": {
-      "star": 453,
-      "created_at": "2026-06-26T18:59:20Z",
-      "id": 1281636261
-    },
     "AmplitudeHammerTreat/instagram-liker-bot": {
       "star": 498,
       "created_at": "2026-06-26T18:59:46Z",
@@ -1294131,11 +1293742,6 @@
       "created_at": "2026-11-19T12:37:51Z",
       "id": 1464126198
     },
-    "TernTreasure/kms-pico": {
-      "star": 497,
-      "created_at": "2026-06-26T18:59:51Z",
-      "id": 1281636602
-    },
     "playbridgeapp/playbridge": {
       "star": 400,
       "created_at": "2026-06-03T19:49:13Z",
@@ -1294171,20 +1293777,10 @@
       "created_at": "2026-06-26T18:59:20Z",
       "id": 1281636264
     },
-    "Continuum-AI-Corp/OrcaPromptVault": {
-      "star": 442,
-      "created_at": "2026-09-15T11:03:31Z",
-      "id": 1371309863
-    },
     "apekshik/anyscene": {
       "star": 425,
       "created_at": "2026-10-30T18:39:04Z",
       "id": 1440104499
-    },
-    "planktraderglide/cinema-4d": {
-      "star": 507,
-      "created_at": "2026-06-26T18:53:48Z",
-      "id": 1281632588
     },
     "SamsungLabs/LittleBit": {
       "star": 506,
@@ -1294346,15 +1293942,623 @@
       "created_at": "2026-11-07T19:47:28Z",
       "id": 1449687559
     },
-    "LangStream/LangStream--langstream": {
+    "itsdecodingai/second-brain-ai-assistant-course": {
+      "star": 2935,
+      "created_at": "2024-12-30T14:57:41Z",
+      "desc": "",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agents",
+        "ai-systems",
+        "data-engineering",
+        "fine-tuning",
+        "huggingface",
+        "llm",
+        "llmops",
+        "mlops",
+        "openai",
+        "python",
+        "rag"
+      ],
+      "gh_desc": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
+      "id": 910125376
+    },
+    "ai-openshell/openshell": {
+      "star": 7866,
+      "created_at": "2026-02-24T22:52:22Z",
+      "desc": "项目定位与用途:\nOpenShell 是 NVIDIA 开源的安全、隐私优先的自主 AI 智能体运行时环境。该项目旨在为大规模部署的 AI 智能体提供受控的执行沙箱，使智能体能够安全地读取文件、安装依赖、调用外部 API 及使用凭证，同时严格限制其对底层数据、密钥和网络的不受控访问。开发者只需声明访问策略，系统即可自动执行隔离与权限管控，确保智能体在合规边界内高效运行。\n\n解决的问题:\n自主 AI 智能体在实际应用中常因需要访问外部资源而面临严重的安全与隐私风险。传统方案难以在赋予智能体必要操作权限的同时，防止其越权访问敏感数据或发起恶意网络请求。OpenShell 通过策略驱动与运行时强制隔离，解决了智能体权限管控粗放、凭证泄露隐患大以及策略变更缺乏事前验证等核心痛点，有效降低了自动化工作流中的安全攻击面。\n\n使用场景:\n该项目主要面向需要大规模部署自主 AI 智能体的企业研发与运维团队。典型场景包括自动化代码生成与测试、跨系统数据集成与 API 编排、安全敏感环境下的智能体工作流执行，以及需要严格审计权限变更的合规性业务。目标用户涵盖希望将 AI 能力集成到现有基础设施中，同时要求数据隐私保护、操作可追溯且具备人工审批机制的开发者与安全工程师。\n\n技术架构与特性:\n项目采用网关、监督器与沙箱协同的架构，支持 Linux、macOS 及 WSL 2 环境，兼容 Docker 与 Podman。核心特性包括基于内核级别的运行时强制隔离，对文件访问、系统调用及网络连接实施细粒度管控；结合形式化验证技术，在策略变更前自动识别越权风险并触发人工审核。近期提交显示其持续优化 Podman 驱动、OPA 策略校验、MCP 策略解释及 OCSF 日志输出能力。",
+      "language": "Rust",
+      "topics": [],
+      "gh_desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "id": 1166129534,
+      "desc_updated_at": "2026-09-30"
+    },
+    "Fanqi89/dsh-craft-anything": {
+      "star": 402,
+      "created_at": "2026-11-06T05:05:10Z",
+      "id": 1447852162
+    },
+    "atuizz/posewear": {
+      "star": 926,
+      "created_at": "2026-10-30T19:08:14Z",
+      "id": 1440131709
+    },
+    "annayal-consumerxai/prod-FARM-IOS-Core": {
+      "star": 646,
+      "created_at": "2026-08-27T04:55:36Z",
+      "id": 1348084390
+    },
+    "PapilotAI/papilot": {
+      "star": 406,
+      "created_at": "2026-10-26T07:50:28Z",
+      "id": 1434065609
+    },
+    "dosco/deeporg": {
+      "star": 3131,
+      "created_at": "2019-03-24T13:43:05Z",
+      "desc": "",
+      "language": "Go",
+      "topics": [
+        "cloud-native",
+        "cockroachdb",
+        "database",
+        "graphql",
+        "mariadb",
+        "mongodb",
+        "mssql",
+        "mysql",
+        "oracle",
+        "postgresql",
+        "sql",
+        "sqlite",
+        "yugabyte"
+      ],
+      "gh_desc": "GraphJin - An Automagical Compiler to Connect AI to Your Databases",
+      "id": 177420214
+    },
+    "liuzhao1225/YouDub-Desktop": {
+      "star": 5199,
+      "created_at": "2023-12-26T10:17:39Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "ai-dubbing",
+        "bilibili",
+        "demucs",
+        "fastapi",
+        "ffmpeg",
+        "nextjs",
+        "python",
+        "speech-to-text",
+        "subtitle-translation",
+        "text-to-speech",
+        "typescript",
+        "video-localization",
+        "video-translation",
+        "voice-cloning",
+        "voxcpm",
+        "whisper",
+        "youtube"
+      ],
+      "gh_desc": "开源 AI 视频本地化工具：自动完成 YouTube/Bilibili 视频下载、字幕识别与翻译、语音克隆配音、音轨混合和字幕压制。",
+      "id": 735872604
+    },
+    "ErickWendel/erickwendel-contributions-mcp": {
+      "star": 400,
+      "created_at": "2025-03-14T15:05:49Z",
+      "id": 948567826
+    },
+    "itsdecodingai/llm-twin-course": {
+      "star": 4378,
+      "created_at": "2024-03-08T09:21:28Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [
+        "aws",
+        "bytewax",
+        "comet-ml",
+        "course",
+        "docker",
+        "generative-ai",
+        "infrastructure-as-code",
+        "large-language-models",
+        "llmops",
+        "machine-learning-engineering",
+        "ml-system-design",
+        "mlops",
+        "pulumi",
+        "qdrant",
+        "qwak",
+        "rag",
+        "superlinked"
+      ],
+      "gh_desc": "🤖 𝗟𝗲𝗮𝗿𝗻 for 𝗳𝗿𝗲𝗲 how to 𝗯𝘂𝗶𝗹𝗱 an end-to-end 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗟𝗟𝗠 & 𝗥𝗔𝗚 𝘀𝘆𝘀𝘁𝗲𝗺 using 𝗟𝗟𝗠𝗢𝗽𝘀 best practices: ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 12 𝘩𝘢𝘯𝘥𝘴-𝘰𝘯 𝘭𝘦𝘴𝘴𝘰𝘯𝘴",
+      "id": 769066911
+    },
+    "herve76/node-binance-trader": {
+      "star": 1223,
+      "created_at": "2018-01-17T21:32:47Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [
+        "auto-trader",
+        "binance",
+        "bitcoin",
+        "cryptocurrency",
+        "cryptocurrency-trading",
+        "nodejs",
+        "portfolio",
+        "trading-bot"
+      ],
+      "gh_desc": "💰 Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance. 🤖",
+      "id": 117895247
+    },
+    "nataphong-lab/Open-Source-Face-Recognition-Ultimate": {
+      "star": 514,
+      "created_at": "2026-11-19T10:40:46Z",
+      "id": 1464004445
+    },
+    "witt3rd/oh-my-hermes": {
+      "star": 400,
+      "created_at": "2026-04-07T15:33:04Z",
+      "id": 1203994445
+    },
+    "ByteAsk/cli": {
+      "star": 472,
+      "created_at": "2026-07-06T08:47:05Z",
+      "id": 1290800000
+    },
+    "dllm-labs/mojo-dllm": {
+      "star": 409,
+      "created_at": "2026-10-04T00:51:39Z",
+      "id": 1403753337
+    },
+    "Xin-YuXiao/Awesome-AI-for-Astronomy": {
+      "star": 403,
+      "created_at": "2026-11-10T23:13:12Z",
+      "id": 1453293167
+    },
+    "datastax-archive/LangStream--langstream": {
       "star": 427,
       "created_at": "2023-06-28T14:56:51Z",
       "id": 659786592
     },
-    "datastax/datastax--php-driver": {
+    "shadcn-labs/editorcn": {
+      "star": 401,
+      "created_at": "2026-06-22T12:02:56Z",
+      "id": 1276907097
+    },
+    "lattice-writer/lattice": {
+      "star": 402,
+      "created_at": "2026-07-16T05:55:35Z",
+      "id": 1302376968
+    },
+    "lemonadesaltbagel/crab": {
+      "star": 401,
+      "created_at": "2026-10-22T09:55:54Z",
+      "id": 1429553257
+    },
+    "omdsh-dev/dsh-ego-browser": {
+      "star": 404,
+      "created_at": "2026-08-07T08:13:54Z",
+      "id": 1326394141
+    },
+    "dondai44423/bladebro": {
+      "star": 413,
+      "created_at": "2026-07-28T15:38:02Z",
+      "id": 1315148422
+    },
+    "aidatatools/ollama-benchmark": {
+      "star": 400,
+      "created_at": "2024-01-18T06:24:37Z",
+      "id": 744855992
+    },
+    "SaptakCompiler/Peregrine": {
+      "star": 1437,
+      "created_at": "2021-07-18T10:32:33Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [
+        "compiler",
+        "language",
+        "peregrine",
+        "peregrine-lang",
+        "programming-language"
+      ],
+      "gh_desc": "A blazing fast language for the blazing fast world(WIP)",
+      "id": 387149158
+    },
+    "senapati484/teledrive": {
+      "star": 420,
+      "created_at": "2026-06-24T10:46:22Z",
+      "id": 1279069693
+    },
+    "beyondtranslate/beyondtranslate": {
+      "star": 1446,
+      "created_at": "2021-03-06T15:12:15Z",
+      "desc": "",
+      "gh_desc": "BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translations powered by multiple engines.",
+      "language": "Dart",
+      "topics": [
+        "dictionary",
+        "flutter",
+        "flutter-app",
+        "flutter-desktop",
+        "flutter-desktop-app",
+        "flutter-web",
+        "flutter-web-app",
+        "linux",
+        "macos",
+        "translate",
+        "translation",
+        "translator",
+        "ubuntu",
+        "windows"
+      ],
+      "id": 345123160
+    },
+    "TraceApps/nutritrace": {
+      "star": 403,
+      "created_at": "2026-04-09T01:06:19Z",
+      "id": 1205442726
+    },
+    "hidaxia/JApiDocs": {
+      "star": 1696,
+      "created_at": "2017-01-15T13:30:17Z",
+      "desc": "",
+      "language": "Java",
+      "topics": [
+        "api",
+        "api-documentation",
+        "apidocs",
+        "springboot"
+      ],
+      "gh_desc": "A magical api documentation generator without annotation for springboot. ",
+      "id": 79034430
+    },
+    "lingyuanli/MultiGen": {
+      "star": 401,
+      "created_at": "2026-01-10T09:09:35Z",
+      "id": 1131565769
+    },
+    "cl0nazepamm/3dsmax-mcp": {
+      "star": 400,
+      "created_at": "2026-02-06T23:31:18Z",
+      "id": 1151808892
+    },
+    "drhelius/Gearsystem": {
+      "star": 400,
+      "created_at": "2013-02-27T11:52:34Z",
+      "id": 8454923
+    },
+    "VictorKildahl/cra": {
+      "star": 408,
+      "created_at": "2026-10-24T17:47:26Z",
+      "id": 1432442426
+    },
+    "imsai-sh/fish-pocket": {
+      "star": 406,
+      "created_at": "2026-11-05T01:10:38Z",
+      "id": 1446381250
+    },
+    "itsdecodingai/building-a-coding-agent-from-scratch-course": {
+      "star": 407,
+      "created_at": "2026-06-19T14:25:15Z",
+      "id": 1274452075
+    },
+    "FeatherHunter/dsh-mattpocock-skills-deck": {
+      "star": 401,
+      "created_at": "2026-08-17T00:23:57Z",
+      "id": 1336488925
+    },
+    "fendouai/ViralForge": {
+      "star": 443,
+      "created_at": "2026-11-11T07:13:59Z",
+      "id": 1453647570
+    },
+    "talsiach/take-one": {
+      "star": 404,
+      "created_at": "2026-10-13T08:02:37Z",
+      "id": 1416675063
+    },
+    "Biohub/esm-archive": {
+      "star": 4168,
+      "created_at": "2020-08-31T17:41:48Z",
+      "desc": "",
+      "language": "Python",
+      "topics": [],
+      "gh_desc": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+      "id": 291783502
+    },
+    "woaiys3/deepseek-harness-android-app": {
+      "star": 701,
+      "created_at": "2026-08-16T15:37:12Z",
+      "id": 1336085426
+    },
+    "Tufalabs/tufazip": {
+      "star": 695,
+      "created_at": "2026-09-03T12:53:22Z",
+      "id": 1355975663
+    },
+    "hanzipro/han.css": {
+      "star": 2535,
+      "created_at": "2011-03-07T17:10:42Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "css",
+        "han",
+        "sass",
+        "stylus",
+        "typography"
+      ],
+      "gh_desc": "「漢字標準格式」印刷品般的漢字排版框架 Han.css: the CSS typography framework optimised for Hanzi.",
+      "id": 1450993
+    },
+    "datastax-archive/datastax--php-driver": {
       "star": 436,
       "created_at": "2015-04-02T16:11:47Z",
       "id": 33318751
+    },
+    "Koimsurai/Arke": {
+      "star": 485,
+      "created_at": "2026-11-08T17:57:47Z",
+      "id": 1450525814
+    },
+    "YeyingLab/night-enhancement": {
+      "star": 465,
+      "created_at": "2022-07-16T06:47:06Z",
+      "id": 514501472
+    },
+    "SealKazekage/canva-pro": {
+      "star": 502,
+      "created_at": "2026-06-26T18:51:54Z",
+      "id": 1281631267
+    },
+    "Cadeusept/dependency-validator": {
+      "star": 451,
+      "created_at": "2025-06-04T07:30:33Z",
+      "id": 995914041
+    },
+    "ELDment/meting": {
+      "star": 478,
+      "created_at": "2024-12-18T13:36:50Z",
+      "id": 905265922
+    },
+    "KJGX66F/FreeNodePanel": {
+      "star": 402,
+      "created_at": "2026-11-03T01:53:56Z",
+      "id": 1443694157
+    },
+    "wushuai0802/myfinder-device-battery": {
+      "star": 414,
+      "created_at": "2026-10-16T10:49:33Z",
+      "id": 1422031355
+    },
+    "lordnordic-debug/StradaOS": {
+      "star": 411,
+      "created_at": "2026-11-04T16:15:37Z",
+      "id": 1445899853
+    },
+    "ksjhk/api": {
+      "star": 408,
+      "created_at": "2026-10-26T06:20:39Z",
+      "id": 1433983558
+    },
+    "Fable2Recomp/Fable-Return-to-Albion": {
+      "star": 403,
+      "created_at": "2025-03-07T03:00:11Z",
+      "id": 944248124
+    },
+    "af-desktop/AF-Media-Bar": {
+      "star": 440,
+      "created_at": "2026-08-06T18:40:08Z",
+      "id": 1325668685
+    },
+    "yinsuecci/mockrunning": {
+      "star": 402,
+      "created_at": "2026-09-23T10:32:57Z",
+      "id": 1383228741
+    },
+    "mbezruchko/Snowhush": {
+      "star": 402,
+      "created_at": "2026-10-24T12:00:12Z",
+      "id": 1432136829
+    },
+    "sezzyaep/CS2-OFFSETS": {
+      "star": 401,
+      "created_at": "2023-09-14T22:39:43Z",
+      "id": 691790608
+    },
+    "github/accessibility-scanner": {
+      "star": 401,
+      "created_at": "2025-10-10T20:30:06Z",
+      "id": 1073916675
+    },
+    "sindresorhus/sindresorhus.github.com": {
+      "star": 401,
+      "created_at": "2011-09-06T17:10:39Z",
+      "id": 2335886
+    },
+    "pingw33n/OpenRB-338": {
+      "star": 401,
+      "created_at": "2026-10-26T09:26:16Z",
+      "id": 1434162963
+    },
+    "WerewolfRank/autodesk-revit": {
+      "star": 401,
+      "created_at": "2026-06-26T18:50:48Z",
+      "id": 1281630433
+    },
+    "yeyushengfan258/Win11OS-kde": {
+      "star": 400,
+      "created_at": "2021-06-21T17:07:46Z",
+      "id": 379006023
+    },
+    "ColdP/HyperChanger": {
+      "star": 400,
+      "created_at": "2026-08-15T13:39:41Z",
+      "id": 1335117729
+    },
+    "deepinstinct/DCOMUploadExec": {
+      "star": 400,
+      "created_at": "2024-11-13T16:05:29Z",
+      "id": 887984411
+    },
+    "anszom/rethink": {
+      "star": 400,
+      "created_at": "2023-11-19T18:20:52Z",
+      "id": 720830779
+    },
+    "SpikeJayAura/directory-opus": {
+      "star": 552,
+      "created_at": "2026-06-26T18:55:09Z",
+      "id": 1281633493
+    },
+    "Speicherstadt/haben": {
+      "star": 431,
+      "created_at": "2026-10-02T00:15:12Z",
+      "id": 1400849760
+    },
+    "havenicec/google-qr-sms-helper": {
+      "star": 1248,
+      "created_at": "2026-10-26T10:44:47Z",
+      "id": 1434244891
+    },
+    "huggingface/safeagents": {
+      "star": 405,
+      "created_at": "2026-10-28T13:52:42Z",
+      "id": 1437154386
+    },
+    "longsurf-ai/openchart": {
+      "star": 400,
+      "created_at": "2026-10-05T16:16:41Z",
+      "id": 1406053875
+    },
+    "xarial/codestack": {
+      "star": 400,
+      "created_at": "2020-05-13T23:13:15Z",
+      "id": 263764006
+    },
+    "Andrea-lyz/Scene-Port-Hider-by-eBPF": {
+      "star": 400,
+      "created_at": "2026-04-25T16:23:35Z",
+      "id": 1221008199
+    },
+    "Egolper/beginners-tech-interview": {
+      "star": 400,
+      "created_at": "2021-11-21T12:24:00Z",
+      "id": 430358792
+    },
+    "leanprover-community/NNG4": {
+      "star": 400,
+      "created_at": "2023-04-25T16:28:58Z",
+      "id": 632549439
+    },
+    "LeeBrotherston/tls-fingerprinting": {
+      "star": 400,
+      "created_at": "2015-09-14T13:21:41Z",
+      "id": 42449861
+    },
+    "toruskhanpruner/ads-blocker": {
+      "star": 400,
+      "created_at": "2026-06-26T18:41:14Z",
+      "id": 1281623186
+    },
+    "rizonesoft/impossible-os": {
+      "star": 433,
+      "created_at": "2026-03-06T15:11:41Z",
+      "id": 1174548054
+    },
+    "wei6718189/qishuiAScriptProject": {
+      "star": 439,
+      "created_at": "2026-07-30T18:14:32Z",
+      "id": 1317561423
+    },
+    "itsdecodingai/personalized-recommender-course": {
+      "star": 647,
+      "created_at": "2024-11-07T10:19:47Z",
+      "id": 884750190
+    },
+    "finktheartist/sakuga-vfx": {
+      "star": 402,
+      "created_at": "2026-11-15T21:19:28Z",
+      "id": 1459252611
+    },
+    "vivaui/viva": {
+      "star": 403,
+      "created_at": "2026-10-22T09:54:32Z",
+      "id": 1429551716
+    },
+    "tamim1089/HikvisionExploiter": {
+      "star": 400,
+      "created_at": "2024-07-05T16:58:14Z",
+      "id": 824675966
+    },
+    "poteto/brainmaxxing": {
+      "star": 400,
+      "created_at": "2026-02-27T06:34:07Z",
+      "id": 1168230020
+    },
+    "stephencwelch/ai_book": {
+      "star": 400,
+      "created_at": "2025-09-10T12:45:42Z",
+      "id": 1054152919
+    },
+    "hatsunemiku-ai/google-one-tools": {
+      "star": 465,
+      "created_at": "2026-11-20T22:12:47Z",
+      "id": 1465951272
+    },
+    "hylarucoder/hai-stack": {
+      "star": 400,
+      "created_at": "2026-03-25T15:47:05Z",
+      "id": 1191802377
+    },
+    "Weft-Rust/Weft": {
+      "star": 400,
+      "created_at": "2026-10-29T22:57:18Z",
+      "id": 1439042807
+    },
+    "b00t0x/WhateverXe": {
+      "star": 400,
+      "created_at": "2026-10-09T15:21:57Z",
+      "id": 1412055468
+    },
+    "McMCCRU/SNANDer": {
+      "star": 400,
+      "created_at": "2020-10-20T20:38:24Z",
+      "id": 305827901
+    },
+    "WhiteDNS/WhiteVPN": {
+      "star": 400,
+      "created_at": "2026-07-20T03:05:00Z",
+      "id": 1306166652
+    },
+    "pmndre/pine": {
+      "star": 413,
+      "created_at": "2026-11-10T23:18:48Z",
+      "id": 1453297286
+    },
+    "zadescoxp/calibrain-harness": {
+      "star": 461,
+      "created_at": "2026-11-10T10:00:30Z",
+      "id": 1452485821
+    },
+    "GSA-TTS/identity-idp": {
+      "star": 584,
+      "created_at": "2016-01-25T22:40:59Z",
+      "id": 50386243
+    },
+    "pavanjoshi914/GSoC_archive": {
+      "star": 400,
+      "created_at": "2026-09-22T05:50:59Z",
+      "id": 1380941773
+    },
+    "ZettaCardinalStrip/ultra-edit": {
+      "star": 429,
+      "created_at": "2026-06-26T19:04:12Z",
+      "id": 1281639445
     }
   }
 }
