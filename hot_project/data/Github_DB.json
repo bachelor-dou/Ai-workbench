@@ -143836,23 +143836,6 @@
       "gh_desc": "🐪 The Perl programming language",
       "id": 8183570
     },
-    "nature-lang/nature": {
-      "star": 2249,
-      "created_at": "2020-06-07T15:02:29Z",
-      "desc": "",
-      "language": "C",
-      "topics": [
-        "c",
-        "compiler",
-        "hacktoberfest",
-        "lang",
-        "language",
-        "nature",
-        "programming-language"
-      ],
-      "gh_desc": "The Nature Programming Language",
-      "id": 270340771
-    },
     "samgozman/YoptaScript": {
       "star": 2245,
       "created_at": "2016-11-14T19:00:35Z",
@@ -748000,15 +747983,6 @@
       "topics": [],
       "id": 1186423963
     },
-    "IRNova/Nova-Proxy": {
-      "star": 3087,
-      "created_at": "2026-02-19T07:51:56Z",
-      "desc": "",
-      "language": "HTML",
-      "topics": [],
-      "gh_desc": "یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.",
-      "id": 1161523102
-    },
     "shirokhorshid/shirokhorshid-android": {
       "star": 1508,
       "created_at": "2026-02-07T23:47:55Z",
@@ -834262,11 +834236,6 @@
       "star": 551,
       "created_at": "2019-02-06T00:24:51Z",
       "id": 169334303
-    },
-    "diwenne/openreply": {
-      "star": 563,
-      "created_at": "2026-07-17T02:01:45Z",
-      "id": 1303444609
     },
     "deezertidal/stash-override": {
       "star": 547,
@@ -958116,11 +958085,6 @@
       "created_at": "2023-02-06T11:54:14Z",
       "id": 598098209
     },
-    "wangrongding/github-old-feed": {
-      "star": 694,
-      "created_at": "2023-09-07T05:52:37Z",
-      "id": 688324992
-    },
     "Mage2Gen/Mage2Gen": {
       "star": 694,
       "created_at": "2016-05-18T15:40:26Z",
@@ -1018760,11 +1018724,6 @@
       "star": 523,
       "created_at": "2015-04-14T02:52:51Z",
       "id": 33907269
-    },
-    "chenzeyu/CZPicker": {
-      "star": 523,
-      "created_at": "2015-06-26T19:57:16Z",
-      "id": 38130831
     },
     "mansucache/AndroidStudio": {
       "star": 523,
@@ -1129219,11 +1129178,6 @@
       "created_at": "2025-12-18T04:18:10Z",
       "id": 1118641657
     },
-    "Clean-Reader/CleanReader.Desktop": {
-      "star": 400,
-      "created_at": "2022-04-09T13:09:12Z",
-      "id": 479729644
-    },
     "filyp/autocorrect": {
       "star": 499,
       "created_at": "2020-05-29T19:03:39Z",
@@ -1229998,11 +1229952,6 @@
       "created_at": "2019-02-06T18:36:33Z",
       "id": 169456206
     },
-    "couchbaselabs/iOS-Couchbase": {
-      "star": 400,
-      "created_at": "2011-03-10T17:09:24Z",
-      "id": 1464422
-    },
     "microsoft/lib0xc": {
       "star": 400,
       "created_at": "2026-03-19T19:57:32Z",
@@ -1236712,11 +1236661,6 @@
       "star": 400,
       "created_at": "2022-07-02T13:56:57Z",
       "id": 509769424
-    },
-    "tbuser/thingiview.js": {
-      "star": 400,
-      "created_at": "2010-10-20T22:04:37Z",
-      "id": 1010501
     },
     "KeKsBoTer/c3dgs": {
       "star": 400,
@@ -1259277,11 +1259221,6 @@
       "created_at": "2025-01-26T01:14:09Z",
       "id": 922356920
     },
-    "muggledy/typora-dyzj-theme": {
-      "star": 400,
-      "created_at": "2021-09-25T17:10:54Z",
-      "id": 410334251
-    },
     "StevenBaby/computer": {
       "star": 400,
       "created_at": "2019-10-20T05:10:43Z",
@@ -1261842,11 +1261781,6 @@
       "star": 435,
       "created_at": "2026-06-30T05:36:44Z",
       "id": 1284692613
-    },
-    "fireship-io/node-crypto-examples": {
-      "star": 400,
-      "created_at": "2021-11-01T14:56:13Z",
-      "id": 423505718
     },
     "lexler/augmented-coding-patterns": {
       "star": 400,
@@ -1267865,11 +1267799,6 @@
       "created_at": "2020-12-14T19:20:08Z",
       "id": 321449673
     },
-    "taskrabbit/rails_engines_example": {
-      "star": 400,
-      "created_at": "2014-01-27T18:13:00Z",
-      "id": 16287720
-    },
     "MatthewCYM/VoiceBench": {
       "star": 400,
       "created_at": "2024-10-22T14:20:28Z",
@@ -1271663,11 +1271592,6 @@
       "created_at": "2021-08-09T18:52:54Z",
       "id": 394405262
     },
-    "nomic-ai/gpt4all-datalake": {
-      "star": 400,
-      "created_at": "2023-04-20T18:29:53Z",
-      "id": 630602667
-    },
     "FouadRaheb/Regram-for-Instagram": {
       "star": 400,
       "created_at": "2024-12-30T11:08:40Z",
@@ -1274649,11 +1274573,6 @@
       "star": 417,
       "created_at": "2026-10-08T03:18:00Z",
       "id": 1409660690
-    },
-    "pauljoda/Crest": {
-      "star": 404,
-      "created_at": "2026-08-15T21:50:11Z",
-      "id": 1335443418
     },
     "MrRockySL/Muro": {
       "star": 401,
@@ -1286138,11 +1286057,6 @@
       "created_at": "2026-02-24T20:57:25Z",
       "id": 1166064941
     },
-    "awarre/Optimize-WsusServer": {
-      "star": 400,
-      "created_at": "2020-07-31T19:07:14Z",
-      "id": 284110145
-    },
     "bytecodealliance/ComponentizeJS": {
       "star": 400,
       "created_at": "2023-02-15T23:16:30Z",
@@ -1287019,11 +1286933,6 @@
       "star": 431,
       "created_at": "2026-11-02T23:54:01Z",
       "id": 1443613311
-    },
-    "hcpy2-0/hcpy": {
-      "star": 400,
-      "created_at": "2024-03-18T16:54:33Z",
-      "id": 773937255
     },
     "youshen2/MeloX": {
       "star": 402,
@@ -1291375,11 +1291284,6 @@
       "created_at": "2026-11-14T16:02:56Z",
       "id": 1457919852
     },
-    "sherwinvishesh/OpenGSO": {
-      "star": 432,
-      "created_at": "2026-09-04T01:18:48Z",
-      "id": 1356581450
-    },
     "Rykode/GodotHub": {
       "star": 611,
       "created_at": "2026-07-21T12:50:49Z",
@@ -1291904,11 +1291808,6 @@
       "star": 400,
       "created_at": "2026-02-23T23:53:18Z",
       "id": 1165210468
-    },
-    "RustXNG/RustXNG": {
-      "star": 515,
-      "created_at": "2026-10-18T03:06:52Z",
-      "id": 1423942292
     },
     "DataTalksClub/production-ai-agents-for-media-generation": {
       "star": 417,
@@ -1292527,11 +1292426,6 @@
       "star": 661,
       "created_at": "2026-11-13T03:26:21Z",
       "id": 1456105425
-    },
-    "groq/groq-desktop-beta": {
-      "star": 400,
-      "created_at": "2025-04-14T19:20:40Z",
-      "id": 966341566
     },
     "fengyiqicoder/awesome-fable-5.2": {
       "star": 400,
@@ -1293657,11 +1293551,6 @@
       "created_at": "2026-06-09T07:45:14Z",
       "id": 1263712651
     },
-    "shitouxiaoge-commits/CFAPEX": {
-      "star": 408,
-      "created_at": "2026-11-09T16:14:41Z",
-      "id": 1451593056
-    },
     "rdp-wrapper/rdpWrapper": {
       "star": 405,
       "created_at": "2025-05-05T17:12:13Z",
@@ -1293756,11 +1293645,6 @@
       "star": 400,
       "created_at": "2020-04-11T03:35:16Z",
       "id": 254786190
-    },
-    "Cablezumready/metatrader-5-bot": {
-      "star": 484,
-      "created_at": "2026-06-26T19:01:11Z",
-      "id": 1281637575
     },
     "OutpostDitch/scrcpy": {
       "star": 414,
@@ -1294147,11 +1294031,6 @@
       "star": 413,
       "created_at": "2026-07-28T15:38:02Z",
       "id": 1315148422
-    },
-    "aidatatools/ollama-benchmark": {
-      "star": 400,
-      "created_at": "2024-01-18T06:24:37Z",
-      "id": 744855992
     },
     "SaptakCompiler/Peregrine": {
       "star": 1437,
@@ -1294559,6 +1294438,402 @@
       "star": 429,
       "created_at": "2026-06-26T19:04:12Z",
       "id": 1281639445
+    },
+    "andrew-babo/muse4ai": {
+      "star": 454,
+      "created_at": "2026-11-03T17:45:18Z",
+      "id": 1444635695
+    },
+    "jfarcand/mirroir-mcp": {
+      "star": 400,
+      "created_at": "2026-02-06T21:20:07Z",
+      "id": 1151752366
+    },
+    "secfoo-com/secfoo": {
+      "star": 414,
+      "created_at": "2026-08-23T16:15:08Z",
+      "id": 1343960452
+    },
+    "hikaku-io/hikaku-extension": {
+      "star": 403,
+      "created_at": "2026-11-14T14:06:05Z",
+      "id": 1457813894
+    },
+    "Infatoshi/phonon": {
+      "star": 400,
+      "created_at": "2026-07-21T11:57:51Z",
+      "id": 1307651098
+    },
+    "snchimata/tokenfold": {
+      "star": 400,
+      "created_at": "2026-07-14T20:20:49Z",
+      "id": 1300914405
+    },
+    "WealthyV/openchatx-mcp": {
+      "star": 400,
+      "created_at": "2026-09-23T14:25:56Z",
+      "id": 1383604528
+    },
+    "barckley75/resolve-claude-mcp": {
+      "star": 402,
+      "created_at": "2026-04-12T23:11:39Z",
+      "id": 1208923131
+    },
+    "aiwithremy/content-principles": {
+      "star": 402,
+      "created_at": "2026-10-13T17:28:19Z",
+      "id": 1417600954
+    },
+    "microsoft/mastering-github-copilot-for-dotnet-csharp-developers": {
+      "star": 400,
+      "created_at": "2025-02-06T18:09:33Z",
+      "id": 928487937
+    },
+    "yyfz/Pi4": {
+      "star": 416,
+      "created_at": "2026-11-12T11:09:33Z",
+      "id": 1455190382
+    },
+    "datamllab/OpenEBFM": {
+      "star": 407,
+      "created_at": "2026-09-21T01:49:37Z",
+      "id": 1378955235
+    },
+    "naxlang/nax": {
+      "star": 2249,
+      "created_at": "2020-06-07T15:02:29Z",
+      "desc": "",
+      "language": "C",
+      "topics": [
+        "c",
+        "compiler",
+        "hacktoberfest",
+        "lang",
+        "language",
+        "nature",
+        "programming-language"
+      ],
+      "gh_desc": "The Nature Programming Language",
+      "id": 270340771
+    },
+    "crest-browser/Crest": {
+      "star": 404,
+      "created_at": "2026-08-15T21:50:11Z",
+      "id": 1335443418
+    },
+    "SLEEPYBQ/MemoSync": {
+      "star": 411,
+      "created_at": "2026-09-05T06:43:26Z",
+      "id": 1357906400
+    },
+    "wangrongding/SuperHive": {
+      "star": 694,
+      "created_at": "2023-09-07T05:52:37Z",
+      "id": 688324992
+    },
+    "yuntuCTO/yuntu-wechat-ipad": {
+      "star": 410,
+      "created_at": "2026-11-07T12:50:11Z",
+      "id": 1449352526
+    },
+    "KenKaiii/Roamies": {
+      "star": 417,
+      "created_at": "2026-10-28T19:27:45Z",
+      "id": 1437539254
+    },
+    "IRNova/NovaWorker": {
+      "star": 3087,
+      "created_at": "2026-02-19T07:51:56Z",
+      "desc": "",
+      "language": "HTML",
+      "topics": [],
+      "gh_desc": "یک پنل گرافیکی کاربردی برای ارائه اشتراک‌های Worker با پروکسی‌های ، Trojan و Warp به همراه زنجیره پروکسی، ارائه دهنده تنظیمات کامل DNS، IP تمیز و روتینگ پیشرفته برای کاربران تمامی پلتفرم‌ها با استفاده از هسته‌های Amnezia، Wireguard، Sing-box، Clash/Mihomo و Xray.",
+      "id": 1161523102
+    },
+    "zchen654/CZPicker": {
+      "star": 523,
+      "created_at": "2015-06-26T19:57:16Z",
+      "id": 38130831
+    },
+    "Nyxera0x/cutaway": {
+      "star": 422,
+      "created_at": "2026-11-06T09:44:07Z",
+      "id": 1448083694
+    },
+    "sybil-solutions/skill-distill": {
+      "star": 406,
+      "created_at": "2026-11-21T01:43:00Z",
+      "id": 1466075841
+    },
+    "Kristian8606/esp32-airplay2-surround": {
+      "star": 405,
+      "created_at": "2026-10-24T16:13:06Z",
+      "id": 1432360680
+    },
+    "wuwangzhang1216/DirectorSKILL": {
+      "star": 402,
+      "created_at": "2026-05-25T18:53:15Z",
+      "id": 1249488202
+    },
+    "vivy-company/vvterm": {
+      "star": 400,
+      "created_at": "2026-01-07T10:28:34Z",
+      "id": 1129609284
+    },
+    "W17ant/Claude-Office": {
+      "star": 404,
+      "created_at": "2026-03-17T21:26:27Z",
+      "id": 1184711846
+    },
+    "Wh1isper/mcp-email-server": {
+      "star": 400,
+      "created_at": "2025-02-24T12:46:46Z",
+      "id": 938111182
+    },
+    "ZeKaiNie/universal-examprep-skill": {
+      "star": 400,
+      "created_at": "2026-06-24T15:25:04Z",
+      "id": 1279325204
+    },
+    "diwennee/openreply": {
+      "star": 563,
+      "created_at": "2026-07-17T02:01:45Z",
+      "id": 1303444609
+    },
+    "skydashnet/material-design-3-ui-skill": {
+      "star": 404,
+      "created_at": "2026-08-17T08:27:12Z",
+      "id": 1336883629
+    },
+    "thesysdev/opendashboards": {
+      "star": 420,
+      "created_at": "2026-11-06T18:37:17Z",
+      "id": 1448618291
+    },
+    "autobrr/dashbrr": {
+      "star": 400,
+      "created_at": "2024-11-05T20:05:27Z",
+      "id": 883918892
+    },
+    "ItsNotRexed/Leonida": {
+      "star": 7749,
+      "created_at": "2026-11-20T20:07:13Z",
+      "id": 1465855400
+    },
+    "jackson-cmd/risk-aware-trading-agents": {
+      "star": 417,
+      "created_at": "2026-11-12T02:29:31Z",
+      "id": 1454737824
+    },
+    "opokukopoku/gta-6-pc-release": {
+      "star": 405,
+      "created_at": "2026-11-21T14:16:44Z",
+      "id": 1466614444
+    },
+    "rasonyang/freesbc": {
+      "star": 402,
+      "created_at": "2026-09-10T09:17:11Z",
+      "id": 1363811818
+    },
+    "CroqueMr/libreelec-CB1": {
+      "star": 402,
+      "created_at": "2026-09-25T21:04:20Z",
+      "id": 1388186965
+    },
+    "duwqijlk/google-trial-tool": {
+      "star": 405,
+      "created_at": "2026-11-19T11:06:16Z",
+      "id": 1464030607
+    },
+    "ianshulyadav/PixelMusic": {
+      "star": 411,
+      "created_at": "2026-06-26T08:48:29Z",
+      "id": 1281129901
+    },
+    "Sunghwan0112/spritecast": {
+      "star": 414,
+      "created_at": "2026-11-03T21:16:10Z",
+      "id": 1444840825
+    },
+    "ltdrdata/ComfyUI-Impact-Subpack": {
+      "star": 402,
+      "created_at": "2023-07-23T04:21:06Z",
+      "id": 669676054
+    },
+    "YSJohnson/UnipusAI-Helper": {
+      "star": 402,
+      "created_at": "2026-04-02T03:45:16Z",
+      "id": 1199103248
+    },
+    "andrearicci93/vetro": {
+      "star": 407,
+      "created_at": "2026-10-11T16:08:09Z",
+      "id": 1414522157
+    },
+    "davidondrej/superbot": {
+      "star": 407,
+      "created_at": "2026-11-15T17:30:43Z",
+      "id": 1459060878
+    },
+    "streamingdv/PSPlay-Application-Hosting": {
+      "star": 411,
+      "created_at": "2024-04-29T20:53:02Z",
+      "id": 793772977
+    },
+    "CoderL98/hghub-plugins": {
+      "star": 404,
+      "created_at": "2026-11-16T03:33:57Z",
+      "id": 1459501309
+    },
+    "noctalia-dev/luciole": {
+      "star": 436,
+      "created_at": "2026-10-29T08:09:12Z",
+      "id": 1438124692
+    },
+    "CocoSgt/riemann-hypothesis-lean": {
+      "star": 476,
+      "created_at": "2026-11-20T14:59:14Z",
+      "id": 1465559592
+    },
+    "sybil-solutions/local-ai-registry": {
+      "star": 416,
+      "created_at": "2026-08-26T12:39:46Z",
+      "id": 1347319086
+    },
+    "d-dev0101/open-sea-skin": {
+      "star": 400,
+      "created_at": "2026-08-14T22:19:03Z",
+      "id": 1334618124
+    },
+    "SpectrAI-Initiative/InnoClaw": {
+      "star": 400,
+      "created_at": "2026-03-09T08:48:10Z",
+      "id": 1176662590
+    },
+    "wy51ai/easycolab": {
+      "star": 424,
+      "created_at": "2026-11-07T13:39:37Z",
+      "id": 1449391270
+    },
+    "ryderclanky/BotW-Native": {
+      "star": 400,
+      "created_at": "2026-10-23T21:41:37Z",
+      "id": 1431576025
+    },
+    "PrismPipeline/Prism": {
+      "star": 400,
+      "created_at": "2018-09-19T12:47:24Z",
+      "id": 149449679
+    },
+    "juancarlospaco/awesome-streaming-tools": {
+      "star": 400,
+      "created_at": "2019-11-14T14:41:39Z",
+      "id": 221719179
+    },
+    "TimChen1383/NanoGaussianSplatting": {
+      "star": 400,
+      "created_at": "2026-02-01T11:04:07Z",
+      "id": 1147192972
+    },
+    "GthiN89/FuckingCheapFlipperZero-DIY-Flipper-zero-The-real-on": {
+      "star": 400,
+      "created_at": "2025-10-11T17:38:13Z",
+      "id": 1074390093
+    },
+    "danielwh2/sprite-stacking": {
+      "star": 400,
+      "created_at": "2026-11-20T14:32:43Z",
+      "id": 1465531278
+    },
+    "bearinmindcat/morphe-patches": {
+      "star": 403,
+      "created_at": "2026-09-24T00:29:59Z",
+      "id": 1384369772
+    },
+    "ziyang0116/gpt-plus-daichong": {
+      "star": 427,
+      "created_at": "2026-09-28T02:45:30Z",
+      "id": 1391638209
+    },
+    "data-folks/data-science-learning-path": {
+      "star": 400,
+      "created_at": "2021-08-14T14:44:39Z",
+      "id": 396037354
+    },
+    "will-tm/WMGaugeView": {
+      "star": 400,
+      "created_at": "2014-01-29T22:52:24Z",
+      "id": 16362004
+    },
+    "ArchiveBox/good-karma-kit": {
+      "star": 400,
+      "created_at": "2021-04-12T19:43:01Z",
+      "id": 357318954
+    },
+    "naubiomech/OpenExo": {
+      "star": 400,
+      "created_at": "2024-09-12T22:00:59Z",
+      "id": 856610892
+    },
+    "Boopath1/Recon-Search-Assistant": {
+      "star": 400,
+      "created_at": "2025-04-18T06:37:12Z",
+      "id": 968477069
+    },
+    "LG-AI-EXAONE/EXAONE-Deep": {
+      "star": 400,
+      "created_at": "2025-03-12T06:45:27Z",
+      "id": 947102423
+    },
+    "cyberark/secretless-broker": {
+      "star": 400,
+      "created_at": "2017-10-18T13:48:22Z",
+      "id": 107414536
+    },
+    "leanprover-community/riemann-hypothesis": {
+      "star": 469,
+      "created_at": "2026-11-20T14:47:49Z",
+      "id": 1465547415
+    },
+    "Spark198rus/black-pc": {
+      "star": 400,
+      "created_at": "2026-10-14T13:00:33Z",
+      "id": 1418928046
+    },
+    "byJoey/fanout": {
+      "star": 400,
+      "created_at": "2026-07-26T03:41:14Z",
+      "id": 1312470938
+    },
+    "TripoGrowthLab/awesome-astra-prompts": {
+      "star": 400,
+      "created_at": "2026-09-05T19:33:25Z",
+      "id": 1358503697
+    },
+    "AIwolfie/jailbreak-archive": {
+      "star": 400,
+      "created_at": "2026-09-23T10:13:52Z",
+      "id": 1383204085
+    },
+    "grugnoymeme/flipperzero-badUSB": {
+      "star": 400,
+      "created_at": "2023-04-22T20:12:39Z",
+      "id": 631371204
+    },
+    "openrobokit/robokit": {
+      "star": 409,
+      "created_at": "2026-10-30T12:23:49Z",
+      "id": 1439695200
+    },
+    "gendotnew/safari-extensions": {
+      "star": 400,
+      "created_at": "2017-07-31T18:27:23Z",
+      "id": 98917462
+    },
+    "sa4hnd/YouDash": {
+      "star": 426,
+      "created_at": "2026-11-14T17:58:18Z",
+      "id": 1458025225
     }
   }
 }
