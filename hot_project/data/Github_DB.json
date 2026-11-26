@@ -130431,36 +130431,6 @@
       "gh_desc": "Data processing & ETL framework for Ruby",
       "id": 11515100
     },
-    "Multiwoven/multiwoven": {
-      "star": 1665,
-      "created_at": "2023-10-20T15:21:26Z",
-      "desc": "",
-      "language": "Ruby",
-      "topics": [
-        "bigquery",
-        "cdp",
-        "customer-data-platform",
-        "data-activation",
-        "data-engineering",
-        "data-pipeline",
-        "data-warehouse",
-        "databricks",
-        "dbt",
-        "etl",
-        "hacktoberfest",
-        "open-source",
-        "postresql",
-        "react",
-        "redshift",
-        "reverse-etl",
-        "ruby",
-        "self-hosted",
-        "snowflake",
-        "typescript"
-      ],
-      "gh_desc": "🔥🔥🔥 Open source Reverse ETL -  alternative to hightouch and census. ",
-      "id": 707752626
-    },
     "ariacom/Seal-Report": {
       "star": 1624,
       "created_at": "2015-08-11T15:21:31Z",
@@ -404305,15 +404275,6 @@
       "gh_desc": "An open source, markdown-based, self-hosted note taking webapp.",
       "id": 468643443
     },
-    "Lakr233/Rayon": {
-      "star": 2425,
-      "created_at": "2022-02-13T15:55:55Z",
-      "desc": "",
-      "language": "Swift",
-      "topics": [],
-      "gh_desc": "yet another SSH machine manager",
-      "id": 458856373
-    },
     "vmware-archive/kubewatch": {
       "star": 2424,
       "created_at": "2016-07-12T07:14:12Z",
@@ -564434,15 +564395,6 @@
       "gh_desc": "Translates JSON into a Go type in your browser instantly (original)",
       "id": 16112842
     },
-    "mindspore-ai/mindspore": {
-      "star": 4697,
-      "created_at": "2020-02-11T08:43:48Z",
-      "desc": "",
-      "language": "C++",
-      "topics": [],
-      "gh_desc": "MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",
-      "id": 239714835
-    },
     "geist-org/geist-ui": {
       "star": 4557,
       "created_at": "2020-03-18T17:14:17Z",
@@ -586538,14 +586490,6 @@
       ],
       "gh_desc": "Play your favorite games in a borderless window; no more time consuming alt-tabs. ",
       "id": 15819024
-    },
-    "anus-dev/ANUS": {
-      "star": 6470,
-      "created_at": "2025-03-09T18:45:54Z",
-      "desc": "",
-      "language": "TypeScript",
-      "topics": [],
-      "id": 945579718
     },
     "DanTheMan827/ios-app-signer": {
       "star": 6313,
@@ -608657,21 +608601,6 @@
       "topics": [],
       "gh_desc": "GraphicsMagick for node",
       "id": 715524
-    },
-    "zenoamaro/react-quill": {
-      "star": 7013,
-      "created_at": "2014-11-07T12:25:40Z",
-      "desc": "",
-      "language": "JavaScript",
-      "topics": [
-        "editor",
-        "quill",
-        "react",
-        "rich-text-editor",
-        "wysiwyg-editor"
-      ],
-      "gh_desc": "A Quill component for React.",
-      "id": 26318730
     },
     "paragonie/awesome-appsec": {
       "star": 7006,
@@ -707590,34 +707519,6 @@
       "topics": [],
       "gh_desc": "Java framework for the vlc media player",
       "id": 3289298
-    },
-    "theimpactfulcompany/Rise-Media-Player": {
-      "star": 1219,
-      "created_at": "2021-08-11T20:30:46Z",
-      "desc": "",
-      "language": "C#",
-      "topics": [
-        "csharp",
-        "customization",
-        "fluent",
-        "fluent-design",
-        "help",
-        "help-wanted",
-        "help-welcome",
-        "media",
-        "media-player",
-        "media-players",
-        "music",
-        "player",
-        "ui-design",
-        "uwp",
-        "windows-10",
-        "windows-11",
-        "winui",
-        "xaml"
-      ],
-      "gh_desc": "One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.",
-      "id": 395109560
     },
     "SkyD666/PodAura": {
       "star": 1245,
@@ -881746,11 +881647,6 @@
       "created_at": "2023-04-06T16:41:15Z",
       "id": 624518043
     },
-    "totumonline/totum-mit": {
-      "star": 982,
-      "created_at": "2019-09-24T14:44:39Z",
-      "id": 210626964
-    },
     "openfootball/football.json": {
       "star": 985,
       "created_at": "2015-09-17T16:40:37Z",
@@ -896727,11 +896623,6 @@
       "star": 629,
       "created_at": "2025-06-28T06:33:53Z",
       "id": 1010008583
-    },
-    "firstbatchxyz/mem-agent-mcp": {
-      "star": 626,
-      "created_at": "2025-09-01T08:29:31Z",
-      "id": 1048299996
     },
     "abhiemj/manim-mcp-server": {
       "star": 622,
@@ -1257018,25 +1256909,6 @@
       "created_at": "2026-08-15T08:00:57Z",
       "id": 1334904197
     },
-    "AIPentest/CyberStrikeAI": {
-      "star": 5354,
-      "created_at": "2025-11-08T10:41:23Z",
-      "desc": "",
-      "language": "Go",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "ai-cybersecurity",
-        "ai-hacking",
-        "ai-penetration-testing",
-        "ai-security-tool",
-        "ctf-tools",
-        "mcp",
-        "pentesting-tools"
-      ],
-      "gh_desc": "CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.",
-      "id": 1092279475
-    },
     "aquamarine5/ChaoxingSignFaker": {
       "star": 408,
       "created_at": "2025-03-11T12:03:37Z",
@@ -1260722,11 +1260594,6 @@
       "star": 400,
       "created_at": "2020-12-10T00:10:19Z",
       "id": 320112116
-    },
-    "Project-Sunshine-Native/cinnamon": {
-      "star": 400,
-      "created_at": "2026-03-20T02:32:28Z",
-      "id": 1186811498
     },
     "openinary/openinary": {
       "star": 400,
@@ -1268337,11 +1268204,6 @@
       "created_at": "2026-09-20T02:21:57Z",
       "id": 1377811021
     },
-    "Phoenixx1202/Spectrum-Library": {
-      "star": 439,
-      "created_at": "2026-06-06T18:35:52Z",
-      "id": 1261478656
-    },
     "cloudflare/ci": {
       "star": 535,
       "created_at": "2026-07-30T16:59:35Z",
@@ -1272734,11 +1272596,6 @@
       "created_at": "2018-09-11T19:56:42Z",
       "id": 148372580
     },
-    "shengjidaguai-china/goutoujunshi-jev-chat": {
-      "star": 409,
-      "created_at": "2026-09-23T09:42:26Z",
-      "id": 1383161277
-    },
     "ViegPhunt/Arch-Hyprland": {
       "star": 400,
       "created_at": "2025-03-25T04:20:43Z",
@@ -1274211,11 +1274068,6 @@
       "created_at": "2023-12-30T12:12:28Z",
       "id": 737267757
     },
-    "anonymousjav/AvPlayRelease": {
-      "star": 415,
-      "created_at": "2022-07-28T09:21:44Z",
-      "id": 518780191
-    },
     "MoazSalem/litefin": {
       "star": 400,
       "created_at": "2026-02-13T17:05:44Z",
@@ -1274847,11 +1274699,6 @@
       "star": 402,
       "created_at": "2026-07-11T12:31:35Z",
       "id": 1297425669
-    },
-    "aixisstudio/Snitch": {
-      "star": 421,
-      "created_at": "2026-10-01T15:47:55Z",
-      "id": 1400284027
     },
     "youpi-pg/YouPI-PG": {
       "star": 1005,
@@ -1278880,11 +1278727,6 @@
       "star": 404,
       "created_at": "2026-10-19T17:27:02Z",
       "id": 1425952796
-    },
-    "lidor30/pokedaisy": {
-      "star": 404,
-      "created_at": "2026-10-06T06:51:25Z",
-      "id": 1406839840
     },
     "bluebill1049/react-simple-animate": {
       "star": 1817,
@@ -1289198,11 +1289040,6 @@
       "created_at": "2026-08-14T17:37:36Z",
       "id": 1334430510
     },
-    "starman-tech/mousepods": {
-      "star": 405,
-      "created_at": "2026-11-04T18:44:41Z",
-      "id": 1446061539
-    },
     "nullcpy/rvb": {
       "star": 401,
       "created_at": "2025-05-28T06:53:46Z",
@@ -1292953,11 +1292790,6 @@
       "created_at": "2024-09-19T04:19:07Z",
       "id": 859665165
     },
-    "inotbarnacle/ID6_apps_prerelease": {
-      "star": 412,
-      "created_at": "2026-11-07T19:47:28Z",
-      "id": 1449687559
-    },
     "itsdecodingai/second-brain-ai-assistant-course": {
       "star": 2935,
       "created_at": "2024-12-30T14:57:41Z",
@@ -1293108,11 +1292940,6 @@
       ],
       "gh_desc": "💰 Cryptocurrency Trading Strategy & Portfolio Management Development Framework for Binance. 🤖",
       "id": 117895247
-    },
-    "nataphong-lab/Open-Source-Face-Recognition-Ultimate": {
-      "star": 514,
-      "created_at": "2026-11-19T10:40:46Z",
-      "id": 1464004445
     },
     "witt3rd/oh-my-hermes": {
       "star": 400,
@@ -1293798,11 +1293625,6 @@
       "star": 400,
       "created_at": "2026-08-14T22:19:03Z",
       "id": 1334618124
-    },
-    "SpectrAI-Initiative/InnoClaw": {
-      "star": 400,
-      "created_at": "2026-03-09T08:48:10Z",
-      "id": 1176662590
     },
     "wy51ai/easycolab": {
       "star": 424,
@@ -1295093,11 +1294915,6 @@
       "created_at": "2025-05-22T04:36:57Z",
       "id": 988114205
     },
-    "earlephilhower/arduino-littlefs-upload": {
-      "star": 400,
-      "created_at": "2023-09-26T01:39:04Z",
-      "id": 696556267
-    },
     "microlift/rosemary": {
       "star": 401,
       "created_at": "2026-08-20T23:39:26Z",
@@ -1295156,11 +1294973,6 @@
       "id": 1465852099,
       "desc": "项目定位与用途:\nXCL是一个面向Windows平台的兼容层项目，旨在将用户已拥有的Xbox Series X|S游戏原生运行于Windows 10/11 x64系统上。其核心定位类似于Wine或Proton，专注于主机游戏向PC的移植。项目不依赖CPU模拟，通过独立编写的系统库实现来桥接主机与PC环境，使用户能够在个人电脑上体验原本仅限主机平台的游戏内容。\n\n解决的问题:\n该项目主要解决主机游戏无法直接在PC上运行的生态壁垒问题。传统方案往往依赖昂贵的硬件模拟或复杂的指令集转换，导致性能损耗严重。XCL通过放弃CPU模拟，让游戏原有的x64代码在PC上直接执行，同时针对主机特有的系统库和GPU着色器提供替代方案，从而在保障运行效率的同时，降低PC玩家体验主机游戏的门槛。\n\n使用场景:\n典型应用场景为拥有正版Xbox Series X|S游戏文件的PC玩家，希望在不购买额外主机硬件的前提下，于Windows电脑上直接游玩这些游戏。目标用户包括主机游戏爱好者、PC端玩家以及希望测试GDK游戏在PC环境下兼容性的开发者。项目明确仅支持用户自行解包的游戏文件，适用于本地已获取资源的个人娱乐环境。\n\n技术架构与特性:\n项目采用Rust语言开发，基于Windows 10/11 x64环境，支持Direct3D 12与Shader Model 6.6。架构核心在于无CPU模拟的x64原生执行，并独立实现了kernelx.dll、XGameRuntime等主机系统库。GPU层面通过编译器将RDNA2机器码重编译为HLSL并输出为DXIL格式。近期提交显示项目持续优化重编译器、PC调用逻辑及测试套件，整体遵循GPL-2.0-only开源协议。",
       "desc_updated_at": "2026-11-25"
-    },
-    "JetBrains/skills": {
-      "star": 400,
-      "created_at": "2026-02-12T13:38:51Z",
-      "id": 1156291620
     },
     "wcampbell0x2a/heretek": {
       "star": 400,
@@ -1295324,11 +1295136,6 @@
       "created_at": "2026-11-23T21:40:15Z",
       "id": 1469338376
     },
-    "rowanbyte3329/stardew-valley-mod-manager": {
-      "star": 871,
-      "created_at": "2026-11-23T21:21:35Z",
-      "id": 1469322189
-    },
     "greatSumini/skills": {
       "star": 433,
       "created_at": "2025-12-01T15:51:00Z",
@@ -1295444,11 +1295251,6 @@
       "created_at": "2023-09-03T01:58:04Z",
       "id": 686500346
     },
-    "xing-shuyin/pi-web-ui": {
-      "star": 401,
-      "created_at": "2026-08-04T01:11:26Z",
-      "id": 1322370305
-    },
     "NVlabs/CuTe": {
       "star": 402,
       "created_at": "2026-07-10T18:04:11Z",
@@ -1295528,13 +1295330,6 @@
       "star": 459,
       "created_at": "2026-11-23T01:06:18Z",
       "id": 1468140561
-    },
-    "Zettrox/ztrx": {
-      "star": 1162,
-      "created_at": "2026-11-25T01:12:08Z",
-      "id": 1471056687,
-      "desc": "项目定位与用途:\n该项目是一个开源兼容层工具，旨在让搭载NVIDIA显卡的Windows PC原生运行Xbox Series版本游戏。用户需自行提供游戏文件，项目本身不含任何游戏资源。其核心定位是作为底层图形转换组件，通过API映射与渲染管线重构，实现主机版游戏在PC端的直接启动与运行，不依赖官方模拟器或第三方授权。\n\n解决的问题:\n该项目主要解决主机版游戏在PC端缺乏原生运行支持的问题。由于Xbox版本采用特定图形架构与着色器格式，传统PC无法直接兼容。项目通过底层Direct3D 12转换与着色器实时翻译缓存机制，绕过平台限制，使玩家无需等待官方移植即可体验主机版本。同时针对显存提交不足、着色器编译卡顿及特定GPU指令集不兼容等瓶颈提供优化方案。\n\n使用场景:\n适用于拥有Xbox Series游戏文件的PC玩家，尤其是配备NVIDIA RTX 20系列及以上显卡的用户。典型场景包括在Windows系统中通过脚本快速启动游戏、利用缓存机制提升后续帧率，以及通过XInput手柄或键盘进行跨平台操作。此外，也适合图形技术研究者用于测试着色器翻译、D3D12管线调试及诊断GPU渲染异常。\n\n技术架构与特性:\n项目采用Rust语言开发，基于VIctory项目重构，核心依赖Direct3D 12与着色器模型6.6。架构上通过命令行构建与PowerShell脚本实现加载，内置着色器实时翻译与本地缓存机制以缓解首帧卡顿。支持通过环境变量动态调整渲染策略及帧捕获调试参数，并提供诊断构建模式用于GPU故障追踪，整体遵循GPL-3.0协议开源。",
-      "desc_updated_at": "2026-11-25"
     },
     "astrio-labs/forall": {
       "star": 683,
@@ -1295744,6 +1295539,640 @@
       "star": 412,
       "created_at": "2026-10-20T10:05:59Z",
       "id": 1426842914
+    },
+    "WeftCut/WeftCut": {
+      "star": 401,
+      "created_at": "2026-05-22T13:57:08Z",
+      "id": 1246738326
+    },
+    "mutonby/openshorts": {
+      "star": 9911,
+      "created_at": "2025-12-19T12:45:10Z",
+      "id": 1119542383
+    },
+    "4ier/neo": {
+      "star": 757,
+      "created_at": "2025-11-03T13:53:10Z",
+      "id": 1088816938
+    },
+    "yuhuan-dev/antigravity-usage-monitor": {
+      "star": 418,
+      "created_at": "2026-10-13T19:38:58Z",
+      "id": 1417850082
+    },
+    "opensetlabs/openset-llm": {
+      "star": 1200,
+      "created_at": "2026-11-13T12:45:59Z",
+      "id": 1456590729
+    },
+    "ShutongLiang/Neural-State-OS": {
+      "star": 407,
+      "created_at": "2026-11-14T16:36:55Z",
+      "id": 1457950928
+    },
+    "raynedotstudio/Rise-Media-Player": {
+      "star": 1219,
+      "created_at": "2021-08-11T20:30:46Z",
+      "desc": "",
+      "language": "C#",
+      "topics": [
+        "csharp",
+        "customization",
+        "fluent",
+        "fluent-design",
+        "help",
+        "help-wanted",
+        "help-welcome",
+        "media",
+        "media-player",
+        "media-players",
+        "music",
+        "player",
+        "ui-design",
+        "uwp",
+        "windows-10",
+        "windows-11",
+        "winui",
+        "xaml"
+      ],
+      "gh_desc": "One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.",
+      "id": 395109560
+    },
+    "www222fff/muse2api": {
+      "star": 400,
+      "created_at": "2026-09-27T08:06:27Z",
+      "id": 1390435826
+    },
+    "salitronic/eda-agent": {
+      "star": 403,
+      "created_at": "2026-04-16T19:09:52Z",
+      "id": 1212822116
+    },
+    "alesha-pro/llm.asm": {
+      "star": 748,
+      "created_at": "2026-11-25T07:28:51Z",
+      "id": 1471422729
+    },
+    "awslabs/dynein": {
+      "star": 400,
+      "created_at": "2020-11-14T19:20:34Z",
+      "id": 312885986
+    },
+    "FalkorDB/Auryn": {
+      "star": 400,
+      "created_at": "2024-01-03T14:35:40Z",
+      "id": 738571595
+    },
+    "mindroom-ai/mindroom": {
+      "star": 401,
+      "created_at": "2026-01-19T23:06:18Z",
+      "id": 1137843985
+    },
+    "mindspore-ai/mindspore-bk": {
+      "star": 4697,
+      "created_at": "2020-02-11T08:43:48Z",
+      "desc": "",
+      "language": "C++",
+      "topics": [],
+      "gh_desc": "MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.",
+      "id": 239714835
+    },
+    "janus-sh/janus": {
+      "star": 6470,
+      "created_at": "2025-03-09T18:45:54Z",
+      "desc": "",
+      "language": "TypeScript",
+      "topics": [],
+      "id": 945579718
+    },
+    "aixisstudio/Wiretap": {
+      "star": 421,
+      "created_at": "2026-10-01T15:47:55Z",
+      "id": 1400284027
+    },
+    "HoangP8/tokless": {
+      "star": 405,
+      "created_at": "2026-05-30T08:33:01Z",
+      "id": 1254179462
+    },
+    "ephread/inkgd": {
+      "star": 400,
+      "created_at": "2019-04-02T11:21:57Z",
+      "id": 179062204
+    },
+    "Pikachuxxxx/Razix": {
+      "star": 492,
+      "created_at": "2020-07-01T12:53:13Z",
+      "id": 276377205
+    },
+    "MrTangLuyao/sniplite": {
+      "star": 404,
+      "created_at": "2026-11-09T15:10:57Z",
+      "id": 1451520438
+    },
+    "cuiyucheng0104-afk/beiming-engine": {
+      "star": 409,
+      "created_at": "2026-11-03T17:05:54Z",
+      "id": 1444591360
+    },
+    "hamvex/AetherGUI": {
+      "star": 400,
+      "created_at": "2026-07-16T19:34:09Z",
+      "id": 1303174787
+    },
+    "andthattoo/mem-agent-mcp": {
+      "star": 626,
+      "created_at": "2025-09-01T08:29:31Z",
+      "id": 1048299996
+    },
+    "portbuster1337/lpe-toolkit": {
+      "star": 437,
+      "created_at": "2026-05-21T19:33:28Z",
+      "id": 1246011577
+    },
+    "my-name-is-alan/iDuanJu": {
+      "star": 451,
+      "created_at": "2026-11-10T08:05:30Z",
+      "id": 1452373464
+    },
+    "ScottDuncanAI/PID-to-Knowledge-Graph": {
+      "star": 420,
+      "created_at": "2026-11-08T18:58:21Z",
+      "id": 1450571787
+    },
+    "frankarobotics/franka_ros2": {
+      "star": 400,
+      "created_at": "2021-12-13T13:06:18Z",
+      "id": 437876523
+    },
+    "react-quill/react-quill": {
+      "star": 7013,
+      "created_at": "2014-11-07T12:25:40Z",
+      "desc": "",
+      "language": "JavaScript",
+      "topics": [
+        "editor",
+        "quill",
+        "react",
+        "rich-text-editor",
+        "wysiwyg-editor"
+      ],
+      "gh_desc": "A Quill component for React.",
+      "id": 26318730
+    },
+    "TermiteBarrier/sp-flash-tool": {
+      "star": 413,
+      "created_at": "2026-06-26T20:42:58Z",
+      "id": 1281702251
+    },
+    "chuspeeism/dashi-animationstyle": {
+      "star": 403,
+      "created_at": "2026-10-13T07:37:15Z",
+      "id": 1416647388
+    },
+    "duyunzhoudyz/dyz-med-paper-skills": {
+      "star": 402,
+      "created_at": "2026-11-01T14:57:55Z",
+      "id": 1441929163
+    },
+    "replydev/cotp": {
+      "star": 400,
+      "created_at": "2020-12-20T23:26:23Z",
+      "id": 323185066
+    },
+    "XiNian-dada/Fuck_My_Shit_Mountain": {
+      "star": 509,
+      "created_at": "2026-06-03T06:57:37Z",
+      "id": 1257971581
+    },
+    "starman-tech/Mousepods": {
+      "star": 405,
+      "created_at": "2026-11-04T18:44:41Z",
+      "id": 1446061539
+    },
+    "avatarmanz/VIctory-7900XTX": {
+      "star": 1330,
+      "created_at": "2026-11-25T22:18:14Z",
+      "id": 1472396996
+    },
+    "RMvdesi/obsidian-prism": {
+      "star": 1552,
+      "created_at": "2026-11-17T02:50:21Z",
+      "id": 1460834967
+    },
+    "shirudo-dev/shirudo": {
+      "star": 2233,
+      "created_at": "2026-10-13T16:06:37Z",
+      "id": 1417431912
+    },
+    "xyc999-ai/go-bot": {
+      "star": 511,
+      "created_at": "2026-11-15T18:05:59Z",
+      "id": 1459093480
+    },
+    "cyb3rl00m/prune-debloater": {
+      "star": 408,
+      "created_at": "2026-11-19T12:37:08Z",
+      "id": 1464125388
+    },
+    "CentralPanther/ultfone-unlocker": {
+      "star": 422,
+      "created_at": "2026-06-26T20:44:13Z",
+      "id": 1281702955
+    },
+    "Holevirepel67/startall-back": {
+      "star": 417,
+      "created_at": "2026-06-26T20:42:34Z",
+      "id": 1281701997
+    },
+    "Echonyaanvil/total-commander": {
+      "star": 417,
+      "created_at": "2026-06-26T20:43:53Z",
+      "id": 1281702756
+    },
+    "h3110w0r1d-y/BurpLoaderKeygen": {
+      "star": 803,
+      "created_at": "2023-08-09T05:10:27Z",
+      "id": 676390404
+    },
+    "franckferman/MetaDetective": {
+      "star": 513,
+      "created_at": "2023-08-27T19:45:34Z",
+      "id": 683818400
+    },
+    "m-vave/fm1_open": {
+      "star": 402,
+      "created_at": "2026-10-13T08:59:19Z",
+      "id": 1416743005
+    },
+    "sebh/TileableVolumeNoise": {
+      "star": 401,
+      "created_at": "2017-03-19T15:00:58Z",
+      "id": 85484785
+    },
+    "datawhalechina/reasoning-kingdom": {
+      "star": 425,
+      "created_at": "2026-03-30T04:53:47Z",
+      "id": 1195812101
+    },
+    "TeraHealer76/Grand-Version-6-latest-Pc": {
+      "star": 597,
+      "created_at": "2026-06-26T20:08:41Z",
+      "id": 1281681248
+    },
+    "raulvidis/hermes-android": {
+      "star": 510,
+      "created_at": "2026-03-14T17:17:21Z",
+      "id": 1181826391
+    },
+    "MyLuxy/overdrive": {
+      "star": 1384,
+      "created_at": "2026-10-14T00:07:08Z",
+      "id": 1418155445
+    },
+    "jackherex/duanjuzhijia-down-tv": {
+      "star": 414,
+      "created_at": "2026-10-01T04:57:16Z",
+      "id": 1399141184
+    },
+    "Stuccobrupuzzle/uttorent": {
+      "star": 422,
+      "created_at": "2026-06-26T20:44:24Z",
+      "id": 1281703057
+    },
+    "vibepm666/cursor-localization-zh": {
+      "star": 402,
+      "created_at": "2026-06-04T03:27:42Z",
+      "id": 1258921750
+    },
+    "VUILabsAI/Luna-Translator": {
+      "star": 402,
+      "created_at": "2026-10-28T09:55:27Z",
+      "id": 1436894722
+    },
+    "ArcheOne-AI/RoboScript": {
+      "star": 401,
+      "created_at": "2026-11-05T12:55:29Z",
+      "id": 1447000083
+    },
+    "lukendeasy/open-diagram": {
+      "star": 405,
+      "created_at": "2026-11-18T17:34:59Z",
+      "id": 1463127932
+    },
+    "kosantosbik/awesome-steam-frame": {
+      "star": 405,
+      "created_at": "2026-09-29T22:30:04Z",
+      "id": 1396663026
+    },
+    "inworld-ai/voice-isolator": {
+      "star": 463,
+      "created_at": "2026-11-16T18:42:11Z",
+      "id": 1460420779
+    },
+    "nonecap/nonecap-py": {
+      "star": 404,
+      "created_at": "2026-06-11T11:04:01Z",
+      "id": 1266143430
+    },
+    "blendgulltomb/unlocktool": {
+      "star": 425,
+      "created_at": "2026-06-26T20:44:18Z",
+      "id": 1281702999
+    },
+    "anbuinfosec/wipwn": {
+      "star": 719,
+      "created_at": "2023-07-06T08:58:59Z",
+      "id": 662961237
+    },
+    "Noteporavage/systemcare-pro": {
+      "star": 413,
+      "created_at": "2026-06-26T20:43:13Z",
+      "id": 1281702378
+    },
+    "chenkezhen480/dsh-world": {
+      "star": 414,
+      "created_at": "2026-10-24T05:53:18Z",
+      "id": 1431862887
+    },
+    "Project-Sunshine-Native/older-cinnamon": {
+      "star": 400,
+      "created_at": "2026-03-20T02:32:28Z",
+      "id": 1186811498
+    },
+    "inotbarnacle/iDriveDeck": {
+      "star": 412,
+      "created_at": "2026-11-07T19:47:28Z",
+      "id": 1449687559
+    },
+    "portbuster1337/ArachneC2": {
+      "star": 481,
+      "created_at": "2026-06-02T14:18:03Z",
+      "id": 1257269578
+    },
+    "lsernau/grh-lean": {
+      "star": 619,
+      "created_at": "2026-11-25T20:42:55Z",
+      "id": 1472319077
+    },
+    "oliverbravery/PrintGuard": {
+      "star": 401,
+      "created_at": "2025-05-10T23:31:02Z",
+      "id": 981359622
+    },
+    "DDDuoDuo/EndfieldHUD": {
+      "star": 407,
+      "created_at": "2026-09-28T14:43:14Z",
+      "id": 1392970805
+    },
+    "Brillianceplispeed/ultra-iso": {
+      "star": 424,
+      "created_at": "2026-06-26T20:44:15Z",
+      "id": 1281702968
+    },
+    "shengjidaguai-china/goutoujunshi-chat": {
+      "star": 409,
+      "created_at": "2026-09-23T09:42:26Z",
+      "id": 1383161277
+    },
+    "Knitbrupattern/sonyvegas": {
+      "star": 414,
+      "created_at": "2026-06-26T20:38:46Z",
+      "id": 1281699570
+    },
+    "Finclimansion/studioonepro7": {
+      "star": 421,
+      "created_at": "2026-06-26T20:43:14Z",
+      "id": 1281702383
+    },
+    "EdgeSongWinch25/touch-copy": {
+      "star": 421,
+      "created_at": "2026-06-26T20:44:02Z",
+      "id": 1281702837
+    },
+    "ajaydubey777/SystemDesignArchitecture": {
+      "star": 401,
+      "created_at": "2020-10-02T05:15:51Z",
+      "id": 300508171
+    },
+    "HexaFuture/HexaShell": {
+      "star": 401,
+      "created_at": "2026-10-09T12:33:05Z",
+      "id": 1411819303
+    },
+    "lemoeo/AX6S": {
+      "star": 400,
+      "created_at": "2022-05-08T07:46:35Z",
+      "id": 489879031
+    },
+    "zhuozhiyongde/PKU-Art": {
+      "star": 400,
+      "created_at": "2021-11-27T12:16:12Z",
+      "id": 432452371
+    },
+    "Seokwoooo/lucian-uxui-prompt": {
+      "star": 402,
+      "created_at": "2026-10-12T09:01:47Z",
+      "id": 1415337709
+    },
+    "brushknight/agents-deck": {
+      "star": 405,
+      "created_at": "2026-10-08T08:52:40Z",
+      "id": 1410020865
+    },
+    "CompanyChancellor/start11": {
+      "star": 416,
+      "created_at": "2026-06-26T20:43:06Z",
+      "id": 1281702317
+    },
+    "gitranks/gitranks-ui": {
+      "star": 441,
+      "created_at": "2025-02-07T20:25:33Z",
+      "id": 929106945
+    },
+    "SerpentSparkStride95/Robrun": {
+      "star": 596,
+      "created_at": "2026-06-26T20:06:43Z",
+      "id": 1281679865
+    },
+    "SulphurS16/Regaliant": {
+      "star": 436,
+      "created_at": "2026-11-23T12:11:38Z",
+      "id": 1468717674
+    },
+    "rupleide/NetFixMobile": {
+      "star": 400,
+      "created_at": "2026-06-25T12:18:39Z",
+      "id": 1280262997
+    },
+    "ve3wwg/stm32f103c8t6": {
+      "star": 400,
+      "created_at": "2017-02-18T18:51:02Z",
+      "id": 82408735
+    },
+    "cs2-dma/CS2-DMA": {
+      "star": 400,
+      "created_at": "2026-09-16T14:50:58Z",
+      "id": 1373192959
+    },
+    "mvt-project/androidqf": {
+      "star": 400,
+      "created_at": "2023-03-06T16:27:07Z",
+      "id": 610369400
+    },
+    "Valour-Software/Valour": {
+      "star": 400,
+      "created_at": "2020-10-16T18:56:46Z",
+      "id": 304714369
+    },
+    "irenerachel/visual-style-ppt-skill": {
+      "star": 400,
+      "created_at": "2026-04-29T13:15:52Z",
+      "id": 1224624630
+    },
+    "om-ai-lab/VLX-Flow": {
+      "star": 403,
+      "created_at": "2026-06-23T02:57:10Z",
+      "id": 1277590623
+    },
+    "QNIX-Dev/eligibility-antigravity-patcher": {
+      "star": 412,
+      "created_at": "2026-06-16T10:47:26Z",
+      "id": 1271110780
+    },
+    "Prideurchopper/tenorshare-4ukey": {
+      "star": 416,
+      "created_at": "2026-06-26T20:43:47Z",
+      "id": 1281702690
+    },
+    "Rushbetweendusk/ultra-edit": {
+      "star": 426,
+      "created_at": "2026-06-26T20:44:12Z",
+      "id": 1281702945
+    },
+    "justoneapi/data-api": {
+      "star": 606,
+      "created_at": "2023-08-03T03:03:40Z",
+      "id": 674048775
+    },
+    "Tongsuo-Project/RustyVault": {
+      "star": 400,
+      "created_at": "2023-07-20T08:02:07Z",
+      "id": 668612064
+    },
+    "spytheeuclidean-a11y/knoxmap": {
+      "star": 400,
+      "created_at": "2026-09-15T18:20:45Z",
+      "id": 1371933737
+    },
+    "coollabsio/openclaw": {
+      "star": 400,
+      "created_at": "2026-01-31T14:06:42Z",
+      "id": 1146684307
+    },
+    "SHI-Yu-Zhe/awesome-agi-cocosci": {
+      "star": 400,
+      "created_at": "2020-09-13T06:52:58Z",
+      "id": 295095715
+    },
+    "ngrok/ngrok-rust": {
+      "star": 400,
+      "created_at": "2022-10-20T14:03:17Z",
+      "id": 554851841
+    },
+    "joycecurcirt539-dot/Mirrly-TG-Proxy": {
+      "star": 400,
+      "created_at": "2026-07-27T01:14:34Z",
+      "id": 1313293961
+    },
+    "project-gemmi/gemmi": {
+      "star": 400,
+      "created_at": "2017-02-02T15:54:15Z",
+      "id": 80740851
+    },
+    "logangoins/Cable": {
+      "star": 400,
+      "created_at": "2024-08-10T19:47:08Z",
+      "id": 840823908
+    },
+    "xing-shuyin/keel": {
+      "star": 401,
+      "created_at": "2026-08-04T01:11:26Z",
+      "id": 1322370305
+    },
+    "nearaura/OnmyojiAutoScript": {
+      "star": 412,
+      "created_at": "2026-11-08T17:16:03Z",
+      "id": 1450492861
+    },
+    "SeizeIndustrialQuest/sylenth-1": {
+      "star": 415,
+      "created_at": "2026-06-26T20:43:20Z",
+      "id": 1281702443
+    },
+    "ECNU/EduWork": {
+      "star": 415,
+      "created_at": "2026-09-14T06:31:04Z",
+      "id": 1369398336
+    },
+    "CabinetmakerUncover/unlockgo": {
+      "star": 426,
+      "created_at": "2026-06-26T20:44:16Z",
+      "id": 1281702981
+    },
+    "bikini/minecraft2shell": {
+      "star": 446,
+      "created_at": "2026-11-22T08:02:45Z",
+      "id": 1467340654
+    },
+    "gwen001/s3-buckets-finder": {
+      "star": 400,
+      "created_at": "2017-04-17T08:16:03Z",
+      "id": 88486958
+    },
+    "grishka/libtgvoip": {
+      "star": 400,
+      "created_at": "2017-02-02T15:27:50Z",
+      "id": 80738369
+    },
+    "bitrise-io/android": {
+      "star": 400,
+      "created_at": "2015-10-05T16:39:58Z",
+      "id": 43698815
+    },
+    "fanzhidongyzby/cit": {
+      "star": 400,
+      "created_at": "2016-08-08T04:44:00Z",
+      "id": 65173191
+    },
+    "Silas-02/antigravity-desktop-cn": {
+      "star": 446,
+      "created_at": "2026-06-23T09:17:30Z",
+      "id": 1277882963
+    },
+    "sunreview/ChatGPT-Plus-Recharge-Guide": {
+      "star": 406,
+      "created_at": "2026-08-08T08:51:50Z",
+      "id": 1327574742
+    },
+    "Nycolazs/ACNHRecomp": {
+      "star": 406,
+      "created_at": "2026-10-21T19:25:48Z",
+      "id": 1428836020
+    },
+    "mikuta0407/win4wine": {
+      "star": 406,
+      "created_at": "2026-10-11T15:56:00Z",
+      "id": 1414510285
+    },
+    "mizorewww/Rayon": {
+      "star": 2425,
+      "created_at": "2022-02-13T15:55:55Z",
+      "desc": "",
+      "language": "Swift",
+      "topics": [],
+      "gh_desc": "yet another SSH machine manager",
+      "id": 458856373
     }
   }
 }
